@@ -8,7 +8,9 @@ Below are a set of high-level principles related to the sharing of data generall
 .	Wherever possible, environmental information should be freely available to all. Generally this benefits the environment by increasing awareness, enabling better decision-making and reducing risk of damage. 
 .	Public release of information can sometimes result in environmental harm. In such cases availability of information may need to be controlled; although the presumption remains in favour of release and any restrictions should be assessed and reviewed  rigorously.
 .	All data regarded as being sensitive should include a date for review of their sensitivity status, along with documented reasons for the sensitivity status. The date for review may be short or long depending on the nature of the sensitivity. 
+
 NOTE: Whenever a data provider receives an application for enhanced access to restricted data they should avoid assuming continued sensitivity and use it as an opportunity to revisit the determination.
+
 .	If the data are to be restricted for distribution, then this should only be done to a copy of the data at the time of their distribution. Data should never be altered, falsified, or deleted from the stored record. 
 .	Documentation is essential for many reasons, and where data have been restricted or generalized it is important that the reason(s) for the categorization is recorded as metadata that remains with the record.
 .	Where data are restricted or generalized for distribution (such as the name of a collector, textual locality information, etc.) this should be documented by replacing with appropriate wording − the field should not be left blank or null.
