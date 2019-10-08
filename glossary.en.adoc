@@ -1,0 +1,13 @@
+[glossary]
+== Glossary
+
+[glossary]
+authentication:: refers to the determination of a user's identity, as well as determining what a user is authorized to access. The most common form of authentication is user-name and password, although this also provides the lowest level of security.
+authorization:: refers to the process of determining which individuals can be afforded different access rights for authentication and data access.
+decimal degrees:: degrees expressed as a single real number (e.g., −22.343456). Note that latitudes south of the equator are negative, as are longitudes west of the prime meridian to -180 degrees.
+generalization:: refers here to any modifications carried out to source data to conceal sensitive content, typically by reducing the precision of the data (such as reporting at the level of a watershed, grid or county, citing just the nearest named place, or by deleting some parts of the data). In geographic terms it refers to the conversion of a geographic representation to one with less resolution and less information content; traditionally associated with a change in scale. Also referred elsewhere to as: fuzzying, dummying-up, etc.
+geographic coordinates:: a measurement of a location on the earth's surface expressed in degrees of latitude and longitude.
+randomization:: refers to a deliberate haphazard arrangement of observations so as to obscure their true location. Randomization leads to a falsification of the data. Also referred to as falsifying.
+record-level metadata:: refers to documentation at the level of a record rather than for a complete dataset. In this document it largely refers to documentation of the sensitivity status of the record (or the species of which it is a part) along with access constraints pertaining to the record and details of any generalization of the data.
+sensitive data:: any data, that because of their nature, a data provider does not want to make available in their raw state, e.g. precise localities of endangered taxa.
+spatial fit:: a measure of how well one geometric representation matches another geometric representation as a ratio of the area of the larger of the two to the area of the smaller one (see Fig. 3) (Chapman and Wieczorek, 2006,  in prep).
