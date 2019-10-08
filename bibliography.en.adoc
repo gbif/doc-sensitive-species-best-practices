@@ -48,4 +48,4 @@
 - Wang Z, Dong H, Kelly M, Macklin JA, Morris PJ, Morris R 2009. Filtered-Push: A Map-Reduce Platform for Collaborative Taxonomic Data Management. World Congress on Computer Science and Information Engineering, March 31 - April 2, 2009, Los Angeles, California, USA. https://doi.org/10.1109/CSIE.2009.948.
 - Wieczorek J, Guo Q & Hijmans R (2004) The point-radius method for georeferencing locality descriptions and calculating associated uncertainty. International Journal of Geographical Information Science 18: 745-767.
 - Wieczorek J, Bloom D, Guralnick R, Blum S, Döring M, Giovanni R, Robertson T & Vieglais D (2012) Darwin Core: An Evolving Community-Developed Biodiversity Data Standard. PLoS ONE 7(1): e29715. https://doi.org/10.1371/journal.pone.0029715
-- Wylie A (1996) Ethical dilemmas in archaeological practice: Looting, repatriation, stewardship, and the (trans) formation of disciplinary identity. Perspectives on Science: Historical Philosophical, Social 4(2): 154–194.
+- Wylie A (1996) Ethical dilemmas in archaeological practice: Looting, repatriation, stewardship, and the (trans) formation of disciplinary identity. Perspectives on Science 4(2): 154–194.
