@@ -6,25 +6,25 @@ endif::backend-html5[]
 == Colophon
 
 === Suggested citation
-Author U, Autore D & Auteur T. The special guide to something. Third edition. GBIF Secretariat: Copenhagen. https://doi.org/10.15468/doc-xxxx-xxxx.
+Chapman AD (2019) Current Best Practices for Generalizing Sensitive Species Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-xxxx-xxxx.
 
 == Contributors
 
 James Joyce and Samuel Beckett of Trinity College, Dublin, contributed to this version of the document.
 
 === Licence
-The document _The special guide to something_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License].
+The document _Current Best Practices for Generalizing Sensitive Species Occurrence Data _ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
 
 === URI persistente
 https://doi.org/10.15468/doc-xxxx-xxxx
 
 === Control de documentos
-Third edition, April 2019
+Published xxxx 2019
 
 // include reference to provenance if possible/relevant
 https://doi.org/10.15468/doc-yyyy-yyyy[Second edition], March 2015, by Due Autore and https://orcid.org/0000-0000-0000-0000[Tercio Auteur].
 
-Originally based on an earlier publication, _Towards establishing the special guide to something_.
+Originally based on an earlier publication, _Guide to Best Practices for Generalizing Sensitive Species Occurrence Data_.
 
 === Cover image
 
