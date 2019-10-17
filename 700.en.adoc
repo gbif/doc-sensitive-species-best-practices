@@ -1,0 +1,81 @@
+== Implementations
+
+Since the publication of the Guide (Chapman and Grafton 2008), several countries, state and local jurisdictions have developed their own sensitive taxa data policies. Jurisdictions often have individual circumstances (legal, ethical, practical, etc.) that may dictate the way their own policies need to be implemented. In developing your own policies, in addition to relying on this document, you may wish to look at those jurisdictional policies. We would caution, however, in diverting too far away from the criteria and principles laid out in this document, due to the complications that may arise in sharing data, especially through aggregating and publishing initiatives such as GBIF. The main purpose of this document is to encourage the adoption and use of standardized methodologies. Most of the jurisdictional documents will, of necessity, go further than this document which is only based around generalization. This document does not go into other aspects such as the privacy of individuals, licensing, etc. Any derived works should be made publicly accessible and clearly lay out the policies with respect to the publication and sharing of data. Where policies differ to those documented here, those differences should be noted along with explanations as to the reasons for differing.
+
+The South African National Biodiversity Institute (SANBI) have listed four types of data on sensitive taxa that may need to be restricted (SANBI 2010), viz.
+*	Data on population sizes or numbers of a sensitive taxon or its populations that might influence the rarity value or commercial value of the taxon;
+*	Data about the habitat and ecosystem of a sensitive taxon that may allow the locality of the taxon to be inferred;
+*	Geo-referenced data about a sensitive taxon (including precise locational data, descriptions of locations and/or localities and point locality coordinates) that may allow populations to be located; 
+*	Records of specimens in collections or observation records (including the name of the collector, the collector specimen number, taxon identity, the locality description, coordinates more precise than a quarter-degree-square, population size, date of collection, collector of the specimen/s, and any habitat information associated with the specimen/s.), that with analysis may allow a population to be located. The record may refer to a single specimen, or a sample, which includes several or many specimens with identical collecting details. All specimen/observation records for a sensitive taxon, no matter when collected, would be equally restricted. 
+
+SANBI have not adopted the categorizations recommended here, adopting just the one level of generalization at what they call QDS (Quarter Degree Square) or about 25 km by 25 km (see discussion in SANBI 2016).
+The Atlas of Living Australia (ALA) has developed a policy that places sensitive taxa into three categories (ALA 2018a), viz; 
+*	conservation, e.g. the locations of threatened species
+*	biosecurity, e.g. unverified sightings of pests not previously recorded in Australia
+*	privacy, e.g. specimens collected on private property, collectors names, etc.
+
+This policy is based on a set of guiding principles (Tann and Flemons 2009), viz;
+*	making scientific data readily accessible
+*	minimising harm by explicitly restricting access to selected sensitive information 
+*	assisting State and federal authorities with their obligations under Freedom of Information
+*	assisting State and federal authorities with Australia’s international trade obligations
+*	assisting with the sharing of data held in trust by a custodian, where there is an agreement or expectation that this data will not be misused
+*	respect for the differences of approach to sensitive data in jurisdictions across Australia
+*	respect for privacy and restrictions to personal information
+
+Unfortunately, to date, each Australian State has different individual policies on what taxa are regarded as sensitive, and on how data on sensitive taxa are shared. Discussion on the development of a national list of sensitive taxa is ongoing, but agreement on a consistent policy for sharing that data still seems to be some way off.
+
+The Australian Department of the Environment (Australian Government 2016) have adopted the levels of generalization as set out in this document and the policy document provides a number of well worked examples. The policy includes some additional guiding principles including:
+*	*be accountable* – the decision to restrict access to data needs to be justifiable, consistent and repeatable and abide by relevant legislation, regulations or policy; 
+*	*decisions made closest to source* – the data custodian should have responsibility for determining whether ecological data should be classified as sensitive; 
+*	*retain the original data* – data custodians must retain an unaltered original version of the ecological data and safeguard this original version;
+*	*transparency* – documentation should be linked to the data and must be available to all users of the data. Documentation ensures potential data users understand what data exists, why it was classed as sensitive and how it has been altered or protected; 
+*	*respect dataset restrictions* – data custodians should not release data that has not been processed in accordance with this policy;
+*	*review over time* – data custodians should do regular reviews (every 2-5 years) on datasets to determine if their context has changed. What is currently considered sensitive data may not be sensitive in the future. 
+
+One principle that is emphasised by the policy is that if data on the identified sensitivities (e.g. location) is already publicly available then it is unlikely that data can be considered sensitive. 
+
+The New South Wales Office of Environment and Heritage (DECCW 2007, OEH 2019a)  notes that “some threatened species are very sensitive to disturbance and exploitation. Information about the location of these species is considered ‘sensitive’ and OEH will not provide it to third parties, with some limited exceptions. Precise locational information about sensitive species is exempt from freedom of information requests”. Their sensitive data policy has three categorised levels; viz.
+
+[quote]
+*Category 1*: Species of high biological significance, for which no records will be provided at all. The reason for non-disclosure is that the species is highly threatened by exploitation/disease or other identifiable threats, and even general locality information may threaten the taxon. The famed Wollemi pine falls into this category.
+*Category 2*: Species considered to be at serious risk from threats such as disturbance or exploitation. For species in this category, geographic coordinates of sightings will be supplied 'denatured', in order to generalise the locality. Exceptions to this rule may be granted to some government agencies, or for certain research purposes.
+*Category 3*: Species considered to be at medium to high risk of threats such as disturbance or exploitation. For species in this category, coordinates will be supplied at 'as held' accuracy to licensed clients, but will otherwise be supplied 'denatured'. 
+
+They include 3 basic categories of ‘denaturing’ (OEH 2011) that are largely consistent with what is recommended here, viz.
+
+Category 1 - 	no records provided
+Category 2 - 	records denatured to 0.1° (~10 km) for public web applications
+		records denatured to 0.01° (~1 km) for provision to licensed clients
+Category 3 - 	records denatured to 0.01° (~10 km) for public web applications
+		records provided ‘as held’ to licensed clients
+
+A list of sensitive species. the category of sensitivity, and the reasons why they are regarded as sensitive is maintained and published on the agency’s web site	(OAH 2019a)
+
+UK National Biodiversity Network (NBN 2019b) uses criteria that allows for different categories of generalization in the different member countries of the UK (i.e. a species can be listed as sensitive in Wales, but not in Scotland). Records are submitted to the NBN Atlas at the best capture resolution. The location of sensitive species are generalized and the generalized data made available to the public under a Creative Commons licence as determined by the data provider. Lists of sensitive taxa (https://docs.nbnatlas.org/sensitive-species-list/), along with the reasons for sensitivity, and the generalization level for each of England, Scotland and Wales is maintained and published. 
+
+Birdlife Australia (Birdata n.dat.) have developed a Sensitive Species policy based on the principles and generalization categories as set out in this and the previous Guide (Chapman and Grafton 2008). They have identified six categories of data where the localities may need to be generalized, viz:
+*	Wildlife poaching and international trade
+*	Legal and illegal hunters including trophy, recreational, commercial and sport hunters
+*	Egg collectors
+*	Illegal capture of wild birds for the cage trade and falconry
+*	Wildlife enthusiasts exhibiting intrusive behaviour, particularly to territorial species
+*	Trespassing/accessing private property or indigenous protected areas without a permit.
+
+The US Forest Service has a policy for sensitive species to ensure viable populations throughout their geographic ranges. Once the objectives are accomplished and viability is no longer a concern, species shall not have “sensitive” status (US Forest Service 2005). Sensitive species are those plant and animal species identified by the Regional Forester for which population viability is a concern on National Forest Service (NFS) lands within the region. The goal of the Forest Service Sensitive Species Program is to ensure that species numbers and population distribution are adequate so that no federal listing will be required and no extirpation will occur on NFS lands (US Forest Service 2016). 
+
+No specific mention is made of different categories, or of generalizing location information for the public. However, according to Hartter et al. (2013) the US Forest Service seeks to protect research sites by not disclosing geospatial references along with its data.
+
+Natural Resources Canada and GeoConnections Canada commissioned a study to develop Best Practices for Sharing Sensitive Environmental Geospatial Data (AMEC Earth and Environmental 2010). The Guidelines consider environmental geospatial data to be “thematic geospatial data that could be used for analysis in areas such as environmental impact assessments, land use planning, land management, sustainable development, resource management, airshed management, etc.” The document lists five criteria for determining sensitivity. The third criterion includes the data considered in this document, viz.
+
+[quote]
+Natural Resource Protection – the use of the information can result in the degradation of an environmentally significant site or resource; 
+
+The document recommends that as Canada is a member of GBIF, Canadian organizations, should incorporate the Guide to Best Practices for Generalizing Sensitive Species Occurrence Data (Chapman and Grafton 2008) when assessing their environmental datasets. Without mentioning specific generalization levels, the document does site the categories of generalization in this and the previous Guide.
+
+Other aggregation agencies, such as iDigBio, have left it to those supplying the data to deal with sensitivity, and have not developed a policy per se.
+
+[quote]
+“iDigBio accepts all Data it receives via the Services as-is. It makes no effort to mask Sensitive Data. The Data Publisher is solely responsible to mask or withhold information, including Sensitive Data, from the public.” (https://www.idigbio.org/content/idigbio-terms-use-policy)
+
+In many cases, decisions on whether to release data to the public is done on a project to project basis. For example, Fong and Qiao (2010) describe a project to map locations of an endangered species of turtle in China and argue that while this location data is valuable to researchers, it should not be made publicly available due to concerns about the safety of the animals. 

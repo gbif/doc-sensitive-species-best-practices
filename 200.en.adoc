@@ -1,0 +1,55 @@
+== Determining Sensitivity
+
+As a first step, information holders need to identify any data which are regarded as ‘sensitive’. Sensitive information is any which if released to the public, would result in an ‘adverse effect’ on the taxon or attribute in question or to a living individual. A number of factors need to be taken into account when determining sensitivity, including the type and level of threat, vulnerability of the taxon or attribute, type of information, and whether it is already publicly available. Determining these factors leads us to a criteria-based approach.
+
+Information cannot be considered sensitive if it is readily available through other sources or if it is not unique. This principle has been identified in a number of sensitive data policies (AMEC Earth and Environmental 2010, Australian Government 2016).
+
+It would appear that herbaria are more inclined to restrict their data than mammal or insect collections (Chapman 2006). Perhaps this is because plants don’t move and the exact location of a collection is likely to lead one to an actual plant on the ground, whereas mammals and insects tend to move around. One entomologist commented that professional collectors and amateur groups often know more than the scientists about the location of rare species. However there are categories of animals where the exact locations were thought to be sensitive and included bat roosting and maternity sites, nesting sites of falcons, and the location of various lizards, tortoise, butterfly species and large mammals. With plants, there is also a strong leaning towards not making information available for plants likely to be collected (pirated) such as cacti in Arizona, orchids and cycads. The protection of sensitive fossil sites was also identified. One unfortunate aspect is the susceptibility of a small number of taxa in a group (such as a few charismatic cacti, or orchids, etc.) can often mean that all taxa in that group are then regarded as sensitive and the data on them restricted, even though many of those taxa are not themselves sensitive or susceptible to harmful acts.
+
+On the other hand, some institutions have found benefit in working with the general public to gather information and to protect rare taxa, using the public and special interest groups to survey existing locations and to help locate new locations. There are good examples with birds, lizards, frogs, butterflies and various plant species (including orchids) in a number of countries. Several people have raised the issue of the balance between protecting taxa through knowledge of where they occur as opposed to protection through restricting knowledge of their occurrence at a location. This is very taxon (and maybe region) specific and certain taxa may be in greater danger due to inadvertent destruction through lack of knowledge than through deliberate collection and destruction through knowledge of locations. For this reason, a list of sensitive taxa should be quite different to a list of rare or threatened taxa, although there is likely to be considerable overlap between the two. It should be noted, also, that what is sensitive today, may not be sensitive tomorrow and vice versa and this should lead to review on a periodic basis to determine whether the context has changed over time (AMEC Earth and Environmental 2010).
+
+As noted in an article in Science (Stuart et al. 2006), three newly discovered amphibian and reptile species rapidly appeared in commercial trade shortly after their descriptions in the scientific literature. This is an issue of concern to biologists and especially to taxonomists (Guteman 2006) – how much information should be released in publication when describing a new taxon. There are a number of examples in coral-reef fish where a new species has appeared in the commercial trade soon after it is scientifically described (pers comm. Richard Pyle 2006 - see Fig. 1).
+
+\\ insert fig.1 \\
+
+=== Criteria for Determining Sensitivity 
+
+The National Biodiversity Network (NBN) in the UK (Countryside Agencies OIN 2007), and the Department of Environment and Conservation in New South Wales, Australia (Department of Environment and Conservation 2007) developed detailed sensitivity criteria, and the previous version of this publication (Chapman and Oliver 2008) relied heavily on the work of those two agencies. Since the publication of the Guide (Chapman and Grafton 2008) both these agencies (DECCW 2009, NBN 2019a,b, OEH 2019a) as well as the South African National Biodiversity Institute (SANBI 2010, 2016), the Atlas of Living Australia (ALA 2018a) and others have given a lot of thought to criteria for determining sensitivity within their jurisdictions. Documentation from all of them have contributed greatly to this document.
+
+A series of criteria for determining the sensitivity of taxa and data along with recommended metadata statements for documenting the reasons for the determination are set out in Table 1.  The first two are for use by biodiversity data holders and those creating trigger lists of potentially sensitive taxa and refer largely to the taxa themselves. The last two are for use by biodiversity data holders and deal with an assessment of the data they hold and are considering making available – they are not suitable for the creation of trigger lists.
+
+The criteria are used to determine:
+
+\\ insert table 1\\
+
+A set of scenarios using Criteria 1 and 2 (Table 1) for determining triggers for sensitivity of taxa is attached as an Annex to this document <<Annex 1: Scenarios using Criteria 1 and 2 as Triggers>>.
+
+The first step in the process of determining sensitivity is to make an assessment on whether or not the taxon is subject to a harmful human activity or not and if the availability of related biodiversity data will increase the likelihood of the harmful activity occurring. 
+
+If it is not then there would appear no reason to list it as a potential environmentally sensitive taxon. It is recommended that you use the documented wording supplied but with additional supporting rational documenting the specifics of the threat, for example: 
+
+“The taxon is at risk from harmful human activity –it is subject to attack by Phytophthora which is transported by human operated vehicles.”
+
+\\ insert table 2\\
+
+The next step is to determine if the taxon is sensitive to that human harm or whether they are suitably robust not to be adversely affected.
+
+\\ insert table 3\\
+
+Once it has been decided that the taxon is subject to a significant risk and impact from harm or not, then a decision needs to be taken on whether the release of specific data on that taxon – or other related data – will increase the risk and impact of harm.
+
+\\ insert table 4\\
+
+The final step is to make an overall assessment based on the three criteria above and to document the overall decision using the combined information documented in making each of the earlier decisions. Once it has been determined that the data should or should not be released, then it is important that a decision is made on the Category of Sensitivity, and the level of generalization for the release of the data.
+
+\\ insert table 5\\
+
+In the online survey (Chapman 2006), a number of respondents identified data awaiting publication, data subject to ongoing research, and incomplete or unchecked data as data that they would class as sensitive, and thus subject to restrictions on release.  These are data whose sensitivity has a short time frame and it is important that a time for release or review be clearly documented. They would most likely fall under criterion 3.3 above and would be documented accordingly with the supporting rationale being “awaiting publication”, etc.
+
+NOTE: All data regarded as being sensitive should include a date for review of their sensitivity status, along with documented reasons for the sensitivity status. The date for review may be short or long depending on the nature of the sensitivity.
+
+The Categories of Sensitivity (below) are largely based on those from the NSW Office of Environment and Heritage (DECCW 2009).
+
+=== Categories of Sensitivity
+
+\\ insert table 6\\

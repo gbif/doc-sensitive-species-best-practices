@@ -1,19 +1,5 @@
 == Acknowledgements
 
-This formal statement recognizes individuals and institutions that made direct contributions to your work. This is a simple statement of gratitude, not dedication or very emotional testimonial. The people and institutions you should consider listing include:
+The earlier document (Chapman and Grafton 2008) acknowledged the many people who responded to the initial survey and who attended the workshops and who were valuable in the preparation of that document. 
 
-* Those who provided guidance
-* Those who shared unpublished (and therefore uncitable) work
-* Those who provided you with facilities or equipment
-* Those who participated in discussions
-* Technicians, lab assistants, students and interns
-* Host or hosting institions and funding agencies (with grant number, if required)
-
-You may also wish to acknowledge the non-techincal contributions of:
-
-* Graphic designers
-* Photographers
-* Those who provided emotional support
-* Others whose support was non-technical
-
-When naming individuals whose contribution you intend to acknowledge, use only their names without titles. For example write only Aldo Leopold, instead Aldo Leopold, Professor of Game Management, Agricultural Economics Department, University of Wisconsin.
+In addition, I would now like to thank John Wieczorek and Paula Zermoglio, for the on-going support and advice, as well as staff at the GBIF Secretariat, especially Laura Russell and Kyle Copas who oversaw the project.

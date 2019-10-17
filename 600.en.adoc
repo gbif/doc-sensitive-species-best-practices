@@ -1,0 +1,9 @@
+== Authentication and Authorization
+
+As recommended by the experts’ workshop, and identified by many in the online survey (Chapman 2006), responsibility for determining who may or may not have access to detailed data on sensitive data, possibly through the use of secure log-on, or one-off data license agreements, must be with the data providers.
+
+It was also agreed at the workshop that it is not the role of GBIF to manage the identification, verification or authorization of users, nor to control authentication or log-on at the Data Portal, but it may have a role in providing guidance and a suitable authentication method to the Nodes. 
+
+It was reported at the experts’ workshop that the technical issues relating to the authentication of a group or individual, and the use of roles, etc. is not a difficult task. There are several well established protocols and working systems for authentication in use and these could easily be adapted for use by data providers.
+
+The main issue is in determining who the authorized users should be and how to determine who are bona-fide users and who are not. This is a difficult issue and one that will need to be explored over time. It is not something that can be recommended in this best practices document; however the earlier report (Chapman 2007) did make a number of recommendations on how this issue may be further explored.

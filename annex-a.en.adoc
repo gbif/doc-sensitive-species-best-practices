@@ -1,0 +1,10 @@
+== Annex 1: Scenarios using Criteria 1 and 2 as Triggers
+
+The following sets of scenarios show how the criteria statements given in the Chapter on <<Determining Sensitivity>> may be used to develop summary statements for documenting the reasons why a taxon may be regarded as sensitive. The summary statement (in the white boxes), should also include supporting rationale, such as specific types of harm, etc.  For example in the second scenario (B) – the full statement may read something like:
+
+[quote]
+*Taxa could be at risk from harm from disease carried on the wheels of forestry machinery but occurrence is not affected by data availability.*
+
+This may apply to a species of plant in a forestry area susceptible to Phytophthora attack, the fungi being transferred on the wheels of forestry vehicles.
+
+\\ insert criteria key \\

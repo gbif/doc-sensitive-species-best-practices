@@ -1,15 +1,10 @@
-= GBIF Document Template
-Kyle Copas <communication@gbif.org> & Matthew Blissett
-:toc: left
-:toclevels: 3
-:numbered:
-:revnumber: {git-metadata-sha-short}
+= Current Best Practices for Generalizing Sensitive Species Occurrence Data
+
+Arthur D. Chapman
+:revnumber: {git-metadata-branch}
 :revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
 :title-logo-image: img/web/photo.jpg
-:icons: font
-:pagenums:
-:license: https://creativecommons.org/licenses/by/4.0/
-:xrefstyle: short
+:license: https://creativecommons.org/licenses/by-sa/4.0/
 
 ifdef::backend-html5[]
 _languageLinks:pdf[This document is also available in,PDF format]languageLinks:languages[and in other languages:,]._
@@ -19,14 +14,32 @@ endif::backend-html5[]
 
 include::colophon.en.adoc[]
 
-include::preface.en.adoc[]
+include::introduction.en.adoc[]
+
+include::acknowledgements.en.adoc[]
 
 :sectnums:
 
-include::ch01.en.adoc[]
+include::100.en.adoc[]
 
-include::ch02.en.adoc[]
+include::200.en.adoc[]
 
-include::afterword.en.adoc[]
+include::300.en.adoc[]
 
-include::appa.en.adoc[]
+include::400.en.adoc[]
+
+include::500.en.adoc[]
+
+include::600.en.adoc[]
+
+include::700.en.adoc[]
+
+:sectnums!:
+
+include::annex-a.en.adoc[]
+
+include::bibliography.en.adoc[]
+
+include::glossary.en.adoc[]
+
+\\insert index\\
