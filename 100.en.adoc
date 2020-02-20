@@ -1,4 +1,4 @@
-# Principles
+== Principles
 
 NOTE: Biodiversity information should be made freely available to be shared globally to enable their use for not-for-profit decision making, education, research and other public benefit purposes. Making the full detail of biodiversity information available should reduce the risk of damage to the environment and help safeguard a sustainable future. Where release will have the opposite effect, access to the full detail may need to be controlled.
 
