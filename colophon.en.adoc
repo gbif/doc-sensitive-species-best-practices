@@ -6,7 +6,7 @@ endif::backend-html5[]
 == Colophon
 
 === Suggested citation
-Chapman AD (2019) Current Best Practices for Generalizing Sensitive Species Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-xxxx-xxxx.
+Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10.
 
 == Contributors
 
@@ -16,10 +16,10 @@ James Joyce and Samuel Beckett of Trinity College, Dublin, contributed to this v
 The document _Current Best Practices for Generalizing Sensitive Species Occurrence Data _ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
 
 === URI persistente
-https://doi.org/10.15468/doc-xxxx-xxxx
+https://doi.org/10.15468/doc-5jp4-5g10
 
 === Control de documentos
-Published xxxx 2019
+Published for peer review, March 2020
 
 // include reference to provenance if possible/relevant
 https://doi.org/10.15468/doc-yyyy-yyyy[Second edition], March 2015, by Due Autore and https://orcid.org/0000-0000-0000-0000[Tercio Auteur].
