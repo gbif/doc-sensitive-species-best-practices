@@ -8,23 +8,16 @@ endif::backend-html5[]
 === Suggested citation
 Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10.
 
-== Contributors
-
-James Joyce and Samuel Beckett of Trinity College, Dublin, contributed to this version of the document.
-
 === Licence
 The document _Current Best Practices for Generalizing Sensitive Species Occurrence Data _ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
 
-=== URI persistente
+=== Persistent URI
 https://doi.org/10.15468/doc-5jp4-5g10
 
-=== Control de documentos
-Published for peer review, March 2020
+=== Document control
+Published for community peer review, March 2020
 
-// include reference to provenance if possible/relevant
-https://doi.org/10.15468/doc-yyyy-yyyy[Second edition], March 2015, by Due Autore and https://orcid.org/0000-0000-0000-0000[Tercio Auteur].
-
-Originally based on an earlier publication, _Guide to Best Practices for Generalizing Sensitive Species Occurrence Data_.
+Originally based on an earlier publication by https://orcid.org/0000-0003-1700-6962[Chapman AD] & Grafton O (2008) Guide to Best Practices for Generalising Sensitive Species-Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-xxxx-xxxx. 
 
 === Cover image
 
