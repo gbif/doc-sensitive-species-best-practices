@@ -1,10 +1,13 @@
 = Current Best Practices for Generalizing Sensitive Species Occurrence Data
-
 Arthur D. Chapman
+:toc: left
+:toclevels: 3
+:numbered:
 :revnumber: {git-metadata-branch}
 :revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
 :title-logo-image: img/web/photo.jpg
 :license: https://creativecommons.org/licenses/by-sa/4.0/
+:xrefstyle: short
 
 ifdef::backend-html5[]
 _languageLinks:pdf[This document is also available in,PDF format]languageLinks:languages[and in other languages:,]._
