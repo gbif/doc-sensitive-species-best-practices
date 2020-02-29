@@ -1,7 +1,7 @@
 [bibliography]
 == References
 
-- [[[ALA18a,ALA (2018)]]] What is Sensitive Data? Atlas of Living Australia. https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-
+- [[ALA18a,ALA (2018)]] What is Sensitive Data? Atlas of Living Australia. https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-
 - [[[ALA18b]]] ALA (2018) What is data licensing? Atlas of Living Australia. https://support.ala.org.au/support/solutions/articles/6000195495-what-is-data-licensing-
 - [[[AMEC,AMEC Earth & Environmental (2010)]]] Best practices for sharing sensitive environmental geospatial data. Version 1.0 http://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf
 - Australian Bureau of Statistics (2006) Statistical Local Area (SLA) in 2901.0 - Census Dictionary, 2006 (Reissue). https://www.abs.gov.au/AUSSTATS/abs@.nsf/bb8db737e2af84b8ca2571780015701e/23d04985e1786824ca25720b0002bb18!OpenDocument
@@ -9,8 +9,8 @@
 - Birdata n.dat. Sensitive Species. Birdlife Australia  https://birdata.birdlife.org.au/sensitive-species [Accessed 29 May 2019].
 - Chapman AD (2006) Questionnaire on Dealing with Sensitive Primary Species Occurrence Data − Summary of responses. Copenhagen: GBIF Secretariat. https://www.researchgate.net/publication/334331343_Questionnaire_on_Dealing_with_Sensitive_Primary_Species_Occurrence_Data_-_Summary_of_Reponses. [Accessed 10 Jul. 2006].
 - Chapman AD (2007) Dealing with Sensitive Primary Species Occurrence Data. Report. Report to the Global Biodiversity Information Facility. Copenhagen: GBIF Secretariat. https://www.researchgate.net/publication/333161661_Dealing_with_Sensitive_Primary_Species_Occurrence_Data_Report
-- Chapman AD & Grafton O (2008) Guide to Best Practices for Generalizing Sensitive Species Occurrence Data, version 1.0. Copenhagen: GBIF Secretariat. https://www.gbif.org/document/80512
-- Chapman AD & Wieczorek J, eds. (2006) Guide to Best Practices for Georeferencing. Copenhagen: GBIF Secretariat. https://www.gbif.org/document/80536
+- Chapman AD & Grafton O (2008) Guide to Best Practices for Generalizing Sensitive Species Occurrence Data, version 1.0. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-b02j-gt10
+- Chapman AD & Wieczorek J, eds. (2006) Guide to Best Practices for Georeferencing. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-2zpf-zf42
 - Chapman AD & Wieczorek J in prep. Georeferencing Best Practices. Copenhagen: Global Biodiversity Information Facility
 - Corti L, Day A, & Backhouse G (2000). Confidentiality and informed consent: Issues for consideration in the preservation of and provision of access to qualitative data archives. In Forum Qualitative Sozialforschung/Forum: Qualitative Social Research (Vol. 1). http://www.qualitative-research.net/index.php/fqs/article/viewArticle/1024 [Accessed15 May 2019].
 - Countryside Agencies’ OIN (2007) The ‘Environmental Exception’ and access to information on sensitive features. Version 1.3.3, Countryside Agencies’ Open Information Network Environmental Information Regulations Guidance Note No. 1.
