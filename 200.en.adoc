@@ -42,29 +42,29 @@ The taxon is at risk from harmful human activity—it is subject to attack by Ph
 [caption="Table 2. "]
 .*Risk of harm*: Assessing if the taxon is subject to a harmful human activity
 |===
-.2+| 1.1.	Is the taxon subject to a harmful human activity?	
-| Yes: Document using <<statement-1a,statement 1a>> with supporting rationale. <<Go to 1.2>>
-| No: Document using <<statement-1b,statement 1b>> [Taxon is not sensitive] <<Go to 3>>
+.2+|1.1. Is the taxon subject to a harmful human activity?	
+|Yes: Document using <<statement-1a,statement 1a>> with supporting rationale. <<Go to 1.2>>
+|No: Document using <<statement-1b,statement 1b>> [Taxon is not sensitive] <<Go to 3>>
 
-.2+| 1.2.	Is there established evidence of current or recent occurrences of the harmful human activity?
-| Yes: Document using <<statement-1c,statement 1c>> with supporting rationale. <<Go to 1.3>> 
-|	No:	Document using <<statement-1d,statement 1d>> with supporting rationale. <<Go to 1.3>>
+.2+|1.2. Is there established evidence of current or recent occurrences of the harmful human activity?
+|Yes: Document using <<statement-1c,statement 1c>> with supporting rationale. <<Go to 1.3>> 
+|No:	Document using <<statement-1d,statement 1d>> with supporting rationale. <<Go to 1.3>>
 
-.2+| 1.1.	Will availability of related biodiversity data increase the likelihood of the harmful human activity taking place?
-| Yes: Document using <<statement-1e,statement 1e>> with supporting rationale. <<Go to 2>> 
-| No: Document using <<statement-1f,statement 1f>> with supporting rationale. <<Go to 2>>
+.2+|1.3. Will availability of related biodiversity data increase the likelihood of the harmful human activity taking place?
+|Yes: Document using <<statement-1e,statement 1e>> with supporting rationale. <<Go to 2>> 
+|No: Document using <<statement-1f,statement 1f>> with supporting rationale. <<Go to 2>>
 
-2+| [[statement-1a,1a]]: The taxon is at risk from a harmful human activity.
+2+|[[statement-1a,1a]]: The taxon is at risk from a harmful human activity.
 
-2+| [[statement-1b,1b]]: There is no significant risk of a harmful human activity.
+2+|[[statement-1b,1b]]: There is no significant risk of a harmful human activity.
 
-2+| [[statement-1c,1c]]: There is established evidence of actual or recent harm to the taxon
+2+|[[statement-1c,1c]]: There is established evidence of actual or recent harm to the taxon
 
-2+| [[statement-1d,1d]]: There is currently no established evidence of actual harm to the taxon.
+2+|[[statement-1d,1d]]: There is currently no established evidence of actual harm to the taxon.
 
-2+| [[statement-1e,1e]]: Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.
+2+|[[statement-1e,1e]]: Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.
 
-2+| [[statement-1f,1f]]: Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place.
+2+|[[statement-1f,1f]]: Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place.
 
 The next step is to determine if the taxon is sensitive to that human harm or whether they are suitably robust not to be adversely affected.
 
