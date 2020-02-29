@@ -21,13 +21,13 @@ A series of criteria for determining the sensitivity of taxa and data along with
 
 The criteria are used to determine:
 
-[caption="Table <n>. "]
+[caption="Table 1. "]
 .Criteria for determining the sensitivity of taxa and data along with recommended metadata statements for documenting the reasons for the determination
 |===
-| . *Risk of harm* | An assessment of whether the taxon is subject to harmful human activity.
-| . *Impact of harm* | An assessment of the sensitivity of the taxon to the harmful human activity.
-| . *Sensitivity of data* | An assessment on whether the release of data will increase harm.
-| . *Decision on release and category of sensitivity* | A balanced decision regarding the release of the data and a determination of the category of sensitivity, and thus the level of generalization, of the data for release.
+| 1. *Risk of harm* | An assessment of whether the taxon is subject to harmful human activity.
+| 2. *Impact of harm* | An assessment of the sensitivity of the taxon to the harmful human activity.
+| 3. *Sensitivity of data* | An assessment on whether the release of data will increase harm.
+| 4. *Decision on release and category of sensitivity* | A balanced decision regarding the release of the data and a determination of the category of sensitivity, and thus the level of generalization, of the data for release.
 |===
 
 A set of scenarios using Criteria 1 and 2 (<<Table 1>>) for determining triggers for sensitivity of taxa is attached as an Annex to this document <<Annex 1: Scenarios using Criteria 1 and 2 as Triggers>>.
@@ -39,9 +39,10 @@ If it is not then there would appear no reason to list it as a potential environ
 [quote]
 The taxon is at risk from harmful human activity—it is subject to attack by Phytophthora which is transported by human operated vehicles.
 
-[caption="Table 2. "]
+[caption="Table 2a. "]
 .*Risk of harm*: Assessing if the taxon is subject to a harmful human activity
 |===
+
 .2+|1.1. Is the taxon subject to a harmful human activity?	
 |Yes: Document using <<statement-1a,statement 1a>> with supporting rationale. <<Go to 1.2>>
 |No: Document using <<statement-1b,statement 1b>> [Taxon is not sensitive] <<Go to 3>>
@@ -54,17 +55,15 @@ The taxon is at risk from harmful human activity—it is subject to attack by Ph
 |Yes: Document using <<statement-1e,statement 1e>> with supporting rationale. <<Go to 2>> 
 |No: Document using <<statement-1f,statement 1f>> with supporting rationale. <<Go to 2>>
 
-2+|[[statement-1a,1a]]: The taxon is at risk from a harmful human activity.
+|===
 
-2+|[[statement-1b,1b]]: There is no significant risk of a harmful human activity.
-
-2+|[[statement-1c,1c]]: There is established evidence of actual or recent harm to the taxon
-
-2+|[[statement-1d,1d]]: There is currently no established evidence of actual harm to the taxon.
-
-2+|[[statement-1e,1e]]: Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.
-
-2+|[[statement-1f,1f]]: Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place.
+Risk of harm statements
+* [[statement-1a,1a]]: The taxon is at risk from a harmful human activity.
+* [[statement-1b,1b]]: There is no significant risk of a harmful human activity.
+* [[statement-1c,1c]]: There is established evidence of actual or recent harm to the taxon
+* [[statement-1d,1d]]: There is currently no established evidence of actual harm to the taxon.
+* [[statement-1e,1e]]: Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.
+* [[statement-1f,1f]]: Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place.
 
 The next step is to determine if the taxon is sensitive to that human harm or whether they are suitably robust not to be adversely affected.
 
