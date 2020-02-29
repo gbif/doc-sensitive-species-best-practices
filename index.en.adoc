@@ -19,8 +19,6 @@ include::colophon.en.adoc[]
 
 include::introduction.en.adoc[]
 
-include::acknowledgements.en.adoc[]
-
 :sectnums:
 
 include::100.en.adoc[]
@@ -39,10 +37,12 @@ include::700.en.adoc[]
 
 :sectnums!:
 
-include::annex-a.en.adoc[]
+include::glossary.en.adoc[]
+
+include::acknowledgements.en.adoc[]
 
 include::bibliography.en.adoc[]
 
-include::glossary.en.adoc[]
+include::annex-a.en.adoc[]
 
 \\insert index\\
