@@ -28,7 +28,8 @@ The first step in the process of determining sensitivity is to make an assessmen
 
 If it is not then there would appear no reason to list it as a potential environmentally sensitive taxon. It is recommended that you use the documented wording supplied but with additional supporting rational documenting the specifics of the threat, for example: 
 
-“The taxon is at risk from harmful human activity –it is subject to attack by Phytophthora which is transported by human operated vehicles.”
+[quote]
+The taxon is at risk from harmful human activity –it is subject to attack by Phytophthora which is transported by human operated vehicles.”
 
 \\ insert table 2\\
 
