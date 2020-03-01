@@ -87,7 +87,7 @@ The Categories of Sensitivity (below) are largely based on those from the NSW Of
 === Categories of Sensitivity
 
 [caption="Table 6. "]
-. Categories of sensitivity
+.Categories of sensitivity
 |===
 | Criterion	| Reasoning
 | *Category 1*<br />Species or records for which no records will be provided at all, or which are only released as present within a large region such as a county, watershed, etc. | The reason for non-disclosure is that:<br />  1. a distinctive species of high biological significance is under high threat from exploitation/ disease or other identifiable threat where even general locality information may threaten the taxon. <br />. 2. the information in the record is of such a nature that its release could cause irreparable harm to the environment, to an individual or to some other feature.<br />Data may only be supplied under strict License conditions or as presence in a large region such as a watershed, county, or biogeographic region.
