@@ -21,5 +21,4 @@ Originally based on an earlier publication by https://orcid.org/0000-0003-1700-6
 
 === Cover image
 
-// Caption. Credit, source, licence.
-Western honey bee (_Apis mellifera_), Hardy County, Florida, United States. Photo 2018 thebugroomno2 via https://www.gbif.org/occurrence/1945467387[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0].
+Beneath the surface, Wollemi National Park, Australia. Photo 2015 Vern via https://flic.kr/p/qUBMMr[Flickr], licensed under http://creativecommons.org/licenses/by-nc-nd/2.0/[CC BY-NC-ND 2.0].
