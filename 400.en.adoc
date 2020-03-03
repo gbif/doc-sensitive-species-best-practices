@@ -48,8 +48,8 @@ The method recommended below allows for several levels of <<generalization>> tha
 
 The recommended method for generalization is:
 
-Table 7. 
-Method of generalizing geographic coordinates.
+[caption="Table 7. "]
+.Method of generalizing geographic coordinates.
 |===
 | Category | Sensitivity | Georeference
 | *Category 1* | Extreme | Geographic coordinates not released or data may be released by watershed/ bioregion/ county, rounded to 1 degree, etc. 
