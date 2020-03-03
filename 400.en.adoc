@@ -42,29 +42,37 @@ If georeferences are given for data that are generalized to a biogeographic or p
 
 Good practice dictates that whatever you do to generalize the data that you document it so that users of the data know what reliance they can place in them.
 
-I recommend that data providers who are generalizing their data do so using a standard methodology (see below), and to document this accordingly. As most biodiversity data are currently made available using decimal degrees (<<Chapman and Wieczorek in prep>>), the recommended method means that protocols such as Darwin Core (<<Wieczorek et al. 2012>>) do not need modification, other than to allow for suitable metadata documentation.
+I recommend that data providers who are generalizing their data do so using a standard methodology (see below), and to document this accordingly. As most biodiversity data are currently made available using <<decimal-degrees,decimal degrees>> (<<Chapman and Wieczorek in prep>>), the recommended method means that protocols such as Darwin Core (<<Wieczorek et al. 2012>>) do not need modification, other than to allow for suitable metadata documentation.
 
-The method recommended below allows for several levels of generalization that conform to Categories 1-4 described in the earlier Chapter on <<Determining Sensitivity>>.
+The method recommended below allows for several levels of <<generalization>> that conform to Categories 1-4 described in the earlier Chapter on <<Determining Sensitivity>>.
 
 The recommended method for generalization is:
 
-\\ insert Table 7 \\
+Table 7. 
 Method of generalizing geographic coordinates.
+|===
+| Category | Sensitivity | Georeference
+| *Category 1* | Extreme | Geographic coordinates not released or data may be released by watershed/ bioregion/ county, rounded to 1 degree, etc. 
+| *Category 2* |High | Geographic coordinates rounded to 0.1 degree
+| *Category 3* | Medium | Geographic coordinates rounded to 0.01 degree
+| *Category 4* | Low | Geographic coordinates rounded to 0.001 degree
+| *Not sensitive* | Not sensitive | Geographic coordinates unrestricted.
+|===
 
 The South African National Biodiversity Institute, in largely implementing the criteria as laid out in the previous document (<<Chapman and Oliver 2008>>), have implemented only two categories (<<SANBI 2010>>, <<2016>>) - the original, non-generalized data, and data generalized to one-quarter of a degree (0.25 degree (QDS)). We believe that this is a more difficult generalization to implement, and unless fully and clearly documented, could lead to a misleading level of precision. It also reduces the flexibility provided by the above four-categorization method.
 
 === Documentation
 
-It is important to document the method and level of generalization so that users are aware of what has been done to the data, and what reliability they may be able to place in the data.  Currently, neither https://www.tdwg.org/standards/dwc/[Darwin Core] nor the https://www.tdwg.org/standards/abcd/[ABCD] protocols provide fields for the recommended metadata.  It has been proposed that these protocols be modified to accept such metadata (see <<Documentation and Metadata>>), but in the meantime, it is recommended that the information be recorded in Comments fields.
+It is important to document the method and level of <<generalization>> so that users are aware of what has been done to the data, and what reliability they may be able to place in the data.  Currently, neither https://www.tdwg.org/standards/dwc/[Darwin Core] nor the https://www.tdwg.org/standards/abcd/[ABCD] protocols provide fields for the recommended metadata.  It has been proposed that these protocols be modified to accept such metadata (see <<Documentation and Metadata>>), but in the meantime, it is recommended that the information be recorded in Comments fields.
 
-As far as the generalization of georeferencing data is concerned it is important to record that the data has been generalized using a ‘decimal geographic grid’, and record both:
+As far as the <<generalization>> of georeferencing data is concerned it is important to record that the data has been generalized using a ‘decimal geographic grid’, and record both:
 *	Precision of the data provided (e.g. 0.1 degree; 0.001 degree, etc.)
 *	Precision of the data stored or held (e.g. 0.0001 degree, 0.1 minute, 1 second, 100m square, etc.) 
 
-The recommendations for metadata for inclusion in the Darwin Core Location Class (<<TDWG 2018>>) are set out in the next Chapter on <<Documentation and Metadata>>. Once they (or similar) have been adopted, then it is recommended that the appropriate fields be recorded and distributed with the data. 
+The recommendations for metadata for inclusion in the <<darwin-core-location-class,Darwin Core Location Class>> (<<TDWG 2018>>) are set out in the next Chapter on <<Documentation and Metadata>>. Once they (or similar) have been adopted, then it is recommended that the appropriate fields be recorded and distributed with the data. 
 
 === Duplicates and GUIDS
 
-In plants, especially, (but also with other taxa such as insects) many collections are carried out in bulk and ‘duplicates’ (or parts of sets) are sent to many institutions around the world. This is usually in the order of 4-6, but examples of more than 80 have been cited (pers. comm. Paul Morris, Apr 2007). The problem that arises is that the originating institution loses control of what may happen to the information (including locality information) that may be distributed with those collections from those secondary institutions - remembering that the duplicates may have been distributed prior to the taxon being identified as sensitive. In most cases this is not a problem, but with sensitive taxa, it often is. The secondary institution may not know what are regarded as ‘sensitive taxa’ in the jurisdiction of the originating institution, or may not have flagged that information. Sensitivity is not always information that can be distributed along with the collections, as it may not be known until much later that the species is endangered, and/or sensitive. This is a difficult issue, as just labeling a taxon as sensitive may not be the answer as a taxon that may be endangered in its native area (and thus sensitive), may be a weed or pest in other areas and locality information may be important for its control.
+In plants, especially, (but also with other taxa such as insects) many collections are carried out in bulk and ‘duplicates’ (or parts of sets) are sent to many institutions around the world. This is usually in the order of 4-6, but examples of more than 80 have been cited (<<pers. comm. Paul Morris, Apr 2007>>). The problem that arises is that the originating institution loses control of what may happen to the information (including locality information) that may be distributed with those collections from those secondary institutions - remembering that the duplicates may have been distributed prior to the taxon being identified as sensitive. In most cases this is not a problem, but with sensitive taxa, it often is. The secondary institution may not know what are regarded as ‘sensitive taxa’ in the jurisdiction of the originating institution, or may not have flagged that information. Sensitivity is not always information that can be distributed along with the collections, as it may not be known until much later that the species is endangered, and/or sensitive. This is a difficult issue, as just labeling a taxon as sensitive may not be the answer as a taxon that may be endangered in its native area (and thus sensitive), may be a weed or pest in other areas and locality information may be important for its control.
 
-Perhaps the only real way of handling this is via the use of unique, persistent and resolvable Globally Unique Identifiers (GUIDs) (<<Page 2009>>, <<Richards 2010>>, <<Richards et al. 2011>>). The originating institution could (automatically) notify collections holding duplicates of any change in the status of the taxon using something like Filtered-Push technologies (<<Wang et al. 2009>>), thus allowing for flagging in those institutions. Unfortunately, the implementation of specimen-level GUIDs still seems some way off,  however, a recent paper by <<Nelson et al. (2018)>> makes a number of recommendations on minting, managing and sharing GUIDs for herbarium specimens. 
+Perhaps the only real way of handling this is via the use of unique, persistent and resolvable <<GUID,Globally Unique Identifiers>> (GUIDs) (<<Page 2009>>, <<Richards 2010>>, <<Richards et al. 2011>>). The originating institution could (automatically) notify collections holding duplicates of any change in the status of the taxon using something like Filtered-Push technologies (<<Wang et al. 2009>>), thus allowing for flagging in those institutions. Unfortunately, the implementation of specimen-level GUIDs still seems some way off,  however, a recent paper by <<Nelson et al. (2018)>> makes a number of recommendations on minting, managing and sharing <<GUIDs>> for herbarium specimens. 
