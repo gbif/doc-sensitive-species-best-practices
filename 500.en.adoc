@@ -1,20 +1,42 @@
 == Documentation and Metadata
 
-It is important that data be accurately documented so that users and others know exactly what the data represent, and the reliance that can be placed in them. For example, a user needs the information to determine if the data are suitable for the analysis they are about to run. Many data providers reported in the survey (Chapman 2006) that one reason that they were reluctant to release some of their data was a fear that the data would be misused. If the data aren’t adequately documented, then the likelihood of inadvertent mis-use is greatly increased as the user may use the data in an analysis mistakenly thinking they are getting accurate point records, when in reality, the data had been generalized to a 10 km grid square, and could be anywhere in a 100 square kilometre area. If running a climate modelling algorithm, for example, then this sort of error could result in a quite misleading result. For this reason alone, it is important to data providers, data users, and end users (such as environmental managers, policy makers, etc.) that the data are accurately described. 
+It is important that data be accurately documented so that users and others know exactly what the data represent, and the reliance that can be placed in them. For example, a user needs the information to determine if the data are suitable for the analysis they are about to run. Many data providers reported in the survey (<<Chapman 2006>>) that one reason that they were reluctant to release some of their data was a fear that the data would be misused. If the data aren’t adequately documented, then the likelihood of inadvertent mis-use is greatly increased as the user may use the data in an analysis mistakenly thinking they are getting accurate point records, when in reality, the data had been generalized to a 10 km grid square, and could be anywhere in a 100 square kilometre area. If running a climate modelling algorithm, for example, then this sort of error could result in a quite misleading result. For this reason alone, it is important to data providers, data users, and end users (such as environmental managers, policy makers, etc.) that the data are accurately described. 
 
 In particular, there should be a clear documentation of the ‘Access Constraints’ which could include, for example, an indication of which parts of the data are sensitive (if any), reasons for sensitivity and conditions under which release is possible. 
 
 === Documenting Sensitivity
 
-[quote]
-Metadata fulfils an essential function regarding communication to third parties, of access constraints and use conditions that the data generators intend to give to their data. It can be considered as an ‘aid’ in protecting data and information, since it will allow system users to visualize the conditions established by the data generator for access and use of the information. Additionally, in case the data are not accessible, the metadata allows knowledge of the conditions of access through other media (digital or not) as well as a summary of the content. (Llinás 2005).
+[quote, J.V. Llinás JV, Data and Information on Biodiversity and its Protection in the Digital Realm]
+Metadata fulfils an essential function regarding communication to third parties, of access constraints and use conditions that the data generators intend to give to their data. It can be considered as an ‘aid’ in protecting data and information, since it will allow system users to visualize the conditions established by the data generator for access and use of the information. Additionally, in case the data are not accessible, the metadata allows knowledge of the conditions of access through other media (digital or not) as well as a summary of the content.
 
-Metadata has generally been used to refer to documentation of a whole dataset.  Documentation at the record level has usually been referred to just in comments. I prefer, however, to term this ‘record-level metadata’, and to formalize the process. In the previous chapter a recommendation was made that where data were generalized for distribution, to document the level of generalization - for example, that the data had been generalized using a decimal geographic grid, and to record both the precision of the data provided and the precision of the data ‘as-held’ or stored. Also, in the chapter on <<Determining Sensitivity>>, a series of documentation processes were recommended (Table 1). Some of these may be more appropriate for documenting the reasons for regarding a taxon as a potential environmentally sensitivity taxon (Criteria 1 and 2), while the others (Criteria 3 and 4) are appropriate to the data themselves and belong as part of the broader record-level metadata. To fully document the reasons for restricting data, however, it may be necessary to inherit the documentation from Criteria 1 and 2 to the record level – for example, the reason that data are restricted may include that the taxon is subject to harmful human activity.
+Metadata has generally been used to refer to documentation of a whole dataset.  Documentation at the record level has usually been referred to just in comments. I prefer, however, to term this ‘<<record-level metadata>>’, and to formalize the process. In the previous chapter a recommendation was made that where data were generalized for distribution, to document the level of <<generalization>>—for example, that the data had been generalized using a decimal geographic grid, and to record both the precision of the data provided and the precision of the data ‘as-held’ or stored. Also, in the chapter on <<Determining Sensitivity>>, a series of documentation processes were recommended (<<Table 1>>). Some of these may be more appropriate for documenting the reasons for regarding a taxon as a potential environmentally sensitivity taxon (Criteria 1 and 2), while the others (Criteria 3 and 4) are appropriate to the data themselves and belong as part of the broader record-level metadata. To fully document the reasons for restricting data, however, it may be necessary to inherit the documentation from Criteria 1 and 2 to the record level – for example, the reason that data are restricted may include that the taxon is subject to harmful human activity.
 
-At the moment, neither the https://www.tdwg.org/standards/dwc/[Darwin Core] nor the https://www.tdwg.org/standards/abcd/[ABCD] standards have fields for recording the type of record-level metadata that is recommended here. A number of recommendations have been made to Biodiversity Information Standards (TDWG) for the inclusion of extra fields to the Darwin Core Location Class (TDWG 2018). The recommendations included:
+At the moment, neither the https://www.tdwg.org/standards/dwc/[Darwin Core] nor the https://www.tdwg.org/standards/abcd/[ABCD] standards have fields for recording the type of record-level metadata that is recommended here. A number of recommendations have been made to Biodiversity Information Standards (TDWG) for the inclusion of extra fields to the https://dwc.tdwg.org/terms/#location[Darwin Core Location Class] (TDWG 2018). The recommendations included:
 
-\\ insert Table 8 \\
-Recommendations on extension to Darwin Core for Sensitive Taxa
+[caption="Table 8. ]
+.Recommendations on extension to Darwin Core for Sensitive Taxa
+|===
+| Field | Comments
+| dataSensitiveIndicator | Y/N flag that the observation is sensitive.
+| dataSensitiveReason | The primary reason why the data are sensitive. Suggested 
+format is either a picklist with values derived from Criteria 1-4 above (or a text field that combines the statements 1a-4g attached to those criteria).
+| dataSensitiveComments	Further information on the reason(s) or supporting rationale for determining relevance of the Criteria for this record as recommended above.  [Free Text]
+| sensitiveDateForReview | A date field documenting when the sensitive nature of the date should be reviewed. Especially important where the sensitivity is just awaiting publication of results, etc.
+| precisionDataProvided | The scale or the precision of the data made available via the Darwin Core record – may be done as precision, e.g. 
+•	0 = 1 degree
+•	1 = 0.1 degree
+•	2 = 0.01 degree
+•	3 = 0.001 degree
+•	4 = 0.0001 degree
+| precisionDataStored | The scale or the precision of the data stored or retained by the data custodian – may be done as precision, e.g. 
+•	0 = 1 degree
+•	1 = 0.1 degree
+•	2 = 0.01 degree
+•	3 = 0.001 degree
+•	4 = 0.0001 degree
+•	Etc. or 
+may be more free text, such as ‘1 minute’, ‘0.1 minute’, ‘1 second’, etc. depending on how data are stored.
+|===
 
 The ‘dataSensitiveComments’ field here is perhaps equivalent to the ‘Access Constraints’ field in most dataset level metadata. The sort of information at the dataset level may include something like:
 
@@ -23,14 +45,14 @@ This dataset is only available to the public at a summary resolution for the fol
 
 Until such time as these standards and protocols are modified, it is recommended that the data be documented in the Comment fields, and as far as possible to record the same type of information that would be included in the recommended fields above – i.e.
 *	That the data are sensitive;
-*	The primary reasons the data are regarded as sensitive (see Criteria 1-4, Table 1) along with supporting rationale; 
+*	The primary reasons the data are regarded as sensitive (see Criteria 1-4, <<table-01,Table 1>>) along with supporting rationale; 
 *	The date that the sensitivity of the data should be reviewed;
 *	Precision of the data made available;
 *	Precision of the original data stored or retained.
 
 === Spatial Fit
 
-Spatial Fit (Chapman and Wieczorek 2006) is a concept that has arisen out of the BioGeomancer project (Guralnick et al. 2006) and provides a measure of how well a geometric representation matches the original spatial representation. Spatial fit is a value of either zero, one or greater than 1, where 1 represents an exact match (i.e. the data has not been generalized). Details on how Spatial Fit may be calculated can be found in Chapman and Wieczorek (2006, in prep.), where the summary below can also be found: 
+Spatial Fit (<<Chapman and Wieczorek 2006>>) is a concept that has arisen out of the BioGeomancer project (<<Guralnick et al. 2006>>) and provides a measure of how well a geometric representation matches the original spatial representation. Spatial fit is a value of either zero, one or greater than 1, where 1 represents an exact match (i.e. the data has not been generalized). Details on how Spatial Fit may be calculated can be found in <<Chapman and Wieczorek (2006, in prep.)>>, where the summary below can also be found: 
 
 [quote]
 A spatial fit with a value of 1 is an exact match or 100% overlap. If the geometry given does not completely encompass the original spatial representation, then the spatial fit is zero (i.e., some of the original is outside the transformed version, which we interpret as not being a fit). If the transformed shape does completely encompass the original spatial representation, then the value of the spatial fit is the ratio of the area of the transformed geometry to the area of the original spatial representation. Special case: If the original spatial representation is a point and the geometry presented in not a point, then the spatial fit is undefined. 
@@ -40,9 +62,10 @@ With respect to generalization of data, the Spatial Fit can be seen as a General
 [quote]
 Spatial Fit = Generalized area/True area
 
-An example of its applicability is where a georeference with an uncertainty radius of 1 km (using a point radius method (Wieczorek et al. 2004)) is made available using a 10 km grid (which completely covers the uncertainty). In this case the Spatial Fit would be greater than 1 as it represents an area greater than the real uncertainty (as shown in figure 3). 
+An example of its applicability is where a georeference with an uncertainty radius of 1 km (using a point radius method (Wieczorek et al. 2004)) is made available using a 10 km grid (which completely covers the uncertainty). In this case the <spatial-fit,Spatial Fit>> would be greater than 1 as it represents an area greater than the real uncertainty (as shown in figure 3). 
 
 \\ insert Figure 3 \\
+[[figure-03,Figure 3]]
 Example of calculating Spatial Fit for a collection with an uncertainty radius of 1 km (red circle), and which is distributed using a 10 km square grid (blue). Spatial Fit = 31.8.
 
-The smaller the grid size, the closer the Spatial Fit will be to ‘1’. Note that a record that has its georeference randomised or generalized such that a portion of the uncertainty radius falls outside the grid square would have a Spatial Fit equal to zero. 
+The smaller the grid size, the closer the <<spatial-fit,Spatial Fit>> will be to ‘1’. Note that a record that has its georeference randomised or generalized such that a portion of the uncertainty radius falls outside the grid square would have a <<spatial-fit,Spatial Fit>> equal to zero.
