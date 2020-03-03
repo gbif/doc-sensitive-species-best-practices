@@ -70,7 +70,7 @@ As far as the <<generalization>> of georeferencing data is concerned it is impor
 *	Precision of the data provided (e.g. 0.1 degree; 0.001 degree, etc.)
 *	Precision of the data stored or held (e.g. 0.0001 degree, 0.1 minute, 1 second, 100m square, etc.) 
 
-The recommendations for metadata for inclusion in the <<darwin-core-location-class,Darwin Core Location Class>> (<<TDWG 2018>>) are set out in the next Chapter on <<Documentation and Metadata>>. Once they (or similar) have been adopted, then it is recommended that the appropriate fields be recorded and distributed with the data. 
+The recommendations for metadata for inclusion in the https://dwc.tdwg.org/terms/#location[Darwin Core Location Class] (<<TDWG 2018>>) are set out in the next Chapter on <<Documentation and Metadata>>. Once they (or similar) have been adopted, then it is recommended that the appropriate fields be recorded and distributed with the data. 
 
 === Duplicates and GUIDS
 
