@@ -2,19 +2,20 @@
 
 === Generalization versus Randomization
 
-Few of the respondents to the online survey (<<Chapman 2006>>) recorded that they <<randomize>> data as opposed to <<generalization,generalizing>> it. Reasons for not <<randomizing>> included the extra work and computation involved, the increased chance of mistakes being made, and the less reliability that users may be able to place in the data. 
+Few of the respondents to the online survey (<<Chapman 2006>>) recorded that they <<randomization,randomize>> data as opposed to <<generalization,generalizing>> it. Reasons for not <<randomization,randomizing>> included the extra work and computation involved, the increased chance of mistakes being made, and the less reliability that users may be able to place in the data. 
 
 Some respondents to the survey stated that they were comfortable with displaying presence/absence of sensitive data within large polygons or grids squares, because it still reflected the real data, but were aghast at the idea of deliberately ‘faking’ point coordinates such that locations appear as precise representations, but are randomly offset from the real data – i.e., they represent the deliberate introduction of error. Whereas <<generalization>> creates/retains ‘true’ data, <<randomization>> creates deliberately ‘false’ data.
 
 In the fields of data mining and protection of privacy (including of individual privacy in census data) it is generally regarded that bottom-up <<generalization>> is far more practical and scientifically defensible that <<randomization>> (see for example, <<Wang et al. 2004>>, <<Dalvi and Keole 2015>>).
 
-Another advantage of <<generalization>> is that it allows 
-*	scaling up – i.e. the use of a consistent methodology at different scales;
-*	can be set to give different people different resolutions, depending on set roles, etc.;
-*	can simply provide for different scales of generalization for different categories of sensitivity;
-*	is easier to implement for those with low technological expertise.
+Another advantage of <<generalization>> is that it allows
 
-TIP: <<Randomization>> is a methodology that I strongly recommend not be used.
+*	scaling up–i.e. the use of a consistent methodology at different scales
+*	can be set to give different people different resolutions, depending on set roles, etc.
+*	can simply provide for different scales of generalization for different categories of sensitivity
+*	is easier to implement for those with low technological expertise
+
+TIP: <<randomization,Randomization>> is a methodology that I strongly recommend not be used.
 
 === Generalization
 
