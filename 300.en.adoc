@@ -4,7 +4,7 @@ Data are already distributed around the globe through duplicate specimens, etc. 
 
 For these reasons it has been recommended that a trigger list of potential environmentally sensitive taxa should be created and linked through GBIF’s https://doi.org/10.15468/39omei[Backbone Taxonomy]. This would have the advantages of alerting data providers in other jurisdictions that a species is potentially sensitive, and via the Backbone Taxonomy would provide links to synonyms. It is important to note that the list should be regarded as a trigger to flag the need for a decision on the actual sensitivity of sharing information using the criteria in the previous chapter, and not for generating blanket restrictions. Not all endangered species are threatened through knowledge of their locations, or across the totality of their range, and so should not be regarded as sensitive per se and thus the list of potential environmentally sensitive taxa should be much smaller than any existing list of rare and threatened species.  
 
-The list should be created using Criteria 1 and 2 (refer to <<Determining Sensitivity>> and scenarios in Annex 1), and should include additional information such as:
+The list should be created using Criteria 1 and 2 (refer to <<Determining Sensitivity,the previous chapter>> and scenarios in Annex 1), and should include additional information such as:
 
 *	Name of taxon
 *	Criteria and supporting rationale for inclusion
