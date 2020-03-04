@@ -1,4 +1,4 @@
-== Determining Sensitivity
+== Determining sensitivity
 
 As a first step, information holders need to identify any data which are regarded as ‘<<sensitive-data,sensitive>>’. Sensitive information is any which if released to the public, would result in an ‘adverse effect’ on the taxon or attribute in question or to a living individual. A number of factors need to be taken into account when determining sensitivity, including the type and level of threat, vulnerability of the taxon or attribute, type of information, and whether it is already publicly available. Determining these factors leads us to a criteria-based approach.
 
@@ -17,7 +17,7 @@ A few examples with which I have had direct experience include _Centropyge boyle
 Often in these and other cases, the existence of the new species is brought to the attention of the scientific community 'by' the commercial (aquarium) trade; rather than the other way around. Thus, it is usually not considered so much of a 'problem', but rather a sort of 'symbiotic' relationship between the commercial trade and the taxonomists. Moreover, in such cases in reef fishes, the species has eluded prior discovery not so much because it is rare or has an extremely restricted distribution, but because it simply lives somewhere that scientists have not yet been able to survey. Hence, there are usually few, if any, conservation implications in this context.
 ____
 
-=== Criteria for Determining Sensitivity 
+=== Criteria for determining sensitivity 
 
 The National Biodiversity Network (NBN) in the UK (<<Countryside Agencies OIN 2007>>), and the Department of Environment and Conservation in New South Wales, Australia (<<Department of Environment and Conservation 2007>>) developed detailed sensitivity criteria, and the previous version of this publication (<<Chapman and Oliver 2008>>) relied heavily on the work of those two agencies. Since the publication of the Guide (<<Chapman and Grafton 2008>>) both these agencies (<<DECCW 2009>>, <<NBN 2019a>>,<<NBN 2019b>>, <<OEH 2019a>>) as well as the South African National Biodiversity Institute (<<SANBI 2010>>, <<SANBI 2016>>), the Atlas of Living Australia (<<ALA 2018a>>) and others have given a lot of thought to criteria for determining sensitivity within their jurisdictions. Documentation from all of them have contributed greatly to this document.
 
@@ -46,17 +46,11 @@ The taxon is at risk from harmful human activity—it is subject to attack by Ph
 [caption="Table 2. "]
 .*Risk of harm*: Assessing if the taxon is subject to a harmful human activity
 |===
-.2+|1.1. Is the taxon subject to a harmful human activity?	
-|Yes: Document using <<statement-1a,statement 1a>> with supporting rationale. <<Go to 1.2>>
-|No: Document using <<statement-1b,statement 1b>> [Taxon is not sensitive] <<Go to 3>>
+|1.1. Is the taxon subject to a harmful human activity?	 |Yes: Document using <<statement-1a,statement 1a>> with supporting rationale. <<Go to 1.2>> |No: Document using <<statement-1b,statement 1b>> [Taxon is not sensitive] <<Go to 3>>
 
-.2+|1.2. Is there established evidence of current or recent occurrences of the harmful human activity?
-|Yes: Document using <<statement-1c,statement 1c>> with supporting rationale. <<Go to 1.3>> 
-|No:	Document using <<statement-1d,statement 1d>> with supporting rationale. <<Go to 1.3>>
+|1.2. Is there established evidence of current or recent occurrences of the harmful human activity? |Yes: Document using <<statement-1c,statement 1c>> with supporting rationale. <<Go to 1.3>> |No:	Document using <<statement-1d,statement 1d>> with supporting rationale. <<Go to 1.3>>
 
-.2+|1.3. Will availability of related biodiversity data increase the likelihood of the harmful human activity taking place?
-|Yes: Document using <<statement-1e,statement 1e>> with supporting rationale. <<Go to 2>> 
-|No: Document using <<statement-1f,statement 1f>> with supporting rationale. <<Go to 2>>
+|1.3. Will availability of related biodiversity data increase the likelihood of the harmful human activity taking place? |Yes: Document using <<statement-1e,statement 1e>> with supporting rationale. <<Go to 2>> |No: Document using <<statement-1f,statement 1f>> with supporting rationale. <<Go to 2>>
 |===
 
 Risk of harm statements
@@ -165,9 +159,9 @@ In the online survey (<<Chapman 2006>>), a number of respondents identified data
 
 NOTE: All data regarded as being sensitive should include a date for review of their sensitivity status, along with documented reasons for the sensitivity status. The date for review may be short or long depending on the nature of the sensitivity.
 
-The <<Categories of Sensitivity>> (below) are largely based on those from the NSW Office of Environment and Heritage (<<DECCW 2009>>).
+The <<Categories of sensitivity>> (below) are largely based on those from the NSW Office of Environment and Heritage (<<DECCW 2009>>).
 
-=== Categories of Sensitivity
+=== Categories of sensitivity
 
 [caption="Table 6. "]
 .Categories of sensitivity
