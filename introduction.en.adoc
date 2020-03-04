@@ -16,7 +16,7 @@ NOTE: Words hyperlinked in the text refer to terms that are included in the <<Gl
 
 This document aims to provide best practice (or best current practice) for dealing with sensitive primary species occurrence data, and provide guidance on how to make as much data available without at the same time opening up the species to harm because data has been placed in the public domain.
 
-It is now more than a decade since the _Guide_ (Chapman and Grafton 2008) was published, and this new publication is designed to bring those practices up to date and to incorporate the experiences gained by institutions that have implemented the Guide in whole or in part. 
+It is now more than a decade since the first _Guide_ was published, and this new publication is designed to bring those practices up to date and to incorporate the experiences gained by institutions that have implemented the _Guide_ in whole or in part. 
 
 === Audience
 
@@ -28,15 +28,15 @@ Above all, this document will help end users of the data to understand the impli
 
 The term “best practice” generally refers to the best possible way of doing something. It is commonly used in the fields of business management, software engineering, and medicine, and increasingly in government. The term “*<<current-best-practice,current best practice>>*” (or best current practice) is more specific in that it indicates the possibility for future developments and better practice. Due to the immaturity of this topic, this publication generally refers to “current” best practice and is sure to mature over time as more institutions adopt and adapt the principles outlined herein.
 
-Two issues that this and the previous document have not covered are the issues of the privacy of living individuals and the development of data sharing and Data License Agreements. Both of these issues have legal implications and vary considerably from jurisdiction to jurisdiction. These issues have been covered in detail by others (e.g. Corti et al. 2000, Parry and Mauthner 2004, GBIF 2017a,b, ALA 2018b, OEH 2019b).
+Two issues that this and the previous document have not covered are the issues of the privacy of living individuals and the development of data sharing and Data License Agreements. Both of these issues have legal implications and vary considerably from jurisdiction to jurisdiction. These issues have been covered in detail by others (e.g. <<Corti et al. 2000>>, <<Parry and Mauthner 2004>>, <<GBIF 2017a>>, <<GBIF 2017b>>, <<ALA 2018b>>, <<OEH 2019b>>).
 
 Ethics and biodiversity is a topic that has received little coverage, although for hundreds of years biologists have followed implied ethics in their work. The management of data on sensitive data requires considerable ethical practice and in many cases, a lot of trust and collaboration. Often amateur biologists and citizen scientists are aware of the locations of sensitive taxa, and it is up to the biologists to work with these groups to ensure the continued survival of the species. This won’t always be possible as there will always be rogues, but collaboration can work. For example, working with amateur groups to ethically bring rare plants into cultivation so that there is less pressure on the wild populations.
 
-Archaeology has been grappling with these issues for a long time. As Alison Wylie (1996) explains, 
+Archaeology has been grappling with these issues for a long time. As <<Alison Wylie (1996)>> explains, 
 
 [quote]
 the foundation of the Society for American Archaeology (SAA) was partially motivated by the desire of academics to distance themselves from amateur archaeologists through the establishment of ethical codes of conduct. One of the main concerns in the field has long been the practice of looting historical sites and the threat this poses to both cultural heritage and future archaeological work. 
 
-Nineteen years later, the archaeologists continue to grapple as pointed out by Frank et al. (2015) in discussing the results of 62 interviews of archeologists and zoologists conducted by them. They concluded that “Researchers would generally prefer to restrict access to their data from the general public but maintain open data for colleagues”, while realizing the extreme difficulties in managing such a process.
+Nineteen years later, the archaeologists continue to grapple as pointed out by <<Frank et al. (2015)>> in discussing the results of 62 interviews of archeologists and zoologists conducted by them. They concluded that “Researchers would generally prefer to restrict access to their data from the general public but maintain open data for colleagues”, while realizing the extreme difficulties in managing such a process.
 
 This publication is largely focused on sensitive primary species occurrence data (e.g. museum and herbarium specimen data, observations, images, tracking data) but does have impacts on related data such as population sizes, numbers and viability, habitats and ecosystems, biogeography, traits, bycatch, biosecurity, etc.
