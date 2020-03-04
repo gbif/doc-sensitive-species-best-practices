@@ -1,6 +1,6 @@
-== Generalizing Spatial Information
+== Generalizing spatial information
 
-=== Generalization versus Randomization
+=== Generalization versus randomization
 
 Few of the respondents to the online survey (<<Chapman 2006>>) recorded that they <<randomization,randomize>> data as opposed to <<generalization,generalizing>> it. Reasons for not <<randomization,randomizing>> included the extra work and computation involved, the increased chance of mistakes being made, and the less reliability that users may be able to place in the data. 
 
