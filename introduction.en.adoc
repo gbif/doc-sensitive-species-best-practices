@@ -10,7 +10,7 @@ The final step in that process was to develop a _Guide to Best Practices for Pri
 
 It is also important to understand the possible impact that approaches for restricting sensitive data may have on biodiversity science and, while restricting the availability or resolution of certain data, not overly restricting the uses to which the data may be put. For that reason, a set of principles are elucidated below. Key among these is the need to make biodiversity information freely available wherever possible, in the interests of science, the environment and biodiversity itself. 
 
-NOTE: Words hyperlinked in the text refer to terms that are included in the <<Glossary>>. 
+NOTE: Words hyperlinked in the text refer to terms that are included in the <<Glossary>>; citations link to sources where they are available online and to the <<References>> where they are not.
 
 === Objectives
 
