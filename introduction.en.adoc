@@ -2,7 +2,7 @@
 
 The unprotected distribution of Sensitive Primary Species Occurrence Data (for example the exact localities of rare, endangered or commercially valuable taxa) was a concern of https://www.gbif.org[GBIF]—the Global Biodiversity Information Facility—from its beginning. The GBIF Secretariat has a vested interest in making data available via its portals, but at the same time respecting the wishes of data providers to restrict information on sensitive taxa. In early 2006, GBIF initiated a process to address this issue, especially in relation to data to be shared through the GBIF network and made visible through https://www.gbif.org[GBIF] and other data aggregating initiatives. 
 
-This resulted in the https://doi.org/10.15468/doc-b02j-gt10^[_Guide to Best Practices for Generalizing Sensitive Primary Species Occurrence Data_]. That document relied heavily on the results of an on-line survey conducted through http://www.surveymonkey.com[Survey Monkey] and subsequent workshops whose reports were originally made available on the GBIF website (Chapman 2006).
+This resulted in the https://doi.org/10.15468/doc-b02j-gt10[_Guide to Best Practices for Generalizing Sensitive Primary Species Occurrence Data_^]. That document relied heavily on the results of an on-line survey conducted through http://www.surveymonkey.com[Survey Monkey] and subsequent workshops whose reports were originally made available on the GBIF website (Chapman 2006).
 
 A final report on Dealing with Sensitive Primary Species Occurrence Data was developed following these processes and discussions, and was presented to GBIF in April 2007 (Chapman 2007). This report made a number of recommendations, and many of these have been included in this document.
 
