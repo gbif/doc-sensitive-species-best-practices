@@ -19,8 +19,8 @@
 - [[deccw]] DECCW (2009) Sensitive Species Data Policy. New South Wales Department of Environment, Climate Change and Water. https://www.environment.nsw.gov.au/resources/nature/SensitiveSpeciesPolicyDEC09.pdf
 - [[jjf]] Fong JJ & Qiao G (2010) New localities of endangered Chinese turtles from museum specimens and the practical and ethical challenges using and reporting natural history collection data. Zootaxa 2393: 59–68. https://doi.org/10.11646/zootaxa.2393.1.5
 - [[df]] Frank D, Kriesberg A, Yakel E & Faniel IM (2015) Looting Hoards of Gold and Poaching Spotted Owls: Data Confidentiality Among Archaeologists and Zoologists. https://deepblue.lib.umich.edu/handle/2027.42/115883
-- [[gbifpub]] GBIF (2017) Data publisher agreement. Copenhagen: Global Biodiversity Information Facility. https://www.gbif.org/en/terms/data-publisher
-- [[backbone]] GBIF (2017) GBIF Backbone Taxonomy. Checklist dataset modified 5 Feb. 2018. Copenhagen: Global Biodiversity Information Facility. https://doi.org/10.15468/39omei accessed via GBIF.org on 2019-10-08. 
+- [[dpa]] GBIF Secretariat (2017) Data publisher agreement. https://www.gbif.org/en/terms/data-publisher
+- [[backbone]] GBIF Secretariat (2019). GBIF Backbone Taxonomy. Checklist dataset https://doi.org/10.15468/39omei 
 - [[rg]] Guralnick R, Wieczorek J, Beaman R, Hijmans RJ & the Biogeomancer Working Group (2006) BioGeomancer: Automated Georeferencing to Map the World’s Biodiversity Data. PLoS Biol 4(11): e381. https://doi.org/10.1371/journal.pbio.0040381 
 - [[lg]] Guterman L (2006) Endangered by Research: Poachers mine the scientific literature for the locations of newly discovered animals. The Chronicle of Higher Education 52(46): A12. https://www.chronicle.com/article/Endangered-by-Research/26117  
 - [[jh]] Hartter J, Ryan SJ, MacKenzie CA, Parker JN & Strasser CA (2013) Spatially Explicit Data: Stewardship and Ethical Challenges in Science. PLoS Biol. 11(9), e1001634. http://doi.org/10.1371/journal.pbio.1001634 [Accessed 3 Jul. 2019].
