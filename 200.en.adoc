@@ -82,17 +82,17 @@ The taxon is at risk from harmful human activity—it is subject to attack by Ph
 
 Risk of harm statements
 
-* [[statement-1a,1a]]: The taxon is at risk from a harmful human activity.
-* [[statement-1b,1b]]: There is no significant risk of a harmful human activity.
-* [[statement-1c,1c]]: There is established evidence of actual or recent harm to the taxon
-* [[statement-1d,1d]]: There is currently no established evidence of actual harm to the taxon.
-* [[statement-1e,1e]]: Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.
-* [[statement-1f,1f]]: Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place.
+* <<statement-1a,1a>>: The taxon is at risk from a harmful human activity.
+* <<statement-1b,1b>>: There is no significant risk of a harmful human activity.
+* <<statement-1c,1c>>: There is established evidence of actual or recent harm to the taxon
+* <<statement-1d,1d>>: There is currently no established evidence of actual harm to the taxon.
+* <<statement-1e,1e>>: Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.
+* <<statement-1f,1f>>: Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place.
 
 The next step is to determine if the taxon is sensitive to that human harm or whether they are suitably robust not to be adversely affected.
 
 [caption="Table 3. "]
-. *Impact of harm*. Assessing sensitivity of taxa to a harmful human activity.
+.*Impact of harm*. Assessing sensitivity of taxa to a harmful human activity.
 
 |=== 
 
@@ -128,7 +128,7 @@ Go to 3
 Once it has been decided that the taxon is subject to a significant risk and impact from harm or not, then a decision needs to be taken on whether the release of specific data on that taxon – or other related data – will increase the risk and impact of harm.
 
 [caption="Table 4. "]
-. *Sensitivity of data*. Assess whether the release of data will increase harm.
+.*Sensitivity of data*. Assess whether the release of data will increase harm.
 
 |===
 
@@ -193,7 +193,7 @@ Go to 4
 The final step is to make an overall assessment based on the three criteria above and to document the overall decision using the combined information documented in making each of the earlier decisions. Once it has been determined that the data should or should not be released, then it is important that a decision is made on the <<Category of Sensitivity>>, and the level of <<generalization>> for the release of the data.
 
 [caption="Table 5. "]
-. *Decision on release and category of sensitivity*. Make a balanced decision regarding the release of data and determining the category and level of generalization.
+.*Decision on release and category of sensitivity*. Make a balanced decision regarding the release of data and determining the category and level of generalization.
 
 |=== 
 
