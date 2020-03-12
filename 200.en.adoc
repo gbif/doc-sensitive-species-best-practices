@@ -48,9 +48,9 @@ The taxon is at risk from harmful human activity—it is subject to attack by Ph
 [cols=2*a]
 |===
 
-2+^s|1.1. Is the taxon subject to a harmful human activity?
+2+s|1.1. Is the taxon subject to a harmful human activity?
 
-|Yes: Document using <<statement-1a,statement 1a>> with supporting rationale. 
+|Yes: Document using <<1a>> with supporting rationale. 
 
 <<Go to 1.2>> 
 
@@ -58,7 +58,7 @@ The taxon is at risk from harmful human activity—it is subject to attack by Ph
 
 <<Go to 3>>
 
-2+^s|1.2. Is there established evidence of current or recent occurrences of the harmful human activity? 
+2+s|1.2. Is there established evidence of current or recent occurrences of the harmful human activity? 
 
 |Yes: Document using <<1c>> with supporting rationale. 
 
@@ -82,7 +82,7 @@ The taxon is at risk from harmful human activity—it is subject to attack by Ph
 
 Risk of harm statements
 
-* [[1a,Statement 1a>>: The taxon is at risk from a harmful human activity.
+* [[1a,Statement 1a]]: The taxon is at risk from a harmful human activity.
 * <<statement-1b,1b>>: There is no significant risk of a harmful human activity.
 * <<statement-1c,1c>>: There is established evidence of actual or recent harm to the taxon
 * <<statement-1d,1d>>: There is currently no established evidence of actual harm to the taxon.
@@ -96,7 +96,7 @@ The next step is to determine if the taxon is sensitive to that human harm or wh
 
 |=== 
 
-2+^s|2.1. Does the taxon have characteristics that make it significantly vulnerable to the harmful human activity?
+2+s|2.1. Does the taxon have characteristics that make it significantly vulnerable to the harmful human activity?
 
 |Yes: Document using statement 2a with supporting rationale.
 
@@ -106,7 +106,7 @@ Go to 2.2
 
 Go to 2.2
 
-2+^s| 2.2. Is the taxon vulnerable to harmful human activity over its total range, or are there areas (such as in conservation zones, or other parts of the world) where the taxon is not at the same level of risk?
+2+s| 2.2. Is the taxon vulnerable to harmful human activity over its total range, or are there areas (such as in conservation zones, or other parts of the world) where the taxon is not at the same level of risk?
 
 | Yes: Document using statement 2c with supporting rationale.
 
