@@ -8,7 +8,7 @@
 - [[audoe]] Australian Government. Department of the Environment (2016) Sensitive Ecological Data - Access and Management Policy V1.0. https://www.environment.gov.au/system/files/resources/246e674a-feb1-4399-a678-be9f4b6a6800/files/sensitive-ecological-data-access-mgt-policy.pdf
 - [[birdata]] Birdata n.dat. Sensitive Species. Birdlife Australia  https://birdata.birdlife.org.au/sensitive-species [Accessed 29 May 2019].
 - [[adc06]] Chapman AD (2006) Questionnaire on Dealing with Sensitive Primary Species Occurrence Data: Summary of responses. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/vs84-0p13
-- [[adc07]] Chapman AD (2007) Dealing with Sensitive Primary Species Occurrence Data. Report. Report to the Global Biodiversity Information Facility. Copenhagen: GBIF Secretariat. https://www.researchgate.net/publication/333161661_Dealing_with_Sensitive_Primary_Species_Occurrence_Data_Report
+- [[adc07]] Chapman AD (2007) Dealing with Sensitive Primary Species Occurrence Data. Report. Report to the Global Biodiversity Information Facility. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/rajc-t668
 - [[cg08]] Chapman AD & Grafton O (2008) Guide to Best Practices for Generalizing Sensitive Species Occurrence Data, version 1.0. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-b02j-gt10
 - [[cw06]] Chapman AD & Wieczorek J, eds. (2006) Guide to Best Practices for Georeferencing. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-2zpf-zf42
 - [[cw20]] Chapman AD & Wieczorek J (2020) Georeferencing Best Practices. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-gg7h-s853
