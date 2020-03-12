@@ -11,9 +11,9 @@ Metadata fulfils an essential function regarding communication to third parties,
 
 Metadata has generally been used to refer to documentation of a whole dataset.  Documentation at the record level has usually been referred to just in comments. I prefer, however, to term this ‘<<record-level metadata>>’, and to formalize the process. In the previous chapter a recommendation was made that where data were generalized for distribution, to document the level of <<generalization>>—for example, that the data had been generalized using a decimal geographic grid, and to record both the precision of the data provided and the precision of the data ‘as-held’ or stored. Also, in the chapter on <<Determining sensitivity,Determining sensitivity>>, a series of documentation processes were recommended (<<Table 1>>). Some of these may be more appropriate for documenting the reasons for regarding a taxon as a potential environmentally sensitivity taxon (Criteria 1 and 2), while the others (Criteria 3 and 4) are appropriate to the data themselves and belong as part of the broader record-level metadata. To fully document the reasons for restricting data, however, it may be necessary to inherit the documentation from Criteria 1 and 2 to the record level – for example, the reason that data are restricted may include that the taxon is subject to harmful human activity.
 
-At the moment, neither the https://www.tdwg.org/standards/dwc/[Darwin Core] nor the https://www.tdwg.org/standards/abcd/[ABCD] standards have fields for recording the type of record-level metadata that is recommended here. A number of recommendations have been made to Biodiversity Information Standards (TDWG) for the inclusion of extra fields to the https://dwc.tdwg.org/terms/#location[Darwin Core Location Class] (TDWG 2018). The recommendations included:
+At the moment, neither the https://www.tdwg.org/standards/dwc/[Darwin Core^] nor the https://www.tdwg.org/standards/abcd/[ABCD^] standards have fields for recording the type of record-level metadata that is recommended here. A number of recommendations have been made to Biodiversity Information Standards (TDWG) for the inclusion of extra fields to the https://dwc.tdwg.org/terms/#location[Darwin Core Location Class^] (TDWG 2018). The recommendations included:
 
-[caption="Table 8. ]
+[caption="Table 8. "]
 .Recommendations on extension to Darwin Core for Sensitive Taxa
 |===
 | Field | Comments
@@ -53,17 +53,17 @@ Until such time as these standards and protocols are modified, it is recommended
 
 === Spatial fit
 
-Spatial Fit (<<Chapman and Wieczorek 2006>>) is a concept that has arisen out of the BioGeomancer project (<<Guralnick et al. 2006>>) and provides a measure of how well a geometric representation matches the original spatial representation. Spatial fit is a value of either zero, one or greater than 1, where 1 represents an exact match (i.e. the data has not been generalized). Details on how Spatial Fit may be calculated can be found in <<Chapman and Wieczorek (2006, in prep.)>>, where the summary below can also be found: 
+Spatial Fit (https://doi.org/10.15468/doc-2zpf-zf42[Chapman and Wieczorek 2006^]) is a concept that has arisen out of the BioGeomancer project (https://doi.org/10.1371/journal.pbio.0040381[Guralnick et al. 2006^]) and provides a measure of how well a geometric representation matches the original spatial representation. Spatial fit is a value of either zero, one or greater than 1, where 1 represents an exact match (i.e. the data has not been generalized). Details on how Spatial Fit may be calculated can be found in <<Chapman and Wieczorek (https://doi.org/10.15468/doc-2zpf-zf42[2006^], https://doi.org/10.15468/doc-gg7h-s853[2020^])>>, where the summary below can also be found: 
 
 [quote]
 A spatial fit with a value of 1 is an exact match or 100% overlap. If the geometry given does not completely encompass the original spatial representation, then the spatial fit is zero (i.e., some of the original is outside the transformed version, which we interpret as not being a fit). If the transformed shape does completely encompass the original spatial representation, then the value of the spatial fit is the ratio of the area of the transformed geometry to the area of the original spatial representation. Special case: If the original spatial representation is a point and the geometry presented in not a point, then the spatial fit is undefined. 
 
-With respect to generalization of data, the Spatial Fit can be seen as a Generalization Coefficient - i.e. to what extent a record has been generalized - a ratio of the generalized area to the true area.
+With respect to generalization of data, the Spatial Fit can be seen as a Generalization Coefficient - i.e. to what extent a record has been generalized—a ratio of the generalized area to the true area.
 
 [quote]
 Spatial Fit = Generalized area/True area
 
-An example of its applicability is where a georeference with an uncertainty radius of 1 km (using a point radius method (Wieczorek et al. 2004)) is made available using a 10 km grid (which completely covers the uncertainty). In this case the <spatial-fit,Spatial Fit>> would be greater than 1 as it represents an area greater than the real uncertainty (as shown in <<fig-03,Figure 3>>). 
+An example of its applicability is where a georeference with an uncertainty radius of 1 km (using a point radius method (<<wgh,Wieczorek et al. 2004>>)) is made available using a 10 km grid (which completely covers the uncertainty). In this case the <spatial-fit,Spatial Fit>> would be greater than 1 as it represents an area greater than the real uncertainty (as shown in <<fig-03,Figure 3>>). 
 
 \\ insert Figure 3 \\
 [[fig-03,Figure 3]]
