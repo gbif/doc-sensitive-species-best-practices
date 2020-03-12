@@ -1,6 +1,6 @@
 == Authentication and Authorization
 
-As recommended by the experts’ workshop, and identified by many in the online survey (<<Chapman 2006>>), responsibility for determining who may or may not have access to detailed data on sensitive data, possibly through the use of secure log-on, or one-off data license agreements, must be with the data providers.
+As recommended by the experts’ workshop, and identified by many in the online survey (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]), responsibility for determining who may or may not have access to detailed data on sensitive data, possibly through the use of secure log-on, or one-off data license agreements, must be with the data providers.
 
 It was also agreed at the workshop that it is not the role of GBIF to manage the identification, verification or <<authorization>> of users, nor to control <<authentication>> or log-on at the Data Portal, but it may have a role in providing guidance and a suitable authentication method to the Nodes. 
 
