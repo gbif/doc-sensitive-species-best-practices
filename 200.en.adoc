@@ -50,31 +50,31 @@ The taxon is at risk from harmful human activity—it is subject to attack by Ph
 
 2+s|1.1. Is the taxon subject to a harmful human activity?
 
-|Yes: Document using <<1a>> with supporting rationale. 
+|Yes: Document using <<1a,Statement 1a>> with supporting rationale. 
 
 <<Go to 1.2>> 
 
-|No: Document using <<statement-1b,statement 1b>> [Taxon is not sensitive] 
+|No: Document using <<1b,Statement 1b>> [Taxon is not sensitive] 
 
 <<Go to 3>>
 
 2+s|1.2. Is there established evidence of current or recent occurrences of the harmful human activity? 
 
-|Yes: Document using <<1c>> with supporting rationale. 
+|Yes: Document using <<1c,Statement 1c>> with supporting rationale. 
 
 <<Go to 1.3>> 
 
-|No:	Document using <<statement-1d>> with supporting rationale. 
+|No:	Document using <<1d,Statement 1d>> with supporting rationale. 
 
 <<Go to 1.3>>
 
 2+s|1.3. Will availability of related biodiversity data increase the likelihood of the harmful human activity taking place? 
 
-|Yes: Document using <<statement-1e,statement 1e>> with supporting rationale. 
+|Yes: Document using <<1e,Statement 1e>> with supporting rationale. 
 
 <<Go to 2>>
 
-|No: Document using <<statement-1f,statement 1f>> with supporting rationale. 
+|No: Document using <<1f,Statement 1f>> with supporting rationale. 
 
 <<Go to 2>>
 
@@ -82,12 +82,12 @@ The taxon is at risk from harmful human activity—it is subject to attack by Ph
 
 Risk of harm statements
 
-* [[1a,Statement 1a]]: The taxon is at risk from a harmful human activity.
-* <<statement-1b,1b>>: There is no significant risk of a harmful human activity.
-* <<statement-1c,1c>>: There is established evidence of actual or recent harm to the taxon
-* <<statement-1d,1d>>: There is currently no established evidence of actual harm to the taxon.
-* <<statement-1e,1e>>: Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.
-* <<statement-1f,1f>>: Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place.
+* [[1a]]Statement 1a: The taxon is at risk from a harmful human activity.
+* [[1b]]Statement-1b: There is no significant risk of a harmful human activity.
+* [[1c]]Statement 1c: There is established evidence of actual or recent harm to the taxon
+* [[1d]]Statement 1d: There is currently no established evidence of actual harm to the taxon.
+* [[1e]]Statement 1e: Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.
+* [[1f]]Statement 1f: Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place.
 
 The next step is to determine if the taxon is sensitive to that human harm or whether they are suitably robust not to be adversely affected.
 
@@ -98,32 +98,30 @@ The next step is to determine if the taxon is sensitive to that human harm or wh
 
 2+s|2.1. Does the taxon have characteristics that make it significantly vulnerable to the harmful human activity?
 
-|Yes: Document using statement 2a with supporting rationale.
+|Yes: Document using <<2a,Statement 2a>> with supporting rationale.
 
-Go to 2.2
+<<Go to 2.2>>
 
-|No:	Document using statement 2b and supporting rationale.
+|No:	Document using <<2b,Statement 2b>> and supporting rationale.
 
-Go to 2.2
+<<Go to 2.2>>
 
 2+s| 2.2. Is the taxon vulnerable to harmful human activity over its total range, or are there areas (such as in conservation zones, or other parts of the world) where the taxon is not at the same level of risk?
 
-| Yes: Document using statement 2c with supporting rationale.
+| Yes: Document using <<2c,Statement 2c>> with supporting rationale.
 
-Go to 3 
-| No: Document using statement 2d with supporting rationale.
+<<Go to 3>>
 
-Go to 3
+| No: Document using <<2d,Statement 2d>> with supporting rationale.
+
+<<Go to 3>>
 
 |===
 
-2a – The taxon has characteristics that make it significantly vulnerable to the harmful human activity.
-
-2b – The taxon is not significantly vulnerable to the harmful human activity.
-
-2c – The taxon is vulnerable to harmful human activity over its total range. 
-
-2d – The taxon is not vulnerable to harmful human activity over its total range *and/or* there are areas where the taxon occurs but is not at significant risk.
+*[[2a]]Statement 2a: The taxon has characteristics that make it significantly vulnerable to the harmful human activity.
+*[[2b]]Statement 2b: The taxon is not significantly vulnerable to the harmful human activity.
+*[[2c]]Statement 2c: The taxon is vulnerable to harmful human activity over its total range. 
+*[[2d]]Statement 2d: The taxon is not vulnerable to harmful human activity over its total range *and/or* there are areas where the taxon occurs but is not at significant risk.
 
 Once it has been decided that the taxon is subject to a significant risk and impact from harm or not, then a decision needs to be taken on whether the release of specific data on that taxon – or other related data – will increase the risk and impact of harm.
 
@@ -132,7 +130,7 @@ Once it has been decided that the taxon is subject to a significant risk and imp
 
 |===
 
-2+^s|3.1. Is the content and detail of the biodiversity data such that their release would enable someone to carry out a harmful activity upon the taxon or attribute?
+2+s|3.1. Is the content and detail of the biodiversity data such that their release would enable someone to carry out a harmful activity upon the taxon or attribute?
 
 |Yes: Document using statement 3a with supporting rationale.
 
@@ -142,7 +140,7 @@ Go to 3.2
 
 Go to 4
 
-2+^s|3.2. Is information already in the public domain, or already known to those individuals or groups likely to undertake the harmful activity?
+2+s|3.2. Is information already in the public domain, or already known to those individuals or groups likely to undertake the harmful activity?
 
 | Yes: Document using statement 3d with supporting rationale.
 
@@ -152,7 +150,7 @@ Go to 3.3
 
 Go to 3.3
 
-2+^s|3.3. Would disclosure damage a partnership or relationship (especially where the maintenance of which is essential to helping achieve a specific conservation objective)?
+2+s|3.3. Would disclosure damage a partnership or relationship (especially where the maintenance of which is essential to helping achieve a specific conservation objective)?
 
 | Yes: Document using statement 3e with supporting rationale.
 
@@ -162,7 +160,7 @@ Go to 3.4
 
 Go to 3.4
 
-2+^s|3.4. Would disclosure allow the locations of sensitive features to be derived through combination with other publicly available information sources?
+2+s|3.4. Would disclosure allow the locations of sensitive features to be derived through combination with other publicly available information sources?
 
 |Yes: Document using statement 3g with supporting rationale.
 
@@ -197,7 +195,7 @@ The final step is to make an overall assessment based on the three criteria abov
 
 |=== 
 
-2+^s|4.1. On balance, considering criteria 1 to 3 above and any important wider context, will withholding the information increase the risk of environmental harm or harm to a living person?
+2+s|4.1. On balance, considering criteria 1 to 3 above and any important wider context, will withholding the information increase the risk of environmental harm or harm to a living person?
 
 | Yes: Document using statement 4a.
 
@@ -207,7 +205,7 @@ Go to 4.2
 
 Go to 4.5
 
-2+^s|4.2. Is the taxon distinctive and of high biological significance, under high threat from exploitation/ disease or other identifiable threat where even *general* locality information may threaten the taxon? Or could the release of any part of the record cause *irreparable harm* to the environment or to an individual?
+2+s|4.2. Is the taxon distinctive and of high biological significance, under high threat from exploitation/ disease or other identifiable threat where even *general* locality information may threaten the taxon? Or could the release of any part of the record cause *irreparable harm* to the environment or to an individual?
 
 |Yes: Document using statement 4c, collate all supporting rationale and document the decision to withhold the data.
 
@@ -215,7 +213,7 @@ Go to Category 1
 
 |No: Go to 4.3
 
-2+^s|4.3. Is the taxon such that the provision of precise locations at finer than 0.1 degrees (~10 km) would subject the taxon to threats such as disturbance and exploitation? Or does the record include highly sensitive information, the release of which could cause *extreme harm* to an individual or the environment?
+2+s|4.3. Is the taxon such that the provision of precise locations at finer than 0.1 degrees (~10 km) would subject the taxon to threats such as disturbance and exploitation? Or does the record include highly sensitive information, the release of which could cause *extreme harm* to an individual or the environment?
 
 |Yes: Document using statement 4d, collate all supporting rationale and document the decision to release the data.
 
@@ -225,7 +223,7 @@ Go to Category 2
 
 Go to 4.4
 
-2+^s|4.4. Is the taxon such that the provision of precise locations at finer than 0.01 degrees (~1 km) would subject the species to threats such as collection or deliberate damage? Or does the record include sensitive information, the release of which could cause *harm* to an individual or the environment?
+2+s|4.4. Is the taxon such that the provision of precise locations at finer than 0.01 degrees (~1 km) would subject the species to threats such as collection or deliberate damage? Or does the record include sensitive information, the release of which could cause *harm* to an individual or the environment?
 
 |Yes: Document using statement 4e, collate all supporting rationale and document the decision to release the data.
 
@@ -235,7 +233,7 @@ Go to Category 3
 
 Go to 4.5
 
-2+^s|4.5. Is the taxon subject to low to medium threat if precise locations (i.e. locations with a precision greater than 0.001 degrees or 100m) become publicly available and where there is some risk of collection or deliberate damage?
+2+s|4.5. Is the taxon subject to low to medium threat if precise locations (i.e. locations with a precision greater than 0.001 degrees or 100m) become publicly available and where there is some risk of collection or deliberate damage?
 
 |Yes: Document using statement 4f, collate all supporting rationale and document the decision to release the data.
 
