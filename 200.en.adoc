@@ -91,7 +91,7 @@ Risk of harm statements
 
 The next step is to determine if the taxon is sensitive to that human harm or whether they are suitably robust not to be adversely affected.
 
-[caption="Table 3. ]
+[caption="Table 3. "]
 . *Impact of harm*. Assessing sensitivity of taxa to a harmful human activity.
 
 |=== 
@@ -127,18 +127,51 @@ Go to 3
 
 Once it has been decided that the taxon is subject to a significant risk and impact from harm or not, then a decision needs to be taken on whether the release of specific data on that taxon – or other related data – will increase the risk and impact of harm.
 
-[caption="Table 4. ]
-.	*Sensitivity of data*. Assess whether the release of data will increase harm.
-|=== 
-|3.1. Is the content and detail of the biodiversity data such that their release would enable someone to carry out a harmful activity upon the taxon or attribute?	Yes: 	Document using statement 3a with supporting rationale.                Go to 3.2
-	No:	        [Data are not sensitive]         
-          Document using statement 3b with supporting rationale                    Go to 4
-|3.2. Is information already in the public domain, or already known to those individuals or groups likely to undertake the harmful activity?	Yes: 	Document using statement 3d with supporting rationale.                Go to 3.3
-	No:	Document using statement 3c with supporting rationale.                Go to 3.3
-|3.3. Would disclosure damage a partnership or relationship (especially where the maintenance of which is essential to helping achieve a specific conservation objective)?	Yes: 	Document using statement 3e with supporting rationale.                Go to 3.4
-	No:	Document using statement 3f with supporting rationale.                Go to 3.4
-|3.4. Would disclosure allow the locations of sensitive features to be derived through combination with other publicly available information sources?	Yes: 	Document using statement 3g with supporting rationale.                  Go to 4
-	No:	Document using statement 3h with supporting rationale.                  Go to 4
+[caption="Table 4. "]
+. *Sensitivity of data*. Assess whether the release of data will increase harm.
+
+|===
+
+2+^s|3.1. Is the content and detail of the biodiversity data such that their release would enable someone to carry out a harmful activity upon the taxon or attribute?
+
+|Yes: Document using statement 3a with supporting rationale.
+
+Go to 3.2
+
+|No: [Data are not sensitive] Document using statement 3b with supporting rationale
+
+Go to 4
+
+2+^s|3.2. Is information already in the public domain, or already known to those individuals or groups likely to undertake the harmful activity?
+
+| Yes: Document using statement 3d with supporting rationale.
+
+Go to 3.3
+
+| No: Document using statement 3c with supporting rationale.
+
+Go to 3.3
+
+2+^s|3.3. Would disclosure damage a partnership or relationship (especially where the maintenance of which is essential to helping achieve a specific conservation objective)?
+
+| Yes: Document using statement 3e with supporting rationale.
+
+Go to 3.4
+
+|No: Document using statement 3f with supporting rationale.
+
+Go to 3.4
+
+2+^s|3.4. Would disclosure allow the locations of sensitive features to be derived through combination with other publicly available information sources?
+
+|Yes: Document using statement 3g with supporting rationale.
+
+Go to 4
+
+|No: Document using statement 3h with supporting rationale.
+
+Go to 4
+
 |===
 
 3a: The content and detail of the data is such that their release would enable someone to carry out a harmful activity upon the taxon or attribute.
@@ -159,29 +192,59 @@ Once it has been decided that the taxon is subject to a significant risk and imp
 
 The final step is to make an overall assessment based on the three criteria above and to document the overall decision using the combined information documented in making each of the earlier decisions. Once it has been determined that the data should or should not be released, then it is important that a decision is made on the <<Category of Sensitivity>>, and the level of <<generalization>> for the release of the data.
 
-[caption="Table 5. ]
-.	*Decision on release and category of sensitivity*. Make a balanced decision regarding the release of data and determining the category and level of generalization.
+[caption="Table 5. "]
+. *Decision on release and category of sensitivity*. Make a balanced decision regarding the release of data and determining the category and level of generalization.
+
 |=== 
-|4.1.	On balance, considering criteria 1 to 3 above and any important wider context, will withholding the information increase the risk of environmental harm or harm to a living person?	Yes: 	Document using statement 4a.
-                                                            Go to 4.2 
-	No:	Document using statement 4b.
-                                                            Go to 4.5
-|4.2. Is the taxon distinctive and of high biological significance, under high threat from exploitation/ disease or other identifiable threat where even *general* locality information may threaten the taxon? Or could the release of any part of the record cause *irreparable harm* to the environment or to an individual?	Yes: 	Document using statement 4c, collate all supporting rationale and document the decision to withhold the data.                                                              
-                                                Go to Category 1        
-	No:	      
-                                                             Go to 4.3
-|4.3.	Is the taxon such that the provision of precise locations at finer than 0.1 degrees (~10 km) would subject the taxon to threats such as disturbance and exploitation? Or does the record include highly sensitive information, the release of which could cause *extreme harm* to an individual or the environment?	Yes: 	Document using statement 4d, collate all supporting rationale and document the decision to release the data.                                                         
-                                                Go to Category 2
-	No:	  
-                                                             Go to 4.4
-|4.4.	Is the taxon such that the provision of precise locations at finer than 0.01 degrees (~1 km) would subject the species to threats such as collection or deliberate damage? Or does the record include sensitive information, the release of which could cause *harm* to an individual or the environment?	Yes: 	Document using statement 4e, collate all supporting rationale and document the decision to release the data.                                                                                                        
-                                                Go to Category 3
-	No:	
-                                                             Go to 4.5
-|4.5. Is the taxon subject to low to medium threat if precise locations (i.e. locations with a precision greater than 0.001 degrees or 100m) become publicly available and where there is some risk of collection or deliberate damage?	Yes: 	Document using statement 4f, collate all supporting rationale and document the decision to release the data.                                                                                                         
-                                                Go to Category 4
-	No:	Document using statement 4g, collate all supporting rationale and document the decision to release the data.                           
-                      Data should be publicly released
+
+2+^s|4.1. On balance, considering criteria 1 to 3 above and any important wider context, will withholding the information increase the risk of environmental harm or harm to a living person?
+
+| Yes: Document using statement 4a.
+
+Go to 4.2 
+
+|No: Document using statement 4b.
+
+Go to 4.5
+
+2+^s|4.2. Is the taxon distinctive and of high biological significance, under high threat from exploitation/ disease or other identifiable threat where even *general* locality information may threaten the taxon? Or could the release of any part of the record cause *irreparable harm* to the environment or to an individual?
+
+|Yes: Document using statement 4c, collate all supporting rationale and document the decision to withhold the data.
+
+Go to Category 1
+
+|No: Go to 4.3
+
+2+^s|4.3. Is the taxon such that the provision of precise locations at finer than 0.1 degrees (~10 km) would subject the taxon to threats such as disturbance and exploitation? Or does the record include highly sensitive information, the release of which could cause *extreme harm* to an individual or the environment?
+
+|Yes: Document using statement 4d, collate all supporting rationale and document the decision to release the data.
+
+Go to Category 2
+
+|No:
+
+Go to 4.4
+
+2+^s|4.4. Is the taxon such that the provision of precise locations at finer than 0.01 degrees (~1 km) would subject the species to threats such as collection or deliberate damage? Or does the record include sensitive information, the release of which could cause *harm* to an individual or the environment?
+
+|Yes: Document using statement 4e, collate all supporting rationale and document the decision to release the data.
+
+Go to Category 3
+
+|No:
+
+Go to 4.5
+
+2+^s|4.5. Is the taxon subject to low to medium threat if precise locations (i.e. locations with a precision greater than 0.001 degrees or 100m) become publicly available and where there is some risk of collection or deliberate damage?
+
+|Yes: Document using statement 4f, collate all supporting rationale and document the decision to release the data.
+
+Go to Category 4
+
+|No: Document using statement 4g, collate all supporting rationale and document the decision to release the data.
+
+Data should be publicly released
+
 |===
 
 4a: On balance, release of the information will, or is likely to, increase the risk of environmental harm or harm to a living person.
