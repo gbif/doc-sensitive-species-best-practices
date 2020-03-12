@@ -45,12 +45,27 @@ The taxon is at risk from harmful human activity—it is subject to attack by Ph
 
 [caption="Table 2. "]
 .*Risk of harm*: Assessing if the taxon is subject to a harmful human activity
+[cols=2*a]
 |===
-|1.1. Is the taxon subject to a harmful human activity?	 |Yes: Document using <<statement-1a,statement 1a>> with supporting rationale. <<Go to 1.2>> |No: Document using <<statement-1b,statement 1b>> [Taxon is not sensitive] <<Go to 3>>
 
-|1.2. Is there established evidence of current or recent occurrences of the harmful human activity? |Yes: Document using <<statement-1c,statement 1c>> with supporting rationale. <<Go to 1.3>> |No:	Document using <<statement-1d,statement 1d>> with supporting rationale. <<Go to 1.3>>
+2+^s|1.1. Is the taxon subject to a harmful human activity?
 
-|1.3. Will availability of related biodiversity data increase the likelihood of the harmful human activity taking place? |Yes: Document using <<statement-1e,statement 1e>> with supporting rationale. <<Go to 2>> |No: Document using <<statement-1f,statement 1f>> with supporting rationale. <<Go to 2>>
+|Yes: Document using <<statement-1a,statement 1a>> with supporting rationale. <<Go to 1.2>> 
+
+|No: Document using <<statement-1b,statement 1b>> [Taxon is not sensitive] <<Go to 3>>
+
+2+^s|1.2. Is there established evidence of current or recent occurrences of the harmful human activity? 
+
+|Yes: Document using <<statement-1c,statement 1c>> with supporting rationale. <<Go to 1.3>> 
+
+|No:	Document using <<statement-1d,statement 1d>> with supporting rationale. <<Go to 1.3>>
+
+2+^s|1.3. Will availability of related biodiversity data increase the likelihood of the harmful human activity taking place? 
+
+|Yes: Document using <<statement-1e,statement 1e>> with supporting rationale. <<Go to 2>> 
+
+|No: Document using <<statement-1f,statement 1f>> with supporting rationale. <<Go to 2>>
+
 |===
 
 Risk of harm statements
