@@ -60,11 +60,11 @@ The taxon is at risk from harmful human activity—it is subject to attack by Ph
 
 2+^s|1.2. Is there established evidence of current or recent occurrences of the harmful human activity? 
 
-|Yes: Document using <<statement-1c,statement 1c>> with supporting rationale. 
+|Yes: Document using <<1c>> with supporting rationale. 
 
 <<Go to 1.3>> 
 
-|No:	Document using <<statement-1d,statement 1d>> with supporting rationale. 
+|No:	Document using <<statement-1d>> with supporting rationale. 
 
 <<Go to 1.3>>
 
