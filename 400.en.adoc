@@ -2,7 +2,7 @@
 
 === Generalization versus randomization
 
-Few of the respondents to the online survey (<<Chapman 2006>>) recorded that they <<randomization,randomize>> data as opposed to <<generalization,generalizing>> it. Reasons for not <<randomization,randomizing>> included the extra work and computation involved, the increased chance of mistakes being made, and the less reliability that users may be able to place in the data. 
+Few of the respondents to the online survey (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]) recorded that they <<randomization,randomize>> data as opposed to <<generalization,generalizing>> it. Reasons for not <<randomization,randomizing>> included the extra work and computation involved, the increased chance of mistakes being made, and the less reliability that users may be able to place in the data. 
 
 Some respondents to the survey stated that they were comfortable with displaying presence/absence of sensitive data within large polygons or grids squares, because it still reflected the real data, but were aghast at the idea of deliberately ‘faking’ point coordinates such that locations appear as precise representations, but are randomly offset from the real data – i.e., they represent the deliberate introduction of error. Whereas <<generalization>> creates/retains ‘true’ data, <<randomization>> creates deliberately ‘false’ data.
 
@@ -26,7 +26,7 @@ One of the most common requirements for generalizing sensitive biodiversity info
 *	Generalization to a grid (metric or geographic)
 *	Generalization to a polygon (socio-political region, country, biogeographic region, watershed)
 
-Many respondents to the survey <<(Chapman 2006)>> argued for the simplicity of generalization to a grid. The reasons given included:
+Many respondents to the survey (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]) argued for the simplicity of generalization to a grid. The reasons given included:
 
 *	the simplicity of being able to vary the scale for different categories of sensitivity, 
 *	the ease of maintenance and training, and 
