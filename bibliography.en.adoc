@@ -1,12 +1,12 @@
 [bibliography]
 == References
 
-- [[alaa]] ALA (2018) What is Sensitive Data? Atlas of Living Australia. https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-
-- [[alab]] ALA (2018) What is data licensing? Atlas of Living Australia. https://support.ala.org.au/support/solutions/articles/6000195495-what-is-data-licensing-
+- [[alaa]] ALA (2018a) What is Sensitive Data? Atlas of Living Australia. https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-
+- [[alab]] ALA (2018b) What is data licensing? Atlas of Living Australia. https://support.ala.org.au/support/solutions/articles/6000195495-what-is-data-licensing-
 - [[amec]] AMEC Earth & Environmental (2010) Best practices for sharing sensitive environmental geospatial data. Version 1.0 http://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf
 - [[abs]] Australian Bureau of Statistics (2006) Statistical Local Area (SLA) in 2901.0 - Census Dictionary, 2006 (Reissue). https://www.abs.gov.au/AUSSTATS/abs@.nsf/bb8db737e2af84b8ca2571780015701e/23d04985e1786824ca25720b0002bb18!OpenDocument
 - [[audoe]] Australian Government. Department of the Environment (2016) Sensitive Ecological Data - Access and Management Policy V1.0. https://www.environment.gov.au/system/files/resources/246e674a-feb1-4399-a678-be9f4b6a6800/files/sensitive-ecological-data-access-mgt-policy.pdf
-- [[birdata]] Birdata n.dat. Sensitive Species. Birdlife Australia  https://birdata.birdlife.org.au/sensitive-species [Accessed 29 May 2019].
+- [[birdata]] Birdata n.dat. Sensitive Species. Birdlife Australia. https://birdata.birdlife.org.au/sensitive-species
 - [[adc06]] Chapman AD (2006) Questionnaire on Dealing with Sensitive Primary Species Occurrence Data: Summary of responses. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/vs84-0p13
 - [[adc07]] Chapman AD (2007) Dealing with Sensitive Primary Species Occurrence Data. Report. Report to the Global Biodiversity Information Facility. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/rajc-t668
 - [[cg08]] Chapman AD & Grafton O (2008) Guide to Best Practices for Generalizing Sensitive Species Occurrence Data, version 1.0. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-b02j-gt10
@@ -23,15 +23,15 @@
 - [[backbone]] GBIF Secretariat (2019). GBIF Backbone Taxonomy. Checklist dataset https://doi.org/10.15468/39omei 
 - [[rg]] Guralnick R, Wieczorek J, Beaman R, Hijmans RJ & the Biogeomancer Working Group (2006) BioGeomancer: Automated Georeferencing to Map the World’s Biodiversity Data. PLoS Biol 4(11): e381. https://doi.org/10.1371/journal.pbio.0040381 
 - [[lg]] Guterman L (2006) Endangered by Research: Poachers mine the scientific literature for the locations of newly discovered animals. The Chronicle of Higher Education 52(46): A12. https://www.chronicle.com/article/Endangered-by-Research/26117  
-- [[jh]] Hartter J, Ryan SJ, MacKenzie CA, Parker JN & Strasser CA (2013) Spatially Explicit Data: Stewardship and Ethical Challenges in Science. PLoS Biol. 11(9), e1001634. http://doi.org/10.1371/journal.pbio.1001634 [Accessed 3 Jul. 2019].
+- [[jh]] Hartter J, Ryan SJ, MacKenzie CA, Parker JN & Strasser CA (2013) Spatially Explicit Data: Stewardship and Ethical Challenges in Science. PLoS Biol. 11(9), e1001634. http://doi.org/10.1371/journal.pbio.1001634
 - [[jvl]] Llinás JV (2005) Data and Information on Biodiversity and its Protection in the Digital Realm Ver. 1. Bogotá, Colombia: Biological Resources Research Institute Alexandre von Humboldt.
 - [[nbna]] NBN (2019a) The NBN Data Exchange Principles and their rational. National Biodiversity Network. https://nbn.org.uk/the-national-biodiversity-network/archive-information/data-exchange-principles/
 - [[nbnb]] NBN (2019b) Sensitive Data. National Biodiversity Network. https://nbn.org.uk/sensitive-data/
 - [[gn]] Nelson G, Sweeney P & Gilbert S (2018) Use of globally unique identifiers (GUUDs) to link herbarium specimen records to physical specimens. Applications in Plant Sciences 6(2): e1027. https://dx.doi.org/10.1002%2Faps3.1027
 - [[pn]] Noble P, van Riper D, Ruggles S, Schroeder J & Hindman M (2011) Harmonizing Disparate Data across Time and Place: The Integrated Spatio-Temporal Aggregate Data Series. Historical Methods 44(2): 79-85. https://doi.org/10.1080/01615440.2011.563228
 - [[oeha]] OEH (2011) Appendix 2. Denaturing Specifications for Sensitive Species records. Sydney, Australia: NSW Government. Office of Environment and Heritage. https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Animals-and-plants/Wildlife-management/appendix-2-denaturing-specifications-sensitive-species-records.pdf?la=en&hash=DB5FE561CC2DA6A9390E8521882405B5574FD607
-- [[oehb]] OEH (2019) Sensitive species data policy. Sydney, Australia: NSW Government. Office of Environment and Heritage. https://www.environment.nsw.gov.au/topics/animals-and-plants/wildlife-management/wildlife-policies-and-guidelines/sensitive-species-data [Accessed 26 May 2019].
-- [[oehc]] OEH (2019). Scientific Licenses. Sydney, Australia: NSW Government. Office of Environment and Heritage. https://www.environment.nsw.gov.au/licences-and-permits/scientific-licences
+- [[oehb]] OEH (2019a) Sensitive species data policy. Sydney, Australia: NSW Government. Office of Environment and Heritage. https://www.environment.nsw.gov.au/topics/animals-and-plants/wildlife-management/wildlife-policies-and-guidelines/sensitive-species-data [Accessed 26 May 2019].
+- [[oehc]] OEH (2019b). Scientific Licenses. Sydney, Australia: NSW Government. Office of Environment and Heritage. https://www.environment.nsw.gov.au/licences-and-permits/scientific-licences
 - [[rdmp]] Page RDM (2009) bioGUID: Resolving, discovering, and minting identifiers for biodiversity informatics. BMC Bioinformatics 10(Suppl 14): S5. https://doi.org/10.1186%2F1471-2105-10-S14-S5
 - [[op]] Parry O & Mauthner NS (2004) Whose Data are They Anyway?: Practical, Legal and Ethical Issues in Archiving Qualitative Research Data. Sociology 38(1): 139–152. https://doi.org/10.1177/0038038504039366
 - [[kr]] Richards K (2010) TDWG GUID applicability statement, version 2010‐09. Biodiversity Information Standards (TDWG). http://www.tdwg.org/standards/150
