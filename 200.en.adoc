@@ -57,52 +57,61 @@ The taxon is at risk from harmful human activity—it is subject to attack by Ph
 
 2+^s|1.1. Is the taxon subject to a harmful human activity?
 
-^a|*Yes* 
+^a|*YES* 
 
-Document using Statement 1a with supporting rationale. 
+Document with supporting rationale using Statement 1a: 
 
-  _Statement 1a_: The taxon is at risk from a harmful human activity.
+_The taxon is at risk from a harmful human activity._
 
 <<Go to 1.2>> 
 
-^a|*No*
+^a|*NO*
 
 Document using Statement 1b:
 
-  _Statement 1b_: There is no significant risk of a harmful human activity.
+_There is no significant risk of a harmful human activity._
 
 *Taxon is not sensitive* 
 
 <<table-4,Go to 3>>
 
-2+s|1.2. Is there established evidence of current or recent occurrences of the harmful human activity? 
+2+^s|1.2. Is there established evidence of current or recent occurrences of the harmful human activity? 
 
-a|Yes: Document using <<1c,Statement 1c>> with supporting rationale. 
+^a|*YES*
+
+Document with supporting rationale using Statement 1c: 
+
+[[1c]]_There is established evidence of actual or recent harm to the taxon._
 
 <<Go to 1.3>> 
 
-a|No: Document using <<1d,Statement 1d>> with supporting rationale. 
+^a|*NO*
+
+Document with supporting rationale using Statement 1d: 
+
+[[1d]]_Statement 1d: There is currently no established evidence of actual harm to the taxon._
 
 <<Go to 1.3>>
 
-2+s|1.3. Will availability of related biodiversity data increase the likelihood of the harmful human activity taking place? 
+2+^s|1.3. Will availability of related biodiversity data increase the likelihood of the harmful human activity taking place? 
 
-|Yes: Document using <<1e,Statement 1e>> with supporting rationale. 
+^a|*YES*
 
-<<Go to 2>>
+Document using with supporting rationale Statement 1e:
 
-|No: Document using <<1f,Statement 1f>> with supporting rationale. 
+[[1e]]_Availability of biodiversity data will increase the likelihood of the harmful human activity taking place._
 
-<<Go to 2>>
+<<table-03,Go to 2>>
+
+^a|*NO^=*
+
+Document with supporting rationale using Statement 1f:
+
+[[1f]]_Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place._
+
+<<table-03,Go to 2>>
 
 |===
-
-Risk of harm statements
-
-* [[1c]]Statement 1c: There is established evidence of actual or recent harm to the taxon
-* [[1d]]Statement 1d: There is currently no established evidence of actual harm to the taxon.
-* [[1e]]Statement 1e: Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.
-* [[1f]]Statement 1f: Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place.
 
 The next step is to determine if the taxon is sensitive to that human harm or whether they are suitably robust not to be adversely affected.
 
