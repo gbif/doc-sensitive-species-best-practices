@@ -84,7 +84,7 @@ This may apply to a species of plant in a forestry area susceptible to Phytophth
 [options="header"]
 |===
 
-|*Scenario F
+|*Scenario F*
 
 ^|2b: The taxon is not significantly vulnerable to the harmful human activity.
 
