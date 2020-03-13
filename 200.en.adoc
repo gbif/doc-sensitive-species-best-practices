@@ -319,7 +319,7 @@ The <<Categories of sensitivity,categories of sensitivity>> are largely based on
 | Criterion	| Reasoning
 
 |[[cat1]]*Category 1* +
-+ 
+
 Species or records for which no records will be provided at all, or which are only released as present within a large region such as a county, watershed, etc. 
 
 a|The reason for non-disclosure is that: +
