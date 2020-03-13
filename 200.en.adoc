@@ -289,7 +289,7 @@ Go to 4.5
 ^a|*YES* +
 ↓ +
 Document using statement 4f, collate all supporting rationale and document the decision to release the data: +
-_"The species is classed as of low to medium sensitivity, and the provision of precise locations could subject the species to threats such as disturbance and exploitation. Detailed data may be made available to individuals under license."_ +
+_"The species is classed as of low to medium sensitivity, and the provision of precise locations could subject the species to threats such as disturbance and exploitation. Detailed data may be made available to individuals under licence."_ +
 *<<cat4,Category 4>>*
 
 ^a|*NO* +
@@ -328,11 +328,11 @@ a|The reason for non-disclosure is that: +
 
 . the information in the record is of such a nature that its release could cause irreparable harm to the environment, to an individual or to some other feature. +
 
-Data may only be supplied under strict License conditions or as presence in a large region such as a watershed, county, or biogeographic region.
+Data may only be supplied under strict Licence conditions or as presence in a large region such as a watershed, county, or biogeographic region.
 
 |[[cat2]]*Category 2* +
 
-Species or records for which coordinates will be publicly available ‘denatured’ (to 0.1 degrees) and/or other information in the record is generalized. Finer scale data (<<cat3,Category 3>>, <<cat4,Category 4>> or detailed data) may be supplied to individuals under License. +
+Species or records for which coordinates will be publicly available ‘denatured’ (to 0.1 degrees) and/or other information in the record is generalized. Finer scale data (<<cat3,Category 3>>, <<cat4,Category 4>> or detailed data) may be supplied to individuals under Licence. +
 
 a|The reasons for restriction are that: +
 
@@ -352,7 +352,7 @@ Data may be supplied at finer scales on request under the conditions of a writte
 
 |[[cat3]]*Category 3* +
 
-Species or records for which coordinates will be publicly available ‘denatured’ (to 0.01 degrees) and/or other information in the record is generalized. Finer scale data (<<cat3,Category 3>>, <<cat4,Category 4>> or detailed data) may be supplied to individuals under License.
+Species or records for which coordinates will be publicly available ‘denatured’ (to 0.01 degrees) and/or other information in the record is generalized. Finer scale data (<<cat3,Category 3>>, <<cat4,Category 4>> or detailed data) may be supplied to individuals under Licence.
 
 a|The reasons for restriction are that: +
 
