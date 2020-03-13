@@ -57,17 +57,19 @@ The taxon is at risk from harmful human activity—it is subject to attack by Ph
 
 2+^s|1.1. Is the taxon subject to a harmful human activity?
 
-a^|*Yes* 
+^a|*Yes* 
 
 Document using Statement 1a with supporting rationale. 
 
-[[1a]]Statement 1a: The taxon is at risk from a harmful human activity.
+  _Statement 1a_: The taxon is at risk from a harmful human activity.
 
 <<Go to 1.2>> 
 
-a^|*No*
+^a|*No*
 
-Document using Statement 1b 
+Document using Statement 1b:
+
+  _Statement 1b_: There is no significant risk of a harmful human activity.
 
 *Taxon is not sensitive* 
 
@@ -97,7 +99,6 @@ a|No: Document using <<1d,Statement 1d>> with supporting rationale.
 
 Risk of harm statements
 
-* [[1b]]Statement-1b: There is no significant risk of a harmful human activity.
 * [[1c]]Statement 1c: There is established evidence of actual or recent harm to the taxon
 * [[1d]]Statement 1d: There is currently no established evidence of actual harm to the taxon.
 * [[1e]]Statement 1e: Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.
