@@ -34,7 +34,7 @@ Many respondents to the survey (https://doi.org/10.35035/vs84-0p13[Chapman 2006^
 
 Generalizing to a grid, while protecting the exact locations of sensitive taxa, also provides data in a format that is still useable for a majority of users, especially where a standard grid is used.
 
-image::fig-01.jpg
+image::fig-01.jpg[]
 
 [[figure-02,Figure 2]]. Two generalization methods: a) a geographic grid where all records are referenced to the bottom left-hand (SE) corner; b) a metric grid where all records are referenced to the centroid.
 
