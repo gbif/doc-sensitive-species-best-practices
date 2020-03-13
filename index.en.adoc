@@ -45,4 +45,3 @@ include::bibliography.en.adoc[]
 
 include::annex-a.en.adoc[]
 
-\\insert index\\
