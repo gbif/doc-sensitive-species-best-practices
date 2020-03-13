@@ -15,9 +15,9 @@ This may apply to a species of plant in a forestry area susceptible to Phytophth
 
 |Scenario A
 
-^|1a: There is no significant risk of a harmful human activity.
+|1a: There is no significant risk of a harmful human activity.
 
-^|*The taxon is not sensitive.*
+|*The taxon is not sensitive.*
 
 |===
 
@@ -25,13 +25,13 @@ This may apply to a species of plant in a forestry area susceptible to Phytophth
 |===
 
 |*Scenario B*
-^|1a – The taxon is at risk from harmful human activity. 
+|1a – The taxon is at risk from harmful human activity. 
 
-^|1d: There is currently no established evidence of actual harm to the taxon. 
+|1d: There is currently no established evidence of actual harm to the taxon. 
 
-^|1f: Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place.
+|1f: Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place.
 
-^|*The taxon could be at risk from harm but likelihood of harm is not affected by data availability.*
+|*The taxon could be at risk from harm but likelihood of harm is not affected by data availability.*
 
 |===
 
@@ -40,11 +40,11 @@ This may apply to a species of plant in a forestry area susceptible to Phytophth
 
 |*Scenario C*
 
-^|1a: The taxon is at risk from harmful human activity. 
+|1a: The taxon is at risk from harmful human activity. 
 
-^|1d: There is currently no established evidence of actual harm to the taxon.
+|1d: There is currently no established evidence of actual harm to the taxon.
 
-^|1e: Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.
+|1e: Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.
 
 |*The taxon could be at risk from harm and the likelihood of harm is affected by data availability.*
 
@@ -55,13 +55,13 @@ This may apply to a species of plant in a forestry area susceptible to Phytophth
 
 |*Scenario D*
 
-^|1a: The taxon is at risk from harmful human activity. 
+|1a: The taxon is at risk from harmful human activity. 
 
-^|1c: There is established evidence of actual or recent harm to the taxon.
+|1c: There is established evidence of actual or recent harm to the taxon.
 
-^|1f: Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place.
+|1f: Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place.
 
-^|*The taxon is at risk from harm and there is evidence to support this, but occurrence is not affected by data availability.*
+|*The taxon is at risk from harm and there is evidence to support this, but occurrence is not affected by data availability.*
 
 |===
 
@@ -69,13 +69,14 @@ This may apply to a species of plant in a forestry area susceptible to Phytophth
 |===
 
 |*Scenario E*
-^|1a: The taxon is at risk from harmful human activity.
 
-^|1c: There is established evidence of actual harm to the taxon.
+|1a: The taxon is at risk from harmful human activity.
 
-^|1e: Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.
+|1c: There is established evidence of actual harm to the taxon.
 
-^|*The taxon is at risk from harm, there is evidence to support this, and occurrence is affected by data availability.*
+|1e: Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.
+
+|*The taxon is at risk from harm, there is evidence to support this, and occurrence is affected by data availability.*
 
 |===
 
@@ -86,11 +87,11 @@ This may apply to a species of plant in a forestry area susceptible to Phytophth
 
 |*Scenario F*
 
-^|2b: The taxon is not significantly vulnerable to the harmful human activity.
+|2b: The taxon is not significantly vulnerable to the harmful human activity.
 
-^|2d: The taxon is not vulnerable to harmful human activity over its total range and/or there are areas where the taxon is not at significant risk.
+|2d: The taxon is not vulnerable to harmful human activity over its total range and/or there are areas where the taxon is not at significant risk.
 
-^|*The taxon is not significantly vulnerable to the harmful activity, and is not vulnerable to that activity over its total range and there are areas where the taxon is not at significant risk from that activity.*
+|*The taxon is not significantly vulnerable to the harmful activity, and is not vulnerable to that activity over its total range and there are areas where the taxon is not at significant risk from that activity.*
 
 |===
 
@@ -99,11 +100,11 @@ This may apply to a species of plant in a forestry area susceptible to Phytophth
 
 |*Scenario G*
 
-^|2a: The taxon has characteristics that make it significantly vulnerable to the harmful human activity.
+|2a: The taxon has characteristics that make it significantly vulnerable to the harmful human activity.
 
-^|2d: The taxon is not vulnerable to harmful human activity over its total range and/or there are areas where the taxon is not at significant risk.
+|2d: The taxon is not vulnerable to harmful human activity over its total range and/or there are areas where the taxon is not at significant risk.
 
-^|*The taxon is significantly vulnerable to the harmful activity, but is not vulnerable to that activity over its total range and there are areas where the taxon is not at significant risk from that activity.*
+|*The taxon is significantly vulnerable to the harmful activity, but is not vulnerable to that activity over its total range and there are areas where the taxon is not at significant risk from that activity.*
 
 |===
 
@@ -112,10 +113,10 @@ This may apply to a species of plant in a forestry area susceptible to Phytophth
 
 |*Scenario H*
 
-^|2a: The taxon has characteristics that make it significantly vulnerable to the harmful human activity.
+|2a: The taxon has characteristics that make it significantly vulnerable to the harmful human activity.
 
-^|2c: The taxon is vulnerable to harmful human activity over its total range. 
+|2c: The taxon is vulnerable to harmful human activity over its total range. 
 
-^|*The taxon is significantly vulnerable to the harmful activity, and is vulnerable to that activity over its total range.*
+|*The taxon is significantly vulnerable to the harmful activity, and is vulnerable to that activity over its total range.*
 
 |===
