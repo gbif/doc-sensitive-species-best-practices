@@ -135,7 +135,7 @@ Go to 2.2
 
 ^a|*YES* +
 ↓ +
-Document with supporting rationale using Statement 2: +
+Document with supporting rationale using Statement 2c: +
 "_The taxon is vulnerable to harmful human activity over its total range."_ +
 ↓ +
 <<table-04,Go to 3>>
@@ -160,7 +160,6 @@ Once it has been decided that the taxon is subject to a significant risk and imp
 2+^s|3.1. Is the content and detail of the biodiversity data such that their release would enable someone to carry out a harmful activity upon the taxon or attribute?
 
 ^a|*YES* +
-+
 ↓ +
 Document with supporting rationale using statement 3a: +
 _"The content and detail of the data is such that their release would enable someone to carry out a harmful activity upon the taxon or attribute."_ +
@@ -245,7 +244,7 @@ Go to 4.2
 ^a|*NO* +
 ↓ +
 Document using statement 4b: +
-_"4b: On balance, release of the data will not increase the risk of environmental harm or harm to a living person."_ +
+_"On balance, release of the data will not increase the risk of environmental harm or harm to a living person."_ +
 ↓ +
 Go to 4.5
 
@@ -258,9 +257,7 @@ _"The species is a distinctive species of high biological significance, is under
 *<<cat1,Category 1>>*
 
 ^a|*NO* +
-+
 ↓ +
-+
 Go to 4.3
 
 2+^s|4.3. Is the taxon such that the provision of precise locations at finer than 0.1 degrees (~10 km) would subject the taxon to threats such as disturbance and exploitation? Or does the record include highly sensitive information, the release of which could cause *extreme harm* to an individual or the environment?
@@ -268,13 +265,11 @@ Go to 4.3
 ^a|*YES* +
 ↓ +
 Document using statement 4d, collating all supporting rationale and documenting the decision to release the data: +
-_"The species is classed as highly sensitive, and the provision of precise locations would subject the species to threats such as disturbance and exploitation, and/or the record includes highly sensitive information, the release of which could cause extreme harm to the environment or an individual."_
+_"The species is classed as highly sensitive, and the provision of precise locations would subject the species to threats such as disturbance and exploitation, and/or the record includes highly sensitive information, the release of which could cause extreme harm to the environment or an individual."_ +
 *<<cat2,Category 2>>*
 
 ^a|*NO* +
-+ 
 ↓ +
-+
 Go to 4.4
 
 2+^s|4.4. Is the taxon such that the provision of precise locations at finer than 0.01 degrees (~1 km) would subject the species to threats such as collection or deliberate damage? Or does the record include sensitive information, the release of which could cause *harm* to an individual or the environment?
@@ -283,12 +278,10 @@ Go to 4.4
 ↓ +
 Document using statement 4e, collating all supporting rationale and documentubg the decision to release the data: +
 _"The species is classed as of medium to high sensitivity, and the provision of precise locations could subject the species to threats such as collection or deliberate damage, and/or the record includes sensitive information, the release of which could cause harm to the environment or to an individual."_ +
-*<<cat3,Go to Category 3>>*
+*<<cat3,Category 3>>*
 
 ^a|*NO* +
-+
 ↓ +
-+
 Go to 4.5
 
 2+^s|4.5. Is the taxon subject to low to medium threat if precise locations (i.e. locations with a precision greater than 0.001 degrees or 100m) become publicly available and where there is some risk of collection or deliberate damage?
@@ -313,7 +306,7 @@ In the online survey (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]), a numb
 
 NOTE: All data regarded as being sensitive should include a date for review of their sensitivity status, along with documented reasons for the sensitivity status. The date for review may be short or long depending on the nature of the sensitivity.
 
-The <<Categories of sensitivity>> are largely based on those from the NSW Office of Environment and Heritage (https://www.environment.nsw.gov.au/resources/nature/SensitiveSpeciesPolicyDEC09.pdf[DECCW 2009]).
+The <<Categories of sensitivity,categories of sensitivity>> are largely based on those from the NSW Office of Environment and Heritage (https://www.environment.nsw.gov.au/resources/nature/SensitiveSpeciesPolicyDEC09.pdf[DECCW 2009]).
 
 === Categories of sensitivity
 
@@ -330,63 +323,63 @@ The <<Categories of sensitivity>> are largely based on those from the NSW Office
 Species or records for which no records will be provided at all, or which are only released as present within a large region such as a county, watershed, etc. 
 
 a|The reason for non-disclosure is that: +
-+
+
 . a distinctive species of *high biological significance* is under *high threat* from exploitation/ disease or other identifiable threat where even general locality information may threaten the taxon. +
-+
+
 . the information in the record is of such a nature that its release could cause irreparable harm to the environment, to an individual or to some other feature. +
-+
+
 Data may only be supplied under strict License conditions or as presence in a large region such as a watershed, county, or biogeographic region.
 
 |[[cat2]]*Category 2* +
-+
-Species or records for which coordinates will be publicly available ‘denatured’ (to 0.1 degrees) and/or other information in the record is generalized. Finer scale data (<<cat3,Category 3>>, <<cat4,Category 4>> or detailed data) may be supplied to individuals under License. 
+
+Species or records for which coordinates will be publicly available ‘denatured’ (to 0.1 degrees) and/or other information in the record is generalized. Finer scale data (<<cat3,Category 3>>, <<cat4,Category 4>> or detailed data) may be supplied to individuals under License. +
 
 a|The reasons for restriction are that: +
-+
+
 . The species is classed as *highly sensitive*, and the provision of precise locations *would* subject the species to threats such as disturbance and exploitation. +
-+
+
 . The record includes *highly* sensitive information, the release of which could cause *extreme* harm to an individual or to the environment. +
-+
+
 Data are supplied to the public +
-+
+
 . with the georeference denatured to 0.1 degrees (~10 km) and/or +
-+
+
 . with sensitive fields generalized or removed and replaced with suitable replacement wording +
-+
+
 Data may be supplied at finer scales on request under the conditions of a written data agreement, usually a Data Licence Agreement. When data are provided to clients, they will be advised which species or fields  are sensitive and may have their coordinates denatured to that available under <<cat3,Category 3>> or <<cat4,Category 4>>. +
-+
+
 *NB*: In the case where the sensitivity is triggered by fields other than the georeference, it may be more appropriate to class the record as <<cat3,Category 3>> or <<cat4,Category 4>>. +
 
 |[[cat3]]*Category 3* +
-+
+
 Species or records for which coordinates will be publicly available ‘denatured’ (to 0.01 degrees) and/or other information in the record is generalized. Finer scale data (<<cat3,Category 3>>, <<cat4,Category 4>> or detailed data) may be supplied to individuals under License.
 
 a|The reasons for restriction are that: +
-+
+
 . The species is classed as of *medium to high sensitivity*, and the provision of precise locations *could* subject the species to threats such as disturbance and exploitation. +
-+
+
 . The record includes *sensitive* information, the release of which could cause harm to an individual or to the environment. +
-+
+
 Data are supplied to the public +
-+
+
 . with the georeference denatured to 0.01 degrees (~ 1 km) and/or +
-+
+
 . with sensitive fields generalized or removed and replaced with suitable replacement wording +
-+
+
 Data may be supplied at finer scales on request under the conditions of a written data agreement, usually a Data Licence Agreement. When data are provided to clients, they will be advised which species or fields are sensitive and may have their coordinates denatured to that available under <<cat4,Category 4>>. +
-+
+
 *NB*: In the case where the sensitivity is triggered by fields other than the georeference, it may be more appropriate to class the record as <<cat4,Category 4>>.
 
 |[[cat4]]*Category 4* +
-+
+
 Species or records for which coordinates will be publicly available ‘denatured’ (to 0.001 degrees) and/or other information in the record is generalized. Detailed ‘as-held’ data may be supplied to individuals under Licence. +
 
 a|The reasons for restriction are that: +
-+
+
 . The species is classed as of *low to medium sensitivity*, and the provision of precise locations could lead to risk of collection or deliberate damage. +
-+
+
 . The record includes *sensitive* information, the release of which could cause harm to an individual or to the environment. +
-+
+
 Detailed data may be supplied under the conditions of a written data agreement, usually a Data Licence Agreement. When data are provided to clients, they will be advised which species or fields are sensitive.
 
 |===
