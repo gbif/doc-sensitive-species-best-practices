@@ -49,12 +49,12 @@ or may be more free text, such as ‘1 minute’, ‘0.1 minute’, ‘1 second�
 
 |===
 
-The ‘dataSensitiveComments’ field here is perhaps equivalent to the ‘Access Constraints’ field in most dataset level metadata. The sort of information at the dataset level may include something like:
+The `dataSensitiveComments` field here is perhaps equivalent to the `Access Constraints` field in most dataset level metadata. The sort of information at the dataset level may include something like:
 
 [quote]
 This dataset is only available to the public at a summary resolution for the following reason. Some of the information held within this dataset relates to species that are vulnerable to human disturbance or prejudice. Two species (_Adelanthus lindenbergianus_, _Athalamia hyaline_) are significantly vulnerable to collecting. The full detail of this sensitive information may be made available under licence to specific organisations and individuals that need to know to avoid harm to the environment. Please contact the provider for more information.
 
-Until such time as these standards and protocols are modified, it is recommended that the data be documented in the Comment fields, and as far as possible to record the same type of information that would be included in the recommended fields above, for example, that:
+Until such time as these standards and protocols are modified, it is recommended that the data be documented in the `Comment` fields, and as far as possible to record the same type of information that would be included in the recommended fields above, for example, that:
 
 *	The data are sensitive
 *	The primary reasons the data are regarded as sensitive (see Criteria 1-4, <<table-01,Table 1>>) along with supporting rationale
