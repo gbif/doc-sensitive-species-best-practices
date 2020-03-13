@@ -282,6 +282,7 @@ The <<Categories of sensitivity>> (below) are largely based on those from the NS
 | Criterion	| Reasoning
 
 |[[cat1]]*Category 1*
+
 Species or records for which no records will be provided at all, or which are only released as present within a large region such as a county, watershed, etc. 
 
 |The reason for non-disclosure is that:
@@ -289,19 +290,24 @@ Species or records for which no records will be provided at all, or which are on
 2. the information in the record is of such a nature that its release could cause irreparable harm to the environment, to an individual or to some other feature.
 Data may only be supplied under strict License conditions or as presence in a large region such as a watershed, county, or biogeographic region.
 
-|*Category 2*
+|[[cat2]]*Category 2*
 Species or records for which coordinates will be publicly available ‘denatured’ (to 0.1 degrees) and/or other information in the record is generalized. Finer scale data (Category 3 or 4 or detailed data) may be supplied to individuals under License. 
 
 |The reasons for restriction are that:
 1. The species is classed as *highly sensitive*, and the provision of precise locations *would* subject the species to threats such as disturbance and exploitation.
 2. The record includes *highly* sensitive information, the release of which could cause *extreme* harm to an individual or to the environment.
+
 Data are supplied to the public
-1. with the georeference denatured to 0.1 degrees (~10 km) and/or
-2. with sensitive fields generalized or removed and replaced with suitable replacement wording.
+
+.with the georeference denatured to 0.1 degrees (~10 km) and/or
+
+.with sensitive fields generalized or removed and replaced with suitable replacement wording.
+
 Data may be supplied at finer scales on request under the conditions of a written data agreement, usually a Data Licence Agreement. When data are provided to clients, they will be advised which species or fields  are sensitive and may have their coordinates denatured to that available under Categories 3 or 4.
+
 *NB*: In the case where the sensitivity is triggered by fields other than the georeference, it may be more appropriate to class the record as Category 3 or 4.
 
-|*Category 3*
+|[[cat3]]*Category 3*
 Species or records for which coordinates will be publicly available ‘denatured’ (to 0.01 degrees) and/or other information in the record is generalized. Finer scale data (Category 3 or 4 or detailed data) may be supplied to individuals under License.
 
 |The reasons for restriction are that:
@@ -313,7 +319,7 @@ Data are supplied to the public
 Data may be supplied at finer scales on request under the conditions of a written data agreement, usually a Data Licence Agreement. When data are provided to clients, they will be advised which species or fields are sensitive and may have their coordinates denatured to that available under Category 4.
 *NB*: In the case where the sensitivity is triggered by fields other than the georeference, it may be more appropriate to class the record as Category 4.
 
-|*Category 4*
+|[[cat4]]*Category 4*
 Species or records for which coordinates will be publicly available ‘denatured’ (to 0.001 degrees) and/or other information in the record is generalized. Detailed ‘as-held’ data may be supplied to individuals under License.
 
 |The reasons for restriction are that:
