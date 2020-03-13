@@ -40,7 +40,7 @@ The criteria are used to determine:
 
 |===
 
-A set of scenarios using Criteria 1 and 2 (<<table-01,Table 1>>) for determining triggers for sensitivity of taxa is attached as an Annex to this document <<Annex 1: Scenarios using Criteria 1 and 2 as Triggers>>.
+A set of scenarios using Criteria 1 and 2 (<<table-01,Table 1>>) for determining triggers for sensitivity of taxa is attached as an <annex-01,Annex>> to this document.
 
 The first step in the process of determining sensitivity is to make an assessment on whether or not the taxon is subject to a harmful human activity or not and if the availability of related biodiversity data will increase the likelihood of the harmful activity occurring. 
 
