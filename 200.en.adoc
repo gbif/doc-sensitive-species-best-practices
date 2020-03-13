@@ -59,13 +59,15 @@ The taxon is at risk from harmful human activity—it is subject to attack by Ph
 
 ^a|*YES* +
 ↓ +
-Document with supporting rationale using Statement 1a: "_The taxon is at risk from a harmful human activity._" +
+Document with supporting rationale using Statement 1a: +
+"_The taxon is at risk from a harmful human activity._" +
 ↓ +
 Go to 1.2
 
 ^a|*NO* +
 ↓ +
-Document using Statement 1b: "_There is no significant risk of a harmful human activity._" +
+Document using Statement 1b: +
+"_There is no significant risk of a harmful human activity._" +
 ↓ +
 *_Taxon is not sensitive_* +
 ↓ +
@@ -75,13 +77,15 @@ Document using Statement 1b: "_There is no significant risk of a harmful human a
 
 ^a|*YES* +
 ↓ +
-Document with supporting rationale using Statement 1c: "_There is established evidence of actual or recent harm to the taxon._" +
+Document with supporting rationale using Statement 1c: +
+"_There is established evidence of actual or recent harm to the taxon._" +
 ↓ +
 Go to 1.3
 
 ^a|*NO* +
 ↓ +
-Document with supporting rationale using Statement 1d: "_There is currently no established evidence of actual harm to the taxon._" +
+Document with supporting rationale using Statement 1d: +
+"_There is currently no established evidence of actual harm to the taxon._" +
 ↓ +
 Go to 1.3
 
@@ -89,13 +93,15 @@ Go to 1.3
 
 ^a|*YES* +
 ↓ +
-Document with supporting rationale using Statement 1e: "_Availability of biodiversity data will increase the likelihood of the harmful human activity taking place._" +
+Document with supporting rationale using Statement 1e: +
+"_Availability of biodiversity data will increase the likelihood of the harmful human activity taking place._" +
 ↓ +
 <<table-03,Go to 2>>
 
 ^a|*NO* +
 ↓ +
-Document with supporting rationale using Statement 1f: "_Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place._" +
+Document with supporting rationale using Statement 1f: +
+"_Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place._" +
 ↓ +
 <<table-03,Go to 2>>
 
@@ -113,13 +119,15 @@ The next step is to determine if the taxon is sensitive to that human harm or wh
 
 ^a|*YES* +
 ↓ +
-Document with supporting rationale using Statement 2a: "_The taxon has characteristics that make it significantly vulnerable to the harmful human activity._" +
+Document with supporting rationale using Statement 2a: +
+"_The taxon has characteristics that make it significantly vulnerable to the harmful human activity._" +
 ↓ +
 Go to 2.2
 
 ^a|*NO* +
 ↓ +
-Document with supporting rationale using Statement 2b: "_The taxon is not significantly vulnerable to the harmful human activity._" +
+Document with supporting rationale using Statement 2b: +
+"_The taxon is not significantly vulnerable to the harmful human activity._" +
 ↓ +
 Go to 2.2
 
@@ -127,13 +135,15 @@ Go to 2.2
 
 ^a|*YES* +
 ↓ +
-Document with supporting rationale using Statement 2: "_The taxon is vulnerable to harmful human activity over its total range."_ +
+Document with supporting rationale using Statement 2: +
+"_The taxon is vulnerable to harmful human activity over its total range."_ +
 ↓ +
 <<table-04,Go to 3>>
 
 ^a|*NO* +
 ↓ +
-Document with supporting rationale using Statement 2d: _"The taxon is not vulnerable to harmful human activity over its total range *and/or* there are areas where the taxon occurs but is not at significant risk."_ +
+Document with supporting rationale using Statement 2d: +
+_"The taxon is not vulnerable to harmful human activity over its total range *and/or* there are areas where the taxon occurs but is not at significant risk."_ +
 ↓ +
 <<table-04,Go to 3>>
 
@@ -149,61 +159,69 @@ Once it has been decided that the taxon is subject to a significant risk and imp
 
 2+^s|3.1. Is the content and detail of the biodiversity data such that their release would enable someone to carry out a harmful activity upon the taxon or attribute?
 
-|Yes: Document using statement 3a with supporting rationale.
-
+^a|*YES* +
+↓ +
+Document with supporting rationale using statement 3a: +
+_"The content and detail of the data is such that their release would enable someone to carry out a harmful activity upon the taxon or attribute."_ +
+↓ +
 Go to 3.2
 
-|No: [Data are not sensitive] Document using statement 3b with supporting rationale
-
-Go to 4
+^a|*NO* +
+↓ +
+[Data are not sensitive] Document with supporting rationale using statement 3b: +
+_"The content and detail of the data if released would *not* enable someone to carry out a harmful activity upon the taxon or attribute."_ +
+↓ +
+<<table-05,Go to 4>>
 
 2+^s|3.2. Is information already in the public domain, or already known to those individuals or groups likely to undertake the harmful activity?
 
-| Yes: Document using statement 3d with supporting rationale.
-
+^a|*YES* +
+↓ +
+Document with supporting rationale using statement 3d: +
+_"The information is already in the public domain, or is already known to the individuals or groups likely to undertake harmful activities."_ +
+↓ +
 Go to 3.3
 
-| No: Document using statement 3c with supporting rationale.
-
+^a|*NO* +
+↓ +
+Document with supporting rationale using statement 3c: +
+_"The information is not in the public domain, and is *not* already known to individuals or groups likely to undertake harmful activities."_ +
+↓ +
 Go to 3.3
 
 2+^s|3.3. Would disclosure damage a partnership or relationship (especially where the maintenance of which is essential to helping achieve a specific conservation objective)?
 
-| Yes: Document using statement 3e with supporting rationale.
-
+^a|*YES* +
+↓ +
+Document with supporting rationale using statement 3e: +
+_"Disclosure of the data is *likely* to damage a partnership or relationship the maintenance of which is essential to helping achieve a specific conservation objective."_ +
+↓ +
 Go to 3.4
 
-|No: Document using statement 3f with supporting rationale.
-
+^a|*NO* +
+↓ +
+Document with supporting rationale using statement 3f: +
+_"Disclosure of the data *will not* damage any partnership or relationship essential to conservation."_ +
+↓ +
 Go to 3.4
 
 2+^s|3.4. Would disclosure allow the locations of sensitive features to be derived through combination with other publicly available information sources?
 
-|Yes: Document using statement 3g with supporting rationale.
+^a|*YES* +
+↓ +
+Document with supporting rationale using statement 3g: +
+_"Disclosure *would* allow the locations of sensitive features to be derived through combination with other publicly available information sources."_ +
+↓ +
+<<table-05,Go to 4>>
 
-Go to 4
-
-|No: Document using statement 3h with supporting rationale.
-
-Go to 4
+^a|*NO* +
+↓ +
+Document with supporting rationale using statement 3h: +
+_"Disclosure *will not* allow the locations of sensitive features to be derived through combination with other publicly available information sources."_ +
+↓ +
+<<table-05,Go to 4>>
 
 |===
-
-3a: The content and detail of the data is such that their release would enable someone to carry out a harmful activity upon the taxon or attribute.
-
-3b: The content and detail of the data if released would *not* enable someone to carry out a harmful activity upon the taxon or attribute.
-
-3c: The information is not in the public domain, and is *not* already known to individuals or groups likely to undertake harmful activities.
-
-3d: The information is already in the public domain, or is already known to the individuals or groups likely to undertake harmful activities.
-
-3e: Disclosure of the data is *likely* to damage a partnership or relationship the maintenance of which is essential to helping achieve a specific conservation objective.
-
-3f: Disclosure of the data *will not* damage any partnership or relationship essential to conservation.
-
-3g: Disclosure *would* allow the locations of sensitive features to be derived through combination with other publicly available information sources
-
-3h: Disclosure *will not* allow the locations of sensitive features to be derived through combination with other publicly available information sources
 
 The final step is to make an overall assessment based on the three criteria above and to document the overall decision using the combined information documented in making each of the earlier decisions. Once it has been determined that the data should or should not be released, then it is important that a decision is made on the <<Category of Sensitivity>>, and the level of <<generalization>> for the release of the data.
 
