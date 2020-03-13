@@ -288,7 +288,7 @@ Go to 4.5
 
 ^a|*YES* +
 ↓ +
-Document using statement 4f, collate all supporting rationale and document the decision to release the data: +
+Document using statement 4f, collating all supporting rationale and documenting the decision to release the data: +
 _"The species is classed as of low to medium sensitivity, and the provision of precise locations could subject the species to threats such as disturbance and exploitation. Detailed data may be made available to individuals under licence."_ +
 *<<cat4,Category 4>>*
 
