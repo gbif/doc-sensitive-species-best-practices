@@ -99,7 +99,7 @@ Go to 1.3
 
 ^a|*YES*
 
-_Document using with supporting rationale Statement 1e:_
+_Document with supporting rationale using Statement 1e:_
 
 Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.
 
