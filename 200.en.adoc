@@ -57,60 +57,58 @@ The taxon is at risk from harmful human activity—it is subject to attack by Ph
 
 2+^s|1.1. Is the taxon subject to a harmful human activity?
 
-^a|*YES* 
-
-_Document with supporting rationale using Statement 1a:_
-
-The taxon is at risk from a harmful human activity.
-
-
-
+^a|*YES* +
+↓ +
+Document with supporting rationale using Statement 1a: +
+↓ +
+_The taxon is at risk from a harmful human activity._ +
+↓ +
 Go to 1.2
 
-^a|*NO*
-
-_Document using Statement 1b:_
-
-There is no significant risk of a harmful human activity.
-
-*Taxon is not sensitive* 
-
+^a|*NO* +
+↓ +
+Document using Statement 1b: +
+↓ +
+_There is no significant risk of a harmful human activity._ +
+↓ +
+*_Taxon is not sensitive_* +
+↓ +
 <<table-4,Go to 3>>
 
-2+^s|1.2. Is there established evidence of current or recent occurrences of the harmful human activity? 
+2+^s|1.2. Is there established evidence of current or recent occurrences of the harmful human activity?
 
-^a|*YES*
-
-_Document with supporting rationale using Statement 1c:_
-
-There is established evidence of actual or recent harm to the taxon.
-
+^a|*YES* +
+↓ +
+Document with supporting rationale using Statement 1c: +
+↓ +
+_There is established evidence of actual or recent harm to the taxon._ +
+↓ +
 Go to 1.3
 
-^a|*NO*
-
-_Document with supporting rationale using Statement 1d:_
-
-There is currently no established evidence of actual harm to the taxon.
-
+^a|*NO* +
+↓ +
+Document with supporting rationale using Statement 1d: +
+↓ +
+_There is currently no established evidence of actual harm to the taxon._ +
+↓ +
 Go to 1.3
 
-2+^s|1.3. Will availability of related biodiversity data increase the likelihood of the harmful human activity taking place? 
+2+^s|1.3. Will availability of related biodiversity data increase the likelihood of the harmful human activity taking place?
 
-^a|*YES*
-
-_Document with supporting rationale using Statement 1e:_
-
-Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.
-
+^a|*YES* +
+↓ +
+Document with supporting rationale using Statement 1e: +
+↓ +
+_Availability of biodiversity data will increase the likelihood of the harmful human activity taking place._ +
+↓ +
 <<table-03,Go to 2>>
 
-^a|*NO*
-
-_Document with supporting rationale using Statement 1f:_
-
-Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place.
-
+^a|*NO* +
+↓ +
+Document with supporting rationale using Statement 1f: +
+↓ +
+_Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place._ +
+↓ +
 <<table-03,Go to 2>>
 
 |===
@@ -121,7 +119,7 @@ The next step is to determine if the taxon is sensitive to that human harm or wh
 [caption="Table 3. "]
 .*Impact of harm*. Assessing sensitivity of taxa to a harmful human activity.
 
-|=== 
+|===
 
 2+^s|2.1. Does the taxon have characteristics that make it significantly vulnerable to the harmful human activity?
 
