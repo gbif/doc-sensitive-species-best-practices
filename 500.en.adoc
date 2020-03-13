@@ -27,25 +27,26 @@ At the moment, neither the https://www.tdwg.org/standards/dwc/[Darwin Core^] nor
 
 | sensitiveDateForReview | A date field documenting when the sensitive nature of the date should be reviewed. Especially important where the sensitivity is just awaiting publication of results, etc.
 
-| precisionDataProvided 
+a| precisionDataProvided 
 
-a| The scale or the precision of the data made available via the Darwin Core record – may be done as precision, e.g. +
+| The scale or the precision of the data made available via the Darwin Core record – may be done as precision, e.g. +
 *	0 = 1 degree +
 *	1 = 0.1 degree +
 *	2 = 0.01 degree +
 *	3 = 0.001 degree +
 *	4 = 0.0001 degree +
 
-| precisionDataStored 
+a| precisionDataStored 
 
-a| The scale or the precision of the data stored or retained by the data custodian – may be done as precision, e.g. +
+| The scale or the precision of the data stored or retained by the data custodian – may be done as precision, e.g. +
 *	0 = 1 degree +
 *	1 = 0.1 degree +
 *	2 = 0.01 degree +
 *	3 = 0.001 degree +
 *	4 = 0.0001 degree +
 *	etc. +
-or may be more free text, such as ‘1 minute’, ‘0.1 minute’, ‘1 second’, etc. depending on how data are stored.
++
+or maybe more free text—such as ‘1 minute’, ‘0.1 minute’, ‘1 second’—depending on how data are stored.
 
 |===
 
