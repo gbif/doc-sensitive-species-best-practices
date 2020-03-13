@@ -1,10 +1,121 @@
+[[annex-01]]
 == Annex 1: Scenarios using Criteria 1 and 2 as Triggers
 
-The following sets of scenarios show how the criteria statements given in the Chapter on <<Determining Sensitivity>> may be used to develop summary statements for documenting the reasons why a taxon may be regarded as sensitive. The summary statement (in the white boxes), should also include supporting rationale, such as specific types of harm, etc.  For example in the second scenario (B) – the full statement may read something like:
+The following sets of scenarios show how the criteria statements given in the Chapter on <<Determining sensitivity>> may be used to develop summary statements for documenting the reasons why a taxon may be regarded as sensitive. Summary statements should also include supporting rationale, such as specific types of harm, etc. For example, in scenario B, the full statement may read something like:
 
 [quote]
-*Taxa could be at risk from harm from disease carried on the wheels of forestry machinery but occurrence is not affected by data availability.*
+Taxa could be at risk from harm from disease carried on the wheels of forestry machinery but occurrence is not affected by data availability.
 
 This may apply to a species of plant in a forestry area susceptible to Phytophthora attack, the fungi being transferred on the wheels of forestry vehicles.
 
-\\ insert criteria key \\
+=== Criterion 1
+
+[options="header"]
+|===
+
+|Scenario A
+
+^|1a: There is no significant risk of a harmful human activity.
+
+^|*The taxon is not sensitive.*
+
+|===
+
+[options="header"]
+|===
+
+|*Scenario B*
+^|1a – The taxon is at risk from harmful human activity. 
+
+^|1d: There is currently no established evidence of actual harm to the taxon. 
+
+^|1f: Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place.
+
+^|*The taxon could be at risk from harm but likelihood of harm is not affected by data availability.*
+
+|===
+
+[options="header"]
+|===
+
+|*Scenario C*
+
+^|1a: The taxon is at risk from harmful human activity. 
+
+^|1d: There is currently no established evidence of actual harm to the taxon.
+
+^|1e: Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.
+
+|*The taxon could be at risk from harm and the likelihood of harm is affected by data availability.*
+
+|===
+
+[options="header"]
+|===
+
+|*Scenario D*
+
+^|1a: The taxon is at risk from harmful human activity. 
+
+^|1c: There is established evidence of actual or recent harm to the taxon.
+
+^|1f: Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place.
+
+^|*The taxon is at risk from harm and there is evidence to support this, but occurrence is not affected by data availability.*
+
+|===
+
+[options="header"]
+|===
+
+|*Scenario E*
+^|1a: The taxon is at risk from harmful human activity.
+
+^|1c: There is established evidence of actual harm to the taxon.
+
+^|1e: Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.
+
+^|*The taxon is at risk from harm, there is evidence to support this, and occurrence is affected by data availability.*
+
+|===
+
+=== Criteria 2
+
+[options="header"]
+|===
+
+|*Scenario F
+
+^|2b: The taxon is not significantly vulnerable to the harmful human activity.
+
+^|2d: The taxon is not vulnerable to harmful human activity over its total range and/or there are areas where the taxon is not at significant risk.
+
+^|*The taxon is not significantly vulnerable to the harmful activity, and is not vulnerable to that activity over its total range and there are areas where the taxon is not at significant risk from that activity.*
+
+|===
+
+[options="header"]
+|===
+
+|*Scenario G*
+
+^|2a: The taxon has characteristics that make it significantly vulnerable to the harmful human activity.
+
+^|2d: The taxon is not vulnerable to harmful human activity over its total range and/or there are areas where the taxon is not at significant risk.
+
+^|*The taxon is significantly vulnerable to the harmful activity, but is not vulnerable to that activity over its total range and there are areas where the taxon is not at significant risk from that activity.*
+
+|===
+
+[options="header"]
+|===
+
+|*Scenario H*
+
+^|2a: The taxon has characteristics that make it significantly vulnerable to the harmful human activity.
+
+^|2c: The taxon is vulnerable to harmful human activity over its total range. 
+
+^|*The taxon is significantly vulnerable to the harmful activity, and is vulnerable to that activity over its total range.*
+
+|===
