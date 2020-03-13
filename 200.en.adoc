@@ -111,46 +111,33 @@ The next step is to determine if the taxon is sensitive to that human harm or wh
 
 2+^s|2.1. Does the taxon have characteristics that make it significantly vulnerable to the harmful human activity?
 
-|Yes
+^a|*YES* +
 ↓ +
-Document using <<2a,Statement 2a>> with supporting rationale.
+Document with supporting rationale using Statement 2a: "_The taxon has characteristics that make it significantly vulnerable to the harmful human activity._" +
 ↓ +
+Go to 2.2
 
+^a|*NO* +
 ↓ +
-<<Go to 2.2>>
-
-|No:
+Document with supporting rationale using Statement 2b: "_The taxon is not significantly vulnerable to the harmful human activity._" +
 ↓ +
-Document using <<2b,Statement 2b>> and supporting rationale.
-↓ +
-
-↓ +
-<<Go to 2.2>>
+Go to 2.2
 
 2+^s|2.2. Is the taxon vulnerable to harmful human activity over its total range, or are there areas (such as in conservation zones, or other parts of the world) where the taxon is not at the same level of risk?
 
-|Yes
+^a|*YES* +
 ↓ +
-Document using <<2c,Statement 2c>> with supporting rationale.
+Document with supporting rationale using Statement 2: "_The taxon is vulnerable to harmful human activity over its total range."_ +
 ↓ +
+<<table-04,Go to 3>>
 
+^a|*NO* +
 ↓ +
-<<Go to 3>>
-
-| No
+Document with supporting rationale using Statement 2d: _"The taxon is not vulnerable to harmful human activity over its total range *and/or* there are areas where the taxon occurs but is not at significant risk."_ +
 ↓ +
-Document using <<2d,Statement 2d>> with supporting rationale.
-↓ +
-
-↓ +
-<<Go to 3>>
+<<table-04,Go to 3>>
 
 |===
-
-* [[2a]]Statement 2a: The taxon has characteristics that make it significantly vulnerable to the harmful human activity.
-* [[2b]]Statement 2b: The taxon is not significantly vulnerable to the harmful human activity.
-* [[2c]]Statement 2c: The taxon is vulnerable to harmful human activity over its total range. 
-* [[2d]]Statement 2d: The taxon is not vulnerable to harmful human activity over its total range *and/or* there are areas where the taxon occurs but is not at significant risk.
 
 Once it has been decided that the taxon is subject to a significant risk and impact from harm or not, then a decision needs to be taken on whether the release of specific data on that taxon – or other related data – will increase the risk and impact of harm.
 
