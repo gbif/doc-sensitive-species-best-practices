@@ -16,26 +16,37 @@ At the moment, neither the https://www.tdwg.org/standards/dwc/[Darwin Core^] nor
 [caption="Table 8. "]
 .Recommendations on extension to Darwin Core for Sensitive Taxa
 |===
+
 | Field | Comments
+
 | dataSensitiveIndicator | Y/N flag that the observation is sensitive.
-| dataSensitiveReason | The primary reason why the data are sensitive. Suggested 
-format is either a picklist with values derived from Criteria 1-4 above (or a text field that combines the statements 1a-4g attached to those criteria).
-| dataSensitiveComments	Further information on the reason(s) or supporting rationale for determining relevance of the Criteria for this record as recommended above.  [Free Text]
+
+| dataSensitiveReason | The primary reason why the data are sensitive. Suggested format is either a picklist with values derived from Criteria 1-4 above (or a text field that combines the statements 1a-4g attached to those criteria).
+
+| dataSensitiveComments	| Further free-text information on the reason(s) or supporting rationale for determining relevance of the Criteria for this record as recommended above.
+
 | sensitiveDateForReview | A date field documenting when the sensitive nature of the date should be reviewed. Especially important where the sensitivity is just awaiting publication of results, etc.
-| precisionDataProvided | The scale or the precision of the data made available via the Darwin Core record – may be done as precision, e.g. 
-•	0 = 1 degree
-•	1 = 0.1 degree
-•	2 = 0.01 degree
-•	3 = 0.001 degree
-•	4 = 0.0001 degree
-| precisionDataStored | The scale or the precision of the data stored or retained by the data custodian – may be done as precision, e.g. 
-•	0 = 1 degree
-•	1 = 0.1 degree
-•	2 = 0.01 degree
-•	3 = 0.001 degree
-•	4 = 0.0001 degree
-•	Etc. or 
-may be more free text, such as ‘1 minute’, ‘0.1 minute’, ‘1 second’, etc. depending on how data are stored.
+
+| precisionDataProvided 
+
+a| The scale or the precision of the data made available via the Darwin Core record – may be done as precision, e.g. +
+*	0 = 1 degree +
+*	1 = 0.1 degree +
+*	2 = 0.01 degree +
+*	3 = 0.001 degree +
+*	4 = 0.0001 degree +
+
+| precisionDataStored 
+
+a| The scale or the precision of the data stored or retained by the data custodian – may be done as precision, e.g. +
+*	0 = 1 degree +
+*	1 = 0.1 degree +
+*	2 = 0.01 degree +
+*	3 = 0.001 degree +
+*	4 = 0.0001 degree +
+*	etc. +
+or may be more free text, such as ‘1 minute’, ‘0.1 minute’, ‘1 second’, etc. depending on how data are stored.
+
 |===
 
 The ‘dataSensitiveComments’ field here is perhaps equivalent to the ‘Access Constraints’ field in most dataset level metadata. The sort of information at the dataset level may include something like:
