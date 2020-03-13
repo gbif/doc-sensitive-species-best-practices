@@ -87,9 +87,9 @@ Risk of harm statements
 * [#1a]Statement 1a: The taxon is at risk from a harmful human activity.
 * [#1b]Statement-1b: There is no significant risk of a harmful human activity.
 * [#1c]Statement 1c: There is established evidence of actual or recent harm to the taxon
-* [[1d]]Statement 1d: There is currently no established evidence of actual harm to the taxon.
-* [[1e]]Statement 1e: Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.
-* [[1f]]Statement 1f: Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place.
+* [[1d]] Statement 1d: There is currently no established evidence of actual harm to the taxon.
+* [[1e]] Statement 1e: Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.
+* [[1f]] Statement 1f: Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place.
 
 The next step is to determine if the taxon is sensitive to that human harm or whether they are suitably robust not to be adversely affected.
 
