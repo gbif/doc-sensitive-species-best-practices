@@ -9,7 +9,7 @@ In particular, there should be a clear documentation of the ‘Access Constraint
 [quote]
 Metadata fulfils an essential function regarding communication to third parties, of access constraints and use conditions that the data generators intend to give to their data. It can be considered as an ‘aid’ in protecting data and information, since it will allow system users to visualize the conditions established by the data generator for access and use of the information. Additionally, in case the data are not accessible, the metadata allows knowledge of the conditions of access through other media (digital or not) as well as a summary of the content. (<<jvl,Llinás 2005>>)
 
-Metadata has generally been used to refer to documentation of a whole dataset.  Documentation at the record level has usually been referred to just in comments. I prefer, however, to term this ‘<<record-level metadata>>’, and to formalize the process. In the previous chapter a recommendation was made that where data were generalized for distribution, to document the level of <<generalization>>—for example, that the data had been generalized using a decimal geographic grid, and to record both the precision of the data provided and the precision of the data ‘as-held’ or stored. Also, in the chapter on <<Determining sensitivity,Determining sensitivity>>, a series of documentation processes were recommended (<<Table 1>>). Some of these may be more appropriate for documenting the reasons for regarding a taxon as a potential environmentally sensitivity taxon (Criteria 1 and 2), while the others (Criteria 3 and 4) are appropriate to the data themselves and belong as part of the broader record-level metadata. To fully document the reasons for restricting data, however, it may be necessary to inherit the documentation from Criteria 1 and 2 to the record level – for example, the reason that data are restricted may include that the taxon is subject to harmful human activity.
+Metadata has generally been used to refer to documentation of a whole dataset.  Documentation at the record level has usually been referred to just in comments. I prefer, however, to term this ‘<<record-level metadata>>’, and to formalize the process. In the previous chapter a recommendation was made that where data were generalized for distribution, to document the level of <<generalization>>—for example, that the data had been generalized using a decimal geographic grid, and to record both the precision of the data provided and the precision of the data ‘as-held’ or stored. Also, in the chapter on <<Determining sensitivity,Determining sensitivity>>, a series of documentation processes were recommended (<<table-01,Table 1>>). Some of these may be more appropriate for documenting the reasons for regarding a taxon as a potential environmentally sensitivity taxon (Criteria 1 and 2), while the others (Criteria 3 and 4) are appropriate to the data themselves and belong as part of the broader record-level metadata. To fully document the reasons for restricting data, however, it may be necessary to inherit the documentation from Criteria 1 and 2 to the record level – for example, the reason that data are restricted may include that the taxon is subject to harmful human activity.
 
 At the moment, neither the https://www.tdwg.org/standards/dwc/[Darwin Core^] nor the https://www.tdwg.org/standards/abcd/[ABCD^] standards have fields for recording the type of record-level metadata that is recommended here. A number of recommendations have been made to Biodiversity Information Standards (TDWG) for the inclusion of extra fields to the https://dwc.tdwg.org/terms/#location[Darwin Core Location Class^] (TDWG 2018). The recommendations included:
 
@@ -29,7 +29,8 @@ At the moment, neither the https://www.tdwg.org/standards/dwc/[Darwin Core^] nor
 
 a| precisionDataProvided 
 
-| The scale or the precision of the data made available via the Darwin Core record – may be done as precision, e.g. +
+a| The scale or the precision of the data made available via the Darwin Core record – may be done as precision, e.g. +
++
 *	0 = 1 degree +
 *	1 = 0.1 degree +
 *	2 = 0.01 degree +
@@ -38,7 +39,8 @@ a| precisionDataProvided
 
 a| precisionDataStored 
 
-| The scale or the precision of the data stored or retained by the data custodian – may be done as precision, e.g. +
+a| The scale or the precision of the data stored or retained by the data custodian – may be done as precision, e.g. +
++
 *	0 = 1 degree +
 *	1 = 0.1 degree +
 *	2 = 0.01 degree +
