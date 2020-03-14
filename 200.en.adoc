@@ -224,7 +224,7 @@ _"Disclosure *will not* allow the locations of sensitive features to be derived 
 
 |===
 
-The final step is to make an overall assessment based on the three criteria above and to document the overall decision using the combined information documented in making each of the earlier decisions. Once it has been determined that the data should or should not be released, then it is important that a decision is made on the <<Category of sensitivity>>, and the level of <<generalization>> for the release of the data.
+The final step is to make an overall assessment based on the three criteria above and to document the overall decision using the combined information documented in making each of the earlier decisions. Once it has been determined that the data should or should not be released, then it is important that a decision is made on the <<table-06,Category of sensitivity>>, and the level of <<generalization>> for the release of the data.
 
 [[table-05]]
 [caption="Table 5. "]
