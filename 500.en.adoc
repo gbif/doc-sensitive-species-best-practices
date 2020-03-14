@@ -75,7 +75,7 @@ With respect to generalization of data, the Spatial Fit can be seen as a General
 [quote]
 Spatial Fit = Generalized area/True area
 
-An example of its applicability is where a georeference with an uncertainty radius of 1 km (using a point radius method (<<wgh,Wieczorek et al. 2004>>)) is made available using a 10 km^2^ grid (which completely covers the uncertainty). In this case the <spatial-fit,Spatial Fit>> would be greater than 1 as it represents an area greater than the real uncertainty (as shown in <<figure-02,Figure 2>>). 
+An example of its applicability is where a georeference with an uncertainty radius of 1 km (using a point radius method (<<wgh,Wieczorek et al. 2004>>)) is made available using a 10 km^2^ grid (which completely covers the uncertainty). In this case the <,spatial-fit,Spatial Fit>> would be greater than 1 as it represents an area greater than the real uncertainty (as shown in <<figure-02,Figure 2>>). 
 
 [[figure-02]]
 image::img/web/figure-02.jpg[]
