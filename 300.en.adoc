@@ -33,6 +33,7 @@ Some of these may need to be restricted to stop correlational analyses leading t
 Such restrictions should not restrict the provision of the record as a whole. The data that needs to be hidden may be removed and replaced with suitable wording (see below), or generalized–for example, just giving the name of a higher level taxonomic rank where the species is to be restricted.
 
 NOTE: Whenever data in a textual field are restricted or generalized for distribution (such as the name of a collector, textual locality information, etc.) it should be documented by replacing it with appropriate wording-the field should not be left blank or null.
+
 Examples of replacement wording include:
 
 [quote]
