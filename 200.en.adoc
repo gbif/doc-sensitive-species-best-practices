@@ -324,7 +324,7 @@ Species or records for which no records will be provided at all, or which are on
 
 a|The reason for non-disclosure is that: +
 
-. a distinctive species of *high biological significance* is under *high threat* from exploitation/ disease or other identifiable threat where even general locality information may threaten the taxon. +
+. a *distinctive* species of *high biological significance* is under *high threat* from exploitation/ disease or other identifiable threat where even general locality information may threaten the taxon. +
 
 . the information in the record is of such a nature that its release could cause irreparable harm to the environment, to an individual or to some other feature. +
 
