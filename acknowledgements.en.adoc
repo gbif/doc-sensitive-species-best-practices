@@ -1,5 +1,7 @@
 == Acknowledgements
 
-The earlier document (Chapman and Grafton 2008) acknowledged the many people who responded to the initial survey and who attended the workshops and who were valuable in the preparation of that document. 
+The earlier document (https://doi.org/10.15468/doc-b02j-gt10[Chapman and Grafton 2008]) acknowledged the many people who responded to the initial survey and who attended the workshops and who were valuable in the preparation of that document. 
 
 In addition, I would now like to thank John Wieczorek and Paula Zermoglio, for the on-going support and advice, as well as staff at the GBIF Secretariat, especially Laura Russell and Kyle Copas who oversaw the project.
+
+<<<
