@@ -40,3 +40,5 @@ the foundation of the Society for American Archaeology (SAA) was partially motiv
 Nineteen years later, the archaeologists continue to grapple as pointed out by https://deepblue.lib.umich.edu/handle/2027.42/115883[Frank et al. (2015)^] in discussing the results of 62 interviews of archeologists and zoologists conducted by them. They concluded that “Researchers would generally prefer to restrict access to their data from the general public but maintain open data for colleagues”, while realizing the extreme difficulties in managing such a process.
 
 This publication is largely focused on sensitive primary species occurrence data (e.g. museum and herbarium specimen data, observations, images, tracking data) but does have impacts on related data such as population sizes, numbers and viability, habitats and ecosystems, biogeography, traits, bycatch, biosecurity, etc.
+
+<<<
