@@ -393,3 +393,5 @@ a|The reasons for restriction are that: +
 Detailed data may be supplied under the conditions of a written data agreement, usually a Data Licence Agreement. When data are provided to clients, they will be advised which species or fields are sensitive.
 
 |===
+
+<<<
