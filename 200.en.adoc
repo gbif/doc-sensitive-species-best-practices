@@ -49,6 +49,8 @@ If it is not then there would appear no reason to list it as a potential environ
 [quote]
 The taxon is at risk from harmful human activity—it is subject to attack by Phytophthora which is transported by human operated vehicles.
 
+<<<
+
 [[table-02]]
 [caption="Table 2. "]
 .*Risk of harm*: Assessing if the taxon is subject to a harmful human activity
@@ -109,6 +111,8 @@ Document with supporting rationale using Statement 1f: +
 
 The next step is to determine if the taxon is sensitive to that human harm or whether they are suitably robust not to be adversely affected.
 
+<<<
+
 [[table-03]]
 [caption="Table 3. "]
 .*Impact of harm*. Assessing sensitivity of taxa to a harmful human activity.
@@ -150,6 +154,8 @@ _"The taxon is not vulnerable to harmful human activity over its total range *an
 |===
 
 Once it has been decided that the taxon is subject to a significant risk and impact from harm or not, then a decision needs to be taken on whether the release of specific data on that taxon – or other related data – will increase the risk and impact of harm.
+
+<<<
 
 [[table-04]]
 [caption="Table 4. "]
@@ -225,6 +231,8 @@ _"Disclosure *will not* allow the locations of sensitive features to be derived 
 |===
 
 The final step is to make an overall assessment based on the three criteria above and to document the overall decision using the combined information documented in making each of the earlier decisions. Once it has been determined that the data should or should not be released, then it is important that a decision is made on the <<table-06,Category of sensitivity>>, and the level of <<generalization>> for the release of the data.
+
+<<<
 
 [[table-05]]
 [caption="Table 5. "]
@@ -307,6 +315,8 @@ In the online survey (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]), a numb
 NOTE: All data regarded as being sensitive should include a date for review of their sensitivity status, along with documented reasons for the sensitivity status. The date for review may be short or long depending on the nature of the sensitivity.
 
 The <<Categories of sensitivity,categories of sensitivity>> are largely based on those from the NSW Office of Environment and Heritage (https://www.environment.nsw.gov.au/resources/nature/SensitiveSpeciesPolicyDEC09.pdf[DECCW 2009]).
+
+<<<
 
 === Categories of sensitivity
 
