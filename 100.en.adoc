@@ -18,3 +18,5 @@ NOTE: Whenever a data provider receives an application for enhanced access to re
 .	There are extremely strong reasons *not* to restrict data on related collections (e.g. collector’s numbers in sequence, collector’s name, etc.) because of the restrictions this places on data quality and data validation procedures, etc. 
 .	Users of sensitive data should comply with any and all restrictions of access that the data provider has placed on the data. If granted enhanced access to restricted information users must not compromise or otherwise infringe the confidentiality of such information.
 .	Data providers should respect the needs of data users to have access to data and documentation in order to determine the ‘fitness for use’ of the data, and to ensure that analyses are robust and not misleading.
+
+<<<
