@@ -13,6 +13,8 @@ Metadata has generally been used to refer to documentation of a whole dataset.  
 
 At the moment, neither the https://www.tdwg.org/standards/dwc/[Darwin Core^] nor the https://www.tdwg.org/standards/abcd/[ABCD^] standards have fields for recording the type of record-level metadata that is recommended here. A number of recommendations have been made to Biodiversity Information Standards (TDWG) for the inclusion of extra fields to the https://dwc.tdwg.org/terms/#location[Darwin Core Location Class^] (TDWG 2018). The recommendations included:
 
+<<<
+
 [caption="Table 8. "]
 .Recommendations on extension to Darwin Core for Sensitive Taxa
 |===
@@ -84,3 +86,5 @@ image::img/web/figure-02.jpg[]
 .Figure 2. Example of calculating Spatial Fit for a collection with an uncertainty radius of 1 km (red circle), and which is distributed using a 10 km^2^ grid (blue). Spatial Fit = 31.8.
 
 The smaller the grid size, the closer the <<spatial-fit,Spatial Fit>> will be to ‘1’. Note that a record that has its georeference randomised or generalized such that a portion of the uncertainty radius falls outside the grid square would have a <<spatial-fit,Spatial Fit>> equal to zero.
+
+<<<
