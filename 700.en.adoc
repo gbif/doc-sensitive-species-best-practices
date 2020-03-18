@@ -87,3 +87,5 @@ Other aggregation agencies, such as *iDigBio*, have left it to those supplying t
 “iDigBio accepts all Data it receives via the Services as-is. It makes no effort to mask Sensitive Data. The Data Publisher is solely responsible to mask or withhold information, including Sensitive Data, from the public.”
 
 In many cases, decisions on whether to release data to the public is done on a project to project basis. For example, https://doi.org/10.11646/zootaxa.2393.1.5[Fong and Qiao (2010)^] describe a project to map locations of an endangered species of turtle in China and argue that while this location data is valuable to researchers, it should not be made publicly available due to concerns about the safety of the animals. 
+
+<<<
