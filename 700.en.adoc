@@ -36,7 +36,7 @@ The *Australian Department of the Environment* (https://www.environment.gov.au/s
 * *Retain the original data*: Data custodians must retain an unaltered original version of the ecological data and safeguard this original version.
 * *Transparency*: Documentation should be linked to the data and must be available to all users of the data. Documentation ensures potential data users understand what data exists, why it was classed as sensitive and how it has been altered or protected. 
 * *Respect dataset restrictions*: Data custodians should not release data that has not been processed in accordance with this policy
-* *Review over time*: Data custodians should do regular reviews (every 2-5 years) on datasets to determine if their context has changed. What is currently considered sensitive data may not be sensitive in the future.
+* *Review over time*: Data custodians should do regular reviews (every 2–5 years) on datasets to determine if their context has changed. What is currently considered sensitive data may not be sensitive in the future.
 
 One principle that is emphasized by the policy is that if data on the identified sensitivities (e.g. location) is already publicly available, then it is unlikely that data can be considered sensitive. 
 
@@ -45,9 +45,9 @@ The *New South Wales Office of Environment and Heritage* (https://www.environmen
 [quote]
 *Category 1*: Species of high biological significance, for which no records will be provided at all. The reason for non-disclosure is that the species is highly threatened by exploitation/disease or other identifiable threats, and even general locality information may threaten the taxon. The famed Wollemi pine falls into this category.
 ____
-*Category 2*: Species considered to be at serious risk from threats such as disturbance or exploitation. For species in this category, geographic coordinates of sightings will be supplied 'denatured', in order to generalise the locality. Exceptions to this rule may be granted to some government agencies, or for certain research purposes.
+*Category 2*: Species considered to be at serious risk from threats such as disturbance or exploitation. For species in this category, geographic coordinates of sightings will be supplied ‘denatured’, in order to generalize the locality. Exceptions to this rule may be granted to some government agencies, or for certain research purposes.
 ____
-*Category 3*: Species considered to be at medium to high risk of threats such as disturbance or exploitation. For species in this category, coordinates will be supplied at 'as held' accuracy to licensed clients, but will otherwise be supplied 'denatured'. 
+*Category 3*: Species considered to be at medium to high risk of threats such as disturbance or exploitation. For species in this category, coordinates will be supplied at ’as held’ accuracy to licensed clients, but will otherwise be supplied ‘denatured’. 
 
 They include 3 basic categories of ‘denaturing’ (https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Animals-and-plants/Wildlife-management/appendix-2-denaturing-specifications-sensitive-species-records.pdf?la=en&hash=DB5FE561CC2DA6A9390E8521882405B5574FD607[OEH 2011^]) that are largely consistent with what is recommended here:
 
