@@ -6,7 +6,7 @@ Few of the respondents to the online survey (https://doi.org/10.35035/vs84-0p13[
 
 Some respondents to the survey stated that they were comfortable with displaying presence/absence of sensitive data within large polygons or grids squares, because it still reflected the real data, but were aghast at the idea of deliberately ‘faking’ point coordinates such that locations appear as precise representations, but are randomly offset from the real data – i.e., they represent the deliberate introduction of error. Whereas <<generalization>> creates/retains ‘true’ data, <<randomization>> creates deliberately ‘false’ data.
 
-In the fields of data mining and protection of privacy (including of individual privacy in census data), it is generally regarded that bottom-up <<generalization>> is far more practical and scientifically defensible that <<randomization>> (see for example, <<wyc,Wang et al. 2004>>, https://www.ijsr.net/archive/v4i1/SUB15769.pdf[Dalvi and Keole 2015^]).
+In the fields of data mining and protection of privacy (including of individual privacy in census data), it is generally regarded that bottom-up <<generalization>> is far more practical and scientifically defensible than <<randomization>> (see for example, <<wyc,Wang et al. 2004>>, https://www.ijsr.net/archive/v4i1/SUB15769.pdf[Dalvi and Keole 2015^]).
 
 Another advantage of <<generalization>> is that it:
 
