@@ -72,7 +72,7 @@ The *UK National Biodiversity Network* (https://nbn.org.uk/sensitive-data/[NBN 2
 
 The *US Forest Service* has a policy for sensitive species to ensure viable populations throughout their geographic ranges. Once the objectives are accomplished and viability is no longer a concern, species shall not have “sensitive” status (https://www.fs.fed.us/biology/resources/pubs/tes/ss_sum_by_region_31Oct2005_fs.pdf[US Forest Service 2005^]). Sensitive species are those plant and animal species identified by the Regional Forester for which population viability is a concern on National Forest Service (NFS) lands within the region. The goal of the Forest Service Sensitive Species Program is to ensure that species numbers and population distribution are adequate so that no federal listing will be required and no extirpation will occur on NFS lands (https://docs.google.com/document/d/1PsBw26SrR-vum9Qyn92wNl9SJ6yfyXFTlwynkoL15pg/edit#[US Forest Service 2016^]). 
 
-No specific mention is made of different categories, or of generalizing location information for the public. However, according to http://doi.org/10.1371/journal.pbio.1001634[Hartter et al. (2013)^], the US Forest Service seeks to protect research sites by not disclosing geospatial references along with its data.
+No specific mention is made of different categories, or of generalizing location information for the public. However, according to https://doi.org/10.1371/journal.pbio.1001634[Hartter et al. (2013)^], the US Forest Service seeks to protect research sites by not disclosing geospatial references along with its data.
 
 *Natural Resources Canada* and GeoConnections Canada commissioned a study to develop Best Practices for Sharing Sensitive Environmental Geospatial Data (http://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf[AMEC Earth and Environmental 2010^]). The Guidelines consider environmental geospatial data to be “thematic geospatial data that could be used for analysis in areas such as environmental impact assessments, land use planning, land management, sustainable development, resource management, airshed management, etc.” The document lists five criteria for determining sensitivity. The third criterion includes the data considered in this document:
 
@@ -83,7 +83,7 @@ The document recommends that as Canada is a member of GBIF, Canadian organizatio
 
 Other aggregation agencies, such as *iDigBio*, have left it to those supplying the data to deal with sensitivity, and have not developed a policy per se.
 
-[quote,https://www.idigbio.org/content/idigbio-terms-use-policy[iDigBio Terms of Use Policy]]
+[quote,'https://www.idigbio.org/content/idigbio-terms-use-policy[iDigBio Terms of Use Policy]']
 “iDigBio accepts all Data it receives via the Services as-is. It makes no effort to mask Sensitive Data. The Data Publisher is solely responsible to mask or withhold information, including Sensitive Data, from the public.”
 
 In many cases, decisions on whether to release data to the public is done on a project to project basis. For example, https://doi.org/10.11646/zootaxa.2393.1.5[Fong and Qiao (2010)^] describe a project to map locations of an endangered species of turtle in China and argue that while this location data is valuable to researchers, it should not be made publicly available due to concerns about the safety of the animals. 
