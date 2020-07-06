@@ -52,12 +52,14 @@ ____
 They include 3 basic categories of ‘denaturing’ (https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Animals-and-plants/Wildlife-management/appendix-2-denaturing-specifications-sensitive-species-records.pdf?la=en&hash=DB5FE561CC2DA6A9390E8521882405B5574FD607[OEH 2011^]) that are largely consistent with what is recommended here:
 
 * *Category 1*: no records provided
-* *Category 2*: records denatured to 0.1° (~10 km) for public web applications +
-records denatured to 0.01° (~1 km) for provision to licensed clients
-* *Category 3*: records denatured to 0.01° (~10 km) for public web applications +
-records provided ‘as held’ to licensed clients
+* *Category 2*: 
+** records denatured to 0.1° (~10 km) for public web applications
+** records denatured to 0.01° (~1 km) for provision to licensed clients
+* *Category 3*:
+** records denatured to 0.01° (~10 km) for public web applications
+** records provided ‘as held’ to licensed clients
 
-A list of sensitive species. the category of sensitivity, and the reasons why they are regarded as sensitive is maintained and published on the agency’s website (https://www.environment.nsw.gov.au/topics/animals-and-plants/wildlife-management/wildlife-policies-and-guidelines/sensitive-species-data[OEH 2019a]).
+A list of sensitive species, the category of sensitivity, and the reasons why they are regarded as sensitive is maintained and published on the agency’s website (https://www.environment.nsw.gov.au/topics/animals-and-plants/wildlife-management/wildlife-policies-and-guidelines/sensitive-species-data[OEH 2019a]).
 
 The *UK National Biodiversity Network* (https://nbn.org.uk/sensitive-data/[NBN 2019b^]) uses criteria that allows for different categories of generalization in the different member countries of the UK (e.g. a species can be listed as sensitive in Wales, but not in Scotland). Records are submitted to the NBN Atlas at the best capture resolution. The location of sensitive species are generalized and the generalized data made available to the public under a Creative Commons licence as determined by the data provider. https://docs.nbnatlas.org/sensitive-species-list/[Lists of sensitive taxa^], along with the reasons for sensitivity, and the generalization level for each of England, Scotland and Wales are maintained and published. 
 

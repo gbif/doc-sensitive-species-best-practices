@@ -7,10 +7,13 @@ Arthur D. Chapman
 :revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
 :title-logo-image: img/web/photo.jpg
 :license: https://creativecommons.org/licenses/by-sa/4.0/
-:xrefstyle: short
+:xrefstyle: basic
+// The value of the idprefix attribute (_ by default) is prepended.
+:idprefix:
+:idseparator: -
 
 ifdef::backend-html5[]
-_languageLinks:pdf[This document is also available in,PDF format]languageLinks:languages[and in other languages:,]._
+languageLinks:combined[]
 endif::backend-html5[]
 
 :sectnums!:

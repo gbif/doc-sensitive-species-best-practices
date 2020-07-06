@@ -31,8 +31,8 @@ At the moment, neither the https://www.tdwg.org/standards/dwc/[Darwin Core^] nor
 
 a| precisionDataProvided 
 
-a| The scale or the precision of the data made available via the Darwin Core record – may be done as precision, e.g. +
-+
+a| The scale or the precision of the data made available via the Darwin Core record – may be done as precision, e.g.
+
 *	0 = 1 degree +
 *	1 = 0.1 degree +
 *	2 = 0.01 degree +
@@ -41,16 +41,16 @@ a| The scale or the precision of the data made available via the Darwin Core rec
 
 a| precisionDataStored 
 
-a| The scale or the precision of the data stored or retained by the data custodian – may be done as precision, e.g. +
-+
+a| The scale or the precision of the data stored or retained by the data custodian – may be done as precision, e.g.
+
 *	0 = 1 degree +
 *	1 = 0.1 degree +
 *	2 = 0.01 degree +
 *	3 = 0.001 degree +
 *	4 = 0.0001 degree +
 *	etc. +
-+
-or maybe more free text—such as ‘1 minute’, ‘0.1 minute’, ‘1 second’—depending on how data are stored.
+
+or maybe more free text – such as ‘1 minute’, ‘0.1 minute’, ‘1 second’ – depending on how data are stored.
 
 |===
 
@@ -79,11 +79,11 @@ With respect to generalization of data, the Spatial Fit can be seen as a General
 [quote]
 Spatial Fit = Generalized area/True area
 
-An example of its applicability is where a georeference with an uncertainty radius of 1 km (using a point radius method (<<wgh,Wieczorek et al. 2004>>)) is made available using a 10 km^2^ grid (which completely covers the uncertainty). In this case the <<spatial-fit,Spatial Fit>> would be greater than 1 as it represents an area greater than the real uncertainty (as shown in <<figure-02,Figure 2>>). 
+An example of its applicability is where a georeference with an uncertainty radius of 1 km (using a point radius method (<<wgh,Wieczorek et al. 2004>>)) is made available using a 10 km² grid (which completely covers the uncertainty). In this case the <<spatial-fit,Spatial Fit>> would be greater than 1 as it represents an area greater than the real uncertainty (as shown in <<figure-02,Figure 2>>). 
 
 [[figure-02]]
-image::img/web/figure-02.jpg[]
-.Figure 2. Example of calculating Spatial Fit for a collection with an uncertainty radius of 1 km (red circle), and which is distributed using a 10 km^2^ grid (blue). Spatial Fit = 31.8.
+.Example of calculating Spatial Fit for a collection with an uncertainty radius of 1 km (red circle), and which is distributed using a 10 km² grid (blue). Spatial Fit = 31.8.
+image::img/web/figure-02.jpg[align="center"]
 
 The smaller the grid size, the closer the <<spatial-fit,Spatial Fit>> will be to ‘1’. Note that a record that has its georeference randomised or generalized such that a portion of the uncertainty radius falls outside the grid square would have a <<spatial-fit,Spatial Fit>> equal to zero.
 
