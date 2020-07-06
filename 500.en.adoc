@@ -67,6 +67,7 @@ Until such time as these standards and protocols are modified, it is recommended
 *	Precision of the data made available
 *	Precision of the original data stored or retained
 
+[#s-spatial-fit]
 === Spatial fit
 
 Spatial Fit (https://doi.org/10.15468/doc-2zpf-zf42[Chapman and Wieczorek 2006^]) is a concept that has arisen out of the BioGeomancer project (https://doi.org/10.1371/journal.pbio.0040381[Guralnick et al. 2006^]) and provides a measure of how well a geometric representation matches the original spatial representation. Spatial fit is a value of either zero, one or greater than 1, where 1 represents an exact match (i.e. the data has not been generalized). Details on how Spatial Fit may be calculated can be found in Chapman and Wieczorek (https://doi.org/10.15468/doc-2zpf-zf42[2006^], https://doi.org/10.15468/doc-gg7h-s853[2020^]), where the summary below can also be found: 
