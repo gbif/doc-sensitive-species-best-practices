@@ -43,7 +43,7 @@
 - [[jtpf]] Tann J & Flemons P (2009) Our secrets are not our secrets. Atlas of Living Australia Sensitive Data Report. Version 1.1. https://www.ala.org.au/wp-content/uploads/2010/07/ALA-sensitive-data-report-and-proposed-policy-v1.1.pdf [Accessed 25 May 2019]
 - [[tdwg]] TDWG (2018) Darwin Core quick reference guide. Biodiversity Information Standards (TDWG). https://dwc.tdwg.org/terms/
 - [[usfsa]] US Forest Service (2005) Forest Service Sensitive Species Summary, Designated Sensitive Species (that are not listed or proposed species under the ESA), as of 31 October, 2005. https://www.fs.fed.us/biology/resources/pubs/tes/ss_sum_by_region_31Oct2005_fs.pdf
-- [[usfsb]] US Forest Service (2016) Forest Service Sensitive Species – Wildlife. https://docs.google.com/document/d/1PsBw26SrR-vum9Qyn92wNl9SJ6yfyXFTlwynkoL15pg/edit#
+- [[usfsb]] US Forest Service (2016) Forest Service Sensitive Species – Wildlife. TODO_LINK
 - [[wyc]] Wang K, Yu PS & Chakraborty S (2004) Bottom-Up Generalization: A Data Mining Solution to Privacy Protection, in Proceedings of Fourth International IEEE Conference on Data Mining (ICDM’04): 249-256.
 - [[zw]] Wang Z, Dong H, Kelly M, Macklin JA, Morris PJ, Morris R 2009. Filtered-Push: A Map-Reduce Platform for Collaborative Taxonomic Data Management. World Congress on Computer Science and Information Engineering, March 31 – April 2, 2009, Los Angeles, California, USA. https://doi.org/10.1109/CSIE.2009.948
 - [[wgh]] Wieczorek J, Guo Q & Hijmans R (2004) The point-radius method for georeferencing locality descriptions and calculating associated uncertainty. International Journal of Geographical Information Science 18: 745-767.
