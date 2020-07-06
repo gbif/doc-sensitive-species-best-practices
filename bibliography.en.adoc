@@ -9,7 +9,8 @@
 - [[birdata]] Birdata n.dat. Sensitive Species. Birdlife Australia. https://birdata.birdlife.org.au/sensitive-species
 - [[adc06]] Chapman AD (2006) Questionnaire on Dealing with Sensitive Primary Species Occurrence Data: Summary of responses. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/vs84-0p13
 - [[adc07]] Chapman AD (2007) Dealing with Sensitive Primary Species Occurrence Data. Report. Report to the Global Biodiversity Information Facility. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/rajc-t668
-- [[cg08]] Chapman AD & Grafton O (2008) Guide to Best Practices for Generalizing Sensitive Species Occurrence Data, version 1.0. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-b02j-gt10
+// Previous edition uses "Generalising" spelling
+- [[cg08]] Chapman AD & Grafton O (2008) Guide to Best Practices for Generalising Sensitive Species Occurrence Data, version 1.0. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-b02j-gt10
 - [[cw06]] Chapman AD & Wieczorek J, eds. (2006) Guide to Best Practices for Georeferencing. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-2zpf-zf42
 - [[cw20]] Chapman AD & Wieczorek J (2020) Georeferencing Best Practices. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-gg7h-s853
 - [[corti]] Corti L, Day A, & Backhouse G (2000). Confidentiality and informed consent: Issues for consideration in the preservation of and provision of access to qualitative data archives. In Forum Qualitative Sozialforschung/Forum: Qualitative Social Research (Vol. 1). http://www.qualitative-research.net/index.php/fqs/article/viewArticle/1024 [Accessed 15 May 2019].
@@ -21,13 +22,13 @@
 - [[df]] Frank D, Kriesberg A, Yakel E & Faniel IM (2015) Looting Hoards of Gold and Poaching Spotted Owls: Data Confidentiality Among Archaeologists and Zoologists. https://deepblue.lib.umich.edu/handle/2027.42/115883
 - [[dpa]] GBIF Secretariat (2017) Data publisher agreement. https://www.gbif.org/en/terms/data-publisher
 - [[backbone]] GBIF Secretariat (2019). GBIF Backbone Taxonomy. Checklist dataset https://doi.org/10.15468/39omei 
-- [[rg]] Guralnick R, Wieczorek J, Beaman R, Hijmans RJ & the Biogeomancer Working Group (2006) BioGeomancer: Automated Georeferencing to Map the World’s Biodiversity Data. PLoS Biol 4(11): e381. https://doi.org/10.1371/journal.pbio.0040381 
+- [[rg]] Guralnick R, Wieczorek J, Beaman R, Hijmans RJ & the BioGeomancer Working Group (2006) BioGeomancer: Automated Georeferencing to Map the World’s Biodiversity Data. PLoS Biol 4(11): e381. https://doi.org/10.1371/journal.pbio.0040381 
 - [[lg]] Guterman L (2006) Endangered by Research: Poachers mine the scientific literature for the locations of newly discovered animals. The Chronicle of Higher Education 52(46): A12. https://www.chronicle.com/article/Endangered-by-Research/26117  
 - [[jh]] Hartter J, Ryan SJ, MacKenzie CA, Parker JN & Strasser CA (2013) Spatially Explicit Data: Stewardship and Ethical Challenges in Science. PLoS Biol. 11(9), e1001634. http://doi.org/10.1371/journal.pbio.1001634
 - [[jvl]] Llinás JV (2005) Data and Information on Biodiversity and its Protection in the Digital Realm Ver. 1. Bogotá, Colombia: Biological Resources Research Institute Alexandre von Humboldt.
 - [[nbna]] NBN (2019a) The NBN Data Exchange Principles and their rational. National Biodiversity Network. https://nbn.org.uk/the-national-biodiversity-network/archive-information/data-exchange-principles/
 - [[nbnb]] NBN (2019b) Sensitive Data. National Biodiversity Network. https://nbn.org.uk/sensitive-data/
-- [[gn]] Nelson G, Sweeney P & Gilbert S (2018) Use of globally unique identifiers (GUUDs) to link herbarium specimen records to physical specimens. Applications in Plant Sciences 6(2): e1027. https://doi.org/10.1002/aps3.1027
+- [[gn]] Nelson G, Sweeney P & Gilbert S (2018) Use of globally unique identifiers (GUIDs) to link herbarium specimen records to physical specimens. Applications in Plant Sciences 6(2): e1027. https://doi.org/10.1002/aps3.1027
 - [[pn]] Noble P, van Riper D, Ruggles S, Schroeder J & Hindman M (2011) Harmonizing Disparate Data across Time and Place: The Integrated Spatio-Temporal Aggregate Data Series. Historical Methods 44(2): 79-85. https://doi.org/10.1080/01615440.2011.563228
 - [[oeha]] OEH (2011) Appendix 2. Denaturing Specifications for Sensitive Species records. Sydney, Australia: NSW Government. Office of Environment and Heritage. https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Animals-and-plants/Wildlife-management/appendix-2-denaturing-specifications-sensitive-species-records.pdf
 - [[oehb]] OEH (2019a) Sensitive species data policy. Sydney, Australia: NSW Government. Office of Environment and Heritage. https://www.environment.nsw.gov.au/topics/animals-and-plants/wildlife-management/wildlife-policies-and-guidelines/sensitive-species-data [Accessed 26 May 2019].

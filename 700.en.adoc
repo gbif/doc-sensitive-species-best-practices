@@ -81,7 +81,8 @@ No specific mention is made of different categories, or of generalizing location
 [quote]
 *Natural Resource Protection*: the use of the information can result in the degradation of an environmentally significant site or resource
 
-The document recommends that as Canada is a member of GBIF, Canadian organizations, should incorporate the _Guide to Best Practices for Generalizing Sensitive Species Occurrence Data_ (https://doi.org/10.15468/doc-b02j-gt10[Chapman and Grafton 2008^]) when assessing their environmental datasets. Without mentioning specific generalization levels, the document does site the categories of generalization in this and the previous Guide.
+// Citation is previous version, with spelling "Generalising"
+The document recommends that as Canada is a member of GBIF, Canadian organizations, should incorporate the _Guide to Best Practices for Generalising Sensitive Species Occurrence Data_ (https://doi.org/10.15468/doc-b02j-gt10[Chapman and Grafton 2008^]) when assessing their environmental datasets. Without mentioning specific generalization levels, the document does site the categories of generalization in this and the previous Guide.
 
 Other aggregation agencies, such as *iDigBio*, have left it to those supplying the data to deal with sensitivity, and have not developed a policy per se.
 

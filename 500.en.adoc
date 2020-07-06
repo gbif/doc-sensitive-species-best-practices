@@ -57,7 +57,7 @@ or maybe more free text – such as ‘1 minute’, ‘0.1 minute’, ‘1 secon
 The `dataSensitiveComments` field here is perhaps equivalent to the `Access Constraints` field in most dataset level metadata. The sort of information at the dataset level may include something like:
 
 [quote]
-This dataset is only available to the public at a summary resolution for the following reason. Some of the information held within this dataset relates to species that are vulnerable to human disturbance or prejudice. Two species (_Adelanthus lindenbergianus_, _Athalamia hyaline_) are significantly vulnerable to collecting. The full detail of this sensitive information may be made available under licence to specific organisations and individuals that need to know to avoid harm to the environment. Please contact the provider for more information.
+This dataset is only available to the public at a summary resolution for the following reason. Some of the information held within this dataset relates to species that are vulnerable to human disturbance or prejudice. Two species (_Adelanthus lindenbergianus_, _Athalamia hyaline_) are significantly vulnerable to collecting. The full detail of this sensitive information may be made available under licence to specific organizations and individuals that need to know to avoid harm to the environment. Please contact the provider for more information.
 
 Until such time as these standards and protocols are modified, it is recommended that the data be documented in the `Comment` fields, and as far as possible to record the same type of information that would be included in the recommended fields above, for example, that:
 
@@ -85,6 +85,6 @@ An example of its applicability is where a georeference with an uncertainty radi
 .Example of calculating Spatial Fit for a collection with an uncertainty radius of 1 km (red circle), and which is distributed using a 10 km² grid (blue). Spatial Fit = 31.8.
 image::img/web/figure-02.jpg[align="center"]
 
-The smaller the grid size, the closer the <<spatial-fit,Spatial Fit>> will be to ‘1’. Note that a record that has its georeference randomised or generalized such that a portion of the uncertainty radius falls outside the grid square would have a <<spatial-fit,Spatial Fit>> equal to zero.
+The smaller the grid size, the closer the <<spatial-fit,Spatial Fit>> will be to ‘1’. Note that a record that has its georeference randomized or generalized such that a portion of the uncertainty radius falls outside the grid square would have a <<spatial-fit,Spatial Fit>> equal to zero.
 
 <<<
