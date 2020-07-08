@@ -6,7 +6,7 @@ endif::backend-html5[]
 == Colophon
 
 === Suggested citation
-Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10.
+Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data [Community review draft]. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10.
 
 === Licence
 The document _Current Best Practices for Generalizing Sensitive Species Occurrence Data_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
