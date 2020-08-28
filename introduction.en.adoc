@@ -42,4 +42,6 @@ Nineteen years later, the archaeologists continue to grapple as pointed out by h
 
 This publication is largely focused on sensitive primary species occurrence data (e.g. museum and herbarium specimen data, observations, images, tracking data) but does have impacts on related data such as population sizes, numbers and viability, habitats and ecosystems, biogeography, traits, bycatch, biosecurity, etc.
 
+This document only looks at taxon sensitivity and not sensitivity related to issues such as land or personal privacy. Different national and state jurisdictions have diverse legislation with regard to both land and personal privacy. The topic not being covered is that of taxon sensitivity. Bearing that in mind, however, I would recommend following the same principles of generalization recommended in this publication wherever possible, rather than other methods such as randomization.
+
 <<<
