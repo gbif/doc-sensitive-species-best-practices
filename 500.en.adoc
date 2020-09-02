@@ -31,7 +31,7 @@ At the moment, neither the https://www.tdwg.org/standards/dwc/[Darwin Core^] nor
 
 a| precisionDataProvided 
 
-a| The scale or the precision of the data made available via the Darwin Core record – may be done as precision, e.g.
+a| The scale or the precision of the data made available via the Darwin Core record – may be done as coordinate precision, e.g.
 
 *	0 = 1 degree +
 *	1 = 0.1 degree +
@@ -41,7 +41,7 @@ a| The scale or the precision of the data made available via the Darwin Core rec
 
 a| precisionDataStored 
 
-a| The scale or the precision of the data stored or retained by the data custodian – may be done as precision, e.g.
+a| The scale or the precision of the data stored or retained by the data custodian – may be done as coordinate precision, e.g.
 
 *	0 = 1 degree +
 *	1 = 0.1 degree +
