@@ -1,0 +1,72 @@
+== Afterword
+
+=== Listing sensitive taxa
+
+Data is already distributed around the globe through duplicate specimens, etc., and although data may be restricted from some institutions, others holding duplicates may be releasing the same information. This may be through ignorance of what may be regarded as sensitive in the home ranges of the taxon concerned as no universal list of what is regarded as ‘sensitive’ is currently available. Difficulties are compounded by the fact that a taxon may be sensitive in one area, but not in another (and indeed may even be an invasive weed or pest species in the second location). If identical data is publicly available through other sources, it cannot be considered sensitive (https://www.environment.gov.au/system/files/resources/246e674a-feb1-4399-a678-be9f4b6a6800/files/sensitive-ecological-data-access-mgt-policy.pdf[Australian Government 2016]).
+
+For these reasons, it has been recommended that a trigger list of potential environmentally sensitive taxa should be created and linked through GBIF’s https://doi.org/10.15468/39omei[Backbone Taxonomy]. This would have the advantages of alerting data providers in other jurisdictions that a species is potentially sensitive, and via the Backbone Taxonomy would provide links to synonyms. It is important to note that the list should be regarded as a trigger to flag the need for a decision on the actual sensitivity of sharing information using the criteria in the previous chapter, and not for generating blanket restrictions. Not all endangered species are threatened through knowledge of their locations, or across the totality of their range, and so should not be regarded as sensitive per se and thus the list of potential environmentally sensitive taxa should be much smaller than any existing list of rare and threatened species.  
+
+The list should be created using <<table-01,Criteria 1 and 2>> and scenarios in <<annex-01,Annex 1>> and include additional information, such as:
+
+*	Name of taxon
+*	Criteria and supporting rationale for inclusion
+*	Name of person or organization responsible for the taxon being included
+*	Geographic coverage of sensitivity (especially if only sensitive over part of its range or within one jurisdiction)
+*	Recommended sensitivity category 
+*	Date for review
+
+Jurisdictions may also wish to maintain a similar list for their own purposes, and it is recommended that if they do so, they include the above information in all cases.  The advantages of making the information more broadly available is that it will alert other data custodians that your jurisdiction regards the taxon as potentially sensitive, and alert users that they should take the sensitivity into account when publishing the results of their analyses, etc.
+
+NOTE: Any list of potential environmentally sensitive taxa should be regarded as a trigger only and any restrictions on the availability of actual data should be made on a case by case basis taking into account the listed criteria.
+
+=== Metadata recommendations
+
+A number of recommendations have been made to Biodiversity Information Standards (TDWG) for the inclusion of extra fields to the https://dwc.tdwg.org/terms/#location[Darwin Core Location Class^] (TDWG 2018). The recommendations included:
+
+<<<
+
+[caption="Table 8. "]
+.Recommendations on extension to Darwin Core for Sensitive Taxa
+|===
+
+| Field | Comments
+
+| dataSensitiveIndicator | Y/N flag that the observation is sensitive.
+
+| dataSensitiveReason | The primary reason why the data is sensitive. Suggested format is either a picklist with values derived from Criteria 1–4 above (or a text field that combines the statements 1a–4g attached to those criteria).
+
+| dataSensitiveComments	| Further free-text information on the reason(s) or supporting rationale for determining relevance of the Criteria for this record as recommended above.
+
+| sensitiveDateForReview | A date field documenting when the sensitive nature of the date should be reviewed. Especially important where the sensitivity is just awaiting publication of results, etc.
+
+a| precisionDataProvided 
+
+a| The scale or the precision of the data made available via the Darwin Core record – may be done as coordinate precision, e.g.
+
+*	0 = 1 degree +
+*	1 = 0.1 degree +
+*	2 = 0.01 degree +
+*	3 = 0.001 degree +
+*	4 = 0.0001 degree +
+
+a| precisionDataStored 
+
+a| The scale or the precision of the data stored or retained by the data custodian – may be done as coordinate precision, e.g.
+
+*	0 = 1 degree +
+*	1 = 0.1 degree +
+*	2 = 0.01 degree +
+*	3 = 0.001 degree +
+*	4 = 0.0001 degree +
+*	etc. +
+
+or maybe more free text – such as ‘1 minute’, ‘0.1 minute’, ‘1 second’ – depending on how data is stored.
+
+|===
+
+The `dataSensitiveComments` field here is perhaps equivalent to the `Access Constraints` field in most dataset level metadata. The sort of information at the dataset level may include something like:
+
+[quote]
+This dataset is only available to the public at a summary resolution for the following reason. Some of the information held within this dataset relates to species that are vulnerable to human disturbance or prejudice. Two species (_Adelanthus lindenbergianus_, _Athalamia hyaline_) are significantly vulnerable to collecting. The full detail of this sensitive information may be made available under licence to specific organizations and individuals that need to know to avoid harm to the environment. Please contact the provider for more information.
+
+<<<

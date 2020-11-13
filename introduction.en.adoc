@@ -40,8 +40,8 @@ the foundation of the Society for American Archaeology (SAA) was partially motiv
 
 Nineteen years later, the archaeologists continue to grapple as pointed out by http://hdl.handle.net/2027.42/115883[Frank et al. (2015)^] in discussing the results of 62 interviews of archaeologists and zoologists conducted by them. They concluded that “Researchers would generally prefer to restrict access to their data from the general public but maintain open data for colleagues”, while realizing the extreme difficulties in managing such a process.
 
-This publication is largely focused on sensitive primary species occurrence data (e.g. museum and herbarium specimen data, observations, images, tracking data) but does have impacts on related data such as population sizes, numbers and viability, habitats and ecosystems, biogeography, traits, bycatch, biosecurity, etc.
+This publication is largely focused on sensitive primary species occurrence data (e.g. museum and herbarium specimen data, observations, images, tracking data), but does have impacts on related data such as population sizes, numbers and viability, habitats and ecosystems, biogeography, traits, bycatch, biosecurity, etc.
 
-This document only looks at taxon sensitivity and not sensitivity related to issues such as land or personal privacy. Different national and state jurisdictions have diverse legislation with regard to both land and personal privacy. The topic not being covered is that of taxon sensitivity. Bearing that in mind, however, I would recommend following the same principles of generalization recommended in this publication wherever possible, rather than other methods such as randomization.
+This document only looks at taxon sensitivity and not sensitivity related to issues such as land or personal privacy. Different national and state jurisdictions have diverse legislation with regard to both land and personal privacy. Bearing that in mind, however, I would recommend following the same principles of generalization recommended in this publication wherever possible, rather than other methods such as randomization.
 
 <<<
