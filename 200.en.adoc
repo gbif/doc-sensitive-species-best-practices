@@ -73,7 +73,7 @@ _“There is no significant risk of a harmful human activity.”_ +
 ↓ +
 *_Taxon is not sensitive_* +
 ↓ +
-<<table-4,Go to 3>>
+<<table-04,Go to 3>>
 
 2+^s|1.2. Is there established evidence of current or recent occurrences of the harmful human activity?
 
@@ -362,7 +362,7 @@ Data may be supplied at finer scales on request under the conditions of a writte
 
 |[[cat3]]*Category 3* +
 
-Species or records for which coordinates will be publicly available ‘denatured’ (to 0.01 degrees) and/or other information in the record is generalized. Finer scale data (<<cat3,Category 3>>, <<cat4,Category 4>> or detailed data) may be supplied to individuals under Licence.
+Species or records for which coordinates will be publicly available ‘denatured’ (to 0.01 degrees) and/or other information in the record is generalized. Finer scale data (<<cat4,Category 4>> or detailed data) may be supplied to individuals under Licence.
 
 a|The reasons for restriction are that: +
 
