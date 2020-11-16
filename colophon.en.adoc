@@ -7,7 +7,7 @@ endif::backend-html5[]
 
 === Suggested citation
 
-Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data [Community review draft]. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10.
+Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10.
 
 === Author
 
