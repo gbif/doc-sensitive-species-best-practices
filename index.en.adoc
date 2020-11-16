@@ -1,4 +1,4 @@
-= Current Best Practices for Generalizing Sensitive Species Occurrence Data [Community review draft]
+= Current Best Practices for Generalizing Sensitive Species Occurrence Data
 Arthur D. Chapman
 :toc: left
 :toclevels: 3
