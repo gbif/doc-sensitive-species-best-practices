@@ -13,7 +13,7 @@ Metadata has generally been used to refer to documentation of a whole dataset.  
 
 At the moment, neither the https://www.tdwg.org/standards/dwc/[Darwin Core^] nor the https://www.tdwg.org/standards/abcd/[ABCD^] standards have fields for recording the type of record-level metadata that is recommended here. A number of recommendations have been made to Biodiversity Information Standards (TDWG) for the inclusion of extra fields to the https://dwc.tdwg.org/terms/#location[Darwin Core Location Class^] (TDWG 2018) and are listed in the <<afterword,Afterword>>.
 
-Until such time as these standards and protocols are modified, it is recommended that the data be documented using existing https://dwc.tdwg.org/terms/ [Darwin Core terms] at the record-level (e.g., https://dwc.tdwg.org/terms/#dwc:informationWithheld [dwc:informationWithheld], https://dwc.tdwg.org/terms/#dwc:dataGeneralizations [dwc:dataGeneralizations] or any of the `Remarks` fields), and, as far as possible, to record the same type of information that would be included in the recommended fields, for example, that:
+Until such time as these standards and protocols are modified, it is recommended that the data be documented using existing https://dwc.tdwg.org/terms/[Darwin Core terms] at the record-level (e.g., https://dwc.tdwg.org/terms/#dwc:informationWithheld[dwc:informationWithheld], https://dwc.tdwg.org/terms/#dwc:dataGeneralizations[dwc:dataGeneralizations] or any of the `Remarks` fields), and, as far as possible, to record the same type of information that would be included in the recommended fields, for example, that:
 
 *	The data is sensitive
 *	The primary reasons the data is regarded as sensitive (see Criteria 1–4, <<table-01,Table 1>>) along with supporting rationale

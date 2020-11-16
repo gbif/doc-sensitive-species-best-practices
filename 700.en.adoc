@@ -48,7 +48,7 @@ ____
 *Category 2*: Species considered to be at serious risk from threats such as disturbance or exploitation. For species in this category, geographic coordinates of sightings will be supplied ‘denatured’, in order to generalize the locality. Exceptions to this rule may be granted to some government agencies, or for certain research purposes.
 ____
 *Category 3*: Species considered to be at medium to high risk of threats such as disturbance or exploitation. For species in this category, coordinates will be supplied at ’as held’ accuracy to licensed clients, but will otherwise be supplied ‘denatured’. 
-____
+
 They include 3 basic categories of ‘denaturing’ (https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Animals-and-plants/Wildlife-management/appendix-2-denaturing-specifications-sensitive-species-records.pdf?la=en&hash=DB5FE561CC2DA6A9390E8521882405B5574FD607[OEH 2011^]) that are largely consistent with what is recommended here:
 
 * *Category 1*: no records provided
