@@ -2,7 +2,7 @@
 
 It is important that data is accurately documented so that users and others know exactly what the data represents, and the reliance that can be placed in it. For example, a user needs the information to determine if the data is suitable for the analysis they are about to run. Many data providers reported in the survey (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]) that one reason that they were reluctant to release some of their data was a fear that the data would be misused. If the data isn’t adequately documented, then the likelihood of inadvertent mis-use is greatly increased as the user may use the data in an analysis mistakenly thinking they are getting accurate point records, when in reality, the data had been generalized to a 10 km grid square, and could be anywhere in a 100 square kilometre area. If running a climate modelling algorithm, for example, then this sort of error could result in a quite misleading result. For this reason alone, it is important to data providers, data users, and end users (such as environmental managers, policy makers, etc.) that the data is accurately described. 
 
-In particular, there should be a clear documentation of the ‘Access Constraints’ which could include, for example, an indication of which parts of the data is sensitive (if any), reasons for sensitivity and conditions under which release is possible. 
+In particular, there should be a clear documentation of the access constraints which could include, for example, an indication of which parts of the data is sensitive (if any), reasons for sensitivity and conditions under which release is possible. 
 
 === Documenting sensitivity
 
@@ -13,13 +13,18 @@ Metadata has generally been used to refer to documentation of a whole dataset.  
 
 At the moment, neither the https://www.tdwg.org/standards/dwc/[Darwin Core^] nor the https://www.tdwg.org/standards/abcd/[ABCD^] standards have fields for recording the type of record-level metadata that is recommended here. A number of recommendations have been made to Biodiversity Information Standards (TDWG) for the inclusion of extra fields to the https://dwc.tdwg.org/terms/#location[Darwin Core Location Class^] (TDWG 2018) and are listed in the <<afterword,Afterword>>.
 
-Until such time as these standards and protocols are modified, it is recommended that the data be documented in the `Remarks` fields, and, as far as possible, to record the same type of information that would be included in the recommended fields, for example, that:
+Until such time as these standards and protocols are modified, it is recommended that the data be documented using existing https://dwc.tdwg.org/terms/[Darwin Core terms] at the record-level (e.g., https://dwc.tdwg.org/terms/#dwc:informationWithheld[dwc:informationWithheld], https://dwc.tdwg.org/terms/#dwc:dataGeneralizations[dwc:dataGeneralizations] or any of the 'Remarks' fields), and, as far as possible, to record the same type of information that would be included in the recommended fields, for example, that:
 
 *	The data is sensitive
 *	The primary reasons the data is regarded as sensitive (see Criteria 1–4, <<table-01,Table 1>>) along with supporting rationale
 *	The date that the sensitivity of the data should be reviewed
 *	Precision of the data made available
 *	Precision of the original data stored or retained
+
+When noting access constraints in the metadata at the dataset level, you may include something like:
+
+[quote]
+This dataset is only available to the public at a summary resolution for the following reason. Some of the information held within this dataset relates to species that are vulnerable to human disturbance or prejudice. Two species (_Adelanthus lindenbergianus_, _Athalamia hyaline_) are significantly vulnerable to collecting. The full detail of this sensitive information may be made available under licence to specific organizations and individuals that need to know to avoid harm to the environment. Please contact the provider for more information.
 
 [#s-spatial-fit]
 === Spatial fit
