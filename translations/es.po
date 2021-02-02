@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-02-01 17:14+0000\n"
-"PO-Revision-Date: 2021-02-02 13:43\n"
+"PO-Revision-Date: 2021-02-02 14:45\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -109,7 +109,7 @@ msgstr ""
 #: colophon.en.adoc:31
 #, no-wrap
 msgid "Cover image"
-msgstr ""
+msgstr "Imagen de la portada"
 
 #. type: Plain text
 #: colophon.en.adoc:34
@@ -125,7 +125,7 @@ msgstr ""
 #: introduction.en.adoc:1
 #, no-wrap
 msgid "Introduction"
-msgstr ""
+msgstr "Introducción"
 
 #. type: Plain text
 #: introduction.en.adoc:4
@@ -162,7 +162,7 @@ msgstr ""
 #: introduction.en.adoc:16
 #, no-wrap
 msgid "Objectives"
-msgstr ""
+msgstr "Objetivos"
 
 #. type: Plain text
 #: introduction.en.adoc:19
