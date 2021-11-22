@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-02-01 17:14+0000\n"
-"PO-Revision-Date: 2021-11-22 16:49\n"
+"PO-Revision-Date: 2021-11-22 17:48\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -183,18 +183,18 @@ msgstr "Audiencia"
 #. type: Plain text
 #: introduction.en.adoc:25
 msgid "This work is designed for those who need, or want to know how they can best make as much data available on sensitive taxa as possible without that published data leading to harm to the species. This document is also for individuals or organizations faced with developing a policy on dealing with sensitive primary species occurrence data and writing in-house documentation consistent with current best practice."
-msgstr ""
+msgstr "Este documento está destinado a quienes necesitan o desean saber cuál es la mejor manera de poner a disposición de los interesados la mayor cantidad posible de datos sobre taxones sensibles sin que esa publicación perjudique a la especie. También, se dirige a las personas u organizaciones que se enfrentan a la elaboración de una política sobre el tratamiento de los datos de ocurrencia de especies primarias sensibles y a la redacción de documentación interna coherente con las buenas prácticas actuales."
 
 #. type: Plain text
 #: introduction.en.adoc:27
 msgid "Above all, this document will help end users of the data to understand the implications of trying to use records that may have been generalized to protect sensitive species, and how to understand the meaning of generalization at different precisions."
-msgstr ""
+msgstr "Sobre todo, este documento ayudará a los usuarios finales de los datos a entender las implicaciones de intentar utilizar registros que pueden haber sido generalizados para proteger especies sensibles y sobre cómo entender el significado de la generalización a diferentes precisiones."
 
 #. type: Title ===
 #: introduction.en.adoc:28
 #, no-wrap
 msgid "Scope"
-msgstr ""
+msgstr "Alcance"
 
 #. type: Plain text
 #: introduction.en.adoc:31
