@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-02-01 17:14+0000\n"
-"PO-Revision-Date: 2021-02-02 14:45\n"
+"PO-Revision-Date: 2021-11-22 14:43\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -20,29 +20,29 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Current Best Practices for Generalizing Sensitive Species Occurrence Data"
-msgstr ""
+msgstr "Buenas Prácticas Actuales para la Generalización de Datos de Presencia de Especies Sensibles"
 
 #. type: Plain text
 #: index.en.adoc:3
 msgid "Arthur D. Chapman"
-msgstr ""
+msgstr "Arthur D. Chapman"
 
 #. type: Plain text
 #: index.en.adoc:17
 msgid "languageLinks:combined[]"
-msgstr ""
+msgstr "languageLinks:combined[]"
 
 #. type: Target for macro image
 #: colophon.en.adoc:3
 #, no-wrap
 msgid "img/web/photo.jpg"
-msgstr ""
+msgstr "img/web/photo.jpg"
 
 #. type: Title ==
 #: colophon.en.adoc:6
 #, no-wrap
 msgid "Colophon"
-msgstr ""
+msgstr "Colofón"
 
 #. type: Title ===
 #: colophon.en.adoc:8
