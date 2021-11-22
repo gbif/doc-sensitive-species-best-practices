@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-02-01 17:14+0000\n"
-"PO-Revision-Date: 2021-11-22 15:47\n"
+"PO-Revision-Date: 2021-11-22 16:49\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -146,17 +146,17 @@ msgstr "Tras estos procesos y debates se elaboró un informe final sobre el trat
 #. type: Plain text
 #: introduction.en.adoc:11
 msgid "The final step in that process was to develop a _Guide to Best Practices for Primary Species Occurrence Data_. That document was proposed as an overriding guideline for institutions, data providers and GBIF Nodes to use to develop their own in-house guidelines. Organizations and institutions were encouraged to produce their own internal documents that incorporated the practices outlined in the _Guide_ and related documents such as the https://doi.org/10.15468/doc-2zpf-zf42[_Guide to Best Practices for Georeferencing_^] (Chapman and Wieczorek 2006) and incorporate them into their own working environment. Unfortunately, not as many institutions have taken up the challenge and produced their own internal documents as we had hoped. Two key agencies that have done so, however, are SANBI in South Africa (http://biodiversityadvisor.sanbi.org/wp-content/uploads/2012/09/SANBI-Biodiversity-Information-Policy-Series-Digital-Access-to-Sensitive-Taxon.pdf[SANBI 2010^]) and the Atlas of Living Australia (https://www.ala.org.au/wp-content/uploads/2010/07/ALA-sensitive-data-report-and-proposed-policy-v1.1.pdf[Tann and Flemons 2009^], https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-[ALA 2018a^]) (see <<Implementations,Implementations>>)."
-msgstr ""
+msgstr "El último paso en ese proceso fue desarrollar una _Guía de Buenas Prácticas para los Datos de Presencia de Especies Prioritarias_. Ese documento se propuso como una guía principal para que las instituciones, los proveedores de datos y los Nodos de GBIF lo utilizaran para desarrollar sus propias directrices internas. Se animó a las organizaciones e instituciones a producir sus propios documentos internos que incorporaran las prácticas descritas en la _Guía_ y otros documentos relacionados como la https://doi.org/10.15468/doc-2zpf-zf42[_Guía de Buenas Prácticas de Georreferenciación_^] (Chapman y Wieczorek 2006) y a incorporarlos a su propio entorno de trabajo. Por desgracia, no son tantas las instituciones que han aceptado el reto y han elaborado sus propios documentos internos como esperábamos. Sin embargo, dos organismos clave que sí lo han hecho son el SANBI de Sudáfrica (http://biodiversityadvisor.sanbi.org/wp-content/uploads/2012/09/SANBI-Biodiversity-Information-Policy-Series-Digital-Access-to-Sensitive-Taxon.pdf[SANBI 2010^]) y el Atlas of Living Australia (https://www.ala.org.au/wp-content/uploads/2010/07/ALA-sensitive-data-report-and-proposed-policy-v1.1.pdf[Tann y Flemons 2009^], https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-[ALA 2018a^]) (ver <<Implementaciones, Implementaciones>>)."
 
 #. type: Plain text
 #: introduction.en.adoc:13
 msgid "It is also important to understand the possible impact that approaches for restricting sensitive data may have on biodiversity science and, while restricting the availability or resolution of certain data, not overly restricting the uses to which the data may be put. For that reason, a set of principles are elucidated below. Key among these is the need to make biodiversity information freely available wherever possible, in the interests of science, the environment and biodiversity itself."
-msgstr ""
+msgstr "También es importante comprender el posible impacto que las estrategias para restringir los datos sensibles pueden tener en la ciencia de la biodiversidad para que, aunque se restrinja la disponibilidad o la resolución de determinados datos, no se restrinjan excesivamente los usos que pueden darse a los datos. Por ello, a continuación se exponen una serie de principios. Entre ellos destaca la necesidad de que la información sobre la biodiversidad sea de libre acceso siempre que sea posible, en pro de la ciencia, el medio ambiente y la propia biodiversidad."
 
 #. type: Plain text
 #: introduction.en.adoc:15
 msgid "Words hyperlinked in the text refer to terms that are included in the <<Glossary>>; citations link to sources where they are available online and to the <<References>> where they are not."
-msgstr ""
+msgstr "Las palabras en el texto que tienen un hipervinculo se refieren a términos que están incluidos en el <<Glosario>>. Las citas enlazan con las fuentes cuando están disponibles en línea y con las <<Referencias>> cuando no lo están."
 
 #. type: Title ===
 #: introduction.en.adoc:16
@@ -167,18 +167,18 @@ msgstr "Objetivos"
 #. type: Plain text
 #: introduction.en.adoc:19
 msgid "This document aims to provide best practice (or best current practice) for dealing with sensitive primary species occurrence data, and provide guidance on how to make as much data available without at the same time opening up the species to harm because data has been placed in the public domain."
-msgstr ""
+msgstr "El objetivo de este documento es ofrecer las buenas prácticas (o las buenas prácticas actuales) para tratar los datos de ocurrencia de especies prioritarias sensibles y orientar sobre cómo poner a disposición la mayor cantidad de datos sin que la especie se vea perjudicada por el hecho de que los datos se hayan puesto en el dominio público."
 
 #. type: Plain text
 #: introduction.en.adoc:21
 msgid "It is now more than a decade since the first _Guide_ was published, and this new publication is designed to bring those practices up to date and to incorporate the experiences gained by institutions that have implemented the _Guide_ in whole or in part."
-msgstr ""
+msgstr "Ha pasado más de una década desde que se publicó la primera _Guía_ y esta nueva publicación está diseñada para actualizar esas prácticas e incorporar las experiencias adquiridas por las instituciones que han aplicado la _Guía_ en su totalidad o en parte."
 
 #. type: Title ===
 #: introduction.en.adoc:22
 #, no-wrap
 msgid "Audience"
-msgstr ""
+msgstr "Audiencia"
 
 #. type: Plain text
 #: introduction.en.adoc:25
@@ -1759,226 +1759,226 @@ msgstr ""
 #: glossary.en.adoc:2
 #, no-wrap
 msgid "Glossary"
-msgstr ""
+msgstr "Glosario"
 
 #. type: Labeled list
 #: glossary.en.adoc:5
 #, no-wrap
 msgid "[[authentication]]authentication"
-msgstr ""
+msgstr "[[autenticación]]autenticación"
 
 #. type: Plain text
 #: glossary.en.adoc:6
 msgid "refers to the determination of a user's identity, as well as determining what a user is authorized to access. The most common form of authentication is user-name and password, although this also provides the lowest level of security."
-msgstr ""
+msgstr "se refiere a la determinación de la identidad de un usuario, así como a la determinación del contenido al que un usuario está autorizado a acceder. La forma más común de autenticación es el nombre de usuario y la contraseña, aunque esto también proporciona el nivel más bajo de seguridad."
 
 #. type: Labeled list
 #: glossary.en.adoc:6
 #, no-wrap
 msgid "[[authorization]]authorization"
-msgstr ""
+msgstr "[[autorización]]autorización"
 
 #. type: Plain text
 #: glossary.en.adoc:7
 msgid "refers to the process of determining which individuals can be afforded different access rights for authentication and data access."
-msgstr ""
+msgstr "se refiere al proceso de determinar a qué personas se les pueden conceder diferentes derechos de acceso para la autenticación y el acceso a los datos."
 
 #. type: Labeled list
 #: glossary.en.adoc:7
 #, no-wrap
 msgid "[[decimal-degrees]]decimal degrees"
-msgstr ""
+msgstr "[[grados-decimales]]grados decimales"
 
 #. type: Plain text
 #: glossary.en.adoc:8
 msgid "degrees expressed as a single real number (e.g. −22.343456). Note that latitudes south of the equator are negative, as are longitudes west of the prime meridian to −180 degrees."
-msgstr ""
+msgstr "grados expresados como un único número real (p. ej., -22.343456). Tenga en cuenta que las latitudes al sur del ecuador son negativas, al igual que las longitudes al oeste del meridiano cero hasta −180 grados."
 
 #. type: Labeled list
 #: glossary.en.adoc:8
 #, no-wrap
 msgid "[[generalization]]generalization"
-msgstr ""
+msgstr "[[generalización]]generalización"
 
 #. type: Plain text
 #: glossary.en.adoc:9
 msgid "refers here to any modifications carried out to source data to conceal sensitive content, typically by reducing the precision of the data (such as reporting at the level of a watershed, grid or county, citing just the nearest named place, or by deleting some parts of the data). In geographic terms it refers to the conversion of a geographic representation to one with less resolution and less information content; traditionally associated with a change in scale. Also referred elsewhere to as: _fuzzying_, _dummying-up_, etc."
-msgstr ""
+msgstr "se refiere aquí a cualquier modificación realizada a los datos fuente para ocultar el contenido sensible, normalmente reduciendo la precisión de los datos (como reportar a nivel de cuenca hidrográfica, cuadrícula o condado, citando sólo el lugar nombrado más cercano o eliminando algunas partes de los datos). En términos geográficos, se refiere a la conversión de una representación geográfica a una con menos resolución y menos contenido informativo, tradicionalmente se asocia a un cambio de escala. También se denomina como: _fuzzying_, _dummying-up_, etc."
 
 #. type: Labeled list
 #: glossary.en.adoc:9
 #, no-wrap
 msgid "[[geographic-coordinates]]geographic coordinates"
-msgstr ""
+msgstr "[[coordenadas-geográficas]]coordenadas geográficas"
 
 #. type: Plain text
 #: glossary.en.adoc:10
 msgid "a measurement of a location on the earth's surface expressed in degrees of latitude and longitude."
-msgstr ""
+msgstr "medición de la ubicación sobre la superficie de la tierra expresada a partir de latitud y longitud."
 
 #. type: Labeled list
 #: glossary.en.adoc:10
 #, no-wrap
 msgid "[[harmful-human-activity]]harmful human activity"
-msgstr ""
+msgstr "[[actividad-humana-perjudicial]]actividad humana perjudicial"
 
 #. type: Plain text
 #: glossary.en.adoc:11
 msgid "human activities or processes that have had, are having or may have an adverse impact on the status of the taxon under assessed. Examples include unsustainable fishing or logging, hunting, harvesting, agriculture, housing developments, among others (see https://www.iucnredlist.org/resources/threat-classification-scheme[IUCN 2020^])."
-msgstr ""
+msgstr "actividades o procesos humanos que han tenido, tienen o pueden tener un impacto adverso en el estado del taxón evaluado. Algunos ejemplos son la pesca o la tala insostenibles, la caza, la cosecha, la agricultura y la construcción de viviendas, entre otros (ver https://www.iucnredlist.org/es/resources/threat-classification-scheme[UICN 2020^])."
 
 #. type: Labeled list
 #: glossary.en.adoc:11
 #, no-wrap
 msgid "[[precision]]precision"
-msgstr ""
+msgstr "[[precisión]]precisión"
 
 #. type: Plain text
 #: glossary.en.adoc:12
 msgid "describes the finest unit of measurement used to express a value (e.g. if a record is reported to the nearest second, the precision is 1/3600th of a degree; if a decimal degree is reported to two decimal places, the precision is 0.01 of a degree)."
-msgstr ""
+msgstr "describe la mejor unidad de medida utilizada para expresar ese valor (p. ej. si un registro se reporta al segundo más cercano, la precisión es 1/3600 ^ de un grado; si se reporta un grado decimal a dos decimales, la precisión es 0.01 de grado)."
 
 #. type: Labeled list
 #: glossary.en.adoc:12
 #, no-wrap
 msgid "[[randomization]]randomization"
-msgstr ""
+msgstr "[[aleatorización]]aleatorización"
 
 #. type: Plain text
 #: glossary.en.adoc:13
 msgid "refers to a deliberate haphazard arrangement of observations so as to obscure their true location. Randomization leads to a falsification of the data. Also referred to as _falsifying_."
-msgstr ""
+msgstr "se refiere a una disposición aleatoria deliberada de las observaciones para ocultar su verdadera ubicación. La aleatorización conduce a una falsificación de los datos. También se denomina como _falsificación_."
 
 #. type: Labeled list
 #: glossary.en.adoc:13
 #, no-wrap
 msgid "[[record-level-metadata]]record-level metadata"
-msgstr ""
+msgstr "[[metadatos-a-nivel-de-registros]]metadatos a nivel de registros"
 
 #. type: Plain text
 #: glossary.en.adoc:14
 msgid "refers to documentation at the level of a record rather than for a complete dataset. In this document it largely refers to documentation of the sensitivity status of the record (or the species of which it is a part) along with access constraints pertaining to the record and details of any generalization of the data."
-msgstr ""
+msgstr "se refiere a la documentación a nivel de un registro y no de un conjunto de datos completo. En este documento se refiere, en gran medida, a la documentación del estado de sensibilidad del registro (o de la especie de la que forma parte) junto con las restricciones de acceso correspondientes al registro y los detalles de cualquier generalización de los datos."
 
 #. type: Labeled list
 #: glossary.en.adoc:14
 #, no-wrap
 msgid "[[sensitive-data]]sensitive data"
-msgstr ""
+msgstr "[[datos-sensible]]datos sensibles"
 
 #. type: Plain text
 #: glossary.en.adoc:15
 msgid "any data, that because of their nature, a data provider does not want to make available in their raw state, e.g. precise localities of endangered taxa."
-msgstr ""
+msgstr "cualquier dato que, debido a su naturaleza, un proveedor de datos no quiera poner a disposición en su estado puro, por ejemplo, las localidades precisas de taxones amenazados."
 
 #. type: Labeled list
 #: glossary.en.adoc:15
 #, no-wrap
 msgid "[[spatial-fit]]spatial fit"
-msgstr ""
+msgstr "[[ajuste-espacial]]ajuste espacial"
 
 #. type: Plain text
 #: glossary.en.adoc:16
 msgid "a measure of how well one geometric representation matches another geometric representation as a ratio of the area of the larger of the two to the area of the smaller one (see <<figure-02,Figure 2>>) (https://doi.org/10.15468/doc-2zpf-zf42[Chapman and Wieczorek 2006^] & https://doi.org/10.15468/doc-gg7h-s853[Chapman and Wieczorek 2020^])."
-msgstr ""
+msgstr "una medida de qué tan bien una representación geométrica coincide con otra representación geométrica representada como una relación entre el área de la mayor de las dos y el área de la menor (ver <<figura-02,Figura 2>>)."
 
 #. type: Title ==
 #: acknowledgements.en.adoc:1
 #, no-wrap
 msgid "Acknowledgements"
-msgstr ""
+msgstr "Agradecimientos"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:4
 msgid "The earlier document (https://doi.org/10.15468/doc-b02j-gt10[Chapman and Grafton 2008]) acknowledged the many people who responded to the initial survey and who attended the workshops and who were valuable in the preparation of that document."
-msgstr ""
+msgstr "En el documento anterior (https://doi.org/10.15468/doc-b02j-gt10[Chapman y Grafton 2008]) se reconocía a las numerosas personas que respondieron a la encuesta inicial y que asistieron a los talleres y que fueron importantes para la elaboración de ese documento."
 
 #. type: Plain text
 #: acknowledgements.en.adoc:6
 msgid "In addition, I would now like to thank John Wieczorek and Paula Zermoglio, for the on-going support and advice, as well as staff at the GBIF Secretariat, especially Laura Russell and Kyle Copas who oversaw the project."
-msgstr ""
+msgstr "Adicionalmente, me gustaría agradecer a John Wieczorek y Paula Zermoglio, por su continuo apoyo y asesoramiento, así como al personal de la Secretaría de GBIF, especialmente a Laura Russell y Kyle Copas que supervisaron el proyecto."
 
 #. type: Title ==
 #: bibliography.en.adoc:2
 #, no-wrap
 msgid "References"
-msgstr ""
+msgstr "Referencias"
 
 #. type: Plain text
 #: bibliography.en.adoc:5
 msgid "[[alaa]] ALA (2018a) What is Sensitive Data? Atlas of Living Australia. https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-"
-msgstr ""
+msgstr "[[alaa]] ALA (2018a) What is Sensitive Data? Atlas of Living Australia. https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-"
 
 #. type: Plain text
 #: bibliography.en.adoc:6
 msgid "[[alab]] ALA (2018b) What is data licensing? Atlas of Living Australia. https://support.ala.org.au/support/solutions/articles/6000195495-what-is-data-licensing-"
-msgstr ""
+msgstr "[[alab]] ALA (2018b) What is data licensing? Atlas of Living Australia. https://support.ala.org.au/support/solutions/articles/6000195495-what-is-data-licensing-"
 
 #. type: Plain text
 #: bibliography.en.adoc:7
 msgid "[[amec]] AMEC Earth & Environmental (2010) Best practices for sharing sensitive environmental geospatial data. Version 1.0 http://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf"
-msgstr ""
+msgstr "[[amec]] AMEC Earth & Environmental (2010) Best practices for sharing sensitive environmental geospatial data. Version 1.0 http://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf"
 
 #. type: Plain text
 #: bibliography.en.adoc:8
 msgid "[[abs]] Australian Bureau of Statistics (2006) Statistical Local Area (SLA) in 2901.0 - Census Dictionary, 2006 (Reissue). https://www.abs.gov.au/AUSSTATS/abs@.nsf/bb8db737e2af84b8ca2571780015701e/23d04985e1786824ca25720b0002bb18!OpenDocument"
-msgstr ""
+msgstr "[[abs]] Australian Bureau of Statistics (2006) Statistical Local Area (SLA) in 2901.0 - Census Dictionary, 2006 (Reissue). https://www.abs.gov.au/AUSSTATS/abs@.nsf/bb8db737e2af84b8ca2571780015701e/23d04985e1786824ca25720b0002bb18!OpenDocument"
 
 #. type: Plain text
 #: bibliography.en.adoc:9
 msgid "[[audoe]] Australian Government. Department of the Environment (2016) Sensitive Ecological Data - Access and Management Policy V1.0. https://www.environment.gov.au/system/files/resources/246e674a-feb1-4399-a678-be9f4b6a6800/files/sensitive-ecological-data-access-mgt-policy.pdf"
-msgstr ""
+msgstr "[[audoe]] Australian Government. Department of the Environment (2016) Sensitive Ecological Data - Access and Management Policy V1.0. https://www.environment.gov.au/system/files/resources/246e674a-feb1-4399-a678-be9f4b6a6800/files/sensitive-ecological-data-access-mgt-policy.pdf"
 
 #. type: Plain text
 #: bibliography.en.adoc:10
 msgid "[[birdata]] Birdata (n.d.) Sensitive Species. Birdlife Australia. https://birdata.birdlife.org.au/sensitive-species"
-msgstr ""
+msgstr "[[birdata]] Birdata (n.d.) Sensitive Species. Birdlife Australia. https://birdata.birdlife.org.au/sensitive-species"
 
 #. type: Plain text
 #: bibliography.en.adoc:11
 msgid "[[adc06]] Chapman AD (2006) Questionnaire on Dealing with Sensitive Primary Species Occurrence Data: Summary of responses. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/vs84-0p13"
-msgstr ""
+msgstr "[[adc06]] Chapman AD (2006) Questionnaire on Dealing with Sensitive Primary Species Occurrence Data: Summary of responses. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/vs84-0p13"
 
 #.  Previous edition uses "Generalising" spelling
 #. type: Plain text
 #: bibliography.en.adoc:13
 msgid "[[adc07]] Chapman AD (2007) Dealing with Sensitive Primary Species Occurrence Data. Report. Report to the Global Biodiversity Information Facility. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/rajc-t668"
-msgstr ""
+msgstr "[[adc07]] Chapman AD (2007) Dealing with Sensitive Primary Species Occurrence Data. Report. Report to the Global Biodiversity Information Facility. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/rajc-t668"
 
 #. type: Plain text
 #: bibliography.en.adoc:14
 msgid "[[cg08]] Chapman AD & Grafton O (2008) Guide to Best Practices for Generalising Sensitive Species Occurrence Data, version 1.0. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-b02j-gt10"
-msgstr ""
+msgstr "[[cg08]] Chapman AD & Grafton O (2008) Guide to Best Practices for Generalising Sensitive Species Occurrence Data, version 1.0. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-b02j-gt10"
 
 #. type: Plain text
 #: bibliography.en.adoc:15
 msgid "[[cw06]] Chapman AD & Wieczorek J, eds. (2006) Guide to Best Practices for Georeferencing. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-2zpf-zf42"
-msgstr ""
+msgstr "[[cw06]] Chapman AD & Wieczorek J, eds. (2006) Guide to Best Practices for Georeferencing. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-2zpf-zf42"
 
 #. type: Plain text
 #: bibliography.en.adoc:16
 msgid "[[cw20]] Chapman AD & Wieczorek J (2020) Georeferencing Best Practices. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-gg7h-s853"
-msgstr ""
+msgstr "[[cw20]] Chapman AD & Wieczorek J (2020) Georeferencing Best Practices. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-gg7h-s853"
 
 #. type: Plain text
 #: bibliography.en.adoc:17
 msgid "[[corti]] Corti L, Day A, & Backhouse G (2000). Confidentiality and informed consent: Issues for consideration in the preservation of and provision of access to qualitative data archives. In Forum Qualitative Sozialforschung/Forum: Qualitative Social Research (Vol. 1). http://www.qualitative-research.net/index.php/fqs/article/viewArticle/1024 [Accessed 15 May 2019]."
-msgstr ""
+msgstr "[[corti]] Corti L, Day A, & Backhouse G (2000). Confidentiality and informed consent: Issues for consideration in the preservation of and provision of access to qualitative data archives. In Forum Qualitative Sozialforschung/Forum: Qualitative Social Research (Vol. 1). http://www.qualitative-research.net/index.php/fqs/article/viewArticle/1024 [Accessed 15 May 2019]."
 
 #. type: Plain text
 #: bibliography.en.adoc:18
 msgid "[[oin]] Countryside Agencies’ OIN (2007) The ‘Environmental Exception’ and access to information on sensitive features. Version 1.3.3, Countryside Agencies’ Open Information Network Environmental Information Regulations Guidance Note No. 1."
-msgstr ""
+msgstr "[[oin]] Countryside Agencies’ OIN (2007) The ‘Environmental Exception’ and access to information on sensitive features. Version 1.3.3, Countryside Agencies’ Open Information Network Environmental Information Regulations Guidance Note No. 1."
 
 #. type: Plain text
 #: bibliography.en.adoc:19
 msgid "[[vbd]] Dalvi VB & Keole RR (2015) Bottom-Up Generalization: A Data Mining Solution to Privacy Protection. International Journal of Science and Research 4(1): 2068–2071. https://www.ijsr.net/archive/v4i1/SUB15769.pdf"
-msgstr ""
+msgstr "[[vbd]] Dalvi VB & Keole RR (2015) Bottom-Up Generalization: A Data Mining Solution to Privacy Protection. International Journal of Science and Research 4(1): 2068–2071. https://www.ijsr.net/archive/v4i1/SUB15769.pdf"
 
 #. type: Plain text
 #: bibliography.en.adoc:20
 msgid "[[nsw]] Department of Environment and Conservation − NSW (2007) Threatened Species Information Disclosure Policy (Version 3 Amended March 2007). _No longer available: replaced by_ <<oeha,OEH 2019>>."
-msgstr ""
+msgstr "[[nsw]] Department of Environment and Conservation − NSW (2007) Threatened Species Information Disclosure Policy (Version 3 Amended March 2007). _No longer available: replaced by_ <<oeha,OEH 2019>>."
 
 #. type: Plain text
 #: bibliography.en.adoc:21
