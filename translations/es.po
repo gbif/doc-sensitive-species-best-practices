@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-02-01 17:14+0000\n"
-"PO-Revision-Date: 2021-11-22 14:43\n"
+"PO-Revision-Date: 2021-11-22 15:47\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -53,7 +53,7 @@ msgstr "Cita bibliográfica sugerida"
 #. type: Plain text
 #: colophon.en.adoc:11
 msgid "Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10."
-msgstr ""
+msgstr "Chapman AD (2020) Buenas Prácticas Actuales para la Generalización de Datos de Presencia de Especies Sensibles. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10."
 
 #. type: Title ===
 #: colophon.en.adoc:12
@@ -64,7 +64,7 @@ msgstr "Autor"
 #. type: Plain text
 #: colophon.en.adoc:15
 msgid "https://orcid.org/0000-0003-1700-6962[Arthur D. Chapman]"
-msgstr ""
+msgstr "https://orcid.org/0000-0003-1700-6962[Arthur D. Chapman]"
 
 #. type: Title ===
 #: colophon.en.adoc:16
@@ -75,35 +75,35 @@ msgstr "Licencia"
 #. type: Plain text
 #: colophon.en.adoc:19
 msgid "The document _Current Best Practices for Generalizing Sensitive Species Occurrence Data_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
-msgstr ""
+msgstr "Este documento _Buenas Prácticas Actuales para la Generalización de Datos de Presencia de Especies Sensibles_ se publica bajo una licencia https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Atribución-CompartirIgual 4.0 Internacional]."
 
 #. type: Title ===
 #: colophon.en.adoc:20
 #, no-wrap
 msgid "Persistent URI"
-msgstr ""
+msgstr "URI persistente"
 
 #. type: Plain text
 #: colophon.en.adoc:23
 msgid "https://doi.org/10.15468/doc-5jp4-5g10"
-msgstr ""
+msgstr "https://doi.org/10.15468/doc-5jp4-5g10"
 
 #. type: Title ===
 #: colophon.en.adoc:24
 #, no-wrap
 msgid "Document control"
-msgstr ""
+msgstr "Control del documento"
 
 #. type: Plain text
 #: colophon.en.adoc:27
 msgid "Version 1.0, November 2020"
-msgstr ""
+msgstr "Version 1.0, noviembre del 2020"
 
 #.  NB Previous version uses spelling "Generalising"
 #. type: Plain text
 #: colophon.en.adoc:30
 msgid "Based on the earlier publication by https://orcid.org/0000-0003-1700-6962[Chapman AD] & Grafton O (2008) Guide to Best Practices for Generalising Sensitive Species-Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-b02j-gt10."
-msgstr ""
+msgstr "Basado en una publicación anterior por https://orcid.org/0000-0003-1700-6962[Chapman AD] & Grafton O (2008) Guía de Buenas Prácticas para la Generalización de Datos de Presencia de Especies Sensibles. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-b02j-gt10."
 
 #. type: Title ===
 #: colophon.en.adoc:31
@@ -114,12 +114,12 @@ msgstr "Imagen de la portada"
 #. type: Plain text
 #: colophon.en.adoc:34
 msgid "Beneath the surface, Wollemi National Park, Australia. Photo 2015 Vern via https://flic.kr/p/qUBMMr[Flickr], licensed under http://creativecommons.org/licenses/by-nc-nd/2.0/[CC BY-NC-ND 2.0]."
-msgstr ""
+msgstr "Bajo la superficie, Wollemi National Park, Australia. Foto 2015 Vern vía https://flic.kr/p/qUBMMr[Flickr], licenciada bajo http://creativecommons.org/licenses/by-nc-nd/2.0/[CC BY-NC-ND 2.0]."
 
 #. type: Plain text
 #: colophon.en.adoc:35 introduction.en.adoc:47 100.en.adoc:22 200.en.adoc:53 200.en.adoc:115 200.en.adoc:159 200.en.adoc:236 200.en.adoc:320 200.en.adoc:397 300.en.adoc:33 400.en.adoc:91 500.en.adoc:50 600.en.adoc:11 700.en.adoc:97 afterword.en.adoc:27 afterword.en.adoc:67 glossary.en.adoc:17 acknowledgements.en.adoc:7 bibliography.en.adoc:54
 msgid "<<<"
-msgstr ""
+msgstr "<<<"
 
 #. type: Title ==
 #: introduction.en.adoc:1
@@ -130,18 +130,18 @@ msgstr "Introducción"
 #. type: Plain text
 #: introduction.en.adoc:4
 msgid "The unprotected distribution of Sensitive Primary Species Occurrence Data (for example the exact localities of rare, endangered or commercially valuable taxa) was a concern of https://www.gbif.org[GBIF] – the Global Biodiversity Information Facility – from its beginning. The GBIF Secretariat has a vested interest in making data available via its portals, but at the same time respecting the wishes of data providers to restrict information on sensitive taxa. In early 2006, GBIF initiated a process to address this issue, especially in relation to data to be shared through the GBIF network and made visible through https://www.gbif.org[GBIF.org^] and other data aggregating initiatives."
-msgstr ""
+msgstr "La distribución desprotegida de los datos de ocurrencia de especies primarias sensibles (por ejemplo, las localidades exactas de taxones raros, en peligro de extinción o de valor comercial) fue una preocupación de https://www.gbif.org[GBIF] (la Infraestructura Mundial de Información en Biodiversidad) desde sus inicios. La Secretaría de GBIF tiene un gran interés en que los datos estén disponibles a través de sus portales, pero simultaneamente respetando los deseos de los proveedores de datos de restringir la información sobre taxones sensibles. A principios de 2006, GBIF inició un proceso para abordar esta cuestión, especialmente en relación con los datos que se comparten a través de la red de GBIF y que se hacen visibles a través de https://www.gbif.org[GBIF.org^] y otras iniciativas de agregación de datos."
 
 #.  Previous edition uses "Generalising" spelling
 #. type: Plain text
 #: introduction.en.adoc:7
 msgid "This resulted in the https://doi.org/10.15468/doc-b02j-gt10[_Guide to Best Practices for Generalising Sensitive Primary Species Occurrence Data_^]. That document relied heavily on the results of an online survey conducted through https://www.surveymonkey.com[Survey Monkey] and subsequent workshops whose reports were originally made available on the GBIF website (https://doi.org/10.35035/vs84-0p13[Chapman 2006^])."
-msgstr ""
+msgstr "El resultado fue la https://doi.org/10.15468/doc-b02j-gt10[_Guía de Buenas Prácticas para la Generalización de Datos de Presencia de Especies Sensibles_^]. Ese documento se basó en gran medida en los resultados de una encuesta realizada en línea a través de https://www.surveymonkey.com[Survey Monkey] y en talleres posteriores cuyos informes se publicaron originalmente en el sitio web de GBIF (https://doi.org/10.35035/vs84-0p13[Chapman 2006^])."
 
 #. type: Plain text
 #: introduction.en.adoc:9
 msgid "A final report on Dealing with Sensitive Primary Species Occurrence Data was developed following these processes and discussions, and was presented to GBIF in April 2007 (https://doi.org/10.35035/rajc-t668[Chapman 2007^]). This report made a number of recommendations, and many of these have been included in this document."
-msgstr ""
+msgstr "Tras estos procesos y debates se elaboró un informe final sobre el tratamiento de los datos de presencia de especies primarias sensibles, que se presentó a GBIF en abril de 2007 (https://doi.org/10.35035/rajc-t668[Chapman 2007^]). Este informe hizo una serie de recomendaciones y muchas de ellas han sido incluidas en este documento."
 
 #. type: Plain text
 #: introduction.en.adoc:11
