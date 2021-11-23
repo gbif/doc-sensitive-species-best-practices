@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-02-01 17:14+0000\n"
-"PO-Revision-Date: 2021-11-22 17:48\n"
+"PO-Revision-Date: 2021-11-23 14:21\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -199,7 +199,7 @@ msgstr "Alcance"
 #. type: Plain text
 #: introduction.en.adoc:31
 msgid "The term “best practice” generally refers to the best possible way of doing something. It is commonly used in the fields of business management, software engineering, and medicine, and increasingly in government. The term “current best practice” (or best current practice) is more specific in that it indicates the possibility for future developments and better practice. Due to the immaturity of this topic, this publication generally refers to “current” best practice and is sure to mature over time as more institutions adopt and adapt the principles outlined herein."
-msgstr ""
+msgstr "El término \"buena práctica\" generalmente se refiere a la mejor manera posible de hacer algo. Habitualmente se utiliza en los campos de la gestión empresarial, la ingeniería de software, la medicina y cada vez más en la administración pública. El término \"buena práctica actual\" es más específico en el sentido de que indica la posibilidad de futuros desarrollos y buenas prácticas. Debido a la inmadurez de este tema, esta publicación se refiere en general a la buena práctica \"actual\" y seguramente madurará con el tiempo, a medida que más instituciones adopten y adapten los principios aquí expuestos."
 
 #. type: Plain text
 #: introduction.en.adoc:33
