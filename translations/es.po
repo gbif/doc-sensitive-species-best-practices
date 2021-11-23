@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-02-01 17:14+0000\n"
-"PO-Revision-Date: 2021-11-23 15:22\n"
+"PO-Revision-Date: 2021-11-23 16:29\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -245,57 +245,57 @@ msgstr "Principios"
 #. type: Plain text
 #: 100.en.adoc:4
 msgid "Biodiversity information should be made freely available to be shared globally to enable their use for not-for-profit decision making, education, research and other public benefit purposes. Making the full detail of biodiversity information available should reduce the risk of damage to the environment and help safeguard a sustainable future. Where release will have the opposite effect, access to the full detail may need to be controlled."
-msgstr ""
+msgstr "La información sobre biodiversidad debe estar disponible a nivel mundial de forma gratuita para permitir su uso para la toma de decisiones sin ánimo de lucro, la educación, la investigación y otros fines de beneficio público. Poner a disposición todos los detalles de la información sobre biodiversidad debería reducir el riesgo de daños al medio ambiente y ayudar a salvaguardar un futuro sostenible. Cuando la divulgación pueda tener el efecto contrario, puede ser necesario controlar el acceso a todos los detalles."
 
 #. type: Plain text
 #: 100.en.adoc:6
 msgid "Below are a set of high-level principles related to the sharing of data generally and the sharing of sensitive data in particular."
-msgstr ""
+msgstr "A continuación se presentan una serie de principios de alto nivel relacionados con el intercambio de datos en general y con el intercambio de datos sensibles en particular."
 
 #. type: Plain text
 #: 100.en.adoc:8
 msgid "The management of sensitive data is integral to ethical data management."
-msgstr ""
+msgstr "La gestión de los datos sensibles es parte integral de la gestión ética de los datos."
 
 #. type: Plain text
 #: 100.en.adoc:9
 msgid "Wherever possible, environmental information should be freely available to all. Generally this benefits the environment by increasing awareness, enabling better decision-making and reducing risk of damage."
-msgstr ""
+msgstr "Siempre que sea posible, la información medioambiental debe estar a disposición de todos. En general, esto beneficia al medio ambiente al aumentar la concientización, permitir una mejor toma de decisiones y reducir el riesgo de daños."
 
 #. type: Plain text
 #: 100.en.adoc:10
 msgid "Public release of information can sometimes result in environmental harm. In such cases availability of information may need to be controlled; although the presumption remains in favour of release and any restrictions should be assessed and reviewed rigorously."
-msgstr ""
+msgstr "La divulgación de la información a veces puede resultar perjudicial para el medio ambiente. En tales casos, puede ser necesario controlar la disponibilidad de la información, aunque la suposición sigue siendo a favor de la divulgación y cualquier restricción debe ser evaluada y revisada rigurosamente."
 
 #. type: Plain text
 #: 100.en.adoc:11 200.en.adoc:316
 msgid "All data regarded as being sensitive should include a date for review of their sensitivity status, along with documented reasons for the sensitivity status. The date for review may be short or long depending on the nature of the sensitivity."
-msgstr ""
+msgstr "Todos los datos considerados sensibles deben incluir una fecha para la revisión de su estado de sensibilidad, junto con la documentación de las razones para el estado de sensibilidad. La fecha de revisión puede ser corta o larga en función de la naturaleza de la sensibilidad."
 
 #. type: Plain text
 #: 100.en.adoc:13
 msgid "Whenever a data provider receives an application for enhanced access to restricted data, they should avoid assuming continued sensitivity and use it as an opportunity to revisit the determination."
-msgstr ""
+msgstr "Siempre que un proveedor de datos reciba una solicitud para un mayor acceso a los datos restringidos, debe evitar asumir una continuidad de la sensibilidad y utilizarlo como una oportunidad para revisar la determinación."
 
 #. type: Plain text
 #: 100.en.adoc:16
 msgid "If the data is to be restricted for distribution, then this should only be done to a copy of the data at the time of their distribution. Data should never be altered, falsified or deleted from the stored record."
-msgstr ""
+msgstr "Si los datos deben ser restringidos para su distribución, sólo se debe hacer a una copia de los datos en el momento de su distribución. Los datos nunca deben ser alterados, falsificados o borrados del registro almacenado."
 
 #. type: Plain text
 #: 100.en.adoc:17
 msgid "Documentation is essential for many reasons, and where data have been restricted or generalized, it is important that the reason(s) for the categorization is recorded as metadata that remains with the record."
-msgstr ""
+msgstr "La documentación es esencial por muchas razones y cuando los datos han sido restringidos o generalizados, es importante que la(s) razón(es) de la categorización se registre(n) como metadatos que permanezcan junto al registro."
 
 #. type: Plain text
 #: 100.en.adoc:18
 msgid "Where data is restricted or generalized for distribution (such as the name of a collector, textual locality information, etc.), this should be documented by replacing with appropriate wording − the field should not be left blank or null."
-msgstr ""
+msgstr "Cuando los datos estén restringidos o generalizados para su distribución (como el nombre de un colector, la información textual de la localidad, etc.), esto debe documentarse sustituyendo la información por una redacción adecuada. El campo no debe dejarse en blanco o nulo."
 
 #. type: Plain text
 #: 100.en.adoc:19
 msgid "There are extremely strong reasons *not* to restrict data on related collections (e.g. collector’s numbers in sequence, collector’s name, etc.) because of the restrictions this places on data quality and data validation procedures, etc."
-msgstr ""
+msgstr "Hay razones de peso para *no* restringir los datos de las colectas relacionadas (por ejemplo, los números de los colectores en secuencia, el nombre del colector, etc.) debido a las restricciones que esto supone para la calidad de los datos y los procedimientos de validación de los mismos, etc."
 
 #. type: Plain text
 #: 100.en.adoc:20
