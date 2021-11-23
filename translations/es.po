@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-02-01 17:14+0000\n"
-"PO-Revision-Date: 2021-11-23 16:29\n"
+"PO-Revision-Date: 2021-11-23 17:29\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -300,60 +300,60 @@ msgstr "Hay razones de peso para *no* restringir los datos de las colectas relac
 #. type: Plain text
 #: 100.en.adoc:20
 msgid "Users of sensitive data should comply with any and all restrictions of access that the data provider has placed on the data. If granted enhanced access to restricted information, users must not compromise or otherwise infringe the confidentiality of such information."
-msgstr ""
+msgstr "Los usuarios de datos sensibles deben cumplir con todas las restricciones de acceso que el proveedor de los datos haya impuesto a los mismos. Si se les concede un acceso mejorado a la información restringida, los usuarios no deben comprometer o infringir de otro modo la confidencialidad de dicha información."
 
 #. type: Plain text
 #: 100.en.adoc:21
 msgid "Data providers should respect the needs of data users to have access to data and documentation in order to determine the ‘fitness for use’ of the data and to ensure that analyses are robust and not misleading."
-msgstr ""
+msgstr "Los proveedores de datos deben respetar la necesidad de los usuarios de tener acceso a los datos y la documentación para determinar la \"aptitud para el uso\" (fitness for use) de los datos y garantizar que los análisis sean sólidos y no induzcan a error."
 
 #. type: Title ==
 #: 200.en.adoc:1
 #, no-wrap
 msgid "Determining sensitivity"
-msgstr ""
+msgstr "Determinación de la sensibilidad"
 
 #. type: Plain text
 #: 200.en.adoc:4
 msgid "As a first step, information holders need to identify any data which are regarded as ‘<<sensitive-data,sensitive>>’. Sensitive information is any, which if released to the public, would result in an ‘adverse effect’ on the taxon or attribute in question or to a living individual. A number of factors need to be taken into account when determining sensitivity, including the type and level of threat, vulnerability of the taxon or attribute, type of information and whether it is already publicly available. Determining these factors leads us to a criteria-based approach."
-msgstr ""
+msgstr "Como primer paso, los titulares de la información deben identificar los datos que se consideran <<datos-sensibles,sensibles>>. La información sensible es toda aquella que, de ser divulgada al público, tendría un \"efecto adverso\" sobre el taxón o atributo en cuestión o sobre un individuo vivo. A la hora de determinar la sensibilidad hay que tener en cuenta una serie de factores, como el tipo y el nivel de amenaza, la vulnerabilidad del taxón o atributo, el tipo de información y si ya está disponible públicamente. La determinación de estos factores nos lleva a un enfoque basado en criterios."
 
 #. type: Plain text
 #: 200.en.adoc:6
 msgid "Information cannot be considered sensitive if it is readily available through other sources or if it is not unique. This principle has been identified in a number of sensitive data policies (http://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf[AMEC Earth and Environmental 2010^], https://www.environment.gov.au/system/files/resources/246e674a-feb1-4399-a678-be9f4b6a6800/files/sensitive-ecological-data-access-mgt-policy.pdf[Australian Government 2016^])."
-msgstr ""
+msgstr "La información no puede considerarse sensible si está fácilmente disponible a través de otras fuentes o si no es única. Este principio ha sido identificado en una serie de políticas de datos sensibles (http://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf[AMEC Earth and Environmental 2010^], https://www.environment.gov.au/system/files/resources/246e674a-feb1-4399-a678-be9f4b6a6800/files/sensitive-ecological-data-access-mgt-policy.pdf[Australian Government 2016^])."
 
 #. type: Plain text
 #: 200.en.adoc:8
 msgid "It would appear that herbaria are more inclined to restrict their data than mammal or insect collections (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]). Perhaps this is because plants don’t move and the exact location of a collection is likely to lead one to an actual plant on the ground, whereas mammals and insects tend to move around. One entomologist commented that professional collectors and amateur groups often know more than the scientists about the location of rare species. However, there are categories of animals where the exact locations were thought to be sensitive and included bat roosting and maternity sites, nesting sites of falcons, and the location of various lizards, tortoise, butterfly species and large mammals. With plants, there is also a strong leaning towards not making information available for plants likely to be collected (pirated) such as cacti in Arizona, orchids and cycads. The protection of sensitive fossil sites was also identified. One unfortunate aspect is the susceptibility of a small number of taxa in a group (such as a few charismatic cacti, or orchids, etc.). This can often mean that all taxa in that group are then regarded as sensitive and the data on them restricted, even though many of those taxa are not themselves sensitive or susceptible to harmful acts."
-msgstr ""
+msgstr "Parece que los herbarios son más proclives a restringir sus datos que las colecciones de mamíferos o insectos (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]). Quizá esto se deba a que las plantas no se mueven y es probable que la ubicación exacta de una colección nos lleve a una planta real sobre el terreno, mientras que los mamíferos y los insectos tienden a moverse. Un entomólogo comentó que los coleccionistas profesionales y los grupos de aficionados suelen saber más que los científicos sobre la ubicación de las especies raras. Sin embargo, hay categorías de animales cuya localización exacta se consideraba delicada, como los lugares de descanso y maternidad de los murciélagos, los lugares de anidación de los halcones y la ubicación de varios lagartos, tortugas, especies de mariposas y grandes mamíferos. En cuanto a las plantas, también hay una fuerte tendencia a no facilitar información sobre las plantas susceptibles de ser recolectadas (pirateadas), como los cactus de Arizona, las orquídeas y las cícadas. También se identificó la protección de yacimientos fósiles sensibles. Un aspecto desafortunado es la susceptibilidad de un pequeño número de taxones en un grupo (como unos pocos cactus carismáticos, u orquídeas, etc.). Entonces esto puede significar que a menudo todos los taxones de ese grupo se consideren sensibles y se restrinjan los datos sobre ellos, aunque muchos de esos taxones no sean en sí mismos sensibles o susceptibles de sufrir actos dañinos."
 
 #. type: Plain text
 #: 200.en.adoc:10
 msgid "On the other hand, some institutions have found benefit in working with the general public to gather information and to protect rare taxa, using the public and special interest groups to survey existing locations and to help locate new locations. There are good examples with birds, lizards, frogs, butterflies and various plant species (including orchids) in a number of countries. Several people have raised the issue of the balance between protecting taxa through knowledge of where they occur as opposed to protection through restricting knowledge of their occurrence at a location. This is very taxon (and maybe region) specific and certain taxa may be in greater danger due to inadvertent destruction through lack of knowledge than through deliberate collection and destruction through knowledge of locations. For this reason, a list of sensitive taxa should be quite different to a list of rare or threatened taxa, although there is likely to be considerable overlap between the two. It should be noted, also, that what is sensitive today, may not be sensitive tomorrow and vice versa, and this should lead to review on a periodic basis to determine whether the context has changed over time (http://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf[AMEC Earth and Environmental 2010^])."
-msgstr ""
+msgstr "Por otro lado, algunas instituciones han encontrado beneficios en la colaboración con el público general para recopilar información y proteger los taxones raros, usando al público y a los grupos de interés especial para estudiar los lugares existentes y ayudar a encontrar nuevos lugares. Hay buenos ejemplos con aves, lagartos, ranas, mariposas y algunas especies de plantas (incluidas las orquídeas) en varios países. Varias personas han planteado la cuestión del equilibrio entre la protección de los taxones a través del conocimiento de su presencia y la protección a través de la restricción del conocimiento de su presencia en un lugar. Esta cuestión es muy específica de cada taxón (y quizás de cada región) y algunos taxones pueden estar en mayor peligro debido a la destrucción inadvertida por falta de conocimiento, que por la colecta y destrucción deliberada a través del conocimiento de los lugares. Por este motivo, un listado de taxones sensibles debería ser bastante diferente a un listado de taxones raros o amenazados, aunque es probable que haya una superposición considerable entre ambas. También hay que tener en cuenta que lo que es sensible hoy, puede no serlo mañana y viceversa, esto debería llevar a una revisión periódica para determinar si el contexto ha cambiado con el tiempo (http://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf[AMEC Earth and Environmental 2010^])."
 
 #. type: Plain text
 #: 200.en.adoc:12
 msgid "As noted in an article in _Science_ (https://doi.org/10.1126/science.312.5777.1137b[Stuart et al. 2006^]), three newly discovered amphibian and reptile species rapidly appeared in commercial trade shortly after their descriptions in the scientific literature. This is an issue of concern to biologists and especially to taxonomists (https://www.chronicle.com/article/Endangered-by-Research/26117[Guterman 2006^]) – how much information should be released in publication when describing a new taxon. There are a number of examples in coral-reef fish where a new species has appeared in the commercial trade soon after it is scientifically described."
-msgstr ""
+msgstr "Como se señala en un artículo de _Science_ (https://doi.org/10.1126/science.312.5777.1137b[Stuart et al. 2006^]), tres especies recientemente descubiertas de anfibios y reptiles aparecieron rápidamente en el comercio poco después de sus descripciones en la literatura científica. Cuánta información debe publicarse al describir un nuevo taxón es una cuestión que preocupa a los biólogos y, sobre todo, a los taxónomos (https://www.chronicle.com/article/Endangered-by-Research/26117[Guterman 2006^]). Hay varios ejemplos de peces de arrecife de coral en los que una nueva especie ha aparecido en el comercio poco después de ser descrita científicamente."
 
 #. type: Positional ($2) AttributeList argument for style 'quote'
 #: 200.en.adoc:13
 #, no-wrap
 msgid "Richard Pyle"
-msgstr ""
+msgstr "Richard Pyle"
 
 #. type: Positional ($3) AttributeList argument for style 'quote'
 #: 200.en.adoc:13
 #, no-wrap
 msgid "personal communication 2006"
-msgstr ""
+msgstr "comunicación personal 2006"
 
 #. type: delimited block _
 #: 200.en.adoc:16
 msgid "A few examples with which I have had direct experience include _Centropyge boylei_, _Centropyge narcosis_ [and] _Belonoperce pylei_ … among a number of others."
-msgstr ""
+msgstr "Algunos ejemplos con los que he tenido una experiencia directa incluyen _Centropyge boylei_, _Centropyge narcosis_ [y] _Belonoperce pylei_ … entre otros."
 
 #. type: delimited block _
 #: 200.en.adoc:18
