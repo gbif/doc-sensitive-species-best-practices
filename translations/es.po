@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-02-01 17:14+0000\n"
-"PO-Revision-Date: 2021-11-24 17:45\n"
+"PO-Revision-Date: 2021-11-24 21:15\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1081,12 +1081,12 @@ msgstr "Este espécimen representa una especie en peligro o amenazada. La locali
 #. type: Plain text
 #: 300.en.adoc:28
 msgid "This specimen represents an endangered or threatened species. The specific locality has been generalized to presence within a grid of 0.1 degree resolution. Detailed data may be supplied to researchers on request."
-msgstr ""
+msgstr "Este espécimen representa una especie en peligro o amenazada. La localidad específica se ha generalizado a la presencia dentro de una cuadrícula de 0.1 grados de resolución. Se pueden suministrar datos detallados a los investigadores que lo soliciten."
 
 #. type: Plain text
 #: 300.en.adoc:30
 msgid "Where there is a need to restrict a taxonomic name (for example of sensitive taxa as part of a survey or checklist), it may be possible to replace it with a higher taxon name (genus/family, etc.) or to just report that there are ‘x’ sensitive taxa present without providing names."
-msgstr ""
+msgstr "Cuando sea necesario restringir un nombre taxonómico (por ejemplo, de taxa sensibles como parte de una encuesta o listado), puede ser posible sustituirlo por un nombre de taxón superior (género/familia, etc.) o simplemente informar de que hay \"x\" taxa sensibles presentes sin proporcionar nombres."
 
 #. type: Plain text
 #: 300.en.adoc:32
