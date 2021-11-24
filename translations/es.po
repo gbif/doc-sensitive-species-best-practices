@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-02-01 17:14+0000\n"
-"PO-Revision-Date: 2021-11-24 02:11\n"
+"PO-Revision-Date: 2021-11-24 11:48\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -574,24 +574,50 @@ msgid "\n"
 "_“The taxon is not vulnerable to harmful human activity over its total range *and/or* there are areas where the taxon occurs but is not at significant risk.”_ +\n"
 "↓ +\n"
 "<<table-04,Go to 3>>\n\n"
-msgstr ""
+msgstr "\n"
+"2+^s|2.1. ¿Tiene el taxón características que lo hacen particularmente vulnerable a la actividad humana perjudicial?\n\n"
+"^a|*SI* +\n"
+"↓ +\n"
+"Documentar con la justificación del enunciado 2a: +\n"
+"\"El taxón tiene características que lo hacen particularmente vulnerable a la actividad humana perjudicial.\"_ +\n"
+"↓ +\n"
+"Ir a 2.2\n\n"
+"^a|*NO* +\n"
+"↓ +\n"
+"Documentar con la justificación del enunciado 2b: +\n"
+"\"El taxón no es particularmente vulnerable a la actividad humana perjudicial.\"_ +\n"
+"↓ +\n"
+"Ir a 2.2\n\n"
+"2+^s|2.2. ¿Es el taxón vulnerable a la actividad humana perjudicial en toda su área de distribución o hay zonas (como en las zonas de conservación o en otras partes del mundo) en las que el taxón no tiene el mismo nivel de riesgo?\n\n"
+"^a|*SI* +\n"
+"↓ +\n"
+"Documentar con la justificación del enunciado 2c: +\n"
+"\"El taxón es vulnerable a la actividad humana perjudicial en toda su área de distribución\".\n"
+"↓ +\n"
+"<<table-04,Ir a 3>>\n\n"
+"^a|*NO* +\n"
+"↓ +\n"
+"Documentar con la justificación utilizando el enunciado 2d: +\n"
+"\"El taxón no es vulnerable a la actividad humana perjudicial en toda su área de distribución *y/o* hay zonas en las que el taxón está presente pero no corre un riesgo significativo.\"_ +\n"
+"↓ +\n"
+"<<table-04,Ir a 3>>\n\n"
 
 #. type: Plain text
 #: 200.en.adoc:157
 msgid "Once it has been decided that the taxon is subject to a significant risk and impact from harm or not, then a decision needs to be taken on whether the release of specific data on that taxon – or other related data – will increase the risk and impact of harm."
-msgstr ""
+msgstr "Una vez que se ha decidido que el taxón está sujeto a un riesgo significativo y a impacto del daño o no, entonces hay que decidir si la publicación de datos específicos sobre ese taxón, u otros datos relacionados, aumentará el riesgo y el impacto del daño."
 
 #. type: Named 'caption' AttributeList argument for style 'caption'
 #: 200.en.adoc:161
 #, no-wrap
 msgid "Table 4. "
-msgstr ""
+msgstr "Tabla 4. "
 
 #. type: Block title
 #: 200.en.adoc:162
 #, no-wrap
 msgid "*Sensitivity of data*. Assess whether the release of data will increase harm."
-msgstr ""
+msgstr "*Sensibilidad de los datos*. Evaluar si la liberación de los datos aumentará el daño."
 
 #. type: Table
 #: 200.en.adoc:231
