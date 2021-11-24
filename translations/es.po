@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-02-01 17:14+0000\n"
-"PO-Revision-Date: 2021-11-24 21:15\n"
+"PO-Revision-Date: 2021-11-24 22:11\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1091,179 +1091,179 @@ msgstr "Cuando sea necesario restringir un nombre taxonómico (por ejemplo, de t
 #. type: Plain text
 #: 300.en.adoc:32
 msgid "Occasionally, data providers may be tempted to restrict information in records related to a sensitive record (in addition to the sensitive record itself), such as the collector’s name and numbers in a sequence of records collected at the same location and time as a sensitive record in order to reduce the possibility of the sensitive record being found through correlational analysis. However, if the collector’s name and number is removed from just the sensitive record and not the others, it is unlikely that these could be deduced unless the seeker of the information already has inside knowledge. For this reason, and others, it is recommended that the data on related records not be restricted."
-msgstr ""
+msgstr "En ocasiones, los proveedores de datos pueden querer restringir la información de los registros relacionados con un registro sensible (además del propio registro sensible), como el nombre y los números del colector en una secuencia de registros colectados en el mismo lugar y momento que un registro sensible, con el fin de reducir la posibilidad de que se encuentre el registro sensible mediante un análisis de correlación. Sin embargo, si se elimina el nombre y el número del colector sólo del registro sensible y no de los demás, es poco probable que éstos puedan deducirse a menos que el buscador de la información ya tenga conocimiento interno. Por este motivo, y otros, se recomienda no restringir los datos de los registros relacionados."
 
 #. type: Title ==
 #: 400.en.adoc:1
 #, no-wrap
 msgid "Generalizing spatial information"
-msgstr ""
+msgstr "Generalización de la información espacial"
 
 #. type: Title ===
 #: 400.en.adoc:3
 #, no-wrap
 msgid "Generalization versus randomization"
-msgstr ""
+msgstr "Generalización versus aleatorización"
 
 #. type: Plain text
 #: 400.en.adoc:6
 msgid "Few of the respondents to the online survey (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]) recorded that they <<randomization,randomize>> data as opposed to <<generalization,generalizing>> it. Reasons for not <<randomization,randomizing>> included the extra work and computation involved, the increased chance of mistakes being made, and the less reliability that users may be able to place in the data."
-msgstr ""
+msgstr "Algunas de las personas que respondieron a la encuesta en línea (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]) registraron que <<aleatorización, aleatorizaban>> los datos en lugar de <<generalización, generalizar>>. Las razones para no <<aleatorización, aleatorizar>> incluían el trabajo y el cálculo extra que suponía, el aumento de la posibilidad de cometer errores y la menor fiabilidad que los usuarios podrían depositar en los datos."
 
 #. type: Plain text
 #: 400.en.adoc:8
 msgid "Some respondents to the survey stated that they were comfortable with displaying presence/absence of sensitive data within large polygons or grids squares, because it still reflected the real data, but were aghast at the idea of deliberately ‘faking’ point coordinates such that locations appear as precise representations, but are randomly offset from the real data – i.e., they represent the deliberate introduction of error. Whereas <<generalization>> creates/retains ‘true’ data, <<randomization>> creates deliberately ‘false’ data."
-msgstr ""
+msgstr "Algunos de los encuestados afirmaron que se sentían cómodos mostrando la presencia/ausencia de datos sensibles dentro de grandes polígonos o cuadrículas, porque seguían reflejando los datos reales, pero se horrorizaban ante la idea de \"falsear\" deliberadamente las coordenadas de los puntos de manera que las ubicaciones parezcan representaciones precisas, pero estén desplazadas aleatoriamente de los datos reales, es decir, que representen la introducción deliberada de errores. Mientras que la <<generalización>> crea/conserva datos \"verdaderos\", la <<aleatorización>> crea datos deliberadamente \"falsos\"."
 
 #. type: Plain text
 #: 400.en.adoc:10
 msgid "In the fields of data mining and protection of privacy (including of individual privacy in census data), it is generally regarded that bottom-up <<generalization>> is far more practical and scientifically defensible than <<randomization>> (see for example, <<wyc,Wang et al. 2004>>, https://www.ijsr.net/archive/v4i1/SUB15769.pdf[Dalvi and Keole 2015^])."
-msgstr ""
+msgstr "En los campos de la minería de datos y la protección de la privacidad (incluida la privacidad individual en los datos de censos), se considera generalmente que la \"generalización\" ascendente (\"bottom-up\") es mucho más práctica y científicamente justificable que la \"aleatorización\" (ver, por ejemplo, <<wyc,Wang et al. 2004>>, https://www.ijsr.net/archive/v4i1/SUB15769.pdf[Dalvi and Keole 2015^])."
 
 #. type: Plain text
 #: 400.en.adoc:12
 msgid "Another advantage of <<generalization>> is that it:"
-msgstr ""
+msgstr "Otras ventajas de la <<generalización>> es que:"
 
 #. type: Plain text
 #: 400.en.adoc:14
 msgid "scales up, allowing the use of a consistent methodology at different scales"
-msgstr ""
+msgstr "se amplía, permitiendo el uso de una metodología coherente a diferentes escalas"
 
 #. type: Plain text
 #: 400.en.adoc:15
 msgid "can be set to give different people different resolutions, depending on set roles, etc."
-msgstr ""
+msgstr "se puede configurar para entregar a diferentes personas diferentes resoluciones, dependiendo de los roles establecidos, etc."
 
 #. type: Plain text
 #: 400.en.adoc:16
 msgid "can simply provide for different scales of generalization for different categories of sensitivity"
-msgstr ""
+msgstr "puede proporcionar sencillamente diferentes escalas de generalización para diferentes categorías de sensibilidad"
 
 #. type: Plain text
 #: 400.en.adoc:17
 msgid "is easier to implement for those with low technological expertise"
-msgstr ""
+msgstr "es más fácil de aplicar para quienes tienen pocos conocimientos tecnológicos"
 
 #. type: Plain text
 #: 400.en.adoc:19
 msgid "<<randomization,Randomization>> is a methodology that I strongly recommend *not* be used."
-msgstr ""
+msgstr "La <<aleatorización>> que es altamente recomendado *no* usar."
 
 #. type: Title ===
 #: 400.en.adoc:21
 #, no-wrap
 msgid "Generalization"
-msgstr ""
+msgstr "Generalización"
 
 #. type: Plain text
 #: 400.en.adoc:24
 msgid "One of the most common requirements for generalizing sensitive biodiversity information is to generalize the spatial locality or <<geographic-coordinates,geographic coordinates>> (https://doi.org/10.15468/doc-gg7h-s853[Chapman and Wieczorek 2020]). Traditionally this has been done in many ways, and there has been little consistency in methodologies and very little documentation as to what has been done in each case. This has considerably reduced the value of the data for analysis, and often users are unaware that the data has even been modified."
-msgstr ""
+msgstr "Uno de los requisitos más comunes para generalizar la información sensible sobre biodiversidad es generalizar la localidad espacial o las <<coordenadas geográficas>> (https://doi.org/10.15468/doc-gg7h-s853[Chapman y Wieczorek 2020]). Tradicionalmente esto se ha hecho de muchas maneras y ha habido poca consistencia en las metodologías y muy poca documentación sobre lo que se ha hecho en cada caso. Esto ha reducido considerablemente el valor de los datos para el análisis y a menudo los usuarios no son conscientes de que los datos han sido modificados."
 
 #. type: Plain text
 #: 400.en.adoc:26
 msgid "<<generalization,Generalization>> (at least in a spatial sense) is usually of one of two types, namely:"
-msgstr ""
+msgstr "La <<generalización>> (al menos en un sentido espacial) suele ser de uno de dos tipos, concretamente:"
 
 #. type: Plain text
 #: 400.en.adoc:28
 msgid "Generalization to a grid (metric or geographic)"
-msgstr ""
+msgstr "Generalización a una grilla (métrica o geográfica)"
 
 #. type: Plain text
 #: 400.en.adoc:29
 msgid "Generalization to a polygon (socio-political region, country, biogeographic region, watershed)"
-msgstr ""
+msgstr "Generalización a un polígono (región sociopolítica, país, región biogeográfica, cuenca hidrográfica)"
 
 #. type: Plain text
 #: 400.en.adoc:31
 msgid "Many respondents to the survey (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]) argued for the simplicity of generalization to a grid. The reasons given included:"
-msgstr ""
+msgstr "Muchas de las personas que respondieron a la encuesta (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]) defendieron la simplicidad de la generalización a una cuadrícula. Las razones que se dieron fueron, entre otras, las siguientes:"
 
 #. type: Plain text
 #: 400.en.adoc:33
 msgid "the simplicity of being able to vary the scale for different categories of sensitivity,"
-msgstr ""
+msgstr "la facilidad de poder variar la escala para diferentes categorías de sensibilidad,"
 
 #. type: Plain text
 #: 400.en.adoc:34
 msgid "the ease of maintenance and training, and"
-msgstr ""
+msgstr "la facilidad de mantenimiento y entrenamiento y"
 
 #. type: Plain text
 #: 400.en.adoc:35
 msgid "the simplicity of creating suitable documentation."
-msgstr ""
+msgstr "la facilidad de crear una documentación adecuada."
 
 #. type: Plain text
 #: 400.en.adoc:37
 msgid "Generalizing to a grid, while protecting the exact locations of sensitive taxa, also provides data in a format that is still useable for a majority of users, especially where a standard grid is used."
-msgstr ""
+msgstr "La generalización a una cuadrícula, al tiempo que protege las localizaciones exactas de los taxa sensibles, también proporciona datos en un formato que sigue siendo utilizable para la mayoría de los usuarios, especialmente cuando se utiliza una cuadrícula estándar."
 
 #. type: Block title
 #: 400.en.adoc:39
 #, no-wrap
 msgid "Two generalization methods: a) a geographic grid where all records are referenced to the bottom left-hand (SE) corner; b) a metric grid where all records are referenced to the centroid."
-msgstr ""
+msgstr "Dos métodos de generalización: a) una grilla geográfica en la que todos los registros se refieren a la esquina inferior izquierda (SE) b) una cuadrícula métrica en la que todos los registros se refieren al centroide."
 
 #. type: Target for macro image
 #: 400.en.adoc:40
 #, no-wrap
 msgid "img/web/figure-01.jpg"
-msgstr ""
+msgstr "img/web/figure-01.jpg"
 
 #. type: Plain text
 #: 400.en.adoc:43
 msgid "<<figure-01,Figure 1>> shows two methods that are commonly used to grid data. The first (recommended here) is a geographic grid (e.g. cartographic grids such as those based on geographic coordinates), the second-a metric grid (e.g. Europe Equal Area Grid 2001 – https://epsg.io/19986[EPSG:19986]). How each of these should be handled with respect to determining location and uncertainty, see https://doi.org/10.15468/doc-gg7h-s853[Chapman and Wieczorek (2020)]. We recommend the use of a geographic grid, as discussed below, because of the ease of preparation and documentation, and because biological data being shared via the Darwin Core standard (https://doi.org/10.1371/journal.pone.0029715[Wieczorek et al. 2012]) would need to be converted from a metric grid to a geographic grid before publication, with subsequent loss of precision. However, as noted in https://doi.org/10.15468/doc-gg7h-s853[Chapman and Wieczorek (2020)],"
-msgstr ""
+msgstr "la <<figura-01,figura 1>> muestra dos métodos que se utilizan habitualmente para grillar los datos. El primero (recomendado aquí) es una grilla geográfica (p. ej. grillas cartográficas como las basadas en coordenadas geográficas), el segundo, una grilla métrica (p.ej. Europe Equal Area Grid 2001 - https://epsg.io/19986[EPSG:19986]). Para conocer cómo debe tratarse cada una de estas con respecto a la determinación de la ubicación y la incertidumbre, ver https://doi.org/10.15468/doc-gg7h-s853[Chapman y Wieczorek (2020)]. Recomendamos el uso de una grilla geográfica, como se discute a continuación, debido a la facilidad de preparación y documentación y porque los datos biológicos que se comparten a través del estándar Darwin Core (https://doi.org/10.1371/journal.pone.0029715[Wieczorek et al. 2012]) tendrían que ser convertidos de una grilla métrica a una grilla geográfica antes de la publicación, con la consiguiente pérdida de precisión. Sin embargo, como se señala en https://doi.org/10.15468/doc-gg7h-s853[Chapman y Wieczorek (2020)],"
 
 #. type: Plain text
 #: 400.en.adoc:46
 msgid "using the southwest corner as the coordinate for a point-radius georeference is wasteful, since the geographic radial would be from there to the farthest corner, which would be twice as far as it would be if the center of the grid cell was used instead. In any case, the characteristics of the grid should be recorded with the locality information."
-msgstr ""
+msgstr "utilizar la esquina suroeste como coordenada para una georreferencia radio-punto es un desperdicio, ya que el radio geográfico iría desde allí hasta la esquina más lejana, lo que supondría el doble de distancia que si se utilizara en su lugar el centro de la grilla de celdas. En cualquier caso, las características de la cuadrícula deben registrarse con la información de la localidad."
 
 #. type: Plain text
 #: 400.en.adoc:48
 msgid "Where data is generalized to a geographic or biogeographic region (a polygon), the data has less usability for many analyses, but was seen by many as a more secure way of ‘hiding’ sensitive data locations. Currently, GBIF.org has only limited ability to incorporate polygon data. There are some parallels with this method with the reporting of census results in many countries where summaries are reported using Statistical Local Areas or census tracts to restrict possible identification of individuals (https://www.abs.gov.au/AUSSTATS/abs@.nsf/bb8db737e2af84b8ca2571780015701e/23d04985e1786824ca25720b0002bb18!OpenDocument[Australian Bureau of Statistics 2006]). A key difference is that with census data results are summarized over many individuals within a region, whereas with biological data we want to hide the location of a single entity within an area. It does de facto produce a summary, but this is not the primary intent. One problem with this method is that there is no guarantee that political (or even biogeographic) boundaries will remain constant over time and this further reduces the value of the data for many purposes. This has already been found to be a problem when comparing census data over time where census districts or tracts have altered. (https://doi.org/10.1080/01615440.2011.563228[Noble et al. 2011])."
-msgstr ""
+msgstr "Cuando los datos se generalizan a una región geográfica o biogeográfica (un polígono), los datos tienen menos utilidad para muchos análisis, pero fueron considerados por muchos como una forma más segura de \"ocultar\" ubicaciones de datos sensibles. Actualmente, GBIF.org sólo tiene una capacidad limitada para incorporar datos de polígonos. Este método guarda cierto paralelismo con la comunicación de los resultados del censo en muchos países, donde los resúmenes se comunican utilizando áreas locales estadísticas o secciones de censo para restringir la posible identificación de los individuos (https://www.abs.gov.au/AUSSTATS/abs@.nsf/bb8db737e2af84b8ca2571780015701e/23d04985e1786824ca25720b0002bb18!OpenDocument[Australian Bureau of Statistics 2006]). Una diferencia clave es que con los datos del censo los resultados se resumen sobre muchos individuos dentro de una región, mientras que con los datos biológicos queremos ocultar la ubicación de un solo ente dentro de un área. De hecho, si se produce un resumen, pero esta no es la intención principal. Uno de los problemas de este método es que no hay garantía de que las fronteras políticas (o incluso biogeográficas) se mantengan constantes a lo largo del tiempo, lo que reduce aún más el valor de los datos para muchos fines. Ya se ha comprobado que esto es un problema al comparar los datos del censo a lo largo del tiempo cuando los distritos o tramos de censo han cambiado. (https://doi.org/10.1080/01615440.2011.563228[Noble et al. 2011])."
 
 #. type: Plain text
 #: 400.en.adoc:50
 msgid "If georeferences are given for data that is generalized to a biogeographic or political region, the result can be quite misleading – a coastal species, for example, may end up with a georeference that is hundreds of kilometres inland, reducing usefulness for analysis or data cleaning. Making such data available without suitable documentation can lead to quite disastrous results for users. It is often better in some cases to not supply a georeference, but if one is supplied, then documentation should be clear with either a large Uncertainty Radius, or well documented Spatial Fit (see discussion under <<s-spatial-fit,Spatial fit>> below)."
-msgstr ""
+msgstr "Si se dan georreferencias para datos que se generalizan a una región biogeográfica o política, el resultado puede ser bastante engañoso: una especie costera, por ejemplo, puede acabar con una georreferencia que está a cientos de kilómetros tierra adentro, lo que reduce la utilidad para el análisis o la limpieza de datos. Poner a disposición estos datos sin la documentación adecuada puede llevar a resultados bastante desastrosos para los usuarios. En algunos casos es mejor no suministrar una georreferencia, pero si se suministra una, la documentación debe ser clara, con un radio de incertidumbre grande,o un ajuste espacial bien documentado (ver la discusión en <<s-spatial-fit,Ajuste Espacial>> más abajo)."
 
 #. type: Plain text
 #: 400.en.adoc:52
 msgid "Good practice dictates that whatever you do to generalize the data that you document it so that users of the data know what reliance they can place in it."
-msgstr ""
+msgstr "Las buenas prácticas dictan que, independientemente de lo que se haga para generalizar los datos, se documente para que los usuarios de los datos sepan qué confianza pueden depositar en ellos."
 
 #. type: Plain text
 #: 400.en.adoc:54
 msgid "I recommend that data providers who are generalizing their data do so using a standard methodology (see below), and to document this accordingly. As most biodiversity data is currently made available using <<decimal-degrees,decimal degrees>> (https://doi.org/10.15468/doc-gg7h-s853[Chapman and Wieczorek 2020]), the recommended method means that protocols such as Darwin Core (https://doi.org/10.1371/journal.pone.0029715[Wieczorek et al. 2012]) do not need modification, other than to allow for suitable metadata documentation."
-msgstr ""
+msgstr "Recomiendo que los proveedores de datos que generalicen sus datos lo hagan utilizando una metodología estándar (ver más abajo) y que lo documenten debidamente. Dado que la mayoría de los datos de biodiversidad se ponen a disposición de los usuarios utilizando <<grados decimales>> (https://doi.org/10.15468/doc-gg7h-s853 [Chapman y Wieczorek 2020]), el método recomendado significa que protocolos como el Darwin Core (https://doi.org/10.1371/journal.pone.0029715 [Wieczorek et al. 2012]) no necesitan ser modificados, salvo para permitir una documentación adecuada de los metadatos."
 
 #. type: Plain text
 #: 400.en.adoc:56
 msgid "The method recommended below allows for several levels of <<generalization>> that conform to Categories 1–4 described in <<table-01,Table 1>>."
-msgstr ""
+msgstr "El método recomendado a continuación permite varios niveles de <<generalización>> que se ajustan a las Categorías 1-4 descritas en la <<table-01,Tabla 1>>."
 
 #. type: Plain text
 #: 400.en.adoc:58
 msgid "The recommended method for <<generalization>> is:"
-msgstr ""
+msgstr "El método recomendado para la <<generalización>> es:"
 
 #. type: Named 'caption' AttributeList argument for style 'caption'
 #: 400.en.adoc:59
 #, no-wrap
 msgid "Table 7. "
-msgstr ""
+msgstr "Tabla 7. "
 
 #. type: Block title
 #: 400.en.adoc:60
 #, no-wrap
 msgid "Method of generalizing geographic coordinates."
-msgstr ""
+msgstr "Método de generalización de coordenadas geográficas."
 
 #. type: Table
 #: 400.en.adoc:68
@@ -1274,7 +1274,12 @@ msgid "| Category | Sensitivity | Georeference\n"
 "| *Category 3* | Medium | Geographic coordinates rounded to 0.01 degree\n"
 "| *Category 4* | Low | Geographic coordinates rounded to 0.001 degree\n"
 "| *Not sensitive* | Not sensitive | Geographic coordinates unrestricted\n"
-msgstr ""
+msgstr "| Categoría | Sensibilidad | Georreferencia\n"
+"| *Categoría 1* | Extrema | Las coordenadas geográficas no se publican o los datos pueden publicarse por cuenca hidrográfica/biorregión/condado, redondeadas a 1 grado, etc. \n"
+"| *Categoría 2* |Alta | Coordenadas geográficas redondeadas a 0.1 grados\n"
+"| *Categoría 3* | Media | Coordenadas geográficas redondeadas a 0.01 grados\n"
+"| *Categoría 4* | Baja | Coordenadas geográficas redondeadas a 0.001 grados\n"
+"| *No sensible* | No sensible | Coordenadas geográficas sin restricción\n"
 
 #. type: Plain text
 #: 400.en.adoc:71
