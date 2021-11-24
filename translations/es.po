@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-02-01 17:14+0000\n"
-"PO-Revision-Date: 2021-11-24 11:48\n"
+"PO-Revision-Date: 2021-11-24 14:20\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -130,7 +130,7 @@ msgstr "Introducción"
 #. type: Plain text
 #: introduction.en.adoc:4
 msgid "The unprotected distribution of Sensitive Primary Species Occurrence Data (for example the exact localities of rare, endangered or commercially valuable taxa) was a concern of https://www.gbif.org[GBIF] – the Global Biodiversity Information Facility – from its beginning. The GBIF Secretariat has a vested interest in making data available via its portals, but at the same time respecting the wishes of data providers to restrict information on sensitive taxa. In early 2006, GBIF initiated a process to address this issue, especially in relation to data to be shared through the GBIF network and made visible through https://www.gbif.org[GBIF.org^] and other data aggregating initiatives."
-msgstr "La distribución desprotegida de los datos de presencia de especies sensibles (por ejemplo, las localidades exactas de taxones raros, en peligro de extinción o de valor comercial) fue una preocupación de https://www.gbif.org[GBIF] (la Infraestructura Mundial de Información en Biodiversidad) desde sus inicios. La Secretaría de GBIF tiene un gran interés en que los datos estén disponibles a través de sus portales, pero simultaneamente, respetando los deseos de los proveedores de datos de restringir la información sobre taxones sensibles. A principios de 2006, GBIF inició un proceso para abordar esta cuestión, especialmente en relación con los datos que se comparten a través de la red de GBIF y que se hacen visibles a través de https://www.gbif.org[GBIF.org^] y otras iniciativas de agregación de datos."
+msgstr "La distribución desprotegida de los datos de presencia de especies sensibles (por ejemplo, las localidades exactas de taxa raros, en peligro de extinción o de valor comercial) fue una preocupación de https://www.gbif.org[GBIF] (la Infraestructura Mundial de Información en Biodiversidad) desde sus inicios. La Secretaría de GBIF tiene un gran interés en que los datos estén disponibles a través de sus portales, pero simultaneamente, respetando los deseos de los proveedores de datos de restringir la información sobre taxa sensibles. A principios de 2006, GBIF inició un proceso para abordar esta cuestión, especialmente en relación con los datos que se comparten a través de la red de GBIF y que se hacen visibles a través de https://www.gbif.org[GBIF.org^] y otras iniciativas de agregación de datos."
 
 #.  Previous edition uses "Generalising" spelling
 #. type: Plain text
@@ -183,7 +183,7 @@ msgstr "Audiencia"
 #. type: Plain text
 #: introduction.en.adoc:25
 msgid "This work is designed for those who need, or want to know how they can best make as much data available on sensitive taxa as possible without that published data leading to harm to the species. This document is also for individuals or organizations faced with developing a policy on dealing with sensitive primary species occurrence data and writing in-house documentation consistent with current best practice."
-msgstr "Este documento está destinado a quienes necesitan o desean saber cuál es la mejor manera de poner a disposición de los interesados la mayor cantidad posible de datos sobre taxones sensibles sin que esa publicación perjudique a la especie. También, se dirige a las personas u organizaciones que se enfrentan a la elaboración de una política sobre el tratamiento de los datos de presencia de especies sensibles y a la redacción de documentación interna coherente con las buenas prácticas actuales."
+msgstr "Este documento está destinado a quienes necesitan o desean saber cuál es la mejor manera de poner a disposición de los interesados la mayor cantidad posible de datos sobre taxa sensibles sin que esa publicación perjudique a la especie. También, se dirige a las personas u organizaciones que se enfrentan a la elaboración de una política sobre el tratamiento de los datos de presencia de especies sensibles y a la redacción de documentación interna coherente con las buenas prácticas actuales."
 
 #. type: Plain text
 #: introduction.en.adoc:27
@@ -209,7 +209,7 @@ msgstr "Dos asuntos que no se han tratado en este documento ni en el anterior so
 #. type: Plain text
 #: introduction.en.adoc:35
 msgid "Ethics and biodiversity is a topic that has received little coverage, although for hundreds of years biologists have followed implied ethics in their work. The management of data on sensitive data requires considerable ethical practice and in many cases, a lot of trust and collaboration. Often amateur biologists and citizen scientists are aware of the locations of sensitive taxa, and it is up to the biologists to work with these groups to ensure the continued survival of the species. This won’t always be possible as there will always be rogues, but collaboration can work. For example, working with amateur groups to ethically bring rare plants into cultivation so that there is less pressure on the wild populations."
-msgstr "La ética y la biodiversidad es un tema que se ha discutido poco, aunque durante cientos de años los biólogos han seguido una ética implícita en su trabajo. La gestión de los datos sensibles requiere una práctica ética considerable y en muchos casos, mucha confianza y colaboración. A menudo, los biólogos aficionados y los científicos ciudadanos conocen la ubicación de los taxones sensibles y depende de los biólogos colaborar con estos grupos para garantizar la supervivencia de la especie. Esto no siempre será posible, ya que siempre habrá pícaros, pero la colaboración puede funcionar. Por ejemplo, trabajar con grupos de aficionados para cultivar plantas raras de manera ética, de modo que se ejerza menos presión sobre las poblaciones silvestres."
+msgstr "La ética y la biodiversidad es un tema que se ha discutido poco, aunque durante cientos de años los biólogos han seguido una ética implícita en su trabajo. La gestión de los datos sensibles requiere una práctica ética considerable y en muchos casos, mucha confianza y colaboración. A menudo, los biólogos aficionados y los científicos ciudadanos conocen la ubicación de los taxa sensibles y depende de los biólogos colaborar con estos grupos para garantizar la supervivencia de la especie. Esto no siempre será posible, ya que siempre habrá pícaros, pero la colaboración puede funcionar. Por ejemplo, trabajar con grupos de aficionados para cultivar plantas raras de manera ética, de modo que se ejerza menos presión sobre las poblaciones silvestres."
 
 #. type: Plain text
 #: introduction.en.adoc:37
@@ -234,7 +234,7 @@ msgstr "Esta publicación se centra, en gran medida, en los datos de presencia d
 #. type: Plain text
 #: introduction.en.adoc:46
 msgid "This document only looks at taxon sensitivity and not sensitivity related to issues such as land or personal privacy. Different national and state jurisdictions have diverse legislation with regard to both land and personal privacy. Bearing that in mind, however, I would recommend following the same principles of generalization recommended in this publication wherever possible, rather than other methods such as randomization."
-msgstr "Este documento sólo analiza la sensibilidad de los taxones y no la sensibilidad relacionada con cuestiones como la tierra o la privacidad personal. Las distintas jurisdicciones nacionales y estatales tienen legislaciones diversas en lo que respecta a la tierra y a la privacidad personal. Sin embargo, teniendo esto en cuenta, recomendaría seguir los mismos principios de generalización recomendados en esta publicación siempre que sea posible, en lugar de otros métodos como la aleatorización."
+msgstr "Este documento sólo analiza la sensibilidad de los taxa y no la sensibilidad relacionada con cuestiones como la tierra o la privacidad personal. Las distintas jurisdicciones nacionales y estatales tienen legislaciones diversas en lo que respecta a la tierra y a la privacidad personal. Sin embargo, teniendo esto en cuenta, recomendaría seguir los mismos principios de generalización recomendados en esta publicación siempre que sea posible, en lugar de otros métodos como la aleatorización."
 
 #. type: Title ==
 #: 100.en.adoc:1
@@ -326,12 +326,12 @@ msgstr "La información no puede considerarse sensible si está fácilmente disp
 #. type: Plain text
 #: 200.en.adoc:8
 msgid "It would appear that herbaria are more inclined to restrict their data than mammal or insect collections (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]). Perhaps this is because plants don’t move and the exact location of a collection is likely to lead one to an actual plant on the ground, whereas mammals and insects tend to move around. One entomologist commented that professional collectors and amateur groups often know more than the scientists about the location of rare species. However, there are categories of animals where the exact locations were thought to be sensitive and included bat roosting and maternity sites, nesting sites of falcons, and the location of various lizards, tortoise, butterfly species and large mammals. With plants, there is also a strong leaning towards not making information available for plants likely to be collected (pirated) such as cacti in Arizona, orchids and cycads. The protection of sensitive fossil sites was also identified. One unfortunate aspect is the susceptibility of a small number of taxa in a group (such as a few charismatic cacti, or orchids, etc.). This can often mean that all taxa in that group are then regarded as sensitive and the data on them restricted, even though many of those taxa are not themselves sensitive or susceptible to harmful acts."
-msgstr "Parece que los herbarios son más proclives a restringir sus datos que las colecciones de mamíferos o insectos (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]). Quizá esto se deba a que las plantas no se mueven y es probable que la ubicación exacta de una colección nos lleve a una planta real sobre el terreno, mientras que los mamíferos y los insectos tienden a moverse. Un entomólogo comentó que los coleccionistas profesionales y los grupos de aficionados suelen saber más que los científicos sobre la ubicación de las especies raras. Sin embargo, hay categorías de animales cuya localización exacta se consideraba delicada, como los lugares de descanso y maternidad de los murciélagos, los lugares de anidación de los halcones y la ubicación de varios lagartos, tortugas, especies de mariposas y grandes mamíferos. En cuanto a las plantas, también hay una fuerte tendencia a no facilitar información sobre las plantas susceptibles de ser recolectadas (pirateadas), como los cactus de Arizona, las orquídeas y las cícadas. También se identificó la protección de yacimientos fósiles sensibles. Un aspecto desafortunado es la susceptibilidad de un pequeño número de taxones en un grupo (como unos pocos cactus carismáticos, u orquídeas, etc.). Entonces esto puede significar que a menudo todos los taxones de ese grupo se consideren sensibles y se restrinjan los datos sobre ellos, aunque muchos de esos taxones no sean en sí mismos sensibles o susceptibles de sufrir actos dañinos."
+msgstr "Parece que los herbarios son más proclives a restringir sus datos que las colecciones de mamíferos o insectos (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]). Quizá esto se deba a que las plantas no se mueven y es probable que la ubicación exacta de una colección nos lleve a una planta real sobre el terreno, mientras que los mamíferos y los insectos tienden a moverse. Un entomólogo comentó que los coleccionistas profesionales y los grupos de aficionados suelen saber más que los científicos sobre la ubicación de las especies raras. Sin embargo, hay categorías de animales cuya localización exacta se consideraba delicada, como los lugares de descanso y maternidad de los murciélagos, los lugares de anidación de los halcones y la ubicación de varios lagartos, tortugas, especies de mariposas y grandes mamíferos. En cuanto a las plantas, también hay una fuerte tendencia a no facilitar información sobre las plantas susceptibles de ser recolectadas (pirateadas), como los cactus de Arizona, las orquídeas y las cícadas. También se identificó la protección de yacimientos fósiles sensibles. Un aspecto desafortunado es la susceptibilidad de un pequeño número de taxa en un grupo (como unos pocos cactus carismáticos, u orquídeas, etc.). Entonces esto puede significar que a menudo todos los taxa de ese grupo se consideren sensibles y se restrinjan los datos sobre ellos, aunque muchos de esos taxa no sean en sí mismos sensibles o susceptibles de sufrir actos dañinos."
 
 #. type: Plain text
 #: 200.en.adoc:10
 msgid "On the other hand, some institutions have found benefit in working with the general public to gather information and to protect rare taxa, using the public and special interest groups to survey existing locations and to help locate new locations. There are good examples with birds, lizards, frogs, butterflies and various plant species (including orchids) in a number of countries. Several people have raised the issue of the balance between protecting taxa through knowledge of where they occur as opposed to protection through restricting knowledge of their occurrence at a location. This is very taxon (and maybe region) specific and certain taxa may be in greater danger due to inadvertent destruction through lack of knowledge than through deliberate collection and destruction through knowledge of locations. For this reason, a list of sensitive taxa should be quite different to a list of rare or threatened taxa, although there is likely to be considerable overlap between the two. It should be noted, also, that what is sensitive today, may not be sensitive tomorrow and vice versa, and this should lead to review on a periodic basis to determine whether the context has changed over time (http://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf[AMEC Earth and Environmental 2010^])."
-msgstr "Por otro lado, algunas instituciones han encontrado beneficios en la colaboración con el público general para recopilar información y proteger los taxones raros, usando al público y a los grupos de interés especial para estudiar los lugares existentes y ayudar a encontrar nuevos lugares. Hay buenos ejemplos con aves, lagartos, ranas, mariposas y algunas especies de plantas (incluidas las orquídeas) en varios países. Varias personas han planteado la cuestión del equilibrio entre la protección de los taxones a través del conocimiento de su presencia y la protección a través de la restricción del conocimiento de su presencia en un lugar. Esta cuestión es muy específica de cada taxón (y quizás de cada región) y algunos taxones pueden estar en mayor peligro debido a la destrucción inadvertida por falta de conocimiento, que por la colecta y destrucción deliberada a través del conocimiento de los lugares. Por este motivo, un listado de taxones sensibles debería ser bastante diferente a un listado de taxones raros o amenazados, aunque es probable que haya una superposición considerable entre ambas. También hay que tener en cuenta que lo que es sensible hoy, puede no serlo mañana y viceversa, esto debería llevar a una revisión periódica para determinar si el contexto ha cambiado con el tiempo (http://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf[AMEC Earth and Environmental 2010^])."
+msgstr "Por otro lado, algunas instituciones han encontrado beneficios en la colaboración con el público general para recopilar información y proteger los taxones raros, usando al público y a los grupos de interés especial para estudiar los lugares existentes y ayudar a encontrar nuevos lugares. Hay buenos ejemplos con aves, lagartos, ranas, mariposas y algunas especies de plantas (incluidas las orquídeas) en varios países. Varias personas han planteado la cuestión del equilibrio entre la protección de los taxones a través del conocimiento de su presencia y la protección a través de la restricción del conocimiento de su presencia en un lugar. Esta cuestión es muy específica de cada taxón (y quizás de cada región) y algunos taxa pueden estar en mayor peligro debido a la destrucción inadvertida por falta de conocimiento, que por la colecta y destrucción deliberada a través del conocimiento de los lugares. Por este motivo, un listado de taxa sensibles debería ser bastante diferente a un listado de taxa raros o amenazados, aunque es probable que haya una superposición considerable entre ambas. También hay que tener en cuenta que lo que es sensible hoy, puede no serlo mañana y viceversa, esto debería llevar a una revisión periódica para determinar si el contexto ha cambiado con el tiempo (http://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf[AMEC Earth and Environmental 2010^])."
 
 #. type: Plain text
 #: 200.en.adoc:12
@@ -374,7 +374,7 @@ msgstr "La National Biodiversity Network (NBN) del Reino Unido (<<oin,Countrysid
 #. type: Plain text
 #: 200.en.adoc:25
 msgid "A series of criteria for determining the sensitivity of taxa and data along with recommended metadata statements for documenting the reasons for the determination are set out in <<table-01,Table 1>>. The first two are for use by biodiversity data holders and those creating trigger lists of potentially sensitive taxa and refer largely to the taxa themselves. The last two are for use by biodiversity data holders and deal with an assessment of the data they hold and are considering making available – they are not suitable for the creation of trigger lists."
-msgstr "En la <<table-01,Tabla 1>> se exponen una serie de criterios para determinar la sensibilidad de los taxones y los datos, junto con enunciados de metadatos recomendados para documentar las razones de la determinación. Los dos primeros son para uso de los titulares de datos de biodiversidad y de quienes crean listados de taxones potencialmente sensibles y se refieren en gran medida a los propios taxones. Las dos últimas son para uso de los titulares de datos sobre biodiversidad y se refieren a una evaluación de los datos que poseen y que están considerando poner a disposición; no son adecuadas para la creación de listados."
+msgstr "En la <<table-01,Tabla 1>> se exponen una serie de criterios para determinar la sensibilidad de los taxa y los datos, junto con enunciados de metadatos recomendados para documentar las razones de la determinación. Los dos primeros son para uso de los titulares de datos de biodiversidad y de quienes crean listados de taxa potencialmente sensibles y se refieren en gran medida a los propios taxa. Las dos últimas son para uso de los titulares de datos sobre biodiversidad y se refieren a una evaluación de los datos que poseen y que están considerando poner a disposición; no son adecuadas para la creación de listados."
 
 #. type: Plain text
 #: 200.en.adoc:27
@@ -391,7 +391,7 @@ msgstr "Tabla 1. "
 #: 200.en.adoc:30
 #, no-wrap
 msgid "Criteria for determining the sensitivity of taxa and data along with recommended metadata statements for documenting the reasons for the determination"
-msgstr "Criterios para determinar la sensibilidad de los taxones y los datos, junto con los enunciados de metadatos recomendados para documentar las razones de la determinación"
+msgstr "Criterios para determinar la sensibilidad de los taxa y los datos, junto con los enunciados de metadatos recomendados para documentar las razones de la determinación"
 
 #. type: Table
 #: 200.en.adoc:41
@@ -410,7 +410,7 @@ msgstr "\n"
 #. type: Plain text
 #: 200.en.adoc:44
 msgid "A set of scenarios using Criteria 1 and 2 above to determine triggers for sensitivity of taxa is attached as an <<annex-01,Annex>> to this document."
-msgstr "En el <<annex-01, Anexo>> de este documento se adjuntan un conjunto de escenarios utilizando los Criterios 1 y 2 anteriores para determinar los desencadenantes de la sensibilidad de los taxones."
+msgstr "En el <<annex-01, Anexo>> de este documento se adjuntan un conjunto de escenarios utilizando los Criterios 1 y 2 anteriores para determinar los desencadenantes de la sensibilidad de los taxa."
 
 #. type: Plain text
 #: 200.en.adoc:46
@@ -420,7 +420,7 @@ msgstr "El primer paso en el proceso de determinación de la sensibilidad es hac
 #. type: Plain text
 #: 200.en.adoc:48
 msgid "If it is not then there would appear no reason to list it as a potential environmentally sensitive taxon. It is recommended that you use the documented wording supplied but with additional supporting rational documenting the specifics of the threat, for example:"
-msgstr "Si no es así, no parece haber ninguna razón para incluirlo en la lista de taxones potencialmente sensibles desde el punto de vista medioambiental. Se recomienda utilizar la frase proporcionada en la documentación, pero con un apoyo racional adicional que documente los aspectos específicos de la amenaza, por ejemplo:"
+msgstr "Si no es así, no parece haber ninguna razón para incluirlo en la lista de taxa potencialmente sensibles desde el punto de vista medioambiental. Se recomienda utilizar la frase proporcionada en la documentación, pero con un apoyo racional adicional que documente los aspectos específicos de la amenaza, por ejemplo:"
 
 #. type: Plain text
 #: 200.en.adoc:51
@@ -542,7 +542,7 @@ msgstr "Tabla 3. "
 #: 200.en.adoc:118
 #, no-wrap
 msgid "*Impact of harm*. Assessing sensitivity of taxa to a harmful human activity."
-msgstr "*Impacto del daño*. Evaluación de la sensibilidad de los taxones a una actividad humana perjudicial."
+msgstr "*Impacto del daño*. Evaluación de la sensibilidad de los taxa a una actividad humana perjudicial."
 
 #. type: Table
 #: 200.en.adoc:154
@@ -1940,7 +1940,7 @@ msgstr "[[datos-sensible]]datos sensibles"
 #. type: Plain text
 #: glossary.en.adoc:15
 msgid "any data, that because of their nature, a data provider does not want to make available in their raw state, e.g. precise localities of endangered taxa."
-msgstr "cualquier dato que, debido a su naturaleza, un proveedor de datos no quiera poner a disposición en su estado puro, por ejemplo, las localidades precisas de taxones amenazados."
+msgstr "cualquier dato que, debido a su naturaleza, un proveedor de datos no quiera poner a disposición en su estado puro, por ejemplo, las localidades precisas de taxa amenazados."
 
 #. type: Labeled list
 #: glossary.en.adoc:15
