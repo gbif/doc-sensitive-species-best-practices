@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-02-01 17:14+0000\n"
-"PO-Revision-Date: 2021-11-23 17:29\n"
+"PO-Revision-Date: 2021-11-24 00:07\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -358,13 +358,13 @@ msgstr "Algunos ejemplos con los que he tenido una experiencia directa incluyen 
 #. type: delimited block _
 #: 200.en.adoc:18
 msgid "Often in these and other cases, the existence of the new species is brought to the attention of the scientific community ‘by’ the commercial (aquarium) trade; rather than the other way around. Thus, it is usually not considered so much of a ‘problem’, but rather a sort of ‘symbiotic’ relationship between the commercial trade and the taxonomists. Moreover, in such cases in reef fishes, the species has eluded prior discovery not so much because it is rare or has an extremely restricted distribution, but because it simply lives somewhere that scientists have not yet been able to survey. Hence, there are usually few, if any, conservation implications in this context."
-msgstr ""
+msgstr "A menudo, en estos y otros casos, la existencia de la nueva especie es señalada a la comunidad científica \"por\" el comercio (de acuarios) y no al revés. Por lo tanto, no suele considerarse un \"problema\", sino una especie de relación \"simbiótica\" entre el comercio y los taxónomos. Además, en estos casos de peces de arrecife, la especie ha eludido el descubrimiento previo no tanto porque sea rara o tenga una distribución extremadamente restringida, sino porque simplemente vive en un lugar que los científicos aún no han podido estudiar. Por lo tanto, las implicaciones para la conservación suelen ser escasas o nulas en este contexto."
 
 #. type: Title ===
 #: 200.en.adoc:20
 #, no-wrap
 msgid "Criteria for determining sensitivity "
-msgstr ""
+msgstr "Criterios para la determinación de la sensibilidad "
 
 #. type: Plain text
 #: 200.en.adoc:23
