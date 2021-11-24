@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-02-01 17:14+0000\n"
-"PO-Revision-Date: 2021-11-24 16:45\n"
+"PO-Revision-Date: 2021-11-24 17:45\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -890,13 +890,17 @@ msgid "\n"
 "|[[cat1]]*Category 1* +\n\n"
 "Species or records for which no records will be provided at all, or which are only released as present within a large region such as a county, watershed, etc. \n\n"
 "a|The reason for non-disclosure is that: +\n\n"
-msgstr ""
+msgstr "\n"
+"| Criterio\t| Razonamiento\n\n"
+"|[[cat1]]*Categoría 1* +\n\n"
+"Especies o registros para los que no se proporcionará documentación en absoluto o que sólo se dan a conocer como presentes en una gran región, como un condado, una cuenca hidrográfica, etc. \n\n"
+"a|El motivo de la no divulgación es que: +\n\n"
 
 #. type: Table
 #: 200.en.adoc:339
 #, no-wrap
 msgid "a *distinctive* species of *high biological significance* is under *high threat* from exploitation/disease or other identifiable threat where even general locality information may threaten the taxon. +\n\n"
-msgstr ""
+msgstr "una especie *distintiva* de *alta importancia biológica* está bajo *alta amenaza* por explotación/enfermedad u otra amenaza identificable en la que incluso la información general de la localidad puede amenazar al taxón. +\n\n"
 
 #. type: Table
 #: 200.en.adoc:349
@@ -906,26 +910,31 @@ msgid "the information in the record is of such a nature that its release could 
 "|[[cat2]]*Category 2* +\n\n"
 "Species or records for which coordinates will be publicly available ‘denatured’ (to 0.1 degrees) and/or other information in the record is generalized. Finer scale data (<<cat3,Category 3>>, <<cat4,Category 4>> or detailed data) may be supplied to individuals under Licence. +\n\n"
 "a|The reasons for restriction are that: +\n\n"
-msgstr ""
+msgstr "la información contenida en la documentación es de tal naturaleza que su divulgación podría causar un daño irreparable al medio ambiente, a una persona o a alguna otra entidad. +\n\n"
+"Los datos sólo pueden suministrarse bajo estrictas condiciones de Licencia o como presencia en una gran región, como una cuenca hidrográfica, un condado o una región biogeográfica.\n\n"
+"|[[cat2]]*Categoría 2* +\n\n"
+"Especies o registros cuyas coordenadas estarán disponibles públicamente \"desnaturalizadas\" (a 0.1 grados) y/o otra información en el registro está generalizada. Los datos a escala más fina (<<cat3,Categoría 3>>, <<cat4,Categoría 4>> o datos detallados) pueden ser suministrados a individuos bajo Licencia. +\n\n"
+"a|Las razones de la restricción son que: +\n\n"
 
 #. type: Table
 #: 200.en.adoc:351
 #, no-wrap
 msgid "The species is classed as *highly sensitive*, and the provision of precise locations *would* subject the species to threats such as disturbance and exploitation. +\n\n"
-msgstr ""
+msgstr "La especie está clasificada como *altamente sensible* y la provisión de ubicaciones precisas *potencialmente* sometería a la especie a amenazas como la perturbación y la explotación. +\n\n"
 
 #. type: Table
 #: 200.en.adoc:355
 #, no-wrap
 msgid "The record includes *highly* sensitive information, the release of which could cause *extreme* harm to an individual or to the environment. +\n\n"
 "Data is supplied to the public +\n\n"
-msgstr ""
+msgstr "El registro incluye información *altamente* sensible, cuya divulgación podría causar un daño *extremo* a una persona o al medio ambiente. +\n\n"
+"Los datos se suministran al público +\n\n"
 
 #. type: Table
 #: 200.en.adoc:357
 #, no-wrap
 msgid "with the georeference denatured to 0.1 degrees (~10 km) and/or +\n\n"
-msgstr ""
+msgstr "con la georreferencia desnaturalizada a 0.1 grados (~10 km) y/o +\n\n"
 
 #. type: Table
 #: 200.en.adoc:369
@@ -936,26 +945,32 @@ msgid "with sensitive fields generalized or removed and replaced with suitable r
 "|[[cat3]]*Category 3* +\n\n"
 "Species or records for which coordinates will be publicly available ‘denatured’ (to 0.01 degrees) and/or other information in the record is generalized. Finer scale data (<<cat4,Category 4>> or detailed data) may be supplied to individuals under Licence.\n\n"
 "a|The reasons for restriction are that: +\n\n"
-msgstr ""
+msgstr "con los campos sensibles generalizados o eliminados y sustituidos por un texto adecuado +\n\n"
+"Los datos pueden suministrarse a escalas más finas si se solicitan bajo las condiciones de un acuerdo de datos por escrito, normalmente un Acuerdo de Licencia de Datos. Cuando se proporcionen datos a los clientes, se les informará qué especies o campos son sensibles y podrían tener sus coordenadas desnaturalizadas a aquellas disponibles bajo la <<cat3,Categoría 3>> o <<cat4,Categoría 4>>. +\n\n"
+"*NB*: En el caso de que la sensibilidad sea provocada por campos distintos a la georreferencia, puede ser más apropiado clasificar el registro como <<cat3,Categoría 3>> o <<cat4,Categoría 4>>. +\n\n"
+"|[[cat3]]*Categoría 3* +\n\n"
+"Especies o registros cuyas coordenadas estarán disponibles públicamente \"desnaturalizadas\" (a 0.01 grados) y/o otra información en el registro está generalizada. Los datos de escala más fina (<<cat4,Categoría 4>> o datos detallados) pueden suministrarse a individuos bajo licencia.\n\n"
+"a|Las razones de la restricción son que: +\n\n"
 
 #. type: Table
 #: 200.en.adoc:371
 #, no-wrap
 msgid "The species is classed as of *medium to high sensitivity*, and the provision of precise locations *could* subject the species to threats such as disturbance and exploitation. +\n\n"
-msgstr ""
+msgstr "La especie está clasificada como de *sensibilidad media a alta* y la provisión de localizaciones precisas *podría* someter a la especie a amenazas como la perturbación y la explotación. +\n\n"
 
 #. type: Table
 #: 200.en.adoc:375
 #, no-wrap
 msgid "The record includes *sensitive* information, the release of which could cause harm to an individual or to the environment. +\n\n"
 "Data is supplied to the public +\n\n"
-msgstr ""
+msgstr "El registro incluye información *sensible*, cuya divulgación podría causar daños a una persona o al medio ambiente. +\n\n"
+"Los datos se suministran al público +\n\n"
 
 #. type: Table
 #: 200.en.adoc:377
 #, no-wrap
 msgid "with the georeference denatured to 0.01 degrees (~1 km) and/or +\n\n"
-msgstr ""
+msgstr "con la georreferencia denaturada a 0.01 grados (~1km) y/o +\n\n"
 
 #. type: Table
 #: 200.en.adoc:389
@@ -966,96 +981,102 @@ msgid "with sensitive fields generalized or removed and replaced with suitable r
 "|[[cat4]]*Category 4* +\n\n"
 "Species or records for which coordinates will be publicly available ‘denatured’ (to 0.001 degrees) and/or other information in the record is generalized. Detailed ‘as-held’ data may be supplied to individuals under Licence. +\n\n"
 "a|The reasons for restriction are that: +\n\n"
-msgstr ""
+msgstr "con campos sensibles generalizados o eliminados y sustituidos por un texto adecuado +\n\n"
+"Los datos pueden suministrarse a escalas más finas si se solicitan bajo las condiciones de un acuerdo de datos por escrito, normalmente un Acuerdo de Licencia de Datos. Cuando se proporcionen los datos a los clientes, se les informará qué especies o campos son sensibles y podrían tener sus coordenadas desnaturalizadas a aquellas disponibles bajo la <<cat4,Categoría 4>>. +\n\n"
+"*NB*: En el caso de que la sensibilidad sea provocada por campos distintos a la georreferencia, puede ser más apropiado clasificar el registro como <<cat4,Categoría 4>>.\n\n"
+"|[[cat4]]*Categoría 4* +\n\n"
+"Especies o registros cuyas coordenadas estarán disponibles públicamente \"desnaturalizadas\" (a 0.001 grados) y/o otra información en el registro es generalizada. Los datos clasificados como \"retenidos\" pueden ser suministrados a individuos bajo Licencia. +\n\n"
+"a|Las razones de la restricción son que: +\n\n"
 
 #. type: Table
 #: 200.en.adoc:391
 #, no-wrap
 msgid "The species is classed as of *low to medium sensitivity*, and the provision of precise locations could lead to risk of collection or deliberate damage. +\n\n"
-msgstr ""
+msgstr "La especie está clasificada como de *sensibilidad baja a media* y el suministro de localizaciones precisas podría dar lugar a riesgos de colecta o daños deliberados. +\n\n"
 
 #. type: Table
 #: 200.en.adoc:395
 #, no-wrap
 msgid "The record includes *sensitive* information, the release of which could cause harm to an individual or to the environment. +\n\n"
 "Detailed data may be supplied under the conditions of a written data agreement, usually a Data Licence Agreement. When data is provided to clients, they will be advised which species or fields are sensitive.\n\n"
-msgstr ""
+msgstr "El registro incluye información *sensible*, cuya divulgación podría causar daños a una persona o al medio ambiente. +\n\n"
+"Los datos detallados pueden suministrarse bajo las condiciones de un acuerdo de datos por escrito, normalmente un Acuerdo de Licencia de Datos. Cuando se faciliten los datos a los clientes, se les indicará qué especies o campos son sensibles.\n\n"
 
 #. type: Title ==
 #: 300.en.adoc:1
 #, no-wrap
 msgid "Generalizing textual information"
-msgstr ""
+msgstr "Generalización de la información textual"
 
 #. type: Plain text
 #: 300.en.adoc:3
 msgid "In some cases, the information in text fields might be regarded as sensitive under certain circumstances. This may include such information as:"
-msgstr ""
+msgstr "En algunos casos, la información de los campos de texto puede considerarse sensible en determinadas circunstancias. Esto puede incluir información como:"
 
 #. type: Plain text
 #: 300.en.adoc:5
 msgid "Names of living persons"
-msgstr ""
+msgstr "Nombres de personas vivas"
 
 #. type: Plain text
 #: 300.en.adoc:6
 msgid "Locality information"
-msgstr ""
+msgstr "Información de la localidad"
 
 #. type: Plain text
 #: 300.en.adoc:7
 msgid "The date of collection"
-msgstr ""
+msgstr "La fecha de colecta"
 
 #. type: Plain text
 #: 300.en.adoc:8
 msgid "The collector’s number"
-msgstr ""
+msgstr "El número del colector"
 
 #. type: Plain text
 #: 300.en.adoc:9
 msgid "Habitat"
-msgstr ""
+msgstr "Hábitat"
 
 #. type: Plain text
 #: 300.en.adoc:10
 msgid "Landholder information"
-msgstr ""
+msgstr "Información del terrateniente"
 
 #. type: Plain text
 #: 300.en.adoc:11
 msgid "Taxonomic names"
-msgstr ""
+msgstr "Nombres taxonómicos"
 
 #. type: Plain text
 #: 300.en.adoc:13
 msgid "Some of these may need to be restricted to stop correlational analyses leading to deductions on the localities of records that are restricted or generalized – for example the collector’s name, date, and collector’s numbers in sequence. In other cases, it may be necessary to hide the name of a taxon in a list of collections in a biodiversity hotspot or sensitive locality."
-msgstr ""
+msgstr "En algunos casos puede ser necesario restringir los análisis de correlación que pueden conducir a deducciones sobre las localidades de los registros que están restringidos o generalizados, por ejemplo, el nombre del colector, la fecha y los números del colector en secuencia. En otros casos, puede ser necesario ocultar el nombre de un taxón en una lista de colectas en un hotspot de biodiversidad o en una localidad sensible."
 
 #. type: Plain text
 #: 300.en.adoc:15
 msgid "Such restrictions should not restrict the provision of the record as a whole. The data that needs to be hidden may be removed and replaced with suitable wording (see below), or generalized–for example, just giving the name of a higher level taxonomic rank where the species is to be restricted."
-msgstr ""
+msgstr "Dichas restricciones no deben restringir el suministro del registro en su totalidad. Los datos que deben ocultarse pueden eliminarse y sustituirse por un texto adecuado (ver más adelante) o generalizarse, por ejemplo, limitándose a dar el nombre de un rango taxonómico de nivel superior en el que la especie debe restringirse."
 
 #. type: Plain text
 #: 300.en.adoc:17
 msgid "Whenever data in a textual field is restricted or generalized for distribution (such as the name of a collector, textual locality information, etc.), it should be documented by replacing it with appropriate wording-the field should not be left blank or null."
-msgstr ""
+msgstr "Siempre que los datos de un campo textual se restrinjan o se generalicen para su distribución (como el nombre de un colector, la información textual de la localidad, etc.), deben documentarse sustituyéndolos por un texto adecuado, el campo no debe dejarse en blanco o nulo."
 
 #. type: Plain text
 #: 300.en.adoc:19
 msgid "Examples of replacement wording include:"
-msgstr ""
+msgstr "Entre los ejemplos de texto de sustitución se encuentran:"
 
 #. type: Plain text
 #: 300.en.adoc:22
 msgid "name suppressed for reasons of privacy"
-msgstr ""
+msgstr "nombre eliminado por razones de privacidad"
 
 #. type: Plain text
 #: 300.en.adoc:25
 msgid "This specimen represents an endangered or threatened species. The specific locality has been removed from the online record to protect this species from over-collection. These data may be supplied to researchers on request."
-msgstr ""
+msgstr "Este espécimen representa una especie en peligro o amenazada. La localidad específica se ha eliminado del registro en línea para proteger a esta especie de la colecta excesiva. Estos datos pueden facilitarse a los investigadores que lo soliciten."
 
 #. type: Plain text
 #: 300.en.adoc:28
