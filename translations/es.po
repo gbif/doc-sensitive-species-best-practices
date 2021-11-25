@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-02-01 17:14+0000\n"
-"PO-Revision-Date: 2021-11-25 14:24\n"
+"PO-Revision-Date: 2021-11-25 15:19\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -326,7 +326,7 @@ msgstr "La información no puede considerarse sensible si está fácilmente disp
 #. type: Plain text
 #: 200.en.adoc:8
 msgid "It would appear that herbaria are more inclined to restrict their data than mammal or insect collections (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]). Perhaps this is because plants don’t move and the exact location of a collection is likely to lead one to an actual plant on the ground, whereas mammals and insects tend to move around. One entomologist commented that professional collectors and amateur groups often know more than the scientists about the location of rare species. However, there are categories of animals where the exact locations were thought to be sensitive and included bat roosting and maternity sites, nesting sites of falcons, and the location of various lizards, tortoise, butterfly species and large mammals. With plants, there is also a strong leaning towards not making information available for plants likely to be collected (pirated) such as cacti in Arizona, orchids and cycads. The protection of sensitive fossil sites was also identified. One unfortunate aspect is the susceptibility of a small number of taxa in a group (such as a few charismatic cacti, or orchids, etc.). This can often mean that all taxa in that group are then regarded as sensitive and the data on them restricted, even though many of those taxa are not themselves sensitive or susceptible to harmful acts."
-msgstr "Parece que los herbarios son más proclives a restringir sus datos que las colecciones de mamíferos o insectos (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]). Quizá esto se deba a que las plantas no se mueven y es probable que la ubicación exacta de una colección nos lleve a una planta real sobre el terreno, mientras que los mamíferos y los insectos tienden a moverse. Un entomólogo comentó que los coleccionistas profesionales y los grupos de aficionados suelen saber más que los científicos sobre la ubicación de las especies raras. Sin embargo, hay categorías de animales cuya localización exacta se consideraba delicada, como los lugares de descanso y maternidad de los murciélagos, los lugares de anidación de los halcones y la ubicación de varios lagartos, tortugas, especies de mariposas y grandes mamíferos. En cuanto a las plantas, también hay una fuerte tendencia a no facilitar información sobre las plantas susceptibles de ser recolectadas (pirateadas), como los cactus de Arizona, las orquídeas y las cícadas. También se identificó la protección de yacimientos fósiles sensibles. Un aspecto desafortunado es la susceptibilidad de un pequeño número de taxa en un grupo (como unos pocos cactus carismáticos, u orquídeas, etc.). Entonces esto puede significar que a menudo todos los taxa de ese grupo se consideren sensibles y se restrinjan los datos sobre ellos, aunque muchos de esos taxa no sean en sí mismos sensibles o susceptibles de sufrir actos dañinos."
+msgstr "Parece que los herbarios son más proclives a restringir sus datos que las colecciones de mamíferos o insectos (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]). Quizá esto se deba a que las plantas no se mueven y es probable que la ubicación exacta de una colección nos lleve a una planta real sobre el terreno, mientras que los mamíferos y los insectos tienden a moverse. Un entomólogo comentó que los colectores profesionales y los grupos de aficionados suelen saber más que los científicos sobre la ubicación de las especies raras. Sin embargo, hay categorías de animales cuya ubicación exacta se consideraba delicada, como los lugares de descanso y maternidad de los murciélagos, los lugares de anidación de los halcones y la ubicación de varios lagartos, tortugas, especies de mariposas y grandes mamíferos. En cuanto a las plantas, también hay una fuerte tendencia a no facilitar información sobre las plantas susceptibles de ser recolectadas (pirateadas), como los cactus de Arizona, las orquídeas y las cícadas. También se identificó la protección de yacimientos fósiles sensibles. Un aspecto desafortunado es la susceptibilidad de un pequeño número de taxa en un grupo (como unos pocos cactus carismáticos, u orquídeas, etc.). Entonces esto puede significar que a menudo todos los taxa de ese grupo se consideren sensibles y se restrinjan los datos sobre ellos, aunque muchos de esos taxa no sean en sí mismos sensibles o susceptibles de sufrir actos dañinos."
 
 #. type: Plain text
 #: 200.en.adoc:10
@@ -828,34 +828,34 @@ msgstr "\n"
 "^a|*NO* +\n"
 "↓ +\n"
 "Ir a 4.3\n\n"
-"2+^s|4.3. ¿Es el taxón tal que la provisión de localizaciones precisas a más de 0.1 grados (~10 km) sometería al taxón a amenazas como la perturbación y la explotación? ¿O el registro incluye información altamente sensible, cuya divulgación podría causar un *daño extremo* a un individuo o al medio ambiente?\n\n"
+"2+^s|4.3. ¿Es el taxón tal que la provisión de ubicaciones precisas a más de 0.1 grados (~10 km) sometería al taxón a amenazas como la perturbación y la explotación? ¿O el registro incluye información altamente sensible, cuya divulgación podría causar un *daño extremo* a un individuo o al medio ambiente?\n\n"
 "^a|*SI* +\n"
 "↓ +\n"
 "Documentar utilizando el enunciado 4d, recopilando todos los fundamentos y documentando la decisión de divulgar los datos: +\n"
-"\"La especie está clasificada como altamente sensible y el suministro de localizaciones precisas sometería a la especie a amenazas tales como la perturbación y la explotación y/o el registro incluye información altamente sensible, cuya divulgación podría causar un daño extremo al medio ambiente o a un individuo\".\n"
+"\"La especie está clasificada como altamente sensible y el suministro de ubicaciones precisas sometería a la especie a amenazas tales como la perturbación y la explotación y/o el registro incluye información altamente sensible, cuya divulgación podría causar un daño extremo al medio ambiente o a un individuo\".\n"
 "*<<cat2,Categoría 2>>*\n\n"
 "^a|*NO* +\n"
 "↓ +\n"
 "Ir a 4.4\n\n"
-"2+^s|4.4. ¿Es el taxón tal que la provisión de localizaciones precisas a más de 0.01 grados (~1 km) sometería a la especie a amenazas como colecta o daño deliberado? ¿O el registro incluye información sensible cuya divulgación podría causar *daño* a un individuo o al medio ambiente?\n\n"
+"2+^s|4.4. ¿Es el taxón tal que la provisión de ubicaciones precisas a más de 0.01 grados (~1 km) sometería a la especie a amenazas como colecta o daño deliberado? ¿O el registro incluye información sensible cuya divulgación podría causar *daño* a un individuo o al medio ambiente?\n\n"
 "^a|*SI* +\n"
 "↓ +\n"
 "Documentar utilizando el enunciado 4e, recopilando todos los fundamentos y documentando la decisión de divulgar los datos: +\n"
-"\"La especie está clasificada como de sensibilidad media a alta y el suministro de localizaciones precisas podría someter a la especie a amenazas como colecta o daño deliberado y/o el registro incluye información sensible, cuya divulgación podría causar daños al medio ambiente o a un individuo\".\n"
+"\"La especie está clasificada como de sensibilidad media a alta y el suministro de ubicaciones precisas podría someter a la especie a amenazas como colecta o daño deliberado y/o el registro incluye información sensible, cuya divulgación podría causar daños al medio ambiente o a un individuo\".\n"
 "*<<cat3,Categoría 3>>*\n\n"
 "^a|*NO* +\n"
 "↓ +\n"
 "Ir a 4.5\n\n"
-"2+^s|4.5. ¿Estaría el taxón sometido a una amenaza baja o media si las localizaciones precisas (es decir, localizaciones con una precisión superior a 0.001 grados o 100 m) se hacen públicas y en las que existe algún riesgo de colecta o daño deliberado?\n\n"
+"2+^s|4.5. ¿Estaría el taxón sometido a una amenaza baja o media si las ubicaciones precisas (es decir, ubicaciones con una precisión superior a 0.001 grados o 100 m) se hacen públicas y en las que existe algún riesgo de colecta o daño deliberado?\n\n"
 "^a|*SI* +\n"
 "↓ +\n"
 "Documentar utilizando el enunciado 4f, recopilando todos los fundamentos y documentando la decisión de liberar los datos: +\n"
-"\"La especie está clasificada como de sensibilidad baja a media y el suministro de localizaciones precisas podría someter a la especie a amenazas como la perturbación y la explotación. Los datos detallados pueden ponerse a disposición de los individuos bajo licencia\".\n"
+"\"La especie está clasificada como de sensibilidad baja a media y el suministro de ubicaciones precisas podría someter a la especie a amenazas como la perturbación y la explotación. Los datos detallados pueden ponerse a disposición de los individuos bajo licencia\".\n"
 "*<<cat4,Categoría 4>>*\n\n"
 "^a|*NO* +\n"
 "↓ +\n"
 "Documentar utilizando el enunciado 4g, recopilando todos los fundamentos y documentando la decisión de liberar los datos: +\n"
-"La especie está clasificada como de baja sensibilidad y es improbable que la distribución de las localizaciones precisas someta a la especie a una amenaza significativa y/o el registro incluye información de baja sensibilidad, cuya divulgación es improbable que cause daño al medio ambiente o a cualquier individuo. Los datos deben hacerse públicos \"como están mantenidos\".\n"
+"La especie está clasificada como de baja sensibilidad y es improbable que la distribución de las ubicaciones precisas someta a la especie a una amenaza significativa y/o el registro incluye información de baja sensibilidad, cuya divulgación es improbable que cause daño al medio ambiente o a cualquier individuo. Los datos deben hacerse públicos \"como están mantenidos\".\n"
 "*No es sensible para el medio ambiente* +\n"
 "↓ +\n"
 "Los datos deben hacerse públicos\n\n"
@@ -956,7 +956,7 @@ msgstr "con los campos sensibles generalizados o eliminados y sustituidos por un
 #: 200.en.adoc:371
 #, no-wrap
 msgid "The species is classed as of *medium to high sensitivity*, and the provision of precise locations *could* subject the species to threats such as disturbance and exploitation. +\n\n"
-msgstr "La especie está clasificada como de *sensibilidad media a alta* y la provisión de localizaciones precisas *podría* someter a la especie a amenazas como la perturbación y la explotación. +\n\n"
+msgstr "La especie está clasificada como de *sensibilidad media a alta* y la provisión de ubicaciones precisas *podría* someter a la especie a amenazas como la perturbación y la explotación. +\n\n"
 
 #. type: Table
 #: 200.en.adoc:375
@@ -992,7 +992,7 @@ msgstr "con campos sensibles generalizados o eliminados y sustituidos por un tex
 #: 200.en.adoc:391
 #, no-wrap
 msgid "The species is classed as of *low to medium sensitivity*, and the provision of precise locations could lead to risk of collection or deliberate damage. +\n\n"
-msgstr "La especie está clasificada como de *sensibilidad baja a media* y el suministro de localizaciones precisas podría dar lugar a riesgos de colecta o daños deliberados. +\n\n"
+msgstr "La especie está clasificada como de *sensibilidad baja a media* y el suministro de ubicaciones precisas podría dar lugar a riesgos de colecta o daños deliberados. +\n\n"
 
 #. type: Table
 #: 200.en.adoc:395
@@ -1199,7 +1199,7 @@ msgstr "la facilidad de crear una documentación adecuada."
 #. type: Plain text
 #: 400.en.adoc:37
 msgid "Generalizing to a grid, while protecting the exact locations of sensitive taxa, also provides data in a format that is still useable for a majority of users, especially where a standard grid is used."
-msgstr "La generalización a una cuadrícula, al tiempo que protege las localizaciones exactas de los taxa sensibles, también proporciona datos en un formato que sigue siendo utilizable para la mayoría de los usuarios, especialmente cuando se utiliza una cuadrícula estándar."
+msgstr "La generalización a una cuadrícula, al tiempo que protege las ubicaciones exactas de los taxa sensibles, también proporciona datos en un formato que sigue siendo utilizable para la mayoría de los usuarios, especialmente cuando se utiliza una cuadrícula estándar."
 
 #. type: Block title
 #: 400.en.adoc:39
@@ -1373,7 +1373,7 @@ msgstr "El término metadatos se ha utilizado generalmente para referirse a la d
 #. type: Plain text
 #: 500.en.adoc:15
 msgid "At the moment, neither the https://www.tdwg.org/standards/dwc/[Darwin Core^] nor the https://www.tdwg.org/standards/abcd/[ABCD^] standards have fields for recording the type of record-level metadata that is recommended here. A number of recommendations have been made to Biodiversity Information Standards (TDWG) for the inclusion of extra fields to the https://dwc.tdwg.org/terms/#location[Darwin Core Location Class^] (TDWG 2018) and are listed in the <<afterword,Afterword>>."
-msgstr "Por el momento, ni el estándar https://www.tdwg.org/standards/dwc/[Darwin Core^] ni el https://www.tdwg.org/standards/abcd/[ABCD^] tienen campos para registrar el tipo de metadatos a nivel de registro que se recomienda aquí. Se han hecho una serie de recomendaciones a Biodiversity Information Standards (TDWG) para la inclusión de campos adicionales en https://dwc.tdwg.org/terms/#location[Elemento de Ubicación Darwin Core^] (TDWG 2018) y se enumaran abajo en el <<epílogo,Epílogo>>."
+msgstr "Por el momento, ni el estándar https://www.tdwg.org/standards/dwc/[Darwin Core^] ni el https://www.tdwg.org/standards/abcd/[ABCD^] tienen campos para registrar el tipo de metadatos a nivel de registro que se recomienda aquí. Se han hecho una serie de recomendaciones a Biodiversity Information Standards (TDWG) para la inclusión de campos adicionales en https://dwc.tdwg.org/terms/#location[Elemento de Ubicación Darwin Core^] (TDWG 2018) y se enumeran abajo en el <<epílogo,Epílogo>>."
 
 #. type: Plain text
 #: 500.en.adoc:17
@@ -1429,255 +1429,255 @@ msgstr "El ajuste espacial (https://doi.org/10.15468/doc-2zpf-zf42[Chapman y Wie
 #. type: Plain text
 #: 500.en.adoc:36
 msgid "A spatial fit with a value of 1 is an exact match or 100% overlap. If the geometry given does not completely encompass the original spatial representation, then the spatial fit is zero (i.e., some of the original is outside the transformed version, which we interpret as not being a fit). If the transformed shape does completely encompass the original spatial representation, then the value of the spatial fit is the ratio of the area of the transformed geometry to the area of the original spatial representation. Special case: If the original spatial representation is a point and the geometry presented in not a point, then the spatial fit is undefined."
-msgstr ""
+msgstr "Un ajuste espacial con un valor de 1 es una coincidencia exacta o un solapamiento del 100%. Si la geometría dada no abarca completamente la representación espacial original, entonces el ajuste espacial es cero (es decir, parte del original queda fuera de la versión transformada, lo que interpretamos como que no hay ajuste). Si la forma transformada abarca completamente la representación espacial original, el valor del ajuste espacial es la relación entre el área de la geometría transformada y el área de la representación espacial original. Caso especial: Si la representación espacial original es un punto y la geometría presentada no es un punto, entonces el ajuste espacial es indefinido."
 
 #. type: Plain text
 #: 500.en.adoc:38
 msgid "With respect to generalization of data, the Spatial Fit can be seen as a Generalization Coefficient – i.e. to what extent a record has been generalized – a ratio of the generalized area to the true area."
-msgstr ""
+msgstr "Con respecto a la generalización de los datos, el ajuste espacial puede considerarse como un Coeficiente de Generalización (es decir, hasta qué punto se ha generalizado un registro) una relación entre el área generalizada y el área real."
 
 #. type: Plain text
 #: 500.en.adoc:41
 msgid "Spatial Fit = Generalized area/True area"
-msgstr ""
+msgstr "Ajuste Espacial = Área generalizada/Área real"
 
 #. type: Plain text
 #: 500.en.adoc:43
 msgid "An example of its applicability is where a georeference with an uncertainty radius of 1 km (using a point radius method (<<wgh,Wieczorek et al. 2004>>)) is made available using a 10 km² grid (which completely covers the uncertainty). In this case the <<spatial-fit,Spatial Fit>> would be greater than 1 as it represents an area greater than the real uncertainty (as shown in <<figure-02,Figure 2>>)."
-msgstr ""
+msgstr "Un ejemplo de su aplicabilidad es cuando se pone a disposición una georreferencia con un radio de incertidumbre de 1 km (utilizando el método de radio de punto (<<wgh,Wieczorek et al. 2004>>)) utilizando una grilla de 10 km² (que cubre completamente la incertidumbre). En este caso el <<ajuste espacial,Ajuste Espacial>> sería mayor que 1 pues representa un área mayor que la incertidumbre real (como se muestra en <<figura-02,Figura 2>>)."
 
 #. type: Block title
 #: 500.en.adoc:45
 #, no-wrap
 msgid "Example of calculating Spatial Fit for a collection with an uncertainty radius of 1 km (red circle), and which is distributed using a 10 km² grid (blue). Spatial Fit = 31.8."
-msgstr ""
+msgstr "Ejemplo de cálculo del ajuste espacial para una colecta con un radio de incertidumbre de 1 km (círculo rojo) y que se distribuye utilizando una cuadrícula de 10 km² (azul). Ajuste espacial = 31.8."
 
 #. type: Target for macro image
 #: 500.en.adoc:46
 #, no-wrap
 msgid "img/web/figure-02.jpg"
-msgstr ""
+msgstr "img/web/figure-02.jpg"
 
 #. type: Plain text
 #: 500.en.adoc:49
 msgid "The smaller the grid size, the closer the <<spatial-fit,Spatial Fit>> will be to ‘1’. Note that a record that has its georeference randomized or generalized such that a portion of the uncertainty radius falls outside the grid square would have a <<spatial-fit,Spatial Fit>> equal to zero."
-msgstr ""
+msgstr "Cuanto más pequeño sea el tamaño de la grilla, más se acercará el <<ajuste espacial, Ajuste Espacial>> a '1'. Note que un registro que tenga su georreferencia aleatorizada o generalizada de forma que una parte del radio de incertidumbre quede fuera del cuadrado de la cuadrícula tendría un <<ajuste espacial, Ajuste Espacial>> igual a cero."
 
 #. type: Title ==
 #: 600.en.adoc:1
 #, no-wrap
 msgid "Authentication and Authorization"
-msgstr ""
+msgstr "Autenticación y Autorización"
 
 #. type: Plain text
 #: 600.en.adoc:4
 msgid "As recommended by the experts’ workshop, and identified by many in the online survey (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]), responsibility for determining who may or may not have access to detailed data on sensitive data, possibly through the use of secure log-on, or one-off data licence agreements, must be with the data providers."
-msgstr ""
+msgstr "Como se recomendó en el taller de expertos y como señalaron muchos en la encuesta en línea (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]), la responsabilidad de determinar quién puede o no tener acceso detallado a datos sensibles, posiblemente mediante el uso de un inicio de sesión seguro o de acuerdos de licencia de datos únicos, debe recaer en los proveedores de datos."
 
 #. type: Plain text
 #: 600.en.adoc:6
 msgid "It was also agreed at the workshop that it is not the role of GBIF to manage the identification, verification or <<authorization>> of users, nor to control <<authentication>> or log-on at the Data Portal, but it may have a role in providing guidance and a suitable authentication method to the Nodes."
-msgstr ""
+msgstr "También se acordó en el taller que no es el papel de GBIF gestionar la identificación, verificación o <<autorización>> de los usuarios, ni controlar la <<autenticación>> o el inicio de sesión en el Portal de Datos, pero puede tener un papel en el suministro de orientación y de un método de autenticación adecuado a los Nodos."
 
 #. type: Plain text
 #: 600.en.adoc:8
 msgid "It was reported at the experts’ workshop that the technical issues relating to the authentication of a group or individual, and the use of roles, etc. is not a difficult task. There are several well established protocols and working systems for <<authentication>> in use and these could easily be adapted for use by data providers."
-msgstr ""
+msgstr "En el taller de expertos se informó que las cuestiones técnicas relacionadas con la autentificación de un grupo o individuo, y el uso de roles, etc. no es una tarea difícil. Existen varios protocolos y sistemas de trabajo en uso bien establecidos para la <<autenticación>> y éstos podrían adaptarse fácilmente para ser utilizados por los proveedores de datos."
 
 #. type: Plain text
 #: 600.en.adoc:10
 msgid "The main issue is in determining who the authorized users should be and how to determine who are bona fide users and who are not. This is a difficult issue and one that will need to be explored over time. It is not something that can be recommended in this best practices document; however the earlier report (https://doi.org/10.35035/rajc-t668[Chapman 2007^]) did make a number of recommendations on how this issue may be further explored."
-msgstr ""
+msgstr "El principal problema es determinar quiénes deben ser los usuarios autorizados y cómo determinar quiénes son usuarios de buena fe y quiénes no. Se trata de una cuestión difícil que habrá que estudiar con el tiempo. No es algo que se pueda recomendar en este documento de buenas prácticas. Sin embargo, el informe anterior (https://doi.org/10.35035/rajc-t668[Chapman 2007^]) hizo una serie de recomendaciones sobre cómo se puede seguir explorando esta cuestión."
 
 #. type: Title ==
 #: 700.en.adoc:1
 #, no-wrap
 msgid "Implementations"
-msgstr ""
+msgstr "Implementaciones"
 
 #. type: Plain text
 #: 700.en.adoc:4
 msgid "Since the publication of the _Guide_ (https://doi.org/10.15468/doc-b02j-gt10[Chapman and Grafton 2008^]), several countries, state and local jurisdictions have developed their own sensitive taxa data policies. Jurisdictions often have individual circumstances (legal, ethical, practical, etc.) that may dictate the way their own policies need to be implemented. In developing your own policies, in addition to relying on this document, you may wish to look at those jurisdictional policies. I would caution, however, in diverting too far away from the criteria and principles laid out in this document, due to the complications that may arise in sharing data, especially through aggregating and publishing initiatives such as GBIF. The main purpose of this document is to encourage the adoption and use of standardized methodologies. Most of the jurisdictional documents will, of necessity, go further than this document which is only based around generalization. This document does not go into other aspects such as the privacy of individuals, licensing, etc. Any derived works should be made publicly accessible and clearly lay out the policies with respect to the publication and sharing of data. Where policies differ to those documented here, those differences should be noted along with explanations as to the reasons for differing."
-msgstr ""
+msgstr "Desde la publicación de la _Guía_ (https://doi.org/10.15468/doc-b02j-gt10[Chapman y Grafton 2008^]), varios países y jurisdicciones estatales y locales han desarrollado sus propias políticas de datos sensibles sobre taxa. Las jurisdicciones suelen tener circunstancias individuales (legales, éticas, prácticas, etc.) que pueden dictar la forma en que deben aplicarse sus propias políticas. A la hora de desarrollar sus propias políticas, además de basarse en este documento, es posible que desee consultar esas políticas jurisdiccionales. Sin embargo, advierto que no hay que alejarse demasiado de los criterios y principios expuestos en este documento, debido a las complicaciones que pueden surgir a la hora de compartir datos, especialmente a través de iniciativas de agregación y publicación como GBIF. El objetivo principal de este documento es fomentar la adopción y el uso de metodologías estandarizadas. La mayoría de los documentos jurisdiccionales irán, necesariamente, más allá de este documento, que sólo se basa en la generalización. Este documento no ahonda en otros aspectos como la privacidad de las personas, la concesión de licencias, etc. Cualquier trabajo derivado debe ser de acceso público y establecer claramente las políticas con respecto a la publicación y el intercambio de datos. Cuando las políticas difieran de las aquí documentadas, deberán señalarse dichas diferencias junto con las explicaciones de los motivos."
 
 #. type: Plain text
 #: 700.en.adoc:6
 msgid "The *South African National Biodiversity Institute* (SANBI) has listed four types of data on sensitive taxa that may need to be restricted (http://biodiversityadvisor.sanbi.org/wp-content/uploads/2012/09/SANBI-Biodiversity-Information-Policy-Series-Digital-Access-to-Sensitive-Taxon.pdf[SANBI 2010]):"
-msgstr ""
+msgstr "El *South African National Biodiversity Institute* (SANBI) ha enumerado cuatro tipos de datos sobre taxa sensibles que pueden necesitar ser restringidos (http://biodiversityadvisor.sanbi.org/wp-content/uploads/2012/09/SANBI-Biodiversity-Information-Policy-Series-Digital-Access-to-Sensitive-Taxon.pdf[SANBI 2010]):"
 
 #. type: Plain text
 #: 700.en.adoc:8
 #, no-wrap
 msgid "*Data on population sizes* or numbers of a sensitive taxon or its populations that might influence the rarity value or commercial value of the taxon;\n"
-msgstr ""
+msgstr "*Datos sobre tamaños poblaciones* o el número de un taxón sensible o de sus poblaciones que puedan influir en el valor de rareza o en el valor comercial del taxón;\n"
 
 #. type: Plain text
 #: 700.en.adoc:9
 #, no-wrap
 msgid "*Data about the habitat and ecosystem* of a sensitive taxon that may allow the locality of the taxon to be inferred;\n"
-msgstr ""
+msgstr "*Datos sobre el hábitat o el ecosistema* de un taxón sensible que puedan permitir que se infiera la localidad de un taxón;\n"
 
 #. type: Plain text
 #: 700.en.adoc:10
 #, no-wrap
 msgid "*Geo-referenced data* about a sensitive taxon (including precise locational data, descriptions of locations and/or localities and point locality coordinates) that may allow populations to be located; \n"
-msgstr ""
+msgstr "*Datos georreferenciados* sobre un taxón sensible (incluyendo datos de ubicación precisos, descripciones de lugares y/o localidades y coordenadas de localidades puntuales) que puedan permitir la localización de las poblaciones; \n"
 
 #. type: Plain text
 #: 700.en.adoc:11
 #, no-wrap
 msgid "*Records of specimens* in collections or observation records (including the name of the collector, the collector specimen number, taxon identity, the locality description, coordinates more precise than a quarter-degree-square, population size, date of collection, collector of the specimen, and any habitat information associated with the specimen), that with analysis may allow a population to be located. The record may refer to a single specimen, or a sample, which includes several or many specimens with identical collecting details. All specimen/observation records for a sensitive taxon, no matter when collected, would be equally restricted. \n"
-msgstr ""
+msgstr "*Registros de especímenes* en colecciones o registros de observación (incluyendo el nombre del colector, el número de espécimen del colector, la identidad del taxón, la descripción de la localidad, coordenadas más precisas que un cuadrado de cuarto de grado, el tamaño poblacional, la fecha de colecta, el colector del espécimen y cualquier información sobre el hábitat asociada con el espécimen), que con el análisis pueden permitir la localización de una población. El registro puede referirse a un solo espécimen, o a una muestra, que incluye varios o muchos especímenes con detalles idénticos de colecta. Todos los registros de especímenes/observaciones de un taxón sensible, independientemente de cuándo se hayan colectado, estarán igualmente restringidos. \n"
 
 #. type: Plain text
 #: 700.en.adoc:13
 msgid "SANBI have not adopted the categorizations recommended here, adopting just the one level of generalization at what they call QDS (Quarter Degree Square) or about 25 km by 25 km (see discussion in http://biodiversityadvisor.sanbi.org/wp-content/uploads/2017/06/20160819-NSSL-Workshop-Report.pdf[SANBI 2016^])."
-msgstr ""
+msgstr "SANBI no ha adoptado las categorizaciones recomendadas aquí, adoptando sólo un nivel de generalización en lo que ellos llaman QDS (Quarter Degree Square) o unos 25 km por 25 km (ver discusión en http://biodiversityadvisor.sanbi.org/wp-content/uploads/2017/06/20160819-NSSL-Workshop-Report.pdf[SANBI 2016^])."
 
 #. type: Plain text
 #: 700.en.adoc:15
 msgid "The *Atlas of Living Australia* (ALA) has developed a policy that places sensitive taxa into three categories (https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-[ALA 2018a^]):"
-msgstr ""
+msgstr "El *Atlas of Living Australia* (ALA) ha desarrollado una política que clasifica los taxa sensibles en tres categorías (https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-[ALA 2018a^]):"
 
 #. type: Plain text
 #: 700.en.adoc:17
 msgid "conservation, e.g. the locations of threatened species"
-msgstr ""
+msgstr "conservación, p. ej. las ubicaciones de especies amenazadas"
 
 #. type: Plain text
 #: 700.en.adoc:18
 msgid "biosecurity, e.g. unverified sightings of pests not previously recorded in Australia"
-msgstr ""
+msgstr "bioseguridad, p. ej. avistamientos no verificados de plagas no registradas anteriormente en Australia"
 
 #. type: Plain text
 #: 700.en.adoc:19
 msgid "privacy, e.g. specimens collected on private property, collectors names, etc."
-msgstr ""
+msgstr "privacidad, p. ej. especímenes colectados en propiedad privada, nombres de colectores, etc."
 
 #. type: Plain text
 #: 700.en.adoc:21
 msgid "This policy is based on a set of guiding principles (https://www.ala.org.au/wp-content/uploads/2010/07/ALA-sensitive-data-report-and-proposed-policy-v1.1.pdf[Tann and Flemons 2009^]):"
-msgstr ""
+msgstr "Esta política se basa en un conjunto de principios directivos (https://www.ala.org.au/wp-content/uploads/2010/07/ALA-sensitive-data-report-and-proposed-policy-v1.1.pdf[Tann y Flemons 2009^]):"
 
 #. type: Plain text
 #: 700.en.adoc:23
 msgid "making scientific data readily accessible"
-msgstr ""
+msgstr "facilitar el acceso a los datos científicos"
 
 #. type: Plain text
 #: 700.en.adoc:24
 msgid "minimizing harm by explicitly restricting access to selected sensitive information"
-msgstr ""
+msgstr "minimizar el daño restringiendo explícitamente el acceso a la información sensible seleccionada"
 
 #. type: Plain text
 #: 700.en.adoc:25
 msgid "assisting State and federal authorities with their obligations under Freedom of Information"
-msgstr ""
+msgstr "ayudar a las autoridades estatales y federales a cumplir con sus obligaciones en materia de libertad de información"
 
 #. type: Plain text
 #: 700.en.adoc:26
 msgid "assisting State and federal authorities with Australia’s international trade obligations"
-msgstr ""
+msgstr "ayudar a las autoridades estatales y federales con las obligaciones comerciales internacionales de Australia"
 
 #. type: Plain text
 #: 700.en.adoc:27
 msgid "assisting with the sharing of data held in trust by a custodian, where there is an agreement or expectation that this data will not be misused"
-msgstr ""
+msgstr "ayudar a compartir los datos mantenidos por un custodio, cuando existe un acuerdo o una expectativa de que estos datos no se utilizarán indebidamente"
 
 #. type: Plain text
 #: 700.en.adoc:28
 msgid "respect for the differences of approach to sensitive data in jurisdictions across Australia"
-msgstr ""
+msgstr "respeto por las diferencias de enfoque de los datos sensibles en las jurisdicciones de Australia"
 
 #. type: Plain text
 #: 700.en.adoc:29
 msgid "respect for privacy and restrictions to personal information"
-msgstr ""
+msgstr "respeto por la privacidad y las restricciones a la información personal"
 
 #. type: Plain text
 #: 700.en.adoc:31
 msgid "Unfortunately, to date, each Australian State has different individual policies on what taxa are regarded as sensitive, and on how data on sensitive taxa are shared. Discussion on the development of a national list of sensitive taxa is ongoing, but agreement on a consistent policy for sharing that data still seems to be some way off."
-msgstr ""
+msgstr "Desgraciadamente, hasta la fecha, cada Estado Australiano tiene políticas individuales diferentes sobre qué taxa se consideran sensibles y sobre cómo se comparten los datos sobre los taxa sensibles. Se está debatiendo la elaboración de una lista nacional de taxa sensibles, pero parece que aún no se ha llegado a un acuerdo sobre una política coherente para compartir esos datos."
 
 #. type: Plain text
 #: 700.en.adoc:33
 msgid "The *Australian Department of the Environment* (https://www.environment.gov.au/system/files/resources/246e674a-feb1-4399-a678-be9f4b6a6800/files/sensitive-ecological-data-access-mgt-policy.pdf[Australian Government 2016^]) have adopted the levels of generalization as set out in this document and the policy document provides a number of well worked examples. The policy includes some additional guiding principles including:"
-msgstr ""
+msgstr "El *Australian Department of the Environment* (https://www.environment.gov.au/system/files/resources/246e674a-feb1-4399-a678-be9f4b6a6800/files/sensitive-ecological-data-access-mgt-policy.pdf[Australian Government 2016^]) ha adoptado los niveles de generalización expuestos en este documento y el documento de política ofrece una serie de ejemplos bien elaborados. La política incluye algunos principios directivos adicionales, entre ellos:"
 
 #. type: Plain text
 #: 700.en.adoc:35
 #, no-wrap
 msgid "*Be accountable*: The decision to restrict access to data needs to be justifiable, consistent and repeatable and abide by relevant legislation, regulations or policy. \n"
-msgstr ""
+msgstr "*Ser responsable*: La decisión de restringir el acceso a los datos debe ser justificable, coherente y repetible y cumplir con la legislación, la normativa o la política pertinente. \n"
 
 #. type: Plain text
 #: 700.en.adoc:36
 #, no-wrap
 msgid "*Decisions made closest to source*: The data custodian should have responsibility for determining whether ecological data should be classified as sensitive. \n"
-msgstr ""
+msgstr "*Decisiones tomadas lo más cerca posible de la fuente*: El custodio de los datos debe tener la responsabilidad de determinar si los datos ecológicos deben clasificarse como sensibles. \n"
 
 #. type: Plain text
 #: 700.en.adoc:37
 #, no-wrap
 msgid "*Retain the original data*: Data custodians must retain an unaltered original version of the ecological data and safeguard this original version.\n"
-msgstr ""
+msgstr "*Retener los datos originales*: Los custodios de los datos deben retener una versión original, sin alterar, de los datos ecológicos y salvaguardar esta versión original.\n"
 
 #. type: Plain text
 #: 700.en.adoc:38
 #, no-wrap
 msgid "*Transparency*: Documentation should be linked to the data and must be available to all users of the data. Documentation ensures potential data users understand what data exists, why it was classed as sensitive and how it has been altered or protected. \n"
-msgstr ""
+msgstr "*Transparencia*: La documentación debe estar vinculada a los datos y debe estar disponible para todos los usuarios de los datos. La documentación garantiza que los posibles usuarios de los datos comprendan qué datos existen, por qué se han clasificado como sensibles y cómo se han alterado o protegido. \n"
 
 #. type: Plain text
 #: 700.en.adoc:39
 #, no-wrap
 msgid "*Respect dataset restrictions*: Data custodians should not release data that has not been processed in accordance with this policy\n"
-msgstr ""
+msgstr "*Respetar las restricciones de los conjuntos de datos*: Los custodios de los datos no deben liberar datos que no han sido procesados de acuerdo a esta política \n"
 
 #. type: Plain text
 #: 700.en.adoc:40
 #, no-wrap
 msgid "*Review over time*: Data custodians should do regular reviews (every 2–5 years) on datasets to determine if their context has changed. What is currently considered sensitive data may not be sensitive in the future.\n"
-msgstr ""
+msgstr "*Revisión a lo largo del tiempo: Los custodios de los datos deben realizar revisiones periódicas (cada 2-5 años) de los conjuntos de datos para determinar si su contexto ha cambiado. Lo que actualmente se considera un dato sensible puede no serlo en el futuro.\n"
 
 #. type: Plain text
 #: 700.en.adoc:42
 msgid "One principle that is emphasized by the policy is that if data on the identified sensitivities (e.g. location) is already publicly available, then it is unlikely that data can be considered sensitive."
-msgstr ""
+msgstr "Un principio en el que hace hincapié esta política es que si los datos sobre las sensibilidades identificadas (por ejemplo, la ubicación) ya están disponibles públicamente, es poco probable que los datos puedan considerarse sensibles."
 
 #. type: Plain text
 #: 700.en.adoc:44
 msgid "The *New South Wales Office of Environment and Heritage* (https://www.environment.nsw.gov.au/resources/nature/SensitiveSpeciesPolicyDEC09.pdf[DECCW 2007^], https://www.environment.nsw.gov.au/topics/animals-and-plants/wildlife-management/wildlife-policies-and-guidelines/sensitive-species-data[OEH 2019a^]) notes that “some threatened species are very sensitive to disturbance and exploitation. Information about the location of these species is considered ‘sensitive’ and OEH will not provide it to third parties, with some limited exceptions. Precise locational information about sensitive species is exempt from freedom of information requests.” Their sensitive data policy has three categorized levels:"
-msgstr ""
+msgstr "La *New South Wales Office of Environment and Heritage* (https://www.environment.nsw.gov.au/resources/nature/SensitiveSpeciesPolicyDEC09.pdf[DECCW 2007^], https://www.environment.nsw.gov.au/topics/animals-and-plants/wildlife-management/wildlife-policies-and-guidelines/sensitive-species-data[OEH 2019a^]) señala que \"algunas especies amenazadas son muy sensibles a las perturbaciones y a la explotación. La información sobre la ubicación de estas especies se considera \"sensible\" y la OEH no la facilitará a terceros, con algunas excepciones limitadas. La información precisa sobre la ubicación de las especies sensibles está exenta de las solicitudes de libertad de información\". Su política de datos sensibles tiene tres niveles de clasificación:"
 
 #. type: delimited block _
 #: 700.en.adoc:48
 #, no-wrap
 msgid "*Category 1*: Species of high biological significance, for which no records will be provided at all. The reason for non-disclosure is that the species is highly threatened by exploitation/disease or other identifiable threats, and even general locality information may threaten the taxon. The famed Wollemi pine falls into this category.\n"
-msgstr ""
+msgstr "*Categoría 1*: Especies de gran importancia biológica, de las que no se facilitará ningún registro. La razón de la no divulgación es que la especie está muy amenazada por explotación/enfermedad u otras amenazas identificables, e incluso la información general de la localidad puede amenazar al taxón. El famoso pino Wollemi entra en esta categoría.\n"
 
 #. type: delimited block _
 #: 700.en.adoc:51
 #, no-wrap
 msgid "*Category 2*: Species considered to be at serious risk from threats such as disturbance or exploitation. For species in this category, geographic coordinates of sightings will be supplied ‘denatured’, in order to generalize the locality. Exceptions to this rule may be granted to some government agencies, or for certain research purposes.\n"
-msgstr ""
+msgstr "*Categoría 2*: Especies consideradas en grave riesgo por amenazas como la perturbación o la explotación. Para las especies de esta categoría, las coordenadas geográficas de los avistamientos se suministrarán \"desnaturalizadas\", con el fin de generalizar la localidad. Se pueden conceder excepciones a esta norma a algunos organismos gubernamentales o para determinados fines de investigación.\n"
 
 #. type: delimited block _
 #: 700.en.adoc:54
 #, no-wrap
 msgid "*Category 3*: Species considered to be at medium to high risk of threats such as disturbance or exploitation. For species in this category, coordinates will be supplied at ’as held’ accuracy to licensed clients, but will otherwise be supplied ‘denatured’. \n"
-msgstr ""
+msgstr "*Categoría 3*: Especies consideradas bajo un riesgo medio o alto de amenazas como la perturbación o la explotación. En el caso de las especies de esta categoría, las coordenadas se suministrarán con una precisión \"como están mantenidos\" a los clientes con licencia, pero por lo demás se suministrarán \"desnaturalizadas\". \n"
 
 #. type: Plain text
 #: 700.en.adoc:56
 msgid "They include 3 basic categories of ‘denaturing’ (https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Animals-and-plants/Wildlife-management/appendix-2-denaturing-specifications-sensitive-species-records.pdf?la=en&hash=DB5FE561CC2DA6A9390E8521882405B5574FD607[OEH 2011^]) that are largely consistent with what is recommended here:"
-msgstr ""
+msgstr "Incluyen 3 categorías básicas de \"desnaturalización\"(https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Animals-and-plants/Wildlife-management/appendix-2-denaturing-specifications-sensitive-species-records.pdf?la=en&hash=DB5FE561CC2DA6A9390E8521882405B5574FD607[OEH 2011^]) que coinciden en gran medida con lo que se recomienda aquí:"
 
 #. type: Plain text
 #: 700.en.adoc:58
 #, no-wrap
 msgid "*Category 1*: no records provided\n"
-msgstr ""
+msgstr "*Categoría 1*: no hay registros proporcionados\n"
 
 #. type: Plain text
 #: 700.en.adoc:59
