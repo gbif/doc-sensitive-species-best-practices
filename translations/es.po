@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-02-01 17:14+0000\n"
-"PO-Revision-Date: 2021-11-25 13:24\n"
+"PO-Revision-Date: 2021-11-25 14:24\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1388,43 +1388,43 @@ msgstr "Los datos son sensibles"
 #. type: Plain text
 #: 500.en.adoc:20
 msgid "The primary reasons the data is regarded as sensitive (see Criteria 1–4, <<table-01,Table 1>>) along with supporting rationale"
-msgstr ""
+msgstr "Las principales razones por las que los datos se consideran sensibles (ver los Criterios 1-4, <<table-01,Tabla 1>>) junto con la justificación"
 
 #. type: Plain text
 #: 500.en.adoc:21
 msgid "The date that the sensitivity of the data should be reviewed"
-msgstr ""
+msgstr "La fecha en la que se debe revisar la sensibilidad de los datos"
 
 #. type: Plain text
 #: 500.en.adoc:22
 msgid "Precision of the data made available"
-msgstr ""
+msgstr "La precisión de los datos disponibles"
 
 #. type: Plain text
 #: 500.en.adoc:23
 msgid "Precision of the original data stored or retained"
-msgstr ""
+msgstr "La precisiñon de los datos originales almacenados o retenidos"
 
 #. type: Plain text
 #: 500.en.adoc:25
 msgid "When noting access constraints in the metadata at the dataset level, you may include something like:"
-msgstr ""
+msgstr "Al documentar las restricciones de acceso en los metadatos a nivel del conjunto de datos, se puede incluir algo como:"
 
 #. type: Plain text
 #: 500.en.adoc:28
 msgid "This dataset is only available to the public at a summary resolution for the following reason. Some of the information held within this dataset relates to species that are vulnerable to human disturbance or prejudice. Two species (_Adelanthus lindenbergianus_, _Athalamia hyaline_) are significantly vulnerable to collecting. The full detail of this sensitive information may be made available under licence to specific organizations and individuals that need to know to avoid harm to the environment. Please contact the provider for more information."
-msgstr ""
+msgstr "Este conjunto de datos sólo está disponible para el público en una resolución resumida por la siguiente razón. Parte de la información contenida en este conjunto de datos se refiere a especies que son vulnerables a las perturbaciones o a los prejuicios humanos. Dos especies (_Adelanthus lindenbergianus_, _Athalamia hyaline_) son significativamente vulnerables a la colecta. El detalle completo de esta información sensible puede ponerse a disposición, bajo licencia, a organizaciones y personas específicas que necesiten conocerla para evitar daños al medio ambiente. Para más información, póngase en contacto con el proveedor."
 
 #. type: Title ===
 #: 500.en.adoc:30
 #, no-wrap
 msgid "Spatial fit"
-msgstr ""
+msgstr "Ajuste espacial"
 
 #. type: Plain text
 #: 500.en.adoc:33
 msgid "Spatial Fit (https://doi.org/10.15468/doc-2zpf-zf42[Chapman and Wieczorek 2006^], https://doi.org/10.15468/doc-gg7h-s853[2020^]) is a concept that has arisen out of the BioGeomancer project (https://doi.org/10.1371/journal.pbio.0040381[Guralnick et al. 2006^]) and provides a measure of how well a geometric representation matches the original spatial representation. Spatial fit is a value of either zero, one or greater than 1, where 1 represents an exact match (i.e. the data has not been generalized). Details on how Spatial Fit may be calculated can be found in Chapman and Wieczorek (https://doi.org/10.15468/doc-2zpf-zf42[2006^], https://doi.org/10.15468/doc-gg7h-s853[2020^]), where the summary below can also be found:"
-msgstr ""
+msgstr "El ajuste espacial (https://doi.org/10.15468/doc-2zpf-zf42[Chapman y Wieczorek 2006^], https://doi.org/10.15468/doc-gg7h-s853[2020^]) es un concepto que ha surgido del proyecto BioGeomancer (https://doi.org/10.1371/journal.pbio.0040381[Guralnick et al. 2006^]) y proporciona una medida de qué tan bien coincide una representación geométrica con la representación espacial original. El ajuste espacial tiene un valor de cero, uno o mayor que 1, donde 1 representa una coincidencia exacta (es decir que los datos no se han generalizado). Los detalles sobre cómo se puede calcular el ajuste espacial se pueden encontrar en Chapman y Wieczorek (https://doi.org/10.15468/doc-2zpf-zf42[2006^], https://doi.org/10.15468/doc-gg7h-s853[2020^]), donde también se puede encontrar el siguiente resumen:"
 
 #. type: Plain text
 #: 500.en.adoc:36
