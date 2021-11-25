@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
-"POT-Creation-Date: 2021-02-01 17:14+0000\n"
-"PO-Revision-Date: 2021-10-01 12:26\n"
+"POT-Creation-Date: 2021-11-25 17:45+0000\n"
+"PO-Revision-Date: 2021-11-25 17:46\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -117,7 +117,11 @@ msgid "Beneath the surface, Wollemi National Park, Australia. Photo 2015 Vern vi
 msgstr "Sous la surface, parc national Wollemi, Australie. Photo 2015 Vern via https://flic.kr/p/qUBMMr[Flickr], sous licence http://creativecommons.org/licenses/by-nc-nd/2.0/[CC BY-NC-ND 2.0]."
 
 #. type: Plain text
-#: colophon.en.adoc:35 introduction.en.adoc:47 100.en.adoc:22 200.en.adoc:53 200.en.adoc:115 200.en.adoc:159 200.en.adoc:236 200.en.adoc:320 200.en.adoc:397 300.en.adoc:33 400.en.adoc:91 500.en.adoc:50 600.en.adoc:11 700.en.adoc:97 afterword.en.adoc:27 afterword.en.adoc:67 glossary.en.adoc:17 acknowledgements.en.adoc:7 bibliography.en.adoc:54
+#: colophon.en.adoc:35 introduction.en.adoc:47 100.en.adoc:22 200.en.adoc:53
+#: 200.en.adoc:115 200.en.adoc:159 200.en.adoc:236 200.en.adoc:320
+#: 200.en.adoc:397 300.en.adoc:33 400.en.adoc:91 500.en.adoc:50 600.en.adoc:11
+#: 700.en.adoc:97 afterword.en.adoc:27 afterword.en.adoc:67 glossary.en.adoc:17
+#: acknowledgements.en.adoc:7 bibliography.en.adoc:54
 msgid "<<<"
 msgstr "<<<"
 
@@ -396,8 +400,7 @@ msgstr ""
 #. type: Table
 #: 200.en.adoc:41
 #, no-wrap
-msgid "\n"
-"| 1. *Risk of harm* | An assessment of whether the taxon is subject to harmful human activity.\n\n"
+msgid "| 1. *Risk of harm* | An assessment of whether the taxon is subject to harmful human activity.\n\n"
 "| 2. *Impact of harm* | An assessment of the sensitivity of the taxon to the harmful human activity.\n\n"
 "| 3. *Sensitivity of data* | An assessment on whether the release of data will increase harm.\n\n"
 "| 4. *Decision on release and category of sensitivity* | A balanced decision regarding the release of the data and a determination of the category of sensitivity, and thus the level of generalization, of the data for release.\n\n"
@@ -438,8 +441,7 @@ msgstr ""
 #. type: Table
 #: 200.en.adoc:110
 #, no-wrap
-msgid "\n"
-"2+^s|1.1. Is the taxon subject to a harmful human activity?\n\n"
+msgid "2+^s|1.1. Is the taxon subject to a harmful human activity?\n\n"
 "^a|*YES* +\n"
 "↓ +\n"
 "Document with supporting rationale using Statement 1a: +\n"
@@ -502,8 +504,7 @@ msgstr ""
 #. type: Table
 #: 200.en.adoc:154
 #, no-wrap
-msgid "\n"
-"2+^s|2.1. Does the taxon have characteristics that make it significantly vulnerable to the harmful human activity?\n\n"
+msgid "2+^s|2.1. Does the taxon have characteristics that make it significantly vulnerable to the harmful human activity?\n\n"
 "^a|*YES* +\n"
 "↓ +\n"
 "Document with supporting rationale using Statement 2a: +\n"
@@ -551,8 +552,7 @@ msgstr ""
 #. type: Table
 #: 200.en.adoc:231
 #, no-wrap
-msgid "\n"
-"2+^s|3.1. Is the content and detail of the biodiversity data such that their release would enable someone to carry out a harmful activity upon the taxon or attribute?\n\n"
+msgid "2+^s|3.1. Is the content and detail of the biodiversity data such that their release would enable someone to carry out a harmful activity upon the taxon or attribute?\n\n"
 "^a|*YES* +\n"
 "↓ +\n"
 "Document with supporting rationale using statement 3a: +\n"
@@ -627,8 +627,7 @@ msgstr ""
 #. type: Table
 #: 200.en.adoc:311
 #, no-wrap
-msgid "\n"
-"2+^s|4.1. On balance, considering criteria 1 to 3 above and any important wider context, will withholding the information increase the risk of environmental harm or harm to a living person?\n\n"
+msgid "2+^s|4.1. On balance, considering criteria 1 to 3 above and any important wider context, will withholding the information increase the risk of environmental harm or harm to a living person?\n\n"
 "^a|*YES* +\n"
 "↓ +\n"
 "Document using statement 4a: +\n"
@@ -708,8 +707,7 @@ msgstr ""
 #. type: Table
 #: 200.en.adoc:337
 #, no-wrap
-msgid "\n"
-"| Criterion\t| Reasoning\n\n"
+msgid "| Criterion\t| Reasoning\n\n"
 "|[[cat1]]*Category 1* +\n\n"
 "Species or records for which no records will be provided at all, or which are only released as present within a large region such as a county, watershed, etc. \n\n"
 "a|The reason for non-disclosure is that: +\n\n"
@@ -1700,8 +1698,7 @@ msgstr ""
 #. type: Table
 #: afterword.en.adoc:46
 #, no-wrap
-msgid "\n"
-"| Field | Comments\n\n"
+msgid "| Field | Comments\n\n"
 "| dataSensitiveIndicator | Y/N flag that the observation is sensitive.\n\n"
 "| dataSensitiveReason | The primary reason why the data is sensitive. Suggested format is either a picklist with values derived from Criteria 1–4 above (or a text field that combines the statements 1a–4g attached to those criteria).\n\n"
 "| dataSensitiveComments\t| Further free-text information on the reason(s) or supporting rationale for determining relevance of the Criteria for this record as recommended above.\n\n"
@@ -2175,8 +2172,7 @@ msgstr ""
 #. type: Table
 #: annex-a.en.adoc:22
 #, no-wrap
-msgid "\n"
-"|Scenario A\n\n"
+msgid "|Scenario A\n\n"
 "|1a: There is no significant risk of a harmful human activity.\n\n"
 "|*The taxon is not sensitive.*\n\n"
 msgstr ""
@@ -2184,8 +2180,7 @@ msgstr ""
 #. type: Table
 #: annex-a.en.adoc:36
 #, no-wrap
-msgid "\n"
-"|*Scenario B*\n"
+msgid "|*Scenario B*\n"
 "|1a: The taxon is at risk from harmful human activity. \n\n"
 "|1d: There is currently no established evidence of actual harm to the taxon. \n\n"
 "|1f: Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place.\n\n"
@@ -2195,8 +2190,7 @@ msgstr ""
 #. type: Table
 #: annex-a.en.adoc:51
 #, no-wrap
-msgid "\n"
-"|*Scenario C*\n\n"
+msgid "|*Scenario C*\n\n"
 "|1a: The taxon is at risk from harmful human activity. \n\n"
 "|1d: There is currently no established evidence of actual harm to the taxon.\n\n"
 "|1e: Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.\n\n"
@@ -2206,8 +2200,7 @@ msgstr ""
 #. type: Table
 #: annex-a.en.adoc:66
 #, no-wrap
-msgid "\n"
-"|*Scenario D*\n\n"
+msgid "|*Scenario D*\n\n"
 "|1a: The taxon is at risk from harmful human activity. \n\n"
 "|1c: There is established evidence of actual or recent harm to the taxon.\n\n"
 "|1f: Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place.\n\n"
@@ -2217,8 +2210,7 @@ msgstr ""
 #. type: Table
 #: annex-a.en.adoc:81
 #, no-wrap
-msgid "\n"
-"|*Scenario E*\n\n"
+msgid "|*Scenario E*\n\n"
 "|1a: The taxon is at risk from harmful human activity.\n\n"
 "|1c: There is established evidence of actual harm to the taxon.\n\n"
 "|1e: Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.\n\n"
@@ -2234,8 +2226,7 @@ msgstr ""
 #. type: Table
 #: annex-a.en.adoc:96
 #, no-wrap
-msgid "\n"
-"|*Scenario F*\n\n"
+msgid "|*Scenario F*\n\n"
 "|2b: The taxon is not significantly vulnerable to the harmful human activity.\n\n"
 "|2d: The taxon is not vulnerable to harmful human activity over its total range and/or there are areas where the taxon is not at significant risk.\n\n"
 "|*The taxon is not significantly vulnerable to the harmful activity, and is not vulnerable to that activity over its total range and there are areas where the taxon is not at significant risk from that activity.*\n\n"
@@ -2244,8 +2235,7 @@ msgstr ""
 #. type: Table
 #: annex-a.en.adoc:109
 #, no-wrap
-msgid "\n"
-"|*Scenario G*\n\n"
+msgid "|*Scenario G*\n\n"
 "|2a: The taxon has characteristics that make it significantly vulnerable to the harmful human activity.\n\n"
 "|2d: The taxon is not vulnerable to harmful human activity over its total range and/or there are areas where the taxon is not at significant risk.\n\n"
 "|*The taxon is significantly vulnerable to the harmful activity, but is not vulnerable to that activity over its total range and there are areas where the taxon is not at significant risk from that activity.*\n\n"
@@ -2254,8 +2244,7 @@ msgstr ""
 #. type: Table
 #: annex-a.en.adoc:122
 #, no-wrap
-msgid "\n"
-"|*Scenario H*\n\n"
+msgid "|*Scenario H*\n\n"
 "|2a: The taxon has characteristics that make it significantly vulnerable to the harmful human activity.\n\n"
 "|2c: The taxon is vulnerable to harmful human activity over its total range. \n\n"
 "|*The taxon is significantly vulnerable to the harmful activity, and is vulnerable to that activity over its total range.*\n\n"
