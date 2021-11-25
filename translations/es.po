@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-02-01 17:14+0000\n"
-"PO-Revision-Date: 2021-11-24 23:10\n"
+"PO-Revision-Date: 2021-11-25 11:22\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1326,12 +1326,12 @@ msgstr "Duplicados y GUID"
 #. type: Plain text
 #: 400.en.adoc:86
 msgid "With plants, especially, and with other taxa (like insects), collectors often gather multiple specimens (duplicates or parts of sets)—usually on the order of four to six, though examples of more than 80 have been cited (Paul Morris 2007, personal communication, April)—with these duplicates or parts of sets often sent to many institutions around the world. One problem that arises is originating institutions may lose control of what happens to the information (including locality information) distributed to collections from those secondary institutions – remembering that the duplicates may have been distributed prior to the taxon being identified as sensitive."
-msgstr ""
+msgstr "Con las plantas especialmente y con otros taxa (como los insectos), los colectores suelen reunir varios especímenes (duplicados o partes de conjuntos). Normalmente del orden de cuatro a seis, aunque se han citado ejemplos de más de 80 (Paul Morris 2007, comunicación personal, abril). Estos duplicados o partes de conjuntos suelen enviarse a muchas instituciones de todo el mundo. Un problema que surge es que las instituciones de origen pueden perder el control de lo que ocurre con la información (incluida la información sobre la localidad) distribuida a las colecciones de esas instituciones secundarias, recordando que los duplicados pueden haber sido distribuidos antes de que el taxón sea identificado como sensible."
 
 #. type: Plain text
 #: 400.en.adoc:88
 msgid "In most cases this exchange of information is not a problem, but with sensitive taxa, it often is. The secondary institution may not know what are regarded as ‘sensitive taxa’ in the jurisdiction of the originating institution or may not have flagged that information. Sensitivity is not always information that can be distributed along with the collections, as it may not be known until much later that the species is endangered and/or sensitive. This issue is a difficult one, as simply labelling a taxon as sensitive may not be the answer: a taxon may be endangered in its native area (and thus sensitive) and may be a weed or pest in other areas, with locality information important for its control in both instances."
-msgstr ""
+msgstr "En la mayoría de los casos, este intercambio de información no supone un problema, pero en el caso de los taxa sensibles suele serlo. Es posible que la institución secundaria no sepa qué se considera \"taxa sensibles\" en la jurisdicción de la institución de origen o que no haya señalado esa información. La sensibilidad no siempre es una información que pueda distribuirse junto con las colectas, ya que puede que no se sepa hasta mucho más tarde que la especie está en peligro y/o es sensible. Esta cuestión es difícil, ya que etiquetar simplemente un taxón como sensible puede no ser la respuesta: un taxón puede estar en peligro de extinción en su zona nativa (y por tanto ser sensible) y puede ser una hierba mala o una plaga en otras zonas, siendo la información sobre la localidad importante para su control en ambos casos."
 
 #. type: Plain text
 #: 400.en.adoc:90
