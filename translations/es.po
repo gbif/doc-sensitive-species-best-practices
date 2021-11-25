@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-02-01 17:14+0000\n"
-"PO-Revision-Date: 2021-11-25 12:19\n"
+"PO-Revision-Date: 2021-11-25 13:24\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -855,7 +855,7 @@ msgstr "\n"
 "^a|*NO* +\n"
 "↓ +\n"
 "Documentar utilizando el enunciado 4g, recopilando todos los fundamentos y documentando la decisión de liberar los datos: +\n"
-"La especie está clasificada como de baja sensibilidad y es improbable que la distribución de las localizaciones precisas someta a la especie a una amenaza significativa y/o el registro incluye información de baja sensibilidad, cuya divulgación es improbable que cause daño al medio ambiente o a cualquier individuo. Los datos deben hacerse públicos \"tal cual\".\n"
+"La especie está clasificada como de baja sensibilidad y es improbable que la distribución de las localizaciones precisas someta a la especie a una amenaza significativa y/o el registro incluye información de baja sensibilidad, cuya divulgación es improbable que cause daño al medio ambiente o a cualquier individuo. Los datos deben hacerse públicos \"como están mantenidos\".\n"
 "*No es sensible para el medio ambiente* +\n"
 "↓ +\n"
 "Los datos deben hacerse públicos\n\n"
@@ -985,7 +985,7 @@ msgstr "con campos sensibles generalizados o eliminados y sustituidos por un tex
 "Los datos pueden suministrarse a escalas más finas si se solicitan bajo las condiciones de un acuerdo de datos por escrito, normalmente un Acuerdo de Licencia de Datos. Cuando se proporcionen los datos a los clientes, se les informará qué especies o campos son sensibles y podrían tener sus coordenadas desnaturalizadas a aquellas disponibles bajo la <<cat4,Categoría 4>>. +\n\n"
 "*NB*: En el caso de que la sensibilidad sea provocada por campos distintos a la georreferencia, puede ser más apropiado clasificar el registro como <<cat4,Categoría 4>>.\n\n"
 "|[[cat4]]*Categoría 4* +\n\n"
-"Especies o registros cuyas coordenadas estarán disponibles públicamente \"desnaturalizadas\" (a 0.001 grados) y/o otra información en el registro es generalizada. Los datos \"tal como están\" pueden ser suministrados a individuos bajo Licencia. +\n\n"
+"Especies o registros cuyas coordenadas estarán disponibles públicamente \"desnaturalizadas\" (a 0.001 grados) y/o otra información en el registro es generalizada. Los datos \"como están mantenidos\" pueden ser suministrados a individuos bajo Licencia. +\n\n"
 "a|Las razones de la restricción son que: +\n\n"
 
 #. type: Table
@@ -1368,22 +1368,22 @@ msgstr "Los metadatos cumplen una función esencial en cuanto a la comunicación
 #. type: Plain text
 #: 500.en.adoc:13
 msgid "Metadata has generally been used to refer to documentation of a whole dataset.  Documentation at the record level has usually been referred to just in comments. I prefer, however, to term this ‘<<record-level metadata>>’, and to formalize the process. In the previous chapter a recommendation was made that where data is generalized for distribution, to document the level of <<generalization>> – for example, that the data had been generalized using a decimal geographic grid, and to record both the precision of the data provided and the precision of the data ‘as-held’ or stored. Also, in the chapter on <<Determining sensitivity,Determining sensitivity>>, a series of documentation processes were recommended (<<table-01,Table 1>>). Some of these may be more appropriate for documenting the reasons for regarding a taxon as a potential environmentally sensitivity taxon (Criteria 1 and 2), while the others (Criteria 3 and 4) are appropriate to the data themselves and belong as part of the broader record-level metadata. To fully document the reasons for restricting data, however, it may be necessary to inherit the documentation from Criteria 1 and 2 to the record level – for example, the reason that data is restricted may include that the taxon is subject to harmful human activity."
-msgstr ""
+msgstr "El término metadatos se ha utilizado generalmente para referirse a la documentación de un conjunto de datos por completo. Los comentarios se refiere solo a la documentación a nivel de registro. Sin embargo, es preferible llamar a ésta documentación <<metadatos a nivel de registros>> para formalizar el proceso. En el capítulo anterior se recomendó que, cuando los datos se generalicen para su distribución, se documente el nivel de <<generalización>>, por ejemplo, que los datos se han generalizado utilizando una grilla geográfica decimal y que se registre tanto la precisión de los datos proporcionados como la precisión de los datos \"como están mantenidos\" o almacenados. Asimismo, en el capítulo sobre <<Determinación de la sensibilidad>>, se recomendaron una serie de procesos de documentación (<<tabla-01,Tabla 1>>). Algunos de ellos pueden ser más apropiados para documentar las razones por las que se considera un taxón como potencialmente sensible desde el punto de vista medioambiental (Criterios 1 y 2), mientras que los otros (Criterios 3 y 4) son apropiados para los datos en sí mismos y forman parte de los metadatos más amplios a nivel de registro. Sin embargo, para documentar por completo las razones para restringir los datos, puede ser necesario heredar la documentación de los Criterios 1 y 2 al nivel de registro, por ejemplo, la razón por la que se restringen los datos puede incluir que el taxón está sujeto a una actividad humana perjudicial."
 
 #. type: Plain text
 #: 500.en.adoc:15
 msgid "At the moment, neither the https://www.tdwg.org/standards/dwc/[Darwin Core^] nor the https://www.tdwg.org/standards/abcd/[ABCD^] standards have fields for recording the type of record-level metadata that is recommended here. A number of recommendations have been made to Biodiversity Information Standards (TDWG) for the inclusion of extra fields to the https://dwc.tdwg.org/terms/#location[Darwin Core Location Class^] (TDWG 2018) and are listed in the <<afterword,Afterword>>."
-msgstr ""
+msgstr "Por el momento, ni el estándar https://www.tdwg.org/standards/dwc/[Darwin Core^] ni el https://www.tdwg.org/standards/abcd/[ABCD^] tienen campos para registrar el tipo de metadatos a nivel de registro que se recomienda aquí. Se han hecho una serie de recomendaciones a Biodiversity Information Standards (TDWG) para la inclusión de campos adicionales en https://dwc.tdwg.org/terms/#location[Elemento de Ubicación Darwin Core^] (TDWG 2018) y se enumaran abajo en el <<epílogo,Epílogo>>."
 
 #. type: Plain text
 #: 500.en.adoc:17
 msgid "Until such time as these standards and protocols are modified, it is recommended that the data be documented using existing https://dwc.tdwg.org/terms/[Darwin Core terms] at the record-level (e.g., https://dwc.tdwg.org/terms/#dwc:informationWithheld[dwc:informationWithheld], https://dwc.tdwg.org/terms/#dwc:dataGeneralizations[dwc:dataGeneralizations] or any of the 'Remarks' fields), and, as far as possible, to record the same type of information that would be included in the recommended fields, for example, that:"
-msgstr ""
+msgstr "Hasta que se modifiquen estos estándares y protocolos, se recomienda documentar los datos utilizando los actuales https://dwc.tdwg.org/terms/[Términos del Darwin Core] a nivel de registro (por ejemplo, https://dwc.tdwg.org/terms/#dwc:informationWithheld[dwc:informationWithheld], https://dwc.tdwg.org/terms/#dwc:dataGeneralizations[dwc:dataGeneralizations] o cualquiera de los campos \"Remarks\") y, en la medida de lo posible, registrar el mismo tipo de información que se incluiría en los campos recomendados, por ejemplo, que:"
 
 #. type: Plain text
 #: 500.en.adoc:19
 msgid "The data is sensitive"
-msgstr ""
+msgstr "Los datos son sensibles"
 
 #. type: Plain text
 #: 500.en.adoc:20
