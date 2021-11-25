@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-02-01 17:14+0000\n"
-"PO-Revision-Date: 2021-11-25 15:19\n"
+"PO-Revision-Date: 2021-11-25 16:31\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1683,222 +1683,222 @@ msgstr "*Categoría 1*: no hay registros proporcionados\n"
 #: 700.en.adoc:59
 #, no-wrap
 msgid "*Category 2*: \n"
-msgstr ""
+msgstr "*Categorías 2*:\n"
 
 #. type: Plain text
 #: 700.en.adoc:60
 #, no-wrap
 msgid "records denatured to 0.1° (~10 km) for public web applications\n"
-msgstr ""
+msgstr "registros desnaturalizados a 0.1° (~10 km) para aplicaciones web públicas\n"
 
 #. type: Plain text
 #: 700.en.adoc:61
 #, no-wrap
 msgid "records denatured to 0.01° (~1 km) for provision to licensed clients\n"
-msgstr ""
+msgstr "registros desnaturalizados a 0.01° (~1 km) para provisión a clientes con licencia\n"
 
 #. type: Plain text
 #: 700.en.adoc:62
 #, no-wrap
 msgid "*Category 3*:\n"
-msgstr ""
+msgstr "*Categorías 3*:\n"
 
 #. type: Plain text
 #: 700.en.adoc:63
 #, no-wrap
 msgid "records denatured to 0.01° (~10 km) for public web applications\n"
-msgstr ""
+msgstr "registros desnaturalizados a 0.01° (~10 km) para aplicaciones web públicas\n"
 
 #. type: Plain text
 #: 700.en.adoc:64
 #, no-wrap
 msgid "records provided ‘as held’ to licensed clients\n"
-msgstr ""
+msgstr "registros proporcionados \"como está mantenido\" a clientes con licencia\n"
 
 #. type: Plain text
 #: 700.en.adoc:66
 msgid "A list of sensitive species, the category of sensitivity, and the reasons why they are regarded as sensitive is maintained and published on the agency’s website (https://www.environment.nsw.gov.au/topics/animals-and-plants/wildlife-management/wildlife-policies-and-guidelines/sensitive-species-data[OEH 2019a])."
-msgstr ""
+msgstr "En el sitio web de la agencia se mantiene y publica un listado de especies sensibles, la categoría de sensibilidad y las razones por las que se consideran sensibles (https://www.environment.nsw.gov.au/topics/animals-and-plants/wildlife-management/wildlife-policies-and-guidelines/sensitive-species-data[OEH 2019a])."
 
 #. type: Plain text
 #: 700.en.adoc:68
 msgid "The *UK National Biodiversity Network* (https://nbn.org.uk/sensitive-data/[NBN 2019b^]) uses criteria that allows for different categories of generalization in the different member countries of the UK (e.g. a species can be listed as sensitive in Wales, but not in Scotland). Records are submitted to the NBN Atlas at the best capture resolution. The location of sensitive species are generalized and the generalized data made available to the public under a Creative Commons licence as determined by the data provider. https://docs.nbnatlas.org/sensitive-species-list/[Lists of sensitive taxa^], along with the reasons for sensitivity, and the generalization level for each of England, Scotland and Wales are maintained and published."
-msgstr ""
+msgstr "La *UK National Biodiversity Network* (https://nbn.org.uk/sensitive-data/[NBN 2019b^]) utiliza criterios que permiten diferentes categorías de generalización en los distintos países miembros del Reino Unido (por ejemplo, una especie puede ser catalogada como sensible en Gales, pero no en Escocia). Los registros se envían al Atlas NBN con la mejor resolución de captura. La ubicación de las especies sensibles se generaliza y los datos generalizados se ponen a disposición del público bajo una licencia Creative Commons según determine el proveedor de los datos. Los https://docs.nbnatlas.org/sensitive-species-list/[Listados de taxa sensibles^], junto con las razones de la sensibilidad, y el nivel de generalización para cada uno de Inglaterra, Escocia y Gales se mantienen y publican."
 
 #. type: Plain text
 #: 700.en.adoc:70
 #, no-wrap
 msgid "*Birdlife Australia* (https://birdata.birdlife.org.au/sensitive-species[Birdata^]) have developed a Sensitive Species policy based on the principles and generalization categories as set out in this and the previous Guide (https://doi.org/10.15468/doc-b02j-gt10[Chapman and Grafton 2008^]). They have identified six categories of data where the localities may need to be generalized:\n"
-msgstr ""
+msgstr "*Birdlife Australia* (https://birdata.birdlife.org.au/sensitive-species[Birdata^]) ha desarrollado una política de Especies Sensibles basada en los principios y categorías de generalización expuestos en esta Guía y en la anterior (https://doi.org/10.15468/doc-b02j-gt10[Chapman y Grafton 2008^]). Han identificado seis categorías de datos en las que puede ser necesario generalizar las localidades:\n"
 
 #. type: Plain text
 #: 700.en.adoc:72
 msgid "Wildlife poaching and international trade"
-msgstr ""
+msgstr "Caza furtiva de especies silvestres y comercio internacional"
 
 #. type: Plain text
 #: 700.en.adoc:73
 msgid "Legal and illegal hunters including trophy, recreational, commercial and sport hunters"
-msgstr ""
+msgstr "Cazadores legales e ilegales incluyendo trofeos, recreativos, comerciales y deportivos"
 
 #. type: Plain text
 #: 700.en.adoc:74
 msgid "Egg collectors"
-msgstr ""
+msgstr "Colectores de huevos"
 
 #. type: Plain text
 #: 700.en.adoc:75
 msgid "Illegal capture of wild birds for the cage trade and falconry"
-msgstr ""
+msgstr "Captura ilegal de aves silvestres para el comercio de jaulas y la cetrería"
 
 #. type: Plain text
 #: 700.en.adoc:76
 msgid "Wildlife enthusiasts exhibiting intrusive behaviour, particularly to territorial species"
-msgstr ""
+msgstr "Los entusiastas de la vida silvestre que exhiben comportamientos intrusivos, especialmente a las especies territoriales"
 
 #. type: Plain text
 #: 700.en.adoc:77
 msgid "Trespassing/accessing private property or indigenous protected areas without a permit."
-msgstr ""
+msgstr "Intrusión/acceso a la propiedad privada o a las zonas indígenas protegidas sin permiso."
 
 #. type: Plain text
 #: 700.en.adoc:79
 msgid "The *US Forest Service* has a policy for sensitive species to ensure viable populations throughout their geographic ranges. Once the objectives are accomplished and viability is no longer a concern, species shall not have “sensitive” status (https://www.fs.fed.us/biology/resources/pubs/tes/ss_sum_by_region_31Oct2005_fs.pdf[US Forest Service 2005^]). Sensitive species are those plant and animal species identified by the Regional Forester for which population viability is a concern on National Forest Service (NFS) lands within the region. The goal of the Forest Service Sensitive Species Program is to ensure that species numbers and population distribution are adequate so that no federal listing will be required and no extirpation will occur on NFS lands (https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd530660.pdf[US Forest Service 2016^])."
-msgstr ""
+msgstr "El *US Forest Service* tiene una política para garantizar poblaciones viables de especies sensibles en toda su área de distribución geográfica. Una vez que se cumplan los objetivos y la viabilidad deje de ser una preocupación, las especies dejarán de tener el estatus de \"sensibles\" (https://www.fs.fed.us/biology/resources/pubs/tes/ss_sum_by_region_31Oct2005_fs.pdf[US Forest Service 2005^]). Las especies sensibles son aquellas especies de plantas y animales identificadas por el silvicultor regional para las que la viabilidad de la población es una preocupación en las tierras del Servicio Forestal Nacional (NFS por sus siglas en inglés) dentro de la región. El objetivo del Programa de Especies Sensibles del Servicio Forestal es garantizar que el número de especies y la distribución de la población sean adecuados para que no se requiera la inclusión en la lista federal y no se produzca la extirpación en las tierras del NFS (https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd530660.pdf[US Forest Service 2016^])."
 
 #. type: Plain text
 #: 700.en.adoc:81
 msgid "No specific mention is made of different categories, or of generalizing location information for the public. However, according to https://doi.org/10.1371/journal.pbio.1001634[Hartter et al. (2013)^], the US Forest Service seeks to protect research sites by not disclosing geospatial references along with its data."
-msgstr ""
+msgstr "No se hace mención específica a las diferentes categorías, ni a la generalización de la información de ubicación para el público. Sin embargo, según https://doi.org/10.1371/journal.pbio.1001634[Hartter et al. (2013)^], el Servicio Forestal de los Estados Unidos trata de proteger los lugares de investigación no divulgando las referencias geoespaciales junto con sus datos."
 
 #. type: Plain text
 #: 700.en.adoc:83
 #, no-wrap
 msgid "*Natural Resources Canada* and GeoConnections Canada commissioned a study to develop Best Practices for Sharing Sensitive Environmental Geospatial Data (http://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf[AMEC Earth and Environmental 2010^]). The Guidelines consider environmental geospatial data to be “thematic geospatial data that could be used for analysis in areas such as environmental impact assessments, land use planning, land management, sustainable development, resource management, airshed management, etc.” The document lists five criteria for determining sensitivity. The third criterion includes the data considered in this document:\n"
-msgstr ""
+msgstr "*Natural Resources Canada* y GeoConnections Canadá encargaron un estudio para desarrollar las Buenas Prácticas para Compartir Datos Geoespaciales Ambientales Sensibles (http://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf[AMEC Earth and Environmental 2010^]). Las directrices consideran que los datos geoespaciales medioambientales son \"datos geoespaciales temáticos que podrían utilizarse para el análisis en ámbitos como la evaluación del impacto medioambiental, la planificación del uso del suelo, la gestión de la tierra, el desarrollo sostenible, la gestión de recursos, la gestión de cuencas hidrográficas, etc.\". El documento enumera cinco criterios para determinar la sensibilidad. El tercer criterio incluye los datos considerados en este documento:\n"
 
 #. type: Plain text
 #: 700.en.adoc:86
 #, no-wrap
 msgid "*Natural Resource Protection*: the use of the information can result in the degradation of an environmentally significant site or resource\n"
-msgstr ""
+msgstr "*Protección de los Recursos Naturales*: el uso de la información puede provocar la degradación de un lugar o recurso de importancia medioambiental\n"
 
 #.  Citation is previous version, with spelling "Generalising"
 #. type: Plain text
 #: 700.en.adoc:89
 msgid "The document recommends that as Canada is a member of GBIF, Canadian organizations, should incorporate the _Guide to Best Practices for Generalising Sensitive Species Occurrence Data_ (https://doi.org/10.15468/doc-b02j-gt10[Chapman and Grafton 2008^]) when assessing their environmental datasets. Without mentioning specific generalization levels, the document does site the categories of generalization in this and the previous Guide."
-msgstr ""
+msgstr "El documento recomienda que, dado que Canadá es miembro de GBIF, las organizaciones canadienses incorporen la _Guía de Buenas Prácticas para la Generalización de Datos de Presencia de Especies Sensibles_ (https://doi.org/10.15468/doc-b02j-gt10[Chapman y Grafton 2008^]) al evaluar sus conjuntos de datos medioambientales. Sin mencionar los niveles de generalización específicos, el documento cita las categorías de generalización de esta Guía y de la anterior."
 
 #. type: Plain text
 #: 700.en.adoc:91
 msgid "Other aggregation agencies, such as *iDigBio*, have left it to those supplying the data to deal with sensitivity, and have not developed a policy per se."
-msgstr ""
+msgstr "Otras agencias de agregación, como *iDigBio*, han dejado que los que suministran los datos se ocupen de la sensibilidad y no han desarrollado una política en sí misma."
 
 #. type: Positional ($2) AttributeList argument for style 'quote'
 #: 700.en.adoc:92
 #, no-wrap
 msgid "'https://www.idigbio.org/content/idigbio-terms-use-policy[iDigBio Terms of Use Policy]'"
-msgstr ""
+msgstr "'https://www.idigbio.org/content/idigbio-terms-use-policy[iDigBio Terms of Use Policy]'"
 
 #. type: quote
 #: 700.en.adoc:94
 msgid "“iDigBio accepts all Data it receives via the Services as-is. It makes no effort to mask Sensitive Data. The Data Publisher is solely responsible to mask or withhold information, including Sensitive Data, from the public.”"
-msgstr ""
+msgstr "\"iDigBio acepta todos los datos que recibe a través de los Servicios tal y como son. No hace ningún esfuerzo por enmascarar los Datos sensibles. El publicador de datos es el único responsable de enmascarar u ocultar la información, incluidos los datos sensibles, al público\""
 
 #. type: quote
 #: 700.en.adoc:96
 msgid "In many cases, decisions on whether to release data to the public is done on a project to project basis. For example, https://doi.org/10.11646/zootaxa.2393.1.5[Fong and Qiao (2010)^] describe a project to map locations of an endangered species of turtle in China and argue that while this location data is valuable to researchers, it should not be made publicly available due to concerns about the safety of the animals."
-msgstr ""
+msgstr "En muchos casos, la decisión de hacer públicos los datos se toma en función de cada proyecto. Por ejemplo, https://doi.org/10.11646/zootaxa.2393.1.5[Fong y Qiao (2010)^] describen un proyecto para cartografiar la ubicación de una especie de tortuga en peligro de extinción en China y sostienen que, aunque estos datos de localización son valiosos para los investigadores, no deberían hacerse públicos por motivos de seguridad de los animales."
 
 #. type: Title ==
 #: afterword.en.adoc:1
 #, no-wrap
 msgid "Afterword"
-msgstr ""
+msgstr "Epílogo"
 
 #. type: Title ===
 #: afterword.en.adoc:3
 #, no-wrap
 msgid "Listing sensitive taxa"
-msgstr ""
+msgstr "Listado de taxa sensibles"
 
 #. type: Plain text
 #: afterword.en.adoc:6
 msgid "Data is already distributed around the globe through duplicate specimens, etc., and although data may be restricted from some institutions, others holding duplicates may be releasing the same information. This may be through ignorance of what may be regarded as sensitive in the home ranges of the taxon concerned as no universal list of what is regarded as ‘sensitive’ is currently available. Difficulties are compounded by the fact that a taxon may be sensitive in one area, but not in another (and indeed may even be an invasive weed or pest species in the second location). If identical data is publicly available through other sources, it cannot be considered sensitive (https://www.environment.gov.au/system/files/resources/246e674a-feb1-4399-a678-be9f4b6a6800/files/sensitive-ecological-data-access-mgt-policy.pdf[Australian Government 2016^])."
-msgstr ""
+msgstr "Los datos ya están distribuidos por todo el mundo a través de duplicados de especímenes, etc. y aunque los datos pueden estar restringidos en algunas instituciones, otras que tienen duplicados pueden estar divulgando la misma información. Esto puede deberse al desconocimiento de lo que puede considerarse sensible en las zonas de origen del taxón en cuestión, ya que actualmente no se dispone de una lista universal de lo que se considera \"sensible\". Las dificultades se ven agravadas por el hecho de que un taxón puede ser sensible en una zona, pero no en otra (e incluso puede ser una especie de maleza o plaga invasora en la segunda ubicación). Si hay datos idénticos disponibles públicamente a través de otras fuentes, no pueden considerarse sensibles (https://www.environment.gov.au/system/files/resources/246e674a-feb1-4399-a678-be9f4b6a6800/files/sensitive-ecological-data-access-mgt-policy.pdf[Australian Government 2016^])."
 
 #. type: Plain text
 #: afterword.en.adoc:8
 msgid "For these reasons, it has been recommended that a trigger list of potential environmentally sensitive taxa should be created and linked through GBIF’s https://doi.org/10.15468/39omei[Backbone Taxonomy^]. This would have the advantages of alerting data providers in other jurisdictions that a species is potentially sensitive, and via the Backbone Taxonomy would provide links to synonyms. It is important to note that the list should be regarded as a trigger to flag the need for a decision on the actual sensitivity of sharing information using the criteria in the previous chapter, and not for generating blanket restrictions. Not all endangered species are threatened through knowledge of their locations, or across the totality of their range, and so should not be regarded as sensitive per se and thus the list of potential environmentally sensitive taxa should be much smaller than any existing list of rare and threatened species."
-msgstr ""
+msgstr "Por estas razones, se ha recomendado la creación de una listado de taxa potencialmente sensibles desde el punto de vista medioambiental y su vinculación a través de la https://doi.org/10.15468/39omei[Backbone Taxonomy^] de GBIF. Esto tendría la ventaja de alertar a los proveedores de datos de otras jurisdicciones de que una especie es potencialmente sensible y a través de Backbone Taxonomy proporcionaría enlaces a sinónimos. Es importante señalar que la lista debe considerarse como un elemento desencadenante para señalar la necesidad de tomar una decisión sobre la sensibilidad real de compartir información utilizando los criterios del capítulo anterior y no para generar restricciones generales. No todas las especies amenazadas lo están por el conocimiento de su ubicación o están amenazadas en la totalidad de su área de distribución, por lo que no deberían considerarse sensibles per se y, por tanto, la lista de posibles taxa sensibles desde el punto de vista medioambiental debería ser mucho menor que cualquier lista existente de especies raras y amenazadas."
 
 #. type: Plain text
 #: afterword.en.adoc:10
 msgid "The list should be created using <<table-01,Criteria 1 and 2>> and scenarios in <<annex-01,Annex 1>> and include additional information, such as:"
-msgstr ""
+msgstr "Esta lista debe crearse usando los <<table-01, Criterios 1 y 2>> y los escenarios del <<annex-01,Anexo 1>> e incluir información adicional como:"
 
 #. type: Plain text
 #: afterword.en.adoc:12
 msgid "Name of taxon"
-msgstr ""
+msgstr "Nombre del taxón"
 
 #. type: Plain text
 #: afterword.en.adoc:13
 msgid "Criteria and supporting rationale for inclusion"
-msgstr ""
+msgstr "Criterios y justificación para la inclusión"
 
 #. type: Plain text
 #: afterword.en.adoc:14
 msgid "Name of person or organization responsible for the taxon being included"
-msgstr ""
+msgstr "Nombre de la persona u organización responsable de que se incluya el taxón"
 
 #. type: Plain text
 #: afterword.en.adoc:15
 msgid "Geographic coverage of sensitivity (especially if only sensitive over part of its range or within one jurisdiction)"
-msgstr ""
+msgstr "Cobertura geográfica de la sensibilidad (especialmente si sólo es sensible en una parte de su área de distribución o en una jurisdicción)"
 
 #. type: Plain text
 #: afterword.en.adoc:16
 msgid "Recommended sensitivity category"
-msgstr ""
+msgstr "Categoría de sensibilidad recomendada"
 
 #. type: Plain text
 #: afterword.en.adoc:17
 msgid "Date for review"
-msgstr ""
+msgstr "Fecha para la revisión"
 
 #. type: Plain text
 #: afterword.en.adoc:19
 msgid "Jurisdictions may also wish to maintain a similar list for their own purposes, and it is recommended that if they do so, they include the above information in all cases.  The advantages of making the information more broadly available is that it will alert other data custodians that your jurisdiction regards the taxon as potentially sensitive, and alert users that they should take the sensitivity into account when publishing the results of their analyses, etc."
-msgstr ""
+msgstr "Las jurisdicciones también pueden desear mantener un listado similar para sus propios fines y se recomienda que, si lo hacen, incluyan la información anterior en todos los casos. La ventaja de hacer que la información esté disponible de forma más amplia es que alertará a otros custodios de datos de que su jurisdicción considera el taxón como potencialmente sensible y alertará a los usuarios de que deben tener en cuenta la sensibilidad al publicar los resultados de sus análisis, etc."
 
 #. type: Plain text
 #: afterword.en.adoc:21
 msgid "Any list of potential environmentally sensitive taxa should be regarded as a trigger only and any restrictions on the availability of actual data should be made on a case by case basis taking into account the listed criteria."
-msgstr ""
+msgstr "Cualquier lista de posibles taxa sensibles desde el punto de vista medioambiental debe considerarse únicamente como un factor desencadenante y cualquier restricción a la disponibilidad de datos reales debe hacerse caso por caso teniendo en cuenta los criterios enumerados."
 
 #. type: Title ===
 #: afterword.en.adoc:22
 #, no-wrap
 msgid "Metadata recommendations"
-msgstr ""
+msgstr "Recomendaciones de metadatos"
 
 #. type: Plain text
 #: afterword.en.adoc:25
 msgid "A number of recommendations have been made to Biodiversity Information Standards (TDWG) for the inclusion of extra fields to the https://dwc.tdwg.org/terms/#location[Darwin Core Location Class^] (TDWG 2018). The recommendations included:"
-msgstr ""
+msgstr "Se han hecho una serie de recomendaciones a Biodiversity Information Standards (TDWG) para la inclusión de campos adicionales a la https://dwc.tdwg.org/terms/#location[Elemento de Ubicación Darwin Core^] (TDWG 2018). Las recomendaciones incluyen:"
 
 #. type: Named 'caption' AttributeList argument for style 'caption'
 #: afterword.en.adoc:28
 #, no-wrap
 msgid "Table 8. "
-msgstr ""
+msgstr "Tabla 8. "
 
 #. type: Block title
 #: afterword.en.adoc:29
 #, no-wrap
 msgid "Recommendations on extension to Darwin Core for Sensitive Taxa"
-msgstr ""
+msgstr "Recomendaciones sobre la ampliación al Darwin Core para taxa sensibles"
 
 #. type: Table
 #: afterword.en.adoc:46
@@ -1911,31 +1911,38 @@ msgid "\n"
 "| sensitiveDateForReview | A date field documenting when the sensitive nature of the date should be reviewed. Especially important where the sensitivity is just awaiting publication of results, etc.\n\n"
 "a| precisionDataProvided \n\n"
 "a| The scale or the precision of the data made available via the Darwin Core record – may be done as coordinate precision, e.g.\n\n"
-msgstr ""
+msgstr "\n"
+"| Campo | Comentarios\n\n"
+"| dataSensitiveIndicator | indicador Y/N de que la observación es sensible.\n\n"
+"| dataSensitiveReason | La razón principal por la que los datos son sensibles. El formato sugerido es una lista de selección con valores derivados de los criterios 1-4 anteriores (o un campo de texto que combine las declaraciones 1a-4g adjuntas a esos criterios).\n\n"
+"| dataSensitiveComments | Información adicional de texto libre sobre la(s) razón(es) o la justificación para determinar la relevancia de los criterios para este registro, tal y como se recomienda más arriba.\n\n"
+"| sensitiveDateForReview | Un campo de fecha que documente cuándo debe revisarse el carácter sensible de la fecha. Especialmente importante cuando la sensibilidad está a la espera de la publicación de los resultados, etc.\n\n"
+"a| precisionDataProvided \n\n"
+"a|La escala o la precisión de los datos puestos a disposición a través del registro Darwin Core. Puede hacerse como precisión de coordenadas, por ejemplo.\n\n"
 
 #. type: Table
 #: afterword.en.adoc:47 afterword.en.adoc:57
 #, no-wrap
 msgid "0 = 1 degree +\n"
-msgstr ""
+msgstr "0 = 1 grado +\n"
 
 #. type: Table
 #: afterword.en.adoc:48 afterword.en.adoc:58
 #, no-wrap
 msgid "1 = 0.1 degree +\n"
-msgstr ""
+msgstr "1 = 0.1 grados +\n"
 
 #. type: Table
 #: afterword.en.adoc:49 afterword.en.adoc:59
 #, no-wrap
 msgid "2 = 0.01 degree +\n"
-msgstr ""
+msgstr "2 = 0.01 grados +\n"
 
 #. type: Table
 #: afterword.en.adoc:50 afterword.en.adoc:60
 #, no-wrap
 msgid "3 = 0.001 degree +\n"
-msgstr ""
+msgstr "3 = 0.001 grados +\n"
 
 #. type: Table
 #: afterword.en.adoc:56
@@ -1943,20 +1950,23 @@ msgstr ""
 msgid "4 = 0.0001 degree +\n\n"
 "a| precisionDataStored \n\n"
 "a| The scale or the precision of the data stored or retained by the data custodian – may be done as coordinate precision, e.g.\n\n"
-msgstr ""
+msgstr "4 = 0. 001 grados +\n\n"
+"a| precisionDataStored \n\n"
+"a| La escala o la precisión de los datos almacenados o conservados por el custodio de los datos, puede hacerse como precisión de coordenadas, por ejemplo.\n\n"
 
 #. type: Table
 #: afterword.en.adoc:61
 #, no-wrap
 msgid "4 = 0.0001 degree +\n"
-msgstr ""
+msgstr "4 = 0.0001 grados +\n"
 
 #. type: Table
 #: afterword.en.adoc:65
 #, no-wrap
 msgid "etc. +\n\n"
 "or maybe more free text – such as ‘1 minute’, ‘0.1 minute’, ‘1 second’ – depending on how data is stored.\n\n"
-msgstr ""
+msgstr "etc. +\n\n"
+"o tal vez un texto más libre, como \"1 minuto\", \"0,1 minutos\", \"1 segundo\", dependiendo de cómo se almacenen los datos.\n\n"
 
 #. type: Title ==
 #: glossary.en.adoc:2
@@ -2352,28 +2362,28 @@ msgstr "[[wylie]] Wylie A (1996) Ethical dilemmas in archaeological practice: Lo
 #: annex-a.en.adoc:2
 #, no-wrap
 msgid "Annex 1: Scenarios using Criteria 1 and 2 as Triggers"
-msgstr ""
+msgstr "Anexo 1: Escenarios usando los Criterios 1 y 2 como Desencadenantes"
 
 #. type: Plain text
 #: annex-a.en.adoc:5
 msgid "The following sets of scenarios show how the criteria statements given in the Chapter on <<Determining sensitivity>> may be used to develop summary statements for documenting the reasons why a taxon may be regarded as sensitive. Summary statements should also include supporting rationale, such as specific types of harm, etc. For example, in scenario B, the full statement may read something like:"
-msgstr ""
+msgstr "Los siguientes conjuntos de escenarios muestran cómo las declaraciones de criterios que se dan en el capítulo sobre <<Determinación de la sensibilidad>> pueden utilizarse para desarrollar declaraciones resumidas para documentar las razones por las que un taxón puede considerarse sensible. Las declaraciones resumidas también deberían incluir una justificación de apoyo, como tipos específicos de daños, etc. Por ejemplo, en el escenario B, la declaración completa puede ser algo así:"
 
 #. type: Plain text
 #: annex-a.en.adoc:8
 msgid "Taxa could be at risk from harm from disease carried on the wheels of forestry machinery but occurrence is not affected by data availability."
-msgstr ""
+msgstr "Los taxa podrían estar en riesgo de sufrir daños por enfermedades transportadas en las ruedas de la maquinaria forestal, pero su presencia no se ve afectada por la disponibilidad de datos."
 
 #. type: Plain text
 #: annex-a.en.adoc:10
 msgid "This may apply to a species of plant in a forestry area susceptible to Phytophthora attack, the fungi being transferred on the wheels of forestry vehicles."
-msgstr ""
+msgstr "Esto puede aplicarse a una especie de planta en una zona forestal susceptible de ser atacada por Phytophthora, ya que los hongos se transfieren en las ruedas de los vehículos forestales."
 
 #. type: Title ===
 #: annex-a.en.adoc:11
 #, no-wrap
 msgid "Criterion 1"
-msgstr ""
+msgstr "Criterio 1"
 
 #. type: Table
 #: annex-a.en.adoc:22
@@ -2382,7 +2392,10 @@ msgid "\n"
 "|Scenario A\n\n"
 "|1a: There is no significant risk of a harmful human activity.\n\n"
 "|*The taxon is not sensitive.*\n\n"
-msgstr ""
+msgstr "\n"
+"|Escenario A\n\n"
+"|1a: No hay riesgo significativo de una actividad humana perjudicial.\n\n"
+"|*El taxón no es sensible.*\n\n"
 
 #. type: Table
 #: annex-a.en.adoc:36
@@ -2393,7 +2406,12 @@ msgid "\n"
 "|1d: There is currently no established evidence of actual harm to the taxon. \n\n"
 "|1f: Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place.\n\n"
 "|*The taxon could be at risk from harm but likelihood of harm is not affected by data availability.*\n\n"
-msgstr ""
+msgstr "\n"
+"|*Escenario B*\n"
+"|1a: El taxón está en riesgo de una actividad humana perniciosa. \n\n"
+"|1d: Actualmente no hay evidencia establecida de daños reales para el taxón. \n\n"
+"|1f: La disponibilidad de datos sobre biodiversidad no aumentará la probabilidad de que se produzca una actividad humana perjudicial.\n\n"
+"|*El taxón podría estar en riesgo de daño, pero la probabilidad de daño no se ve afectada por la disponibilidad de datos.*\n\n"
 
 #. type: Table
 #: annex-a.en.adoc:51
@@ -2404,7 +2422,12 @@ msgid "\n"
 "|1d: There is currently no established evidence of actual harm to the taxon.\n\n"
 "|1e: Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.\n\n"
 "|*The taxon could be at risk from harm and the likelihood of harm is affected by data availability.*\n\n"
-msgstr ""
+msgstr "\n"
+"|*Escenario C*\n\n"
+"|1a: El taxón está en riesgo por la actividad humana perjudicial. \n\n"
+"|1d: Actualmente no hay evidencia establecida de daño real para el taxón.\n\n"
+"|1e: La disponibilidad de datos sobre la biodiversidad aumentará la probabilidad de que la actividad humana perjudicial tenga lugar.\n\n"
+"|*El taxón podría estar en riesgo de sufrir daños y la probabilidad de que se produzcan se ve afectada por la disponibilidad de datos.*\n\n"
 
 #. type: Table
 #: annex-a.en.adoc:66
@@ -2415,7 +2438,12 @@ msgid "\n"
 "|1c: There is established evidence of actual or recent harm to the taxon.\n\n"
 "|1f: Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place.\n\n"
 "|*The taxon is at risk from harm and there is evidence to support this, but occurrence is not affected by data availability.*\n\n"
-msgstr ""
+msgstr "\n"
+"|*Escenario D*\n\n"
+"|1a: El taxón está en riesgo por la actividad humana perjudicial. \n\n"
+"|1c: Hay evidencia establecida de daño real o reciente para el taxón.\n\n"
+"|1f: La disponibilidad de datos sobre la biodiversidad no aumentará la probabilidad de que se produzca la actividad humana perjudicial.\n\n"
+"|*El taxón está en riesgo de sufrir daños y hay pruebas que lo apoyan, pero la disponibilidad de datos no afecta a su presencia.*\n\n"
 
 #. type: Table
 #: annex-a.en.adoc:81
@@ -2426,13 +2454,18 @@ msgid "\n"
 "|1c: There is established evidence of actual harm to the taxon.\n\n"
 "|1e: Availability of biodiversity data will increase the likelihood of the harmful human activity taking place.\n\n"
 "|*The taxon is at risk from harm, there is evidence to support this, and occurrence is affected by data availability.*\n\n"
-msgstr ""
+msgstr "\n"
+"|*Escenario E*\n\n"
+"|1a: El taxón está en riesgo por la actividad humana perjudicial.\n\n"
+"|1c: Hay evidencia establecida de daño real al taxón.\n\n"
+"|1e: La disponibilidad de datos sobre la biodiversidad aumentará la probabilidad de que la actividad humana perjudicial tenga lugar.\n\n"
+"|*El taxón está en riesgo de sufrir daños, hay pruebas que lo apoyan y su presencia se ve afectada por la disponibilidad de datos.*\n\n"
 
 #. type: Title ===
 #: annex-a.en.adoc:83
 #, no-wrap
 msgid "Criterion 2"
-msgstr ""
+msgstr "Criterio 2"
 
 #. type: Table
 #: annex-a.en.adoc:96
@@ -2442,7 +2475,11 @@ msgid "\n"
 "|2b: The taxon is not significantly vulnerable to the harmful human activity.\n\n"
 "|2d: The taxon is not vulnerable to harmful human activity over its total range and/or there are areas where the taxon is not at significant risk.\n\n"
 "|*The taxon is not significantly vulnerable to the harmful activity, and is not vulnerable to that activity over its total range and there are areas where the taxon is not at significant risk from that activity.*\n\n"
-msgstr ""
+msgstr "\n"
+"|*Escenario F*\n\n"
+"|2b: El taxón no es significativamente vulnerable a la actividad humana perjudicial.\n\n"
+"|2d: El taxón no es vulnerable a la actividad humana perjudicial en toda su área de distribución y/o hay zonas en las que el taxón no corre un riesgo significativo.\n\n"
+"|*El taxón no es significativamente vulnerable a la actividad dañina y no es vulnerable a esa actividad en toda su área de distribución y hay zonas en las que el taxón no corre un riesgo significativo de esa actividad.*\n\n"
 
 #. type: Table
 #: annex-a.en.adoc:109
@@ -2452,7 +2489,11 @@ msgid "\n"
 "|2a: The taxon has characteristics that make it significantly vulnerable to the harmful human activity.\n\n"
 "|2d: The taxon is not vulnerable to harmful human activity over its total range and/or there are areas where the taxon is not at significant risk.\n\n"
 "|*The taxon is significantly vulnerable to the harmful activity, but is not vulnerable to that activity over its total range and there are areas where the taxon is not at significant risk from that activity.*\n\n"
-msgstr ""
+msgstr "\n"
+"|*Escenario G*\n\n"
+"|2a: El taxón tiene características que lo hacen significativamente vulnerable a la actividad humana perjudicial.\n\n"
+"|2d: El taxón no es vulnerable a la actividad humana perjudicial en toda su área de distribución y/o hay zonas en las que el taxón no corre un riesgo significativo.\n\n"
+"|*El taxón es significativamente vulnerable a la actividad dañina, pero no es vulnerable a esa actividad en toda su área de distribución y hay zonas en las que el taxón no corre un riesgo significativo por esa actividad.*\n\n"
 
 #. type: Table
 #: annex-a.en.adoc:122
@@ -2462,5 +2503,9 @@ msgid "\n"
 "|2a: The taxon has characteristics that make it significantly vulnerable to the harmful human activity.\n\n"
 "|2c: The taxon is vulnerable to harmful human activity over its total range. \n\n"
 "|*The taxon is significantly vulnerable to the harmful activity, and is vulnerable to that activity over its total range.*\n\n"
-msgstr ""
+msgstr "\n"
+"|*Escenario H*\n\n"
+"|2a: El taxón tiene características que lo hacen significativamente vulnerable a la actividad humana perjudicial.\n\n"
+"|2c: El taxón es vulnerable a la actividad humana perjudicial en toda su área de distribución. \n\n"
+"|*El taxón es significativamente vulnerable a la actividad dañina y es vulnerable a esa actividad en toda su área de distribución.*\n\n"
 
