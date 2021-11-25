@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-02-01 17:14+0000\n"
-"PO-Revision-Date: 2021-11-25 11:22\n"
+"PO-Revision-Date: 2021-11-25 12:19\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -985,7 +985,7 @@ msgstr "con campos sensibles generalizados o eliminados y sustituidos por un tex
 "Los datos pueden suministrarse a escalas más finas si se solicitan bajo las condiciones de un acuerdo de datos por escrito, normalmente un Acuerdo de Licencia de Datos. Cuando se proporcionen los datos a los clientes, se les informará qué especies o campos son sensibles y podrían tener sus coordenadas desnaturalizadas a aquellas disponibles bajo la <<cat4,Categoría 4>>. +\n\n"
 "*NB*: En el caso de que la sensibilidad sea provocada por campos distintos a la georreferencia, puede ser más apropiado clasificar el registro como <<cat4,Categoría 4>>.\n\n"
 "|[[cat4]]*Categoría 4* +\n\n"
-"Especies o registros cuyas coordenadas estarán disponibles públicamente \"desnaturalizadas\" (a 0.001 grados) y/o otra información en el registro es generalizada. Los datos clasificados como \"retenidos\" pueden ser suministrados a individuos bajo Licencia. +\n\n"
+"Especies o registros cuyas coordenadas estarán disponibles públicamente \"desnaturalizadas\" (a 0.001 grados) y/o otra información en el registro es generalizada. Los datos \"tal como están\" pueden ser suministrados a individuos bajo Licencia. +\n\n"
 "a|Las razones de la restricción son que: +\n\n"
 
 #. type: Table
@@ -1336,34 +1336,34 @@ msgstr "En la mayoría de los casos, este intercambio de información no supone 
 #. type: Plain text
 #: 400.en.adoc:90
 msgid "Identifying duplicates across institutions is not easy, as, especially for historic and legacy collections, it is often difficult to determine duplicate specimens. Some institutions, such as http://www.cria.org.br/[Centro de Referência em Informação Ambiental] (CRIA) in Brazil in its http://splink.cria.org.br/[speciesLink] project and the http://ala.org.au/[Atlas of Living Australia], use matching across a number of fields such as collector number, date and locality, while GBIF is developing an algorithm for https://www.gbif.org/news/4U1dz8LygQvqIywiRIRpAU/[data-clustering]. Currently, however, there is no universal global system available. The use of unique, persistent and resolvable Globally Unique Identifiers (GUIDs) (https://doi.org/10.1186/1471-2105-10-S14-S5[Page 2009], https://www.tdwg.org/standards/150[Richards 2010], https://doi.org/10.35035/mjgq-d052[Richards et al. 2011]) will aid these processes in the longer-term, but the implementation of specimen-level GUIDs still seems some way off. A recent paper by https://doi.org/10.1002/aps3.1027[Nelson et al. 2018] makes a number of recommendations on minting, managing and sharing GUIDs for herbarium specimens, but until such techniques are more widely adopted, identifying duplicates across institutions will remain an issue."
-msgstr ""
+msgstr "La identificación de duplicados entre instituciones no es fácil, pues, especialmente en el caso de las colecciones históricas y heredadas, a menudo es difícil determinar los especímenes duplicados. Algunas instituciones, como http://www.cria.org.br/[Centro de Referência em Informação Ambiental] (CRIA) en Brasil en su proyecto http://splink.cria.org.br/[speciesLink] y el http://ala.org.au/[Atlas of Living Australia], utilizan la coincidencia a través de una serie de campos como el número de colector, la fecha y la localidad, mientras que GBIF está desarrollando un algoritmo para el https://www.gbif.org/news/4U1dz8LygQvqIywiRIRpAU/[agrupamiento de datos]. Sin embargo, actualmente no se dispone de un sistema global universal. El uso de identificadores únicos, persistentes y resolubles, Identificadores Globales Únicos (GUID) (https://doi.org/10.1186/1471-2105-10-S14-S5[Page 2009], https://www.tdwg.org/standards/150[Richards 2010], https://doi.org/10.35035/mjgq-d052[Richards et al. 2011]) ayudará a estos procesos a largo plazo, pero la implementación de GUID a nivel de espécimen todavía parece estar lejos. Una publicación reciente de https://doi.org/10.1002/aps3.1027[Nelson et al. 2018] hace una serie de recomendaciones sobre la acuñación, la gestión y el intercambio de GUID para especímenes de herbario, pero hasta que estas técnicas se adopten más ampliamente, la identificación de duplicados entre instituciones seguirá siendo un problema."
 
 #. type: Title ==
 #: 500.en.adoc:1
 #, no-wrap
 msgid "Documentation and metadata"
-msgstr ""
+msgstr "Documentación y metadatos"
 
 #. type: Plain text
 #: 500.en.adoc:4
 msgid "It is important that data is accurately documented so that users and others know exactly what the data represents, and the reliance that can be placed in it. For example, a user needs the information to determine if the data is suitable for the analysis they are about to run. Many data providers reported in the survey (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]) that one reason that they were reluctant to release some of their data was a fear that the data would be misused. If the data isn’t adequately documented, then the likelihood of inadvertent mis-use is greatly increased as the user may use the data in an analysis mistakenly thinking they are getting accurate point records, when in reality, the data had been generalized to a 10 km grid square, and could be anywhere in a 100 square kilometre area. If running a climate modelling algorithm, for example, then this sort of error could result in a quite misleading result. For this reason alone, it is important to data providers, data users, and end users (such as environmental managers, policy makers, etc.) that the data is accurately described."
-msgstr ""
+msgstr "Es importante que los datos estén documentados con precisión para que los usuarios y otras personas sepan exactamente lo que representan los datos y la confianza que se puede depositar en ellos. Por ejemplo, un usuario necesita la información para determinar si los datos son adecuados para el análisis que va a realizar. Muchos proveedores de datos señalaron en la encuesta (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]) que una de las razones por las que se mostraban reticentes a publicar algunos de sus datos era el temor a que se hiciera un mal uso de ellos. Si los datos no están adecuadamente documentados, la probabilidad de que se produzca un mal uso inadvertido aumenta considerablemente, ya que el usuario puede utilizar los datos en un análisis pensando erróneamente que está obteniendo registros puntuales exactos, cuando en realidad los datos se han generalizado a una cuadrícula de 10 km y podrían estar en cualquier lugar a una zona de 100 km cuadrados. Si se ejecuta un algoritmo de modelado del clima, por ejemplo, este tipo de error podría dar lugar a un resultado bastante engañoso. Solamente por esta razón, es importante para los proveedores de datos, los usuarios de los mismos y los usuarios finales (como los gestores medioambientales, los responsables políticos, etc.) que los datos se describan con precisión."
 
 #. type: Plain text
 #: 500.en.adoc:6
 msgid "In particular, there should be a clear documentation of the access constraints which could include, for example, an indication of which parts of the data is sensitive (if any), reasons for sensitivity and conditions under which release is possible."
-msgstr ""
+msgstr "En particular, debe haber una documentación clara de las restricciones de acceso que podría incluir, por ejemplo, una indicación de qué partes de los datos son sensibles (si las hay), las razones de la sensibilidad y las condiciones en las que es posible la liberación."
 
 #. type: Title ===
 #: 500.en.adoc:7
 #, no-wrap
 msgid "Documenting sensitivity"
-msgstr ""
+msgstr "Documentación de la sensibilidad"
 
 #. type: Plain text
 #: 500.en.adoc:11
 msgid "Metadata fulfils an essential function regarding communication to third parties, of access constraints and use conditions that the data generators intend to give to their data. It can be considered as an ‘aid’ in protecting data and information, since it will allow system users to visualize the conditions established by the data generator for access and use of the information. Additionally, in case the data are not accessible, the metadata allows knowledge of the conditions of access through other media (digital or not) as well as a summary of the content. (<<jvl,Llinás 2005>>)"
-msgstr ""
+msgstr "Los metadatos cumplen una función esencial en cuanto a la comunicación a terceros de las restricciones de acceso y las condiciones de uso que los generadores de datos pretenden dar a sus datos. Puede considerarse como una \"ayuda\" en la protección de los datos y la información, pues permitirá a los usuarios del sistema visualizar las condiciones establecidas por el generador de datos para el acceso y uso de la información. Adicionalmente, en caso de que los datos no sean accesibles, los metadatos permiten conocer las condiciones de acceso a través de otros medios (digitales o no) así como un resumen del contenido. (<<jvl,Llinás 2005>>)"
 
 #. type: Plain text
 #: 500.en.adoc:13
