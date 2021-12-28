@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-11-25 17:45+0000\n"
-"PO-Revision-Date: 2021-11-25 17:58\n"
+"PO-Revision-Date: 2021-12-28 18:54\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -20,7 +20,7 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Current Best Practices for Generalizing Sensitive Species Occurrence Data"
-msgstr "Buenas Prácticas Actuales para la Generalización de Datos de Presencia de Especies Sensibles"
+msgstr "Buenas prácticas actuales para la generalización de aatos de presencia de especies sensibles"
 
 #. type: Plain text
 #: index.en.adoc:3
@@ -53,7 +53,7 @@ msgstr "Cita bibliográfica sugerida"
 #. type: Plain text
 #: colophon.en.adoc:11
 msgid "Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10."
-msgstr "Chapman AD (2020) Buenas Prácticas Actuales para la Generalización de Datos de Presencia de Especies Sensibles. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10."
+msgstr "Chapman AD (2020) Buenas prácticas actuales para la generalización de datos de presencia de especies sensibles. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10."
 
 #. type: Title ===
 #: colophon.en.adoc:12
@@ -75,7 +75,7 @@ msgstr "Licencia"
 #. type: Plain text
 #: colophon.en.adoc:19
 msgid "The document _Current Best Practices for Generalizing Sensitive Species Occurrence Data_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
-msgstr "Este documento _Buenas Prácticas Actuales para la Generalización de Datos de Presencia de Especies Sensibles_ se publica bajo una licencia https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Atribución-CompartirIgual 4.0 Internacional]."
+msgstr "Este documento _Buenas prácticas actuales para la generalización de datos de presencia de especies sensibles_ se publica bajo una licencia https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Atribución-CompartirIgual 4.0 Internacional]."
 
 #. type: Title ===
 #: colophon.en.adoc:20
@@ -103,7 +103,7 @@ msgstr "Version 1.0, noviembre del 2020"
 #. type: Plain text
 #: colophon.en.adoc:30
 msgid "Based on the earlier publication by https://orcid.org/0000-0003-1700-6962[Chapman AD] & Grafton O (2008) Guide to Best Practices for Generalising Sensitive Species-Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-b02j-gt10."
-msgstr "Basado en una publicación anterior por https://orcid.org/0000-0003-1700-6962[Chapman AD] & Grafton O (2008) Guía de Buenas Prácticas para la Generalización de Datos de Presencia de Especies Sensibles. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-b02j-gt10."
+msgstr "Basado en una publicación anterior por https://orcid.org/0000-0003-1700-6962[Chapman AD] & Grafton O (2008) Guide to Best Practices for Generalising Sensitive Species-Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-b02j-gt10."
 
 #. type: Title ===
 #: colophon.en.adoc:31
@@ -134,13 +134,13 @@ msgstr "Introducción"
 #. type: Plain text
 #: introduction.en.adoc:4
 msgid "The unprotected distribution of Sensitive Primary Species Occurrence Data (for example the exact localities of rare, endangered or commercially valuable taxa) was a concern of https://www.gbif.org[GBIF] – the Global Biodiversity Information Facility – from its beginning. The GBIF Secretariat has a vested interest in making data available via its portals, but at the same time respecting the wishes of data providers to restrict information on sensitive taxa. In early 2006, GBIF initiated a process to address this issue, especially in relation to data to be shared through the GBIF network and made visible through https://www.gbif.org[GBIF.org^] and other data aggregating initiatives."
-msgstr "La distribución desprotegida de los datos de presencia de especies sensibles (por ejemplo, las localidades exactas de taxa raros, en peligro de extinción o de valor comercial) fue una preocupación de https://www.gbif.org[GBIF] (la Infraestructura Mundial de Información en Biodiversidad) desde sus inicios. La Secretaría de GBIF tiene un gran interés en que los datos estén disponibles a través de sus portales, pero simultaneamente, respetando los deseos de los proveedores de datos de restringir la información sobre taxa sensibles. A principios de 2006, GBIF inició un proceso para abordar esta cuestión, especialmente en relación con los datos que se comparten a través de la red de GBIF y que se hacen visibles a través de https://www.gbif.org[GBIF.org^] y otras iniciativas de agregación de datos."
+msgstr "La distribución desprotegida de los datos de presencia de especies sensibles (por ejemplo, las localidades exactas de taxa raros, en peligro de extinción o de valor comercial) fue una preocupación de https://www.gbif.org[GBIF] (la Infraestructura mundial de información en biodiversidad) desde sus inicios. La Secretaría de GBIF tiene un gran interés en que los datos estén disponibles a través de sus portales, pero simultaneamente, respetando los deseos de los proveedores de datos de restringir la información sobre taxa sensibles. A principios de 2006, GBIF inició un proceso para abordar esta cuestión, especialmente en relación con los datos que se comparten a través de la red de GBIF y que se hacen visibles a través de https://www.gbif.org[GBIF.org^] y otras iniciativas de agregación de datos."
 
 #.  Previous edition uses "Generalising" spelling
 #. type: Plain text
 #: introduction.en.adoc:7
 msgid "This resulted in the https://doi.org/10.15468/doc-b02j-gt10[_Guide to Best Practices for Generalising Sensitive Primary Species Occurrence Data_^]. That document relied heavily on the results of an online survey conducted through https://www.surveymonkey.com[Survey Monkey] and subsequent workshops whose reports were originally made available on the GBIF website (https://doi.org/10.35035/vs84-0p13[Chapman 2006^])."
-msgstr "El resultado fue la https://doi.org/10.15468/doc-b02j-gt10[_Guía de Buenas Prácticas para la Generalización de Datos de Presencia de Especies Sensibles_^]. Ese documento se basó en gran medida en los resultados de una encuesta realizada en línea a través de https://www.surveymonkey.com[Survey Monkey] y en talleres posteriores cuyos informes se publicaron originalmente en el sitio web de GBIF (https://doi.org/10.35035/vs84-0p13[Chapman 2006^])."
+msgstr "El resultado fue la https://doi.org/10.15468/doc-b02j-gt10[_Guide to Best Practices for Generalising Sensitive Primary Species Occurrence Data_^]. Ese documento se basó en gran medida en los resultados de una encuesta realizada en línea a través de https://www.surveymonkey.com[Survey Monkey] y en talleres posteriores cuyos informes se publicaron originalmente en el sitio web de GBIF (https://doi.org/10.35035/vs84-0p13[Chapman 2006^])."
 
 #. type: Plain text
 #: introduction.en.adoc:9
@@ -150,7 +150,7 @@ msgstr "Tras estos procesos y debates se elaboró un informe final sobre el trat
 #. type: Plain text
 #: introduction.en.adoc:11
 msgid "The final step in that process was to develop a _Guide to Best Practices for Primary Species Occurrence Data_. That document was proposed as an overriding guideline for institutions, data providers and GBIF Nodes to use to develop their own in-house guidelines. Organizations and institutions were encouraged to produce their own internal documents that incorporated the practices outlined in the _Guide_ and related documents such as the https://doi.org/10.15468/doc-2zpf-zf42[_Guide to Best Practices for Georeferencing_^] (Chapman and Wieczorek 2006) and incorporate them into their own working environment. Unfortunately, not as many institutions have taken up the challenge and produced their own internal documents as we had hoped. Two key agencies that have done so, however, are SANBI in South Africa (http://biodiversityadvisor.sanbi.org/wp-content/uploads/2012/09/SANBI-Biodiversity-Information-Policy-Series-Digital-Access-to-Sensitive-Taxon.pdf[SANBI 2010^]) and the Atlas of Living Australia (https://www.ala.org.au/wp-content/uploads/2010/07/ALA-sensitive-data-report-and-proposed-policy-v1.1.pdf[Tann and Flemons 2009^], https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-[ALA 2018a^]) (see <<Implementations,Implementations>>)."
-msgstr "El último paso en ese proceso fue desarrollar una _Guía de Buenas Prácticas para los Datos de Presencia de Especies Sensibles_. Ese documento se propuso como una guía principal para que las instituciones, los proveedores de datos y los Nodos de GBIF lo utilizaran para desarrollar sus propias directrices internas. Se animó a las organizaciones e instituciones a producir sus propios documentos internos que incorporaran las prácticas descritas en la _Guía_ y otros documentos relacionados como la https://doi.org/10.15468/doc-2zpf-zf42[_Guía de Buenas Prácticas de Georreferenciación_^] (Chapman y Wieczorek 2006) y a incorporarlos a su propio entorno de trabajo. Por desgracia, no son tantas las instituciones que han aceptado el reto y han elaborado sus propios documentos internos como esperábamos. Sin embargo, dos organismos clave que sí lo han hecho son el SANBI de Sudáfrica (http://biodiversityadvisor.sanbi.org/wp-content/uploads/2012/09/SANBI-Biodiversity-Information-Policy-Series-Digital-Access-to-Sensitive-Taxon.pdf[SANBI 2010^]) y el Atlas of Living Australia (https://www.ala.org.au/wp-content/uploads/2010/07/ALA-sensitive-data-report-and-proposed-policy-v1.1.pdf[Tann y Flemons 2009^], https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-[ALA 2018a^]) (ver <<Implementaciones, Implementaciones>>)."
+msgstr "El último paso en ese proceso fue desarrollar una _Guía de buenas prácticas para los datos de presencia de especies sensibles_. Ese documento se propuso como una guía principal para que las instituciones, los proveedores de datos y los Nodos de GBIF lo utilizaran para desarrollar sus propias directrices internas. Se animó a las organizaciones e instituciones a producir sus propios documentos internos, que incorporaran las prácticas descritas en la _Guía_ y otros documentos relacionados como la https://doi.org/10.15468/doc-2zpf-zf42[_Guía de buenas prácticas de deorreferenciación_^] (Chapman y Wieczorek 2006) y a incorporarlos a su propio entorno de trabajo. Por desgracia, no son tantas las instituciones que han aceptado el reto y han elaborado sus propios documentos internos como esperábamos. Sin embargo, dos organismos clave que sí lo han hecho son el SANBI de Sudáfrica (http://biodiversityadvisor.sanbi.org/wp-content/uploads/2012/09/SANBI-Biodiversity-Information-Policy-Series-Digital-Access-to-Sensitive-Taxon.pdf[SANBI 2010^]) y el Atlas of Living Australia (https://www.ala.org.au/wp-content/uploads/2010/07/ALA-sensitive-data-report-and-proposed-policy-v1.1.pdf[Tann y Flemons 2009^], https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-[ALA 2018a^]) (ver <<Implementaciones, Implementaciones>>)."
 
 #. type: Plain text
 #: introduction.en.adoc:13
@@ -208,7 +208,7 @@ msgstr "El término \"buena práctica\" generalmente se refiere a la mejor maner
 #. type: Plain text
 #: introduction.en.adoc:33
 msgid "Two issues that this and the previous document have not covered are the issues of the privacy of living individuals and the development of data sharing and data licensing agreements. Both of these issues have legal implications and vary considerably from jurisdiction to jurisdiction. These issues have been covered in detail by others (e.g. https://doi.org/10.17169/fqs-1.3.1024[Corti et al. 2000^], https://doi.org/10.1177/0038038504039366[Parry and Mauthner 2004^], https://www.gbif.org/terms/data-publisher[GBIF 2017^], https://doi.org/10.15468/39omei[GBIF 2019], https://support.ala.org.au/support/solutions/articles/6000195495-what-is-data-licensing-[ALA 2018b^], https://www.environment.nsw.gov.au/topics/animals-and-plants/wildlife-management/wildlife-policies-and-guidelines/sensitive-species-data[OEH 2019b^])."
-msgstr "Dos asuntos que no se han tratado en este documento ni en el anterior son los asuntos relativos a la privacidad de las personas vivas y la elaboración de acuerdos de intercambio y licencia de datos. Ambos asuntos tienen implicaciones legales y varían considerablemente de una jurisdicción a otra. Estos asuntos han sido tratadas en detalle por otros (p. ej. https://doi.org/10.17169/fqs-1.3.1024[Corti et al. 2000^], https://doi.org/10.1177/0038038504039366[Parry y Mauthner 2004^], https://www.gbif.org/terms/data-publisher[GBIF 2017^], https://doi.org/10.15468/39omei[GBIF 2019], https://support.ala.org.au/support/solutions/articles/6000195495-what-is-data-licensing-[ALA 2018b^], https://www.environment.nsw.gov.au/topics/animals-and-plants/wildlife-management/wildlife-policies-and-guidelines/sensitive-species-data[OEH 2019b^])."
+msgstr "Dos asuntos que no se han tratado en este documento, ni en el anterior, son los asuntos relativos a la privacidad de las personas vivas y la elaboración de acuerdos de intercambio y licencia de datos. Ambos asuntos tienen implicaciones legales y varían considerablemente de una jurisdicción a otra. Estos asuntos han sido tratados en detalle por otros (p. ej., https://doi.org/10.17169/fqs-1.3.1024[Corti et al. 2000^], https://doi.org/10.1177/0038038504039366[Parry y Mauthner 2004^], https://www.gbif.org/terms/data-publisher[GBIF 2017^], https://doi.org/10.15468/39omei[GBIF 2019], https://support.ala.org.au/support/solutions/articles/6000195495-what-is-data-licensing-[ALA 2018b^], https://www.environment.nsw.gov.au/topics/animals-and-plants/wildlife-management/wildlife-policies-and-guidelines/sensitive-species-data[OEH 2019b^])."
 
 #. type: Plain text
 #: introduction.en.adoc:35
@@ -223,7 +223,7 @@ msgstr "La arqueología lleva mucho tiempo tratanto con estas cuestiones. Como e
 #. type: Plain text
 #: introduction.en.adoc:40
 msgid "the foundation of the Society for American Archaeology (SAA) was partially motivated by the desire of academics to distance themselves from amateur archaeologists through the establishment of ethical codes of conduct. One of the main concerns in the field has long been the practice of looting historical sites and the threat this poses to both cultural heritage and future archaeological work."
-msgstr "la fundación de la Society for American Archaeology (SAA) estuvo motivada, en parte, por el deseo de los académicos de distanciarse de los arqueólogos aficionados mediante el establecimiento de códigos de conducta ética. Desde hace mucho tiempo una de las principales preocupaciones en este campo ha sido la práctica del saqueo de yacimientos históricos y la amenaza que esto supone tanto para el patrimonio cultural como para los futuros trabajos arqueológicos."
+msgstr "la creación de la Society for American Archaeology (SAA) estuvo motivada, en parte, por el deseo de los académicos de distanciarse de los arqueólogos aficionados mediante el establecimiento de códigos de conducta ética. Desde hace mucho tiempo una de las principales preocupaciones en este campo ha sido la práctica del saqueo de yacimientos históricos y la amenaza que esto supone tanto para el patrimonio cultural como para los futuros trabajos arqueológicos."
 
 #. type: Plain text
 #: introduction.en.adoc:42
@@ -233,7 +233,7 @@ msgstr "Diecinueve años después los arqueólogos siguen luchando, como señala
 #. type: Plain text
 #: introduction.en.adoc:44
 msgid "This publication is largely focused on sensitive primary species occurrence data (e.g. museum and herbarium specimen data, observations, images, tracking data), but does have impacts on related data such as population sizes, numbers and viability, habitats and ecosystems, biogeography, traits, bycatch, biosecurity, etc."
-msgstr "Esta publicación se centra, en gran medida, en los datos de presencia de especies sensibles (p. ej. datos de especímenes de museos y herbarios, observaciones, imágenes, datos de rastreo), pero tiene repercusiones en los datos relacionados, como el tamaño, el número y la viabilidad de las poblaciones, los hábitats y los ecosistemas, la biogeografía, los rasgos, las capturas accidentales, la bioseguridad, etc."
+msgstr "Esta publicación se centra, en gran medida, en los datos de presencia de especies sensibles (p. ej., datos de especímenes de museos y herbarios, observaciones, imágenes, datos de rastreo), pero tiene repercusiones en los datos relacionados, como el tamaño, el número y la viabilidad de las poblaciones, los hábitats y los ecosistemas, la biogeografía, los rasgos, las capturas accidentales, la bioseguridad, etc."
 
 #. type: Plain text
 #: introduction.en.adoc:46
