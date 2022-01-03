@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-11-25 17:45+0000\n"
-"PO-Revision-Date: 2022-01-03 14:49\n"
+"PO-Revision-Date: 2022-01-03 16:42\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -684,7 +684,7 @@ msgstr "2+^s|3.1. ¿Es el contenido y el detalle de los datos sobre biodiversida
 "↓ +\n"
 "*Los datos no son sensibles* +\n"
 "Documentar con la justificación del enunciado 3b: +\n"
-"_“El contenido y los detalles de los datos, si se divulgan, no permitirían a nadie llevar a cabo una actividad perjudicial sobre el taxón o atributo.” _+\n"
+"_“El contenido y los detalles de los datos, si se divulgan, no permitirían a nadie llevar a cabo una actividad perjudicial sobre el taxón o atributo.”_+\n"
 "↓ +\n"
 "<<table-05,Ir a 4>>\n\n"
 "2+^s|3.2. ¿La información ya es de dominio público o ya es conocida por los individuos o grupos que pueden llevar a cabo la actividad perjudicial?\n\n"
@@ -730,7 +730,7 @@ msgstr "2+^s|3.1. ¿Es el contenido y el detalle de los datos sobre biodiversida
 #. type: Plain text
 #: 200.en.adoc:234
 msgid "The final step is to make an overall assessment based on the three criteria above and to document the overall decision using the combined information documented in making each of the earlier decisions. Once it has been determined that the data should or should not be released, then it is important that a decision is made on the <<table-06,Category of sensitivity>>, and the level of <<generalization>> for the release of the data."
-msgstr "El último paso es llevar a cabo una evaluación global basada en los tres criterios anteriores y documentar la decisión global utilizando la información combinada documentada al tomar cada una de las decisiones anteriores. Una vez que se ha determinado si los datos deben o no deben ser liberados, entonces es importante que se tome una decisión sobre la <<table-06,Categoría de sensibilidad>> y el nivel de <<generalización>> para la liberación de los datos."
+msgstr "El último paso es llevar a cabo una evaluación global basada en los tres criterios anteriores y documentar la decisión global utilizando la combinación de la información que ha sido documentada al tomar cada una de las decisiones anteriores. Una vez que se ha determinado si los datos deben o no deben ser liberados, entonces es importante que se tome una decisión sobre la <<table-06,Categoría de sensibilidad>> y el nivel de <<generalización>> para la liberación de los datos."
 
 #. type: Named 'caption' AttributeList argument for style 'caption'
 #: 200.en.adoc:238
@@ -835,7 +835,7 @@ msgstr "2+^s|4.1. Teniendo en cuenta los criterios 1 a 3 y cualquier contexto im
 "^a|*SI* +\n"
 "↓ +\n"
 "Documentar utilizando el enunciado 4e, recopilando todos los fundamentos y documentando la decisión de divulgar los datos: +\n"
-"_“La especie está clasificada como de sensibilidad media a alta y el suministro de ubicaciones precisas podría someter a la especie a amenazas como colecta o daño deliberado y/o el registro incluye información sensible, cuya divulgación podría causar daños al medio ambiente o a un individuo.” +\n"
+"_“La especie está clasificada como de sensibilidad media a alta y el suministro de ubicaciones precisas podría someter a la especie a amenazas como colecta o daño deliberado y/o el registro incluye información sensible, cuya divulgación podría causar daños al medio ambiente o a un individuo.”_ +\n"
 "*<<cat3,Categoría 3>>*\n\n"
 "^a|*NO* +\n"
 "↓ +\n"
