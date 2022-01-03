@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-11-25 17:45+0000\n"
-"PO-Revision-Date: 2022-01-03 17:41\n"
+"PO-Revision-Date: 2022-01-03 18:45\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1535,17 +1535,17 @@ msgstr "El *Atlas of Living Australia* (ALA) ha desarrollado una política que c
 #. type: Plain text
 #: 700.en.adoc:17
 msgid "conservation, e.g. the locations of threatened species"
-msgstr "conservación, p. ej. las ubicaciones de especies amenazadas"
+msgstr "conservación, p. ej., las ubicaciones de especies amenazadas"
 
 #. type: Plain text
 #: 700.en.adoc:18
 msgid "biosecurity, e.g. unverified sightings of pests not previously recorded in Australia"
-msgstr "bioseguridad, p. ej. avistamientos no verificados de plagas no registradas anteriormente en Australia"
+msgstr "bioseguridad, p. ej., avistamientos no verificados de plagas no registradas anteriormente en Australia"
 
 #. type: Plain text
 #: 700.en.adoc:19
 msgid "privacy, e.g. specimens collected on private property, collectors names, etc."
-msgstr "privacidad, p. ej. especímenes colectados en propiedad privada, nombres de colectores, etc."
+msgstr "privacidad, p. ej., especímenes colectados en propiedad privada, nombres de colectores, etc."
 
 #. type: Plain text
 #: 700.en.adoc:21
@@ -1601,42 +1601,42 @@ msgstr "El *Australian Department of the Environment* (https://www.environment.g
 #: 700.en.adoc:35
 #, no-wrap
 msgid "*Be accountable*: The decision to restrict access to data needs to be justifiable, consistent and repeatable and abide by relevant legislation, regulations or policy. \n"
-msgstr "*Ser responsable*: La decisión de restringir el acceso a los datos debe ser justificable, coherente y repetible y cumplir con la legislación, la normativa o la política pertinente. \n"
+msgstr "*Ser responsable*: la decisión de restringir el acceso a los datos debe ser justificable, coherente y repetible y cumplir con la legislación, la normativa o la política pertinente. \n"
 
 #. type: Plain text
 #: 700.en.adoc:36
 #, no-wrap
 msgid "*Decisions made closest to source*: The data custodian should have responsibility for determining whether ecological data should be classified as sensitive. \n"
-msgstr "*Decisiones tomadas lo más cerca posible de la fuente*: El custodio de los datos debe tener la responsabilidad de determinar si los datos ecológicos deben clasificarse como sensibles. \n"
+msgstr "*Decisiones tomadas lo más cerca posible de la fuente*: el custodio de los datos debe tener la responsabilidad de determinar si los datos ecológicos deben clasificarse como sensibles. \n"
 
 #. type: Plain text
 #: 700.en.adoc:37
 #, no-wrap
 msgid "*Retain the original data*: Data custodians must retain an unaltered original version of the ecological data and safeguard this original version.\n"
-msgstr "*Retener los datos originales*: Los custodios de los datos deben retener una versión original, sin alterar, de los datos ecológicos y salvaguardar esta versión original.\n"
+msgstr "*Retener los datos originales*: los custodios de los datos deben retener una versión original, sin alterar, de los datos ecológicos y salvaguardar esta versión original.\n"
 
 #. type: Plain text
 #: 700.en.adoc:38
 #, no-wrap
 msgid "*Transparency*: Documentation should be linked to the data and must be available to all users of the data. Documentation ensures potential data users understand what data exists, why it was classed as sensitive and how it has been altered or protected. \n"
-msgstr "*Transparencia*: La documentación debe estar vinculada a los datos y debe estar disponible para todos los usuarios de los datos. La documentación garantiza que los posibles usuarios de los datos comprendan qué datos existen, por qué se han clasificado como sensibles y cómo se han alterado o protegido. \n"
+msgstr "*Transparencia*: la documentación debe estar vinculada a los datos y debe estar disponible para todos los usuarios de los datos. La documentación garantiza que los posibles usuarios de los datos comprendan qué datos existen, por qué se han clasificado como sensibles y cómo se han alterado o protegido. \n"
 
 #. type: Plain text
 #: 700.en.adoc:39
 #, no-wrap
 msgid "*Respect dataset restrictions*: Data custodians should not release data that has not been processed in accordance with this policy\n"
-msgstr "*Respetar las restricciones de los conjuntos de datos*: Los custodios de los datos no deben liberar datos que no han sido procesados de acuerdo a esta política \n"
+msgstr "*Respetar las restricciones de los conjuntos de datos*: los custodios de los datos no deben liberar datos que no han sido procesados de acuerdo a esta política \n"
 
 #. type: Plain text
 #: 700.en.adoc:40
 #, no-wrap
 msgid "*Review over time*: Data custodians should do regular reviews (every 2–5 years) on datasets to determine if their context has changed. What is currently considered sensitive data may not be sensitive in the future.\n"
-msgstr "*Revisión a lo largo del tiempo: Los custodios de los datos deben realizar revisiones periódicas (cada 2-5 años) de los conjuntos de datos para determinar si su contexto ha cambiado. Lo que actualmente se considera un dato sensible puede no serlo en el futuro.\n"
+msgstr "*Revisión a lo largo del tiempo*: los custodios de los datos deben realizar revisiones periódicas (cada 2-5 años) de los conjuntos de datos para determinar si su contexto ha cambiado. Lo que actualmente se considera un dato sensible puede no serlo en el futuro.\n"
 
 #. type: Plain text
 #: 700.en.adoc:42
 msgid "One principle that is emphasized by the policy is that if data on the identified sensitivities (e.g. location) is already publicly available, then it is unlikely that data can be considered sensitive."
-msgstr "Un principio en el que hace hincapié esta política es que si los datos sobre las sensibilidades identificadas (por ejemplo, la ubicación) ya están disponibles públicamente, es poco probable que los datos puedan considerarse sensibles."
+msgstr "Un principio en el que hace hincapié esta política es que si los datos sobre las sensibilidades identificadas (p. e.j., la ubicación) ya están disponibles públicamente, es poco probable que los datos puedan considerarse sensibles."
 
 #. type: Plain text
 #: 700.en.adoc:44
@@ -1647,13 +1647,13 @@ msgstr "La *New South Wales Office of Environment and Heritage* (https://www.env
 #: 700.en.adoc:48
 #, no-wrap
 msgid "*Category 1*: Species of high biological significance, for which no records will be provided at all. The reason for non-disclosure is that the species is highly threatened by exploitation/disease or other identifiable threats, and even general locality information may threaten the taxon. The famed Wollemi pine falls into this category.\n"
-msgstr "*Categoría 1*: Especies de gran importancia biológica, de las que no se facilitará ningún registro. La razón de la no divulgación es que la especie está muy amenazada por explotación/enfermedad u otras amenazas identificables, e incluso la información general de la localidad puede amenazar al taxón. El famoso pino Wollemi entra en esta categoría.\n"
+msgstr "*Categoría 1*: especies de gran importancia biológica, de las que no se facilitará ningún registro. La razón de la no divulgación es que la especie está muy amenazada por explotación/enfermedad u otras amenazas identificables, e incluso la información general de la localidad puede amenazar al taxón. El famoso pino Wollemi entra en esta categoría.\n"
 
 #. type: delimited block _
 #: 700.en.adoc:51
 #, no-wrap
 msgid "*Category 2*: Species considered to be at serious risk from threats such as disturbance or exploitation. For species in this category, geographic coordinates of sightings will be supplied ‘denatured’, in order to generalize the locality. Exceptions to this rule may be granted to some government agencies, or for certain research purposes.\n"
-msgstr "*Categoría 2*: Especies consideradas en grave riesgo por amenazas como la perturbación o la explotación. Para las especies de esta categoría, las coordenadas geográficas de los avistamientos se suministrarán \"desnaturalizadas\", con el fin de generalizar la localidad. Se pueden conceder excepciones a esta norma a algunos organismos gubernamentales o para determinados fines de investigación.\n"
+msgstr "*Categoría 2*: especies consideradas en grave riesgo por amenazas como la perturbación o la explotación. Para las especies de esta categoría, las coordenadas geográficas de los avistamientos se suministrarán \"desnaturalizadas\", con el fin de generalizar la localidad. Se pueden conceder excepciones a esta norma a algunos organismos gubernamentales o para determinados fines de investigación.\n"
 
 #. type: delimited block _
 #: 700.en.adoc:54
@@ -1757,30 +1757,30 @@ msgstr "Intrusión/acceso a la propiedad privada o a las zonas indígenas proteg
 #. type: Plain text
 #: 700.en.adoc:79
 msgid "The *US Forest Service* has a policy for sensitive species to ensure viable populations throughout their geographic ranges. Once the objectives are accomplished and viability is no longer a concern, species shall not have “sensitive” status (https://www.fs.fed.us/biology/resources/pubs/tes/ss_sum_by_region_31Oct2005_fs.pdf[US Forest Service 2005^]). Sensitive species are those plant and animal species identified by the Regional Forester for which population viability is a concern on National Forest Service (NFS) lands within the region. The goal of the Forest Service Sensitive Species Program is to ensure that species numbers and population distribution are adequate so that no federal listing will be required and no extirpation will occur on NFS lands (https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd530660.pdf[US Forest Service 2016^])."
-msgstr "El *US Forest Service* tiene una política para garantizar poblaciones viables de especies sensibles en toda su área de distribución geográfica. Una vez que se cumplan los objetivos y la viabilidad deje de ser una preocupación, las especies dejarán de tener el estatus de \"sensibles\" (https://www.fs.fed.us/biology/resources/pubs/tes/ss_sum_by_region_31Oct2005_fs.pdf[US Forest Service 2005^]). Las especies sensibles son aquellas especies de plantas y animales identificadas por el silvicultor regional para las que la viabilidad de la población es una preocupación en las tierras del Servicio Forestal Nacional (NFS por sus siglas en inglés) dentro de la región. El objetivo del Programa de Especies Sensibles del Servicio Forestal es garantizar que el número de especies y la distribución de la población sean adecuados para que no se requiera la inclusión en la lista federal y no se produzca la extirpación en las tierras del NFS (https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd530660.pdf[US Forest Service 2016^])."
+msgstr "El *US Forest Service* tiene una política para garantizar poblaciones viables de especies sensibles en toda su área de distribución geográfica. Una vez que se cumplan los objetivos y la viabilidad deje de ser una preocupación, las especies dejarán de tener el estatus de \"sensibles\" (https://www.fs.fed.us/biology/resources/pubs/tes/ss_sum_by_region_31Oct2005_fs.pdf[US Forest Service 2005^]). Las especies sensibles son aquellas especies de plantas y animales identificadas por el silvicultor regional para las que la viabilidad de la población es una preocupación en las tierras del National Forest Service (NFS) dentro de la región. El objetivo del \"Programa de especies sensibles del servicio forestal\" es garantizar que el número de especies y la distribución de la población sean adecuados para que no se requiera la inclusión en la lista federal y no se produzca la extirpación en las tierras del NFS (https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd530660.pdf[US Forest Service 2016^])."
 
 #. type: Plain text
 #: 700.en.adoc:81
 msgid "No specific mention is made of different categories, or of generalizing location information for the public. However, according to https://doi.org/10.1371/journal.pbio.1001634[Hartter et al. (2013)^], the US Forest Service seeks to protect research sites by not disclosing geospatial references along with its data."
-msgstr "No se hace mención específica a las diferentes categorías, ni a la generalización de la información de ubicación para el público. Sin embargo, según https://doi.org/10.1371/journal.pbio.1001634[Hartter et al. (2013)^], el Servicio Forestal de los Estados Unidos trata de proteger los lugares de investigación no divulgando las referencias geoespaciales junto con sus datos."
+msgstr "No se hace mención específica a las diferentes categorías, ni a la generalización de la información de ubicación para el público. Sin embargo, según https://doi.org/10.1371/journal.pbio.1001634[Hartter et al. (2013)^], el servicio forestal de los Estados Unidos trata de proteger los lugares de investigación no divulgando las referencias geoespaciales junto con sus datos."
 
 #. type: Plain text
 #: 700.en.adoc:83
 #, no-wrap
 msgid "*Natural Resources Canada* and GeoConnections Canada commissioned a study to develop Best Practices for Sharing Sensitive Environmental Geospatial Data (http://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf[AMEC Earth and Environmental 2010^]). The Guidelines consider environmental geospatial data to be “thematic geospatial data that could be used for analysis in areas such as environmental impact assessments, land use planning, land management, sustainable development, resource management, airshed management, etc.” The document lists five criteria for determining sensitivity. The third criterion includes the data considered in this document:\n"
-msgstr "*Natural Resources Canada* y GeoConnections Canadá encargaron un estudio para desarrollar las Buenas Prácticas para Compartir Datos Geoespaciales Ambientales Sensibles (http://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf[AMEC Earth and Environmental 2010^]). Las directrices consideran que los datos geoespaciales medioambientales son \"datos geoespaciales temáticos que podrían utilizarse para el análisis en ámbitos como la evaluación del impacto medioambiental, la planificación del uso del suelo, la gestión de la tierra, el desarrollo sostenible, la gestión de recursos, la gestión de cuencas hidrográficas, etc.\". El documento enumera cinco criterios para determinar la sensibilidad. El tercer criterio incluye los datos considerados en este documento:\n"
+msgstr "*Natural Resources Canada* y GeoConnections Canadá encargaron un estudio para desarrollar las \"Buenas prácticas para compartir datos geoespaciales ambientales sensibles\" (http://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf[AMEC Earth and Environmental 2010^]). Las directrices consideran que los datos geoespaciales medioambientales son \"datos geoespaciales temáticos que podrían utilizarse para el análisis en ámbitos como la evaluación del impacto medioambiental, la planificación del uso del suelo, la gestión de la tierra, el desarrollo sostenible, la gestión de recursos, la gestión de cuencas hidrográficas, etc.\". El documento enumera cinco criterios para determinar la sensibilidad. El tercer criterio incluye los datos considerados en este documento:\n"
 
 #. type: Plain text
 #: 700.en.adoc:86
 #, no-wrap
 msgid "*Natural Resource Protection*: the use of the information can result in the degradation of an environmentally significant site or resource\n"
-msgstr "*Protección de los Recursos Naturales*: el uso de la información puede provocar la degradación de un lugar o recurso de importancia medioambiental\n"
+msgstr "*Protección de los recursos naturales*: el uso de la información puede provocar la degradación de un lugar o recurso de importancia medioambiental\n"
 
 #.  Citation is previous version, with spelling "Generalising"
 #. type: Plain text
 #: 700.en.adoc:89
 msgid "The document recommends that as Canada is a member of GBIF, Canadian organizations, should incorporate the _Guide to Best Practices for Generalising Sensitive Species Occurrence Data_ (https://doi.org/10.15468/doc-b02j-gt10[Chapman and Grafton 2008^]) when assessing their environmental datasets. Without mentioning specific generalization levels, the document does site the categories of generalization in this and the previous Guide."
-msgstr "El documento recomienda que, dado que Canadá es miembro de GBIF, las organizaciones canadienses incorporen la _Guía de Buenas Prácticas para la Generalización de Datos de Presencia de Especies Sensibles_ (https://doi.org/10.15468/doc-b02j-gt10[Chapman y Grafton 2008^]) al evaluar sus conjuntos de datos medioambientales. Sin mencionar los niveles de generalización específicos, el documento cita las categorías de generalización de esta Guía y de la anterior."
+msgstr "El documento recomienda que, dado que Canadá es miembro de GBIF, las organizaciones canadienses incorporen la _Guía de buenas prácticas para la generalización de datos de presencia de especies sensibles_ (https://doi.org/10.15468/doc-b02j-gt10[Chapman y Grafton 2008^]) al evaluar sus conjuntos de datos medioambientales. Sin mencionar los niveles de generalización específicos, el documento cita las categorías de generalización de esta Guía y de la anterior."
 
 #. type: Plain text
 #: 700.en.adoc:91
@@ -1791,12 +1791,12 @@ msgstr "Otras agencias de agregación, como *iDigBio*, han dejado que los que su
 #: 700.en.adoc:92
 #, no-wrap
 msgid "'https://www.idigbio.org/content/idigbio-terms-use-policy[iDigBio Terms of Use Policy]'"
-msgstr "'https://www.idigbio.org/content/idigbio-terms-use-policy[iDigBio Terms of Use Policy]'"
+msgstr "'https://www.idigbio.org/content/idigbio-terms-use-policy[Política de uso iDigBio]'"
 
 #. type: quote
 #: 700.en.adoc:94
 msgid "“iDigBio accepts all Data it receives via the Services as-is. It makes no effort to mask Sensitive Data. The Data Publisher is solely responsible to mask or withhold information, including Sensitive Data, from the public.”"
-msgstr "\"iDigBio acepta todos los datos que recibe a través de los Servicios tal y como son. No hace ningún esfuerzo por enmascarar los Datos sensibles. El publicador de datos es el único responsable de enmascarar u ocultar la información, incluidos los datos sensibles, al público\""
+msgstr "\"iDigBio acepta todos los datos que recibe a través de los servicios tal y como son. No hace ningún esfuerzo por ocultar los datos sensibles. El publicador de datos es el único responsable de enmascarar u ocultar la información, incluidos los datos sensibles, al público\""
 
 #. type: quote
 #: 700.en.adoc:96
@@ -1879,7 +1879,7 @@ msgstr "Recomendaciones de metadatos"
 #. type: Plain text
 #: afterword.en.adoc:25
 msgid "A number of recommendations have been made to Biodiversity Information Standards (TDWG) for the inclusion of extra fields to the https://dwc.tdwg.org/terms/#location[Darwin Core Location Class^] (TDWG 2018). The recommendations included:"
-msgstr "Se han hecho una serie de recomendaciones a Biodiversity Information Standards (TDWG) para la inclusión de campos adicionales a la https://dwc.tdwg.org/terms/#location[Elemento de Ubicación Darwin Core^] (TDWG 2018). Las recomendaciones incluyen:"
+msgstr "Se han hecho una serie de recomendaciones a Biodiversity Information Standards (TDWG) para la inclusión de campos adicionales a la https://dwc.tdwg.org/terms/#location[Elemento de ubicación Darwin Core^] (TDWG 2018). Las recomendaciones incluyen:"
 
 #. type: Named 'caption' AttributeList argument for style 'caption'
 #: afterword.en.adoc:28
@@ -2353,7 +2353,7 @@ msgstr "[[wylie]] Wylie A (1996) Ethical dilemmas in archaeological practice: Lo
 #: annex-a.en.adoc:2
 #, no-wrap
 msgid "Annex 1: Scenarios using Criteria 1 and 2 as Triggers"
-msgstr "Anexo 1: Escenarios usando los Criterios 1 y 2 como Desencadenantes"
+msgstr "Anexo 1: Escenarios usando los criterios 1 y 2 como desencadenantes"
 
 #. type: Plain text
 #: annex-a.en.adoc:5
