@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-11-25 17:45+0000\n"
-"PO-Revision-Date: 2022-01-03 16:42\n"
+"PO-Revision-Date: 2022-01-03 17:41\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -905,7 +905,7 @@ msgid "the information in the record is of such a nature that its release could 
 msgstr "la información contenida en la documentación es de tal naturaleza que su divulgación podría causar un daño irreparable al medio ambiente, a una persona o a alguna otra entidad. +\n\n"
 "Los datos sólo pueden suministrarse bajo estrictas condiciones de Licencia o como presencia en una gran región, como una cuenca hidrográfica, un condado o una región biogeográfica.\n\n"
 "|[[cat2]]*Categoría 2* +\n\n"
-"Especies o registros cuyas coordenadas estarán disponibles públicamente \"desnaturalizadas\" (a 0.1 grados) y/o otra información en el registro está generalizada. Los datos a escala más fina (<<cat3,Categoría 3>>, <<cat4,Categoría 4>> o datos detallados) pueden ser suministrados a individuos bajo Licencia. +\n\n"
+"Especies o registros cuyas coordenadas estarán disponibles públicamente \"desnaturalizadas\" (a 0.1 grados) y/u otra información en el registro está generalizada. Los datos a escala más fina (<<cat3,Categoría 3>>, <<cat4,Categoría 4>> o datos detallados) pueden ser suministrados a individuos bajo Licencia. +\n\n"
 "a|Las razones de la restricción son que: +\n\n"
 
 #. type: Table
@@ -938,10 +938,10 @@ msgid "with sensitive fields generalized or removed and replaced with suitable r
 "Species or records for which coordinates will be publicly available ‘denatured’ (to 0.01 degrees) and/or other information in the record is generalized. Finer scale data (<<cat4,Category 4>> or detailed data) may be supplied to individuals under Licence.\n\n"
 "a|The reasons for restriction are that: +\n\n"
 msgstr "con los campos sensibles generalizados o eliminados y sustituidos por un texto adecuado +\n\n"
-"Los datos pueden suministrarse a escalas más finas si se solicitan bajo las condiciones de un acuerdo de datos por escrito, normalmente un Acuerdo de Licencia de Datos. Cuando se proporcionen datos a los clientes, se les informará qué especies o campos son sensibles y podrían tener sus coordenadas desnaturalizadas a aquellas disponibles bajo la <<cat3,Categoría 3>> o <<cat4,Categoría 4>>. +\n\n"
+"Los datos pueden suministrarse a escalas más finas si se solicitan bajo las condiciones de un acuerdo de datos por escrito, normalmente un \"Acuerdo de licencia de datos\". Cuando se proporcionen datos a los clientes, se les informará qué especies o campos son sensibles y podrían tener sus coordenadas desnaturalizadas a aquellas disponibles bajo la <<cat3,Categoría 3>> o <<cat4,Categoría 4>>. +\n\n"
 "*NB*: En el caso de que la sensibilidad sea provocada por campos distintos a la georreferencia, puede ser más apropiado clasificar el registro como <<cat3,Categoría 3>> o <<cat4,Categoría 4>>. +\n\n"
 "|[[cat3]]*Categoría 3* +\n\n"
-"Especies o registros cuyas coordenadas estarán disponibles públicamente \"desnaturalizadas\" (a 0.01 grados) y/o otra información en el registro está generalizada. Los datos de escala más fina (<<cat4,Categoría 4>> o datos detallados) pueden suministrarse a individuos bajo licencia.\n\n"
+"Especies o registros cuyas coordenadas estarán disponibles públicamente \"desnaturalizadas\" (a 0.01 grados) y/u otra información en el registro está generalizada. Los datos de escala más fina (<<cat4,Categoría 4>> o datos detallados) pueden suministrarse a individuos bajo licencia.\n\n"
 "a|Las razones de la restricción son que: +\n\n"
 
 #. type: Table
@@ -974,11 +974,12 @@ msgid "with sensitive fields generalized or removed and replaced with suitable r
 "Species or records for which coordinates will be publicly available ‘denatured’ (to 0.001 degrees) and/or other information in the record is generalized. Detailed ‘as-held’ data may be supplied to individuals under Licence. +\n\n"
 "a|The reasons for restriction are that: +\n\n"
 msgstr "con campos sensibles generalizados o eliminados y sustituidos por un texto adecuado +\n\n"
-"Los datos pueden suministrarse a escalas más finas si se solicitan bajo las condiciones de un acuerdo de datos por escrito, normalmente un Acuerdo de Licencia de Datos. Cuando se proporcionen los datos a los clientes, se les informará qué especies o campos son sensibles y podrían tener sus coordenadas desnaturalizadas a aquellas disponibles bajo la <<cat4,Categoría 4>>. +\n\n"
+"Los datos pueden suministrarse a escalas más finas si se solicitan bajo las condiciones de un acuerdo de datos por escrito, normalmente un \"Acuerdo de licencia de datos\". Cuando se proporcionen los datos a los clientes, se les informará qué especies o campos son sensibles y podrían tener sus coordenadas desnaturalizadas a aquellas disponibles bajo la <<cat4,Categoría 4>>. +\n\n"
 "*NB*: En el caso de que la sensibilidad sea provocada por campos distintos a la georreferencia, puede ser más apropiado clasificar el registro como <<cat4,Categoría 4>>.\n\n"
 "|[[cat4]]*Categoría 4* +\n\n"
-"Especies o registros cuyas coordenadas estarán disponibles públicamente \"desnaturalizadas\" (a 0.001 grados) y/o otra información en el registro es generalizada. Los datos \"como están mantenidos\" pueden ser suministrados a individuos bajo Licencia. +\n\n"
-"a|Las razones de la restricción son que: +\n\n"
+"Especies o registros cuyas coordenadas estarán disponibles públicamente \"desnaturalizadas\" (a 0.001 grados) y/u otra información en el registro es generalizada. Los datos \"como están mantenidos\" pueden ser suministrados a individuos bajo Licencia. +\n\n"
+"a|Las razones de la restricción son que: +\n"
+"l\n\n"
 
 #. type: Table
 #: 200.en.adoc:391
@@ -1078,12 +1079,12 @@ msgstr "Este espécimen representa una especie en peligro o amenazada. La locali
 #. type: Plain text
 #: 300.en.adoc:30
 msgid "Where there is a need to restrict a taxonomic name (for example of sensitive taxa as part of a survey or checklist), it may be possible to replace it with a higher taxon name (genus/family, etc.) or to just report that there are ‘x’ sensitive taxa present without providing names."
-msgstr "Cuando sea necesario restringir un nombre taxonómico (por ejemplo, de taxa sensibles como parte de una encuesta o listado), puede ser posible sustituirlo por un nombre de taxón superior (género/familia, etc.) o simplemente informar de que hay \"x\" taxa sensibles presentes sin proporcionar nombres."
+msgstr "Cuando sea necesario restringir un nombre taxonómico (por ejemplo, de taxa sensibles como parte de un estudio o listado), puede ser posible sustituirlo por un nombre de taxón superior (género/familia, etc.) o simplemente informar de que hay \"x\" taxa sensibles presentes sin proporcionar nombres."
 
 #. type: Plain text
 #: 300.en.adoc:32
 msgid "Occasionally, data providers may be tempted to restrict information in records related to a sensitive record (in addition to the sensitive record itself), such as the collector’s name and numbers in a sequence of records collected at the same location and time as a sensitive record in order to reduce the possibility of the sensitive record being found through correlational analysis. However, if the collector’s name and number is removed from just the sensitive record and not the others, it is unlikely that these could be deduced unless the seeker of the information already has inside knowledge. For this reason, and others, it is recommended that the data on related records not be restricted."
-msgstr "En ocasiones, los proveedores de datos pueden querer restringir la información de los registros relacionados con un registro sensible (además del propio registro sensible), como el nombre y los números del colector en una secuencia de registros colectados en el mismo lugar y momento que un registro sensible, con el fin de reducir la posibilidad de que se encuentre el registro sensible mediante un análisis de correlación. Sin embargo, si se elimina el nombre y el número del colector sólo del registro sensible y no de los demás, es poco probable que éstos puedan deducirse a menos que el buscador de la información ya tenga conocimiento interno. Por este motivo, y otros, se recomienda no restringir los datos de los registros relacionados."
+msgstr "En ocasiones, los proveedores de datos pueden querer restringir la información de los registros relacionados con un registro sensible (además del propio registro sensible), como el nombre y los números del colector en una secuencia de registros colectados en el mismo lugar y momento que un registro sensible, con el fin de reducir la posibilidad de que se encuentre el registro sensible mediante un análisis de correlación. Sin embargo, si se elimina el nombre y el número del colector únicamente del registro sensible y no de los demás, es poco probable que éstos puedan deducirse, a menos que el buscador de la información ya tenga conocimiento interno. Por este motivo, y otros, se recomienda no restringir los datos de los registros relacionados."
 
 #. type: Title ==
 #: 400.en.adoc:1
@@ -1110,7 +1111,7 @@ msgstr "Algunos de los encuestados afirmaron que se sentían cómodos mostrando 
 #. type: Plain text
 #: 400.en.adoc:10
 msgid "In the fields of data mining and protection of privacy (including of individual privacy in census data), it is generally regarded that bottom-up <<generalization>> is far more practical and scientifically defensible than <<randomization>> (see for example, <<wyc,Wang et al. 2004>>, https://www.ijsr.net/archive/v4i1/SUB15769.pdf[Dalvi and Keole 2015^])."
-msgstr "En los campos de la minería de datos y la protección de la privacidad (incluida la privacidad individual en los datos de censos), se considera generalmente que la \"generalización\" ascendente (\"bottom-up\") es mucho más práctica y científicamente justificable que la \"aleatorización\" (ver, por ejemplo, <<wyc,Wang et al. 2004>>, https://www.ijsr.net/archive/v4i1/SUB15769.pdf[Dalvi and Keole 2015^])."
+msgstr "En los campos de la minería de datos y la protección de la privacidad (incluida la privacidad individual en los datos de censos), se considera generalmente que la <<generalización>> ascendente (\"bottom-up\") es mucho más práctica y científicamente justificable que la <<aleatorización>> (ver, por ejemplo, <<wyc,Wang et al. 2004>>, https://www.ijsr.net/archive/v4i1/SUB15769.pdf[Dalvi and Keole 2015^])."
 
 #. type: Plain text
 #: 400.en.adoc:12
@@ -1140,7 +1141,7 @@ msgstr "es más fácil de aplicar para quienes tienen pocos conocimientos tecnol
 #. type: Plain text
 #: 400.en.adoc:19
 msgid "<<randomization,Randomization>> is a methodology that I strongly recommend *not* be used."
-msgstr "La <<aleatorización>> que es altamente recomendado *no* usar."
+msgstr "La <<aleatorización>> es una metodología que recomiendo encarecidamente que *no* se utilice."
 
 #. type: Title ===
 #: 400.en.adoc:21
@@ -1171,7 +1172,7 @@ msgstr "Generalización a un polígono (región sociopolítica, país, región b
 #. type: Plain text
 #: 400.en.adoc:31
 msgid "Many respondents to the survey (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]) argued for the simplicity of generalization to a grid. The reasons given included:"
-msgstr "Muchas de las personas que respondieron a la encuesta (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]) defendieron la simplicidad de la generalización a una cuadrícula. Las razones que se dieron fueron, entre otras, las siguientes:"
+msgstr "Muchas de las personas que respondieron a la encuesta (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]) defendieron la simplicidad de la generalización a una grilla. Las razones que se dieron fueron, entre otras, las siguientes:"
 
 #. type: Plain text
 #: 400.en.adoc:33
@@ -1181,7 +1182,7 @@ msgstr "la facilidad de poder variar la escala para diferentes categorías de se
 #. type: Plain text
 #: 400.en.adoc:34
 msgid "the ease of maintenance and training, and"
-msgstr "la facilidad de mantenimiento y entrenamiento y"
+msgstr "la facilidad de mantenimiento y entrenamiento, y"
 
 #. type: Plain text
 #: 400.en.adoc:35
@@ -1208,7 +1209,7 @@ msgstr "img/web/figure-01.jpg"
 #. type: Plain text
 #: 400.en.adoc:43
 msgid "<<figure-01,Figure 1>> shows two methods that are commonly used to grid data. The first (recommended here) is a geographic grid (e.g. cartographic grids such as those based on geographic coordinates), the second-a metric grid (e.g. Europe Equal Area Grid 2001 – https://epsg.io/19986[EPSG:19986]). How each of these should be handled with respect to determining location and uncertainty, see https://doi.org/10.15468/doc-gg7h-s853[Chapman and Wieczorek (2020)]. We recommend the use of a geographic grid, as discussed below, because of the ease of preparation and documentation, and because biological data being shared via the Darwin Core standard (https://doi.org/10.1371/journal.pone.0029715[Wieczorek et al. 2012]) would need to be converted from a metric grid to a geographic grid before publication, with subsequent loss of precision. However, as noted in https://doi.org/10.15468/doc-gg7h-s853[Chapman and Wieczorek (2020)],"
-msgstr "la <<figura-01,figura 1>> muestra dos métodos que se utilizan habitualmente para grillar los datos. El primero (recomendado aquí) es una grilla geográfica (p. ej. grillas cartográficas como las basadas en coordenadas geográficas), el segundo, una grilla métrica (p.ej. Europe Equal Area Grid 2001 - https://epsg.io/19986[EPSG:19986]). Para conocer cómo debe tratarse cada una de estas con respecto a la determinación de la ubicación y la incertidumbre, ver https://doi.org/10.15468/doc-gg7h-s853[Chapman y Wieczorek (2020)]. Recomendamos el uso de una grilla geográfica, como se discute a continuación, debido a la facilidad de preparación y documentación y porque los datos biológicos que se comparten a través del estándar Darwin Core (https://doi.org/10.1371/journal.pone.0029715[Wieczorek et al. 2012]) tendrían que ser convertidos de una grilla métrica a una grilla geográfica antes de la publicación, con la consiguiente pérdida de precisión. Sin embargo, como se señala en https://doi.org/10.15468/doc-gg7h-s853[Chapman y Wieczorek (2020)],"
+msgstr "La <<figura-01,figura 1>> muestra dos métodos que se utilizan habitualmente para grillar los datos. El primero (recomendado aquí) es una grilla geográfica (p. ej., grillas cartográficas como las basadas en coordenadas geográficas), el segundo, una grilla métrica (p.ejm. Europe Equal Area Grid 2001, https://epsg.io/19986[EPSG:19986]). Para conocer cómo debe tratarse cada una de estas con respecto a la determinación de la ubicación y la incertidumbre, ver https://doi.org/10.15468/doc-gg7h-s853[Chapman y Wieczorek (2020)]. Recomendamos el uso de una grilla geográfica, como se discute a continuación, debido a la facilidad de preparación y documentación y porque los datos biológicos que se comparten a través del estándar Darwin Core (https://doi.org/10.1371/journal.pone.0029715[Wieczorek et al. 2012]) tendrían que ser convertidos de una grilla métrica a una grilla geográfica antes de la publicación, con la consiguiente pérdida de precisión. Sin embargo, como se señala en https://doi.org/10.15468/doc-gg7h-s853[Chapman y Wieczorek (2020)],"
 
 #. type: Plain text
 #: 400.en.adoc:46
@@ -1223,7 +1224,7 @@ msgstr "Cuando los datos se generalizan a una región geográfica o biogeográfi
 #. type: Plain text
 #: 400.en.adoc:50
 msgid "If georeferences are given for data that is generalized to a biogeographic or political region, the result can be quite misleading – a coastal species, for example, may end up with a georeference that is hundreds of kilometres inland, reducing usefulness for analysis or data cleaning. Making such data available without suitable documentation can lead to quite disastrous results for users. It is often better in some cases to not supply a georeference, but if one is supplied, then documentation should be clear with either a large Uncertainty Radius, or well documented Spatial Fit (see discussion under <<s-spatial-fit,Spatial fit>> below)."
-msgstr "Si se dan georreferencias para datos que se generalizan a una región biogeográfica o política, el resultado puede ser bastante engañoso: una especie costera, por ejemplo, puede acabar con una georreferencia que está a cientos de kilómetros tierra adentro, lo que reduce la utilidad para el análisis o la limpieza de datos. Poner a disposición estos datos sin la documentación adecuada puede llevar a resultados bastante desastrosos para los usuarios. En algunos casos es mejor no suministrar una georreferencia, pero si se suministra una, la documentación debe ser clara, con un radio de incertidumbre grande,o un ajuste espacial bien documentado (ver la discusión en <<s-spatial-fit,Ajuste Espacial>> más abajo)."
+msgstr "Si se dan georreferencias para datos que se generalizan a una región biogeográfica o política, el resultado puede ser bastante engañoso: una especie costera, por ejemplo, puede acabar con una georreferencia que está a cientos de kilómetros tierra adentro, lo que reduce la utilidad para el análisis o la limpieza de datos. Poner a disposición estos datos sin la documentación adecuada puede llevar a resultados bastante desastrosos para los usuarios. En algunos casos es mejor no suministrar una georreferencia, pero si se suministra una, la documentación debe ser clara, con un radio de incertidumbre grande o un ajuste espacial bien documentado (ver la discusión en <<s-spatial-fit,Ajuste espacial>> más abajo)."
 
 #. type: Plain text
 #: 400.en.adoc:52
@@ -1233,7 +1234,7 @@ msgstr "Las buenas prácticas dictan que, independientemente de lo que se haga p
 #. type: Plain text
 #: 400.en.adoc:54
 msgid "I recommend that data providers who are generalizing their data do so using a standard methodology (see below), and to document this accordingly. As most biodiversity data is currently made available using <<decimal-degrees,decimal degrees>> (https://doi.org/10.15468/doc-gg7h-s853[Chapman and Wieczorek 2020]), the recommended method means that protocols such as Darwin Core (https://doi.org/10.1371/journal.pone.0029715[Wieczorek et al. 2012]) do not need modification, other than to allow for suitable metadata documentation."
-msgstr "Recomiendo que los proveedores de datos que generalicen sus datos lo hagan utilizando una metodología estándar (ver más abajo) y que lo documenten debidamente. Dado que la mayoría de los datos de biodiversidad se ponen a disposición de los usuarios utilizando <<grados decimales>> (https://doi.org/10.15468/doc-gg7h-s853 [Chapman y Wieczorek 2020]), el método recomendado significa que protocolos como el Darwin Core (https://doi.org/10.1371/journal.pone.0029715 [Wieczorek et al. 2012]) no necesitan ser modificados, salvo para permitir una documentación adecuada de los metadatos."
+msgstr "Recomiendo que los proveedores de datos que generalicen sus datos lo hagan utilizando una metodología estándar (ver más abajo) y que lo documenten debidamente. Dado que la mayoría de los datos de biodiversidad se ponen a disposición de los usuarios utilizando <<grados decimales>> (https://doi.org/10.15468/doc-gg7h-s853[Chapman and Wieczorek 2020]), el método recomendado significa que protocolos como el Darwin Core (https://doi.org/10.1371/journal.pone.0029715[Wieczorek et al. 2012]) no necesitan ser modificados, salvo para permitir una documentación adecuada de los metadatos."
 
 #. type: Plain text
 #: 400.en.adoc:56
@@ -1287,7 +1288,7 @@ msgstr "Documentación"
 #. type: Plain text
 #: 400.en.adoc:75
 msgid "It is important to document the method and level of <<generalization>> so that users are aware of what has been done to the data, and what reliability they may be able to place in the data.  Currently, neither https://www.tdwg.org/standards/dwc/[Darwin Core] nor the https://www.tdwg.org/standards/abcd/[ABCD] protocols provide fields for the recommended metadata.  It has been proposed that these protocols be modified to accept such metadata (see <<afterword,Afterword>>), but in the meantime, it is recommended that the information be recorded using existing https://dwc.tdwg.org/terms/[Darwin Core terms] at the record-level (e.g., https://dwc.tdwg.org/terms/#dwc:informationWithheld[dwc:informationWithheld], https://dwc.tdwg.org/terms/#dwc:dataGeneralizations[dwc:dataGeneralizations] or any of the 'Remarks' fields)."
-msgstr "Es importante documentar el método y el nivel de <<generalización>> para que los usuarios sean conscientes de lo que se ha hecho con los datos y de la fiabilidad que pueden depositar en ellos.  Actualmente, ni https://www.tdwg.org/standards/dwc/[Darwin Core] ni los protocolos https://www.tdwg.org/standards/abcd/[ABCD] proporcionan campos para los metadatos recomendados.  Se ha propuesto que estos protocolos se modifiquen para que acepten dichos metadatos (véase <<epílogo, Epílogo>>), pero mientras tanto, se recomienda que la información se registre utilizando los términos existentes de https://dwc.tdwg.org/terms/[Darwin Core] a nivel de registro (p. ej. https://dwc.tdwg.org/terms/#dwc:informationWithheld[dwc:informationWithheld], https://dwc.tdwg.org/terms/#dwc:dataGeneralizations[dwc:dataGeneralizations] o cualquiera de los campos \"Remarks\")."
+msgstr "Es importante documentar el método y el nivel de <<generalización>> para que los usuarios sean conscientes de lo que se ha hecho con los datos y de la fiabilidad que pueden depositar en ellos.  Actualmente, ni https://www.tdwg.org/standards/dwc/[Darwin Core] ni los protocolos https://www.tdwg.org/standards/abcd/[ABCD] proporcionan campos para los metadatos recomendados.  Se ha propuesto que estos protocolos se modifiquen para que acepten dichos metadatos (véase <<epílogo, Epílogo>>), pero mientras tanto, se recomienda que la información se registre utilizando los términos existentes de https://dwc.tdwg.org/terms/[Darwin Core] a nivel de registro (p. ej., https://dwc.tdwg.org/terms/#dwc:informationWithheld[dwc:informationWithheld], https://dwc.tdwg.org/terms/#dwc:dataGeneralizations[dwc:dataGeneralizations] o cualquiera de los campos \"Remarks\")."
 
 #. type: Plain text
 #: 400.en.adoc:77
@@ -1297,17 +1298,17 @@ msgstr "En cuanto a la <<generalización>> de los datos de georreferenciación e
 #. type: Plain text
 #: 400.en.adoc:79
 msgid "Precision of the data provided (e.g. 0.1 degree; 0.001 degree, etc.)"
-msgstr "La precisión de los datos proporcionados (p. ej. 0.1 grados, 0.001 grados, etc.)"
+msgstr "La precisión de los datos proporcionados (p. ej., 0.1 grados, 0.001 grados, etc.)"
 
 #. type: Plain text
 #: 400.en.adoc:80
 msgid "Precision of the data stored or held (e.g. 0.0001 degree, 0.1 minute, 1 second, 100m square, etc.)"
-msgstr "La precisión de los datos almacenados o retenidos (p. ej. 0.0001 grados, 0.1 minutos, 1 segundo, 100m cuadrados, etc.)"
+msgstr "La precisión de los datos almacenados o retenidos (p. ej., 0.0001 grados, 0.1 minutos, 1 segundo, 100m cuadrados, etc.)"
 
 #. type: Plain text
 #: 400.en.adoc:82
 msgid "The recommendations for metadata for inclusion in the https://dwc.tdwg.org/terms/#location[Darwin Core Location Class] (TDWG 2018) are set out in the <<Afterword>>. Once they (or similar) have been adopted, then it is recommended that the appropriate fields be recorded and distributed with the data."
-msgstr "Las recomendaciones de metadatos para su inclusión en la https://dwc.tdwg.org/terms/#location[Elemento de Ubicación Darwin Core] (TDWG 2018) se exponen en el <<Epílogo>>. Una vez que se hayan adoptado (o algo similar), se recomienda registrar los campos adecuados y distribuirlos con los datos."
+msgstr "Las recomendaciones de metadatos para su inclusión en el https://dwc.tdwg.org/terms/#location[Elemento de ubicación Darwin Core] (TDWG 2018) se exponen en el <<Epílogo>>. Una vez que se hayan adoptado (o algo similar), se recomienda registrar los campos adecuados y distribuirlos con los datos."
 
 #. type: Title ===
 #: 400.en.adoc:83
@@ -1365,12 +1366,12 @@ msgstr "El término metadatos se ha utilizado generalmente para referirse a la d
 #. type: Plain text
 #: 500.en.adoc:15
 msgid "At the moment, neither the https://www.tdwg.org/standards/dwc/[Darwin Core^] nor the https://www.tdwg.org/standards/abcd/[ABCD^] standards have fields for recording the type of record-level metadata that is recommended here. A number of recommendations have been made to Biodiversity Information Standards (TDWG) for the inclusion of extra fields to the https://dwc.tdwg.org/terms/#location[Darwin Core Location Class^] (TDWG 2018) and are listed in the <<afterword,Afterword>>."
-msgstr "Por el momento, ni el estándar https://www.tdwg.org/standards/dwc/[Darwin Core^] ni el https://www.tdwg.org/standards/abcd/[ABCD^] tienen campos para registrar el tipo de metadatos a nivel de registro que se recomienda aquí. Se han hecho una serie de recomendaciones a Biodiversity Information Standards (TDWG) para la inclusión de campos adicionales en https://dwc.tdwg.org/terms/#location[Elemento de Ubicación Darwin Core^] (TDWG 2018) y se enumeran abajo en el <<epílogo,Epílogo>>."
+msgstr "Por el momento, ni el estándar https://www.tdwg.org/standards/dwc/[Darwin Core^] ni el https://www.tdwg.org/standards/abcd/[ABCD^] tienen campos para registrar el tipo de metadatos a nivel de registro que se recomienda aquí. Se han hecho una serie de recomendaciones a Biodiversity Information Standards (TDWG) para la inclusión de campos adicionales en el https://dwc.tdwg.org/terms/#location[Elemento de ubicación del Darwin Core^] (TDWG 2018) y se enumeran abajo en el <<epílogo,Epílogo>>."
 
 #. type: Plain text
 #: 500.en.adoc:17
 msgid "Until such time as these standards and protocols are modified, it is recommended that the data be documented using existing https://dwc.tdwg.org/terms/[Darwin Core terms] at the record-level (e.g., https://dwc.tdwg.org/terms/#dwc:informationWithheld[dwc:informationWithheld], https://dwc.tdwg.org/terms/#dwc:dataGeneralizations[dwc:dataGeneralizations] or any of the 'Remarks' fields), and, as far as possible, to record the same type of information that would be included in the recommended fields, for example, that:"
-msgstr "Hasta que se modifiquen estos estándares y protocolos, se recomienda documentar los datos utilizando los actuales https://dwc.tdwg.org/terms/[Términos del Darwin Core] a nivel de registro (por ejemplo, https://dwc.tdwg.org/terms/#dwc:informationWithheld[dwc:informationWithheld], https://dwc.tdwg.org/terms/#dwc:dataGeneralizations[dwc:dataGeneralizations] o cualquiera de los campos \"Remarks\") y, en la medida de lo posible, registrar el mismo tipo de información que se incluiría en los campos recomendados, por ejemplo, que:"
+msgstr "Hasta que se modifiquen estos estándares y protocolos, se recomienda documentar los datos utilizando los actuales https://dwc.tdwg.org/terms/[términos del Darwin Core] a nivel de registro (p.ej., https://dwc.tdwg.org/terms/#dwc:informationWithheld[dwc:informationWithheld], https://dwc.tdwg.org/terms/#dwc:dataGeneralizations[dwc:dataGeneralizations] o cualquiera de los campos \"Remarks\") y, en la medida de lo posible, registrar el mismo tipo de información que se incluiría en los campos recomendados, por ejemplo, que:"
 
 #. type: Plain text
 #: 500.en.adoc:19
@@ -1395,7 +1396,7 @@ msgstr "La precisión de los datos disponibles"
 #. type: Plain text
 #: 500.en.adoc:23
 msgid "Precision of the original data stored or retained"
-msgstr "La precisiñon de los datos originales almacenados o retenidos"
+msgstr "La precisión de los datos originales almacenados o retenidos"
 
 #. type: Plain text
 #: 500.en.adoc:25
@@ -1405,7 +1406,7 @@ msgstr "Al documentar las restricciones de acceso en los metadatos a nivel del c
 #. type: Plain text
 #: 500.en.adoc:28
 msgid "This dataset is only available to the public at a summary resolution for the following reason. Some of the information held within this dataset relates to species that are vulnerable to human disturbance or prejudice. Two species (_Adelanthus lindenbergianus_, _Athalamia hyaline_) are significantly vulnerable to collecting. The full detail of this sensitive information may be made available under licence to specific organizations and individuals that need to know to avoid harm to the environment. Please contact the provider for more information."
-msgstr "Este conjunto de datos sólo está disponible para el público en una resolución resumida por la siguiente razón. Parte de la información contenida en este conjunto de datos se refiere a especies que son vulnerables a las perturbaciones o a los prejuicios humanos. Dos especies (_Adelanthus lindenbergianus_, _Athalamia hyaline_) son significativamente vulnerables a la colecta. El detalle completo de esta información sensible puede ponerse a disposición, bajo licencia, a organizaciones y personas específicas que necesiten conocerla para evitar daños al medio ambiente. Para más información, póngase en contacto con el proveedor."
+msgstr "Este conjunto de datos sólo está disponible para el público en una resolución limitada por la siguiente razón. Parte de la información contenida en este conjunto de datos se refiere a especies que son vulnerables a las perturbaciones o a los prejuicios humanos. Dos especies (_Adelanthus lindenbergianus_, _Athalamia hyaline_) son significativamente vulnerables a la colecta. El detalle completo de esta información sensible puede ponerse a disposición, bajo licencia, a organizaciones y personas específicas que necesiten conocerla para evitar daños al medio ambiente. Para más información, póngase en contacto con el proveedor."
 
 #. type: Title ===
 #: 500.en.adoc:30
@@ -1431,12 +1432,12 @@ msgstr "Con respecto a la generalización de los datos, el ajuste espacial puede
 #. type: Plain text
 #: 500.en.adoc:41
 msgid "Spatial Fit = Generalized area/True area"
-msgstr "Ajuste Espacial = Área generalizada/Área real"
+msgstr "Ajuste espacial = Área generalizada/Área real"
 
 #. type: Plain text
 #: 500.en.adoc:43
 msgid "An example of its applicability is where a georeference with an uncertainty radius of 1 km (using a point radius method (<<wgh,Wieczorek et al. 2004>>)) is made available using a 10 km² grid (which completely covers the uncertainty). In this case the <<spatial-fit,Spatial Fit>> would be greater than 1 as it represents an area greater than the real uncertainty (as shown in <<figure-02,Figure 2>>)."
-msgstr "Un ejemplo de su aplicabilidad es cuando se pone a disposición una georreferencia con un radio de incertidumbre de 1 km (utilizando el método de radio de punto (<<wgh,Wieczorek et al. 2004>>)) utilizando una grilla de 10 km² (que cubre completamente la incertidumbre). En este caso el <<ajuste espacial,Ajuste Espacial>> sería mayor que 1 pues representa un área mayor que la incertidumbre real (como se muestra en <<figura-02,Figura 2>>)."
+msgstr "Un ejemplo de su aplicabilidad es cuando se pone a disposición una georreferencia con un radio de incertidumbre de 1 km (utilizando el método de radio-punto (<<wgh,Wieczorek et al. 2004>>)) utilizando una grilla de 10 km² (que cubre completamente la incertidumbre). En este caso el <<ajuste espacial>> sería mayor que 1 pues representa un área mayor que la incertidumbre real (como se muestra en la <<figura-02,Figura 2>>)."
 
 #. type: Block title
 #: 500.en.adoc:45
@@ -1453,13 +1454,13 @@ msgstr "img/web/figure-02.jpg"
 #. type: Plain text
 #: 500.en.adoc:49
 msgid "The smaller the grid size, the closer the <<spatial-fit,Spatial Fit>> will be to ‘1’. Note that a record that has its georeference randomized or generalized such that a portion of the uncertainty radius falls outside the grid square would have a <<spatial-fit,Spatial Fit>> equal to zero."
-msgstr "Cuanto más pequeño sea el tamaño de la grilla, más se acercará el <<ajuste espacial, Ajuste Espacial>> a '1'. Note que un registro que tenga su georreferencia aleatorizada o generalizada de forma que una parte del radio de incertidumbre quede fuera del cuadrado de la cuadrícula tendría un <<ajuste espacial, Ajuste Espacial>> igual a cero."
+msgstr "Cuanto más pequeño sea el tamaño de la grilla, más se acercará el <<ajuste espacial>> a '1'. Note que un registro que tenga su georreferencia aleatorizada o generalizada de forma que una parte del radio de incertidumbre quede fuera del cuadrado de la cuadrícula tendría un <<ajuste espacial>> igual a cero."
 
 #. type: Title ==
 #: 600.en.adoc:1
 #, no-wrap
 msgid "Authentication and Authorization"
-msgstr "Autenticación y Autorización"
+msgstr "Autenticación y autorización"
 
 #. type: Plain text
 #: 600.en.adoc:4
@@ -1469,7 +1470,7 @@ msgstr "Como se recomendó en el taller de expertos y como señalaron muchos en 
 #. type: Plain text
 #: 600.en.adoc:6
 msgid "It was also agreed at the workshop that it is not the role of GBIF to manage the identification, verification or <<authorization>> of users, nor to control <<authentication>> or log-on at the Data Portal, but it may have a role in providing guidance and a suitable authentication method to the Nodes."
-msgstr "También se acordó en el taller que no es el papel de GBIF gestionar la identificación, verificación o <<autorización>> de los usuarios, ni controlar la <<autenticación>> o el inicio de sesión en el Portal de Datos, pero puede tener un papel en el suministro de orientación y de un método de autenticación adecuado a los Nodos."
+msgstr "También se acordó en el taller que no es el papel de GBIF gestionar la identificación, verificación o <<autorización>> de los usuarios, ni controlar la <<autenticación>> o el inicio de sesión en el \"Portal de datos\", pero puede tener un papel en el suministro de orientación y de un método de autenticación adecuado a los Nodos."
 
 #. type: Plain text
 #: 600.en.adoc:8
