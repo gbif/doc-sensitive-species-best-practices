@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-11-25 17:45+0000\n"
-"PO-Revision-Date: 2022-01-03 18:45\n"
+"PO-Revision-Date: 2022-01-12 14:57\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -20,7 +20,7 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Current Best Practices for Generalizing Sensitive Species Occurrence Data"
-msgstr "Buenas prácticas actuales para la generalización de datos de presencia de especies sensibles"
+msgstr "Buenas prácticas actuales para la generalización de datos de registros biológicos de especies sensibles"
 
 #. type: Plain text
 #: index.en.adoc:3
@@ -53,7 +53,7 @@ msgstr "Cita bibliográfica sugerida"
 #. type: Plain text
 #: colophon.en.adoc:11
 msgid "Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10."
-msgstr "Chapman AD (2020) Buenas prácticas actuales para la generalización de datos de presencia de especies sensibles. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10."
+msgstr "Chapman AD (2020) Buenas prácticas actuales para la generalización de datos de registros biológicos de especies sensibles. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10."
 
 #. type: Title ===
 #: colophon.en.adoc:12
