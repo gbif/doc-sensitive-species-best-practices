@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-11-25 17:45+0000\n"
-"PO-Revision-Date: 2022-01-12 14:57\n"
+"PO-Revision-Date: 2022-01-12 15:54\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -75,7 +75,7 @@ msgstr "Licencia"
 #. type: Plain text
 #: colophon.en.adoc:19
 msgid "The document _Current Best Practices for Generalizing Sensitive Species Occurrence Data_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
-msgstr "Este documento _Buenas prácticas actuales para la generalización de datos de presencia de especies sensibles_ se publica bajo una licencia https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Atribución-CompartirIgual 4.0 Internacional]."
+msgstr "Este documento _Buenas prácticas actuales para la generalización de datos de registros biológicos de especies sensibles_ se publica bajo una licencia https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Atribución-CompartirIgual 4.0 Internacional]."
 
 #. type: Title ===
 #: colophon.en.adoc:20
