@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-11-25 17:45+0000\n"
-"PO-Revision-Date: 2022-02-01 15:40\n"
+"PO-Revision-Date: 2022-02-01 16:38\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -404,15 +404,15 @@ msgid "| 1. *Risk of harm* | An assessment of whether the taxon is subject to ha
 "| 2. *Impact of harm* | An assessment of the sensitivity of the taxon to the harmful human activity.\n\n"
 "| 3. *Sensitivity of data* | An assessment on whether the release of data will increase harm.\n\n"
 "| 4. *Decision on release and category of sensitivity* | A balanced decision regarding the release of the data and a determination of the category of sensitivity, and thus the level of generalization, of the data for release.\n\n"
-msgstr "| 1. *Riesgo de daño* | Una evaluación de si el taxón está expuesto a la actividad humana perjudicial.\n\n"
-"| 2. *Impacto del daño* | Una evaluación de la sensibilidad del taxón a la actividad humana perjudicial.\n\n"
+msgstr "| 1. *Riesgo de daño* | Una evaluación de si el taxón está expuesto a actividad humana perjudicial.\n\n"
+"| 2. *Impacto del daño* | Una evaluación de la sensibilidad del taxón a actividad humana perjudicial.\n\n"
 "| 3. *Sensibilidad de los datos* | Una evaluación sobre si la publicación de los datos aumentará el daño.\n\n"
 "| 4. *Decisión sobre la liberación y la categoría de sensibilidad* | Una decisión equilibrada sobre la divulgación de los datos y la determinación de la categoría de sensibilidad (y por tanto del nivel de generalización) de los datos para su divulgación.\n\n"
 
 #. type: Plain text
 #: 200.en.adoc:44
 msgid "A set of scenarios using Criteria 1 and 2 above to determine triggers for sensitivity of taxa is attached as an <<annex-01,Annex>> to this document."
-msgstr "En el <<annex-01, Anexo>> de este documento se adjuntan un conjunto de escenarios utilizando los Criterios 1 y 2 anteriores para determinar los desencadenantes de la sensibilidad de los taxa."
+msgstr "En el <<annex-01, Anexo>> de este documento se adjuntan un conjunto de escenarios utilizando los Criterios 1 y 2 de la tabla anterior para determinar los desencadenantes de la sensibilidad de los taxa."
 
 #. type: Plain text
 #: 200.en.adoc:46
@@ -422,7 +422,7 @@ msgstr "El primer paso en el proceso de determinación de la sensibilidad es hac
 #. type: Plain text
 #: 200.en.adoc:48
 msgid "If it is not then there would appear no reason to list it as a potential environmentally sensitive taxon. It is recommended that you use the documented wording supplied but with additional supporting rational documenting the specifics of the threat, for example:"
-msgstr "Si no es así, no parece haber ninguna razón para incluirlo en la lista de taxa potencialmente sensibles desde el punto de vista medioambiental. Se recomienda utilizar el enunciado proporcionado en la documentación, pero con un apoyo racional adicional que documente los aspectos específicos de la amenaza, por ejemplo:"
+msgstr "Si no es así, no parece haber ninguna razón para incluirlo en la lista de taxa potencialmente sensibles desde el punto de vista ambiental. Se recomienda utilizar el enunciado proporcionado en la documentación, pero con un apoyo racional adicional que documente los aspectos específicos de la amenaza, por ejemplo:"
 
 #. type: Plain text
 #: 200.en.adoc:51
@@ -500,17 +500,17 @@ msgstr "2+^s|1.1. ¿Está el taxón sometido a una actividad humana perjudicial?
 "*_El taxón no es sensible_* +\n"
 "↓ +\n"
 "<<table-04,Ir a 3>>\n\n"
-"2+^s|1.2. ¿Existe evidencia establecida de acontecimientos actuales o recientes de la actividad humana dañina?\n\n"
+"2+^s|1.2. ¿Existe evidencia de acontecimientos actuales o recientes de la actividad humana dañina?\n\n"
 "^a|*SI* +\n"
 "↓ +\n"
 "Documentar con la justificación del enunciado 1c: +\n"
-"_\"Hay evidencia establecida de daño actual o reciente para el taxón.\"_ +\n"
+"_\"Hay evidencia establecida de daño actual o reciente al taxón.\"_ +\n"
 "↓ +\n"
 "Ir a 1.3\n\n"
 "^a|*NO* +\n"
 "↓ +\n"
 "Documentar con la justificación del enunciado 1d: +\n"
-"_\"Actualmente no hay pruebas establecidas de un daño real para el taxón.\"_ +\n"
+"_\"Actualmente no hay evidencia establecida de un daño real al taxón.\"_ +\n"
 "↓ +\n"
 "Ir a 1.3\n\n"
 "2+^s|1.3. ¿La disponibilidad de datos sobre la biodiversidad relacionada aumentará la probabilidad de que la actividad humana perjudicial ocurra?\n\n"
@@ -684,7 +684,7 @@ msgstr "2+^s|3.1. ¿Es el contenido y el detalle de los datos sobre biodiversida
 "↓ +\n"
 "*Los datos no son sensibles* +\n"
 "Documentar con la justificación del enunciado 3b: +\n"
-"_“El contenido y los detalles de los datos, si se divulgan, no permitirían a nadie llevar a cabo una actividad perjudicial sobre el taxón o atributo.”_+\n"
+"_“La divultación del contenido y los detalles de los datos no permitirían a nadie llevar a cabo una actividad perjudicial sobre el taxón o atributo.”_+\n"
 "↓ +\n"
 "<<table-05,Ir a 4>>\n\n"
 "2+^s|3.2. ¿La información ya es de dominio público o ya es conocida por los individuos o grupos que pueden llevar a cabo la actividad perjudicial?\n\n"
@@ -700,7 +700,7 @@ msgstr "2+^s|3.1. ¿Es el contenido y el detalle de los datos sobre biodiversida
 "_“La información no es de dominio público y *no* es conocida por individuos o grupos susceptibles de realizar actividades perjudiciales.”_ +\n"
 "↓ +\n"
 "Ir a 3.3\n\n"
-"2+^s|3.3. ¿Perjudicaría la divulgación una asociación o un vínculo (especialmente cuando el mantenimiento de estos es esencial para ayudar a lograr un objetivo de conservación específico)?\n\n"
+"2+^s|3.3. ¿Es *probable* que la divulgación de los datos dañe una asociación o relación (especialmente cuando el mantenimiento de estos es esencial para ayudar a lograr un objetivo de conservación específico)?\n\n"
 "^a|*SI* +\n"
 "↓ +\n"
 "Documentar con la justificación del enunciado 3e: +\n"
@@ -713,7 +713,7 @@ msgstr "2+^s|3.1. ¿Es el contenido y el detalle de los datos sobre biodiversida
 "_“La divulgación de los datos *no* perjudicará ninguna asociación o vínculo esencial para la conservación.”_ +\n"
 "↓ +\n"
 "Ir a 3.4\n\n"
-"2+^s|3.4. ¿Permitiría la divulgación derivar las ubicaciones de las entidades geográficas sensibles mediante la combinación con otras fuentes de información disponibles?\n\n"
+"2+^s|3.4. ¿La divulgación permitiría obtener las ubicaciones de las entidades geográficas sensibles mediante la combinación con otras fuentes de información disponibles?\n\n"
 "^a|*SI* +\n"
 "↓ +\n"
 "Documentar con la justificación del enunciado 3g: +\n"
