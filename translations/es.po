@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-11-25 17:45+0000\n"
-"PO-Revision-Date: 2022-02-01 14:31\n"
+"PO-Revision-Date: 2022-02-01 15:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -20,7 +20,7 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Current Best Practices for Generalizing Sensitive Species Occurrence Data"
-msgstr "Buenas prácticas actuales para generalizar datos de especies sensibles en registros biológicos"
+msgstr "Buenas prácticas para generalizar datos de especies sensibles en registros biológicos"
 
 #. type: Plain text
 #: index.en.adoc:3
@@ -150,12 +150,12 @@ msgstr "Tras estos procesos y debates se elaboró un informe final sobre el trat
 #. type: Plain text
 #: introduction.en.adoc:11
 msgid "The final step in that process was to develop a _Guide to Best Practices for Primary Species Occurrence Data_. That document was proposed as an overriding guideline for institutions, data providers and GBIF Nodes to use to develop their own in-house guidelines. Organizations and institutions were encouraged to produce their own internal documents that incorporated the practices outlined in the _Guide_ and related documents such as the https://doi.org/10.15468/doc-2zpf-zf42[_Guide to Best Practices for Georeferencing_^] (Chapman and Wieczorek 2006) and incorporate them into their own working environment. Unfortunately, not as many institutions have taken up the challenge and produced their own internal documents as we had hoped. Two key agencies that have done so, however, are SANBI in South Africa (http://biodiversityadvisor.sanbi.org/wp-content/uploads/2012/09/SANBI-Biodiversity-Information-Policy-Series-Digital-Access-to-Sensitive-Taxon.pdf[SANBI 2010^]) and the Atlas of Living Australia (https://www.ala.org.au/wp-content/uploads/2010/07/ALA-sensitive-data-report-and-proposed-policy-v1.1.pdf[Tann and Flemons 2009^], https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-[ALA 2018a^]) (see <<Implementations,Implementations>>)."
-msgstr "El último paso en ese proceso fue desarrollar una _Guía de buenas prácticas para los datos de presencia de especies sensibles_. Ese documento se propuso como una guía principal para que las instituciones, los proveedores de datos y los Nodos de GBIF lo utilizaran para desarrollar sus propias directrices internas. Se animó a las organizaciones e instituciones a producir sus propios documentos internos, que incorporaran las prácticas descritas en la _Guía_ y otros documentos relacionados como la https://doi.org/10.15468/doc-2zpf-zf42[_Guía de buenas prácticas de deorreferenciación_^] (Chapman y Wieczorek 2006) y a incorporarlos a su propio entorno de trabajo. Por desgracia, no son tantas las instituciones que han aceptado el reto y han elaborado sus propios documentos internos como esperábamos. Sin embargo, dos organismos clave que sí lo han hecho son el SANBI de Sudáfrica (http://biodiversityadvisor.sanbi.org/wp-content/uploads/2012/09/SANBI-Biodiversity-Information-Policy-Series-Digital-Access-to-Sensitive-Taxon.pdf[SANBI 2010^]) y el Atlas of Living Australia (https://www.ala.org.au/wp-content/uploads/2010/07/ALA-sensitive-data-report-and-proposed-policy-v1.1.pdf[Tann y Flemons 2009^], https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-[ALA 2018a^]) (ver <<Implementaciones, Implementaciones>>)."
+msgstr "El último paso en ese proceso fue desarrollar una _Guía de buenas prácticas para los datos primarios de presencia de especies sensibles_. Ese documento se propuso como una guía principal para que las instituciones, los proveedores de datos y los Nodos de GBIF lo utilizaran para desarrollar sus propias directrices internas. Se animó a las organizaciones e instituciones a producir sus propios documentos internos, que incorporaran las prácticas descritas en la _Guía_ y otros documentos relacionados como la https://doi.org/10.15468/doc-2zpf-zf42[_Guía de buenas prácticas de georreferenciación_^] (Chapman y Wieczorek 2006) y a incorporarlos a su propio entorno de trabajo. Por desgracia, no son tantas las instituciones que han aceptado el reto y han elaborado sus propios documentos internos como esperábamos. Sin embargo, dos organismos clave que sí lo han hecho son el SANBI de Sudáfrica (http://biodiversityadvisor.sanbi.org/wp-content/uploads/2012/09/SANBI-Biodiversity-Information-Policy-Series-Digital-Access-to-Sensitive-Taxon.pdf[SANBI 2010^]) y el Atlas of Living Australia (https://www.ala.org.au/wp-content/uploads/2010/07/ALA-sensitive-data-report-and-proposed-policy-v1.1.pdf[Tann y Flemons 2009^], https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-[ALA 2018a^]) (ver <<Implementaciones, Implementaciones>>)."
 
 #. type: Plain text
 #: introduction.en.adoc:13
 msgid "It is also important to understand the possible impact that approaches for restricting sensitive data may have on biodiversity science and, while restricting the availability or resolution of certain data, not overly restricting the uses to which the data may be put. For that reason, a set of principles are elucidated below. Key among these is the need to make biodiversity information freely available wherever possible, in the interests of science, the environment and biodiversity itself."
-msgstr "También es importante comprender el posible impacto que las estrategias para restringir los datos sensibles pueden tener en la ciencia de la biodiversidad para que, aunque se restrinja la disponibilidad o la resolución de determinados datos, no se restrinjan excesivamente los usos que pueden darse a los datos. Por ello, a continuación se exponen una serie de principios. Entre ellos destaca la necesidad de que la información sobre la biodiversidad sea de libre acceso siempre que sea posible, en pro de la ciencia, el medio ambiente y la propia biodiversidad."
+msgstr "También es importante comprender el posible impacto que las estrategias para restringir los datos sensibles pueden tener en la ciencia de la biodiversidad, para que, aunque se restrinja la disponibilidad o la resolución de determinados datos, no se restrinjan excesivamente los usos que pueden darse a los datos. Por ello, a continuación se exponen una serie de principios. Entre ellos destaca la necesidad de que la información sobre la biodiversidad sea de libre acceso siempre que sea posible, en pro de la ciencia, el ambiente y la propia biodiversidad."
 
 #. type: Plain text
 #: introduction.en.adoc:15
@@ -171,12 +171,12 @@ msgstr "Objetivos"
 #. type: Plain text
 #: introduction.en.adoc:19
 msgid "This document aims to provide best practice (or best current practice) for dealing with sensitive primary species occurrence data, and provide guidance on how to make as much data available without at the same time opening up the species to harm because data has been placed in the public domain."
-msgstr "El objetivo de este documento es proporcionar las buenas prácticas (o las buenas prácticas actuales) para tratar los datos de presencia de especies sensibles, y orientar sobre cómo poner a disposición la mayor cantidad de datos sin que, al mismo tiempo, la especie se vea perjudicada por el hecho de que los datos se hayan puesto en el dominio público."
+msgstr "El objetivo de este documento es proporcionar las buenas prácticas (o las buenas prácticas actuales) para tratar los datos de presencia de especies sensibles, y orientar sobre cómo poner a disposición la mayor cantidad de datos sin que la especie se vea expuesta por el hecho de que los datos se hayan puesto en el dominio público."
 
 #. type: Plain text
 #: introduction.en.adoc:21
 msgid "It is now more than a decade since the first _Guide_ was published, and this new publication is designed to bring those practices up to date and to incorporate the experiences gained by institutions that have implemented the _Guide_ in whole or in part."
-msgstr "Ha pasado más de una década desde que se publicó la primera _Guía_ y esta nueva publicación está diseñada para actualizar esas prácticas e incorporar las experiencias adquiridas por las instituciones que han aplicado la _Guía_ en su totalidad o en parte."
+msgstr "Ha pasado más de una década desde que se publicó la primera _Guía_ y esta nueva publicación está diseñada para actualizar esas prácticas e incorporar las experiencias adquiridas por las instituciones que han aplicado la _Guía_ en su totalidad o parcialmente."
 
 #. type: Title ===
 #: introduction.en.adoc:22
@@ -187,7 +187,7 @@ msgstr "Audiencia"
 #. type: Plain text
 #: introduction.en.adoc:25
 msgid "This work is designed for those who need, or want to know how they can best make as much data available on sensitive taxa as possible without that published data leading to harm to the species. This document is also for individuals or organizations faced with developing a policy on dealing with sensitive primary species occurrence data and writing in-house documentation consistent with current best practice."
-msgstr "Este documento está destinado a quienes necesitan o desean saber cuál es la mejor manera de poner a disposición de los interesados la mayor cantidad posible de datos sobre taxa sensibles sin que esa publicación perjudique a la especie. También, está dirigido a las personas u organizaciones que se enfrentan a la elaboración de una política sobre el tratamiento de los datos de presencia de especies sensibles y a la redacción de documentación interna coherente con las buenas prácticas actuales."
+msgstr "Este documento está destinado a quienes necesitan o desean saber cuál es la mejor manera de poner a disposición de los interesados la mayor cantidad posible de datos sobre taxa sensibles sin que esa publicación perjudique a la especie. También, está dirigido a las personas u organizaciones que se enfrentan a la elaboración de una política sobre el tratamiento de datos primarios de especies sensibles y a la redacción de documentación interna coherente con las buenas prácticas actuales."
 
 #. type: Plain text
 #: introduction.en.adoc:27
@@ -213,7 +213,7 @@ msgstr "Dos asuntos que no se han tratado en este documento, ni en el anterior, 
 #. type: Plain text
 #: introduction.en.adoc:35
 msgid "Ethics and biodiversity is a topic that has received little coverage, although for hundreds of years biologists have followed implied ethics in their work. The management of data on sensitive data requires considerable ethical practice and in many cases, a lot of trust and collaboration. Often amateur biologists and citizen scientists are aware of the locations of sensitive taxa, and it is up to the biologists to work with these groups to ensure the continued survival of the species. This won’t always be possible as there will always be rogues, but collaboration can work. For example, working with amateur groups to ethically bring rare plants into cultivation so that there is less pressure on the wild populations."
-msgstr "La ética y la biodiversidad es un tema que se ha discutido poco, aunque durante cientos de años los biólogos han seguido una ética implícita en su trabajo. La gestión de los datos sensibles requiere una práctica ética considerable y, en muchos casos, mucha confianza y colaboración. A menudo, los biólogos aficionados y los científicos ciudadanos conocen la ubicación de los taxa sensibles y depende de los biólogos colaborar con estos grupos para garantizar la supervivencia de la especie. Esto no siempre será posible, ya que siempre habrá pillos, pero la colaboración puede funcionar. Por ejemplo, trabajar con grupos de aficionados para cultivar plantas raras de manera ética, de modo que se ejerza menos presión sobre las poblaciones silvestres."
+msgstr "La ética y la biodiversidad es un tema que se ha discutido poco, aunque durante cientos de años los biólogos han seguido una ética implícita en su trabajo. La gestión de los datos sensibles requiere una práctica ética considerable y, en muchos casos, mucha confianza y colaboración. A menudo, los biólogos aficionados y los científicos ciudadanos conocen la ubicación de los taxa sensibles y depende de los biólogos colaborar con estos grupos para garantizar la supervivencia de la especie. Esto no siempre será posible, ya que siempre habrá personas mal intencionadas, pero la colaboración puede funcionar. Por ejemplo, trabajar con grupos de aficionados para cultivar plantas raras de manera ética, de modo que se ejerza menos presión sobre las poblaciones silvestres."
 
 #. type: Plain text
 #: introduction.en.adoc:37
@@ -264,7 +264,7 @@ msgstr "La gestión de los datos sensibles es parte integral de la gestión éti
 #. type: Plain text
 #: 100.en.adoc:9
 msgid "Wherever possible, environmental information should be freely available to all. Generally this benefits the environment by increasing awareness, enabling better decision-making and reducing risk of damage."
-msgstr "Siempre que sea posible la información medioambiental debe estar a disposición de todos. En general, esto beneficia al medio ambiente al aumentar la concientización, permitir una mejor toma de decisiones y reducir el riesgo de daños."
+msgstr "Siempre que sea posible la información ambiental debe estar a disposición de todos. En general, esto beneficia al medio ambiente al aumentar la concientización, permitir una mejor toma de decisiones y reducir el riesgo de daños."
 
 #. type: Plain text
 #: 100.en.adoc:10
@@ -279,12 +279,12 @@ msgstr "Todos los datos considerados sensibles deben incluir una fecha para la r
 #. type: Plain text
 #: 100.en.adoc:13
 msgid "Whenever a data provider receives an application for enhanced access to restricted data, they should avoid assuming continued sensitivity and use it as an opportunity to revisit the determination."
-msgstr "Siempre que un proveedor de datos reciba una solicitud para mejorar el acceso a los datos restringidos, debe evitar asumir que siguen siendo sensibles y debe aprovechar esta como una oportunidad para revisar la determinación."
+msgstr "Siempre que un proveedor de datos reciba una solicitud para mejorar el acceso a los datos restringidos, debe evitar asumir que siguen siendo sensibles y debe aprovechar la oportunidad para revisar la determinación."
 
 #. type: Plain text
 #: 100.en.adoc:16
 msgid "If the data is to be restricted for distribution, then this should only be done to a copy of the data at the time of their distribution. Data should never be altered, falsified or deleted from the stored record."
-msgstr "Si los datos deben ser restringidos para su distribución, esto sólo debe hacerse a una copia de los datos en el momento de su distribución. Los datos nunca deben ser alterados, falsificados o borrados del registro almacenado."
+msgstr "Si los datos deben ser restringidos para su distribución, esto sólo debe aplicarse sobre una copia de los datos en el momento de su distribución. Los datos originales nunca deben ser alterados, falsificados o borrados de la base de datos."
 
 #. type: Plain text
 #: 100.en.adoc:17
@@ -294,7 +294,7 @@ msgstr "La documentación es esencial por muchas razones y cuando los datos han 
 #. type: Plain text
 #: 100.en.adoc:18
 msgid "Where data is restricted or generalized for distribution (such as the name of a collector, textual locality information, etc.), this should be documented by replacing with appropriate wording − the field should not be left blank or null."
-msgstr "Cuando los datos se restrinjan o se generalicen para su distribución (como el nombre de un colector, la información textual de la localidad, etc.), deberá documentarse sustituyéndolos por un texto adecuado. El campo no deberá dejarse en blanco o anularse."
+msgstr "Cuando los datos se restrinjan o se generalicen para su distribución (como el nombre de un colector, la información textual de la localidad, etc.), deberán documentarse sustituyéndolos por un texto adecuado. El campo no deberá dejarse en blanco o anularse."
 
 #. type: Plain text
 #: 100.en.adoc:19
@@ -309,7 +309,7 @@ msgstr "Los usuarios de datos sensibles deben cumplir con todas las restriccione
 #. type: Plain text
 #: 100.en.adoc:21
 msgid "Data providers should respect the needs of data users to have access to data and documentation in order to determine the ‘fitness for use’ of the data and to ensure that analyses are robust and not misleading."
-msgstr "Los proveedores de datos deben respetar la necesidad de los usuarios de tener acceso a los datos y la documentación para determinar la \"aptitud para el uso\" (fitness for use) de los datos y garantizar que los análisis sean sólidos y no induzcan a error."
+msgstr "Los proveedores de datos deben respetar la necesidad de los usuarios de tener acceso a los datos y la documentación para determinar la \"aptitud para el uso\" (fitness for use) de los datos y garantizar que los análisis sean sólidos y no induzcan al error."
 
 #. type: Title ==
 #: 200.en.adoc:1
@@ -373,12 +373,12 @@ msgstr "Criterios para la determinación de la sensibilidad "
 #. type: Plain text
 #: 200.en.adoc:23
 msgid "The National Biodiversity Network (NBN) in the UK (<<oin,Countryside Agencies OIN 2007>>), and the Department of Environment and Conservation in New South Wales, Australia (<<nsw,Department of Environment and Conservation 2007>>) developed detailed sensitivity criteria, and the previous version of this publication (https://doi.org/10.15468/doc-b02j-gt10[Chapman and Oliver 2008^]) relied heavily on the work of those two agencies. Since the publication of the previous _Guide_, both these agencies (https://www.environment.nsw.gov.au/resources/nature/SensitiveSpeciesPolicyDEC09.pdf[DECCW 2009^], https://nbn.org.uk/the-national-biodiversity-network/archive-information/data-exchange-principles/[NBN 2019a^], https://nbn.org.uk/sensitive-data/[NBN 2019b^], https://www.environment.nsw.gov.au/topics/animals-and-plants/wildlife-management/wildlife-policies-and-guidelines/sensitive-species-data[OEH 2019a^]) along with the South African National Biodiversity Institute (http://biodiversityadvisor.sanbi.org/wp-content/uploads/2012/09/SANBI-Biodiversity-Information-Policy-Series-Digital-Access-to-Sensitive-Taxon.pdf[SANBI 2010^], http://biodiversityadvisor.sanbi.org/wp-content/uploads/2017/06/20160819-NSSL-Workshop-Report.pdf[SANBI 2016^]), the Atlas of Living Australia (https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-[ALA 2018a^]) and others, have given a lot of thought to criteria for determining sensitivity within their jurisdictions. Documentation from all of them have contributed greatly to this document."
-msgstr "La National Biodiversity Network (NBN) del Reino Unido (<<oin,Countryside Agencies OIN 2007>>) y el Department of Environment and Conservation in New South Wales, Australia (<<nsw,Department of Environment and Conservation 2007>>) desarrollaron criterios de sensibilidad detallados, y la versión anterior de esta publicación (https://doi.org/10.15468/doc-b02j-gt10[Chapman and Oliver 2008^]) se basó en gran medida en el trabajo de esas dos organizaciones. Desde la publicación de la _Guía_ anterior, estas dos organizaciones (https://www.environment.nsw.gov.au/resources/nature/SensitiveSpeciesPolicyDEC09.pdf[DECCW 2009^], https://nbn.org.uk/the-national-biodiversity-network/archive-information/data-exchange-principles/[NBN 2019a^], https://nbn.org.uk/sensitive-data/[NBN 2019b^], https://www.environment.nsw.gov.au/topics/animals-and-plants/wildlife-management/wildlife-policies-and-guidelines/sensitive-species-data[OEH 2019a^]) junto con el South African National Biodiversity Institute (http://biodiversityadvisor.sanbi.org/wp-content/uploads/2012/09/SANBI-Biodiversity-Information-Policy-Series-Digital-Access-to-Sensitive-Taxon.pdf[SANBI 2010^], http://biodiversityadvisor.sanbi.org/wp-content/uploads/2017/06/20160819-NSSL-Workshop-Report.pdf[SANBI 2016^]), el Atlas of Living Australia (https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-[ALA 2018a^]) y otros, han reflexionado mucho sobre los criterios para determinar la sensibilidad. La documentación de todos estas organizaciones ha contribuido en gran medida a este documento."
+msgstr "La National Biodiversity Network (NBN) del Reino Unido (<<oin,Countryside Agencies OIN 2007>>) y el Department of Environment and Conservation in New South Wales, Australia (<<nsw,Department of Environment and Conservation 2007>>) desarrollaron criterios de sensibilidad detallados, el trabajo de esas dos organizaciones influyó en gran medida en la versión anterior de esta publicación (https://doi.org/10.15468/doc-b02j-gt10[Chapman and Oliver 2008^]). Desde la publicación de la _Guía_ anterior, estas dos organizaciones (https://www.environment.nsw.gov.au/resources/nature/SensitiveSpeciesPolicyDEC09.pdf[DECCW 2009^], https://nbn.org.uk/the-national-biodiversity-network/archive-information/data-exchange-principles/[NBN 2019a^], https://nbn.org.uk/sensitive-data/[NBN 2019b^], https://www.environment.nsw.gov.au/topics/animals-and-plants/wildlife-management/wildlife-policies-and-guidelines/sensitive-species-data[OEH 2019a^]) junto con el South African National Biodiversity Institute (http://biodiversityadvisor.sanbi.org/wp-content/uploads/2012/09/SANBI-Biodiversity-Information-Policy-Series-Digital-Access-to-Sensitive-Taxon.pdf[SANBI 2010^], http://biodiversityadvisor.sanbi.org/wp-content/uploads/2017/06/20160819-NSSL-Workshop-Report.pdf[SANBI 2016^]), el Atlas of Living Australia (https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-[ALA 2018a^]) y otros, han reflexionado mucho sobre los criterios para determinar la sensibilidad. La documentación de todos estas organizaciones ha contribuido en gran medida a este documento."
 
 #. type: Plain text
 #: 200.en.adoc:25
 msgid "A series of criteria for determining the sensitivity of taxa and data along with recommended metadata statements for documenting the reasons for the determination are set out in <<table-01,Table 1>>. The first two are for use by biodiversity data holders and those creating trigger lists of potentially sensitive taxa and refer largely to the taxa themselves. The last two are for use by biodiversity data holders and deal with an assessment of the data they hold and are considering making available – they are not suitable for the creation of trigger lists."
-msgstr "En la <<table-01,Tabla 1>> se exponen una serie de criterios para determinar la sensibilidad de los taxa y los datos, junto con enunciados de metadatos recomendados para documentar las razones de la determinación. Los dos primeros son para uso de los titulares de datos de biodiversidad y de quienes crean listados de taxa potencialmente sensibles, y se refieren en gran medida a los propios taxa. Las dos últimas son para uso de los titulares de datos sobre biodiversidad y se refieren a una evaluación de los datos que poseen y que están considerando poner a disposición; no son adecuadas para la creación de listados."
+msgstr "En la <<table-01,Tabla 1>> se exponen una serie de criterios para determinar la sensibilidad de los taxa y los datos, junto con enunciados de metadatos recomendados para documentar las razones de la determinación. Los dos primeros son para uso de los titulares de datos de biodiversidad y de quienes crean listados de taxa potencialmente sensibles, y se refieren en gran medida a los propios taxa. Las dos últimas son para uso de los titulares de datos sobre biodiversidad y se refieren a una evaluación de los datos que poseen y que están considerando poner a disposición pero no son adecuadas para la creación de listados derivados."
 
 #. type: Plain text
 #: 200.en.adoc:27
