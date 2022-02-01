@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2021-11-25 17:45+0000\n"
-"PO-Revision-Date: 2022-02-01 21:51\n"
+"PO-Revision-Date: 2022-02-01 22:53\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -920,7 +920,7 @@ msgstr "La especie está clasificada como *altamente sensible* y la provisión d
 msgid "The record includes *highly* sensitive information, the release of which could cause *extreme* harm to an individual or to the environment. +\n\n"
 "Data is supplied to the public +\n\n"
 msgstr "El registro incluye información *altamente* sensible, cuya divulgación podría causar un daño *extremo* a una persona o al medio ambiente. +\n\n"
-"Los datos se suministran al público +\n\n"
+"Los datos se suministran al público: +\n\n"
 
 #. type: Table
 #: 200.en.adoc:357
@@ -937,11 +937,11 @@ msgid "with sensitive fields generalized or removed and replaced with suitable r
 "|[[cat3]]*Category 3* +\n\n"
 "Species or records for which coordinates will be publicly available ‘denatured’ (to 0.01 degrees) and/or other information in the record is generalized. Finer scale data (<<cat4,Category 4>> or detailed data) may be supplied to individuals under Licence.\n\n"
 "a|The reasons for restriction are that: +\n\n"
-msgstr "con los campos sensibles generalizados o eliminados y sustituidos por un texto adecuado +\n\n"
+msgstr "Con los campos sensibles generalizados o eliminados y sustituidos por un texto adecuado +\n\n"
 "Los datos pueden suministrarse a escalas más finas si se solicitan bajo las condiciones de un acuerdo de datos por escrito, normalmente un \"Acuerdo de licencia de datos\". Cuando se proporcionen datos a los clientes, se les informará qué especies o campos son sensibles y podrían tener sus coordenadas desnaturalizadas a aquellas disponibles bajo la <<cat3,Categoría 3>> o <<cat4,Categoría 4>>. +\n\n"
 "*NB*: En el caso de que la sensibilidad sea provocada por campos distintos a la georreferencia, puede ser más apropiado clasificar el registro como <<cat3,Categoría 3>> o <<cat4,Categoría 4>>. +\n\n"
 "|[[cat3]]*Categoría 3* +\n\n"
-"Especies o registros cuyas coordenadas estarán disponibles públicamente \"desnaturalizadas\" (a 0.01 grados) y/u otra información en el registro está generalizada. Los datos de escala más fina (<<cat4,Categoría 4>> o datos detallados) pueden suministrarse a individuos bajo licencia.\n\n"
+"Especies o registros cuyas coordenadas estarán disponibles públicamente \"desnaturalizadas\" (a 0.01 grados) y/u otra información en el registro está generalizada. Los datos de escala más fina (<<cat4,Categoría 4>> o datos detallados) pueden suministrarse bajo licencia.\n\n"
 "a|Las razones de la restricción son que: +\n\n"
 
 #. type: Table
@@ -956,13 +956,13 @@ msgstr "La especie está clasificada como de *sensibilidad media a alta* y la pr
 msgid "The record includes *sensitive* information, the release of which could cause harm to an individual or to the environment. +\n\n"
 "Data is supplied to the public +\n\n"
 msgstr "El registro incluye información *sensible*, cuya divulgación podría causar daños a una persona o al medio ambiente. +\n\n"
-"Los datos se suministran al público +\n\n"
+"Los datos se suministran al público: +\n\n"
 
 #. type: Table
 #: 200.en.adoc:377
 #, no-wrap
 msgid "with the georeference denatured to 0.01 degrees (~1 km) and/or +\n\n"
-msgstr "con la georreferencia denaturada a 0.01 grados (~1km) y/o +\n\n"
+msgstr "Con la georreferencia denaturada a 0.01 grados (~1km) y/o +\n\n"
 
 #. type: Table
 #: 200.en.adoc:389
@@ -973,13 +973,12 @@ msgid "with sensitive fields generalized or removed and replaced with suitable r
 "|[[cat4]]*Category 4* +\n\n"
 "Species or records for which coordinates will be publicly available ‘denatured’ (to 0.001 degrees) and/or other information in the record is generalized. Detailed ‘as-held’ data may be supplied to individuals under Licence. +\n\n"
 "a|The reasons for restriction are that: +\n\n"
-msgstr "con campos sensibles generalizados o eliminados y sustituidos por un texto adecuado +\n\n"
-"Los datos pueden suministrarse a escalas más finas si se solicitan bajo las condiciones de un acuerdo de datos por escrito, normalmente un \"Acuerdo de licencia de datos\". Cuando se proporcionen los datos a los clientes, se les informará qué especies o campos son sensibles y podrían tener sus coordenadas desnaturalizadas a aquellas disponibles bajo la <<cat4,Categoría 4>>. +\n\n"
+msgstr "Con campos sensibles generalizados o eliminados y sustituidos por un texto adecuado +\n\n"
+"Los datos pueden suministrarse a escalas más finas si se solicitan bajo las condiciones de un acuerdo de datos por escrito, normalmente un \"Acuerdo de licencia de datos\". Cuando se proporcionen los datos a los usuarios, se les informará qué especies o campos son sensibles y podrían tener sus coordenadas desnaturalizadas a aquellas disponibles bajo la <<cat4,Categoría 4>>. +\n\n"
 "*NB*: En el caso de que la sensibilidad sea provocada por campos distintos a la georreferencia, puede ser más apropiado clasificar el registro como <<cat4,Categoría 4>>.\n\n"
 "|[[cat4]]*Categoría 4* +\n\n"
 "Especies o registros cuyas coordenadas estarán disponibles públicamente \"desnaturalizadas\" (a 0.001 grados) y/u otra información en el registro es generalizada. Los datos \"como están mantenidos\" pueden ser suministrados a individuos bajo Licencia. +\n\n"
-"a|Las razones de la restricción son que: +\n"
-"l\n\n"
+"a|Las razones de la restricción son que: +\n\n"
 
 #. type: Table
 #: 200.en.adoc:391
@@ -993,7 +992,7 @@ msgstr "La especie está clasificada como de *sensibilidad baja a media* y el su
 msgid "The record includes *sensitive* information, the release of which could cause harm to an individual or to the environment. +\n\n"
 "Detailed data may be supplied under the conditions of a written data agreement, usually a Data Licence Agreement. When data is provided to clients, they will be advised which species or fields are sensitive.\n\n"
 msgstr "El registro incluye información *sensible*, cuya divulgación podría causar daños a una persona o al medio ambiente. +\n\n"
-"Los datos detallados pueden suministrarse bajo las condiciones de un acuerdo de datos por escrito, normalmente un Acuerdo de Licencia de Datos. Cuando se faciliten los datos a los clientes, se les indicará qué especies o campos son sensibles.\n\n"
+"Los datos detallados pueden suministrarse bajo las condiciones de un acuerdo de datos por escrito, normalmente un \"Acuerdo de Licencia de Datos\". Cuando se faciliten los datos a los usuarios, se les indicará qué especies o campos son sensibles.\n\n"
 
 #. type: Title ==
 #: 300.en.adoc:1
@@ -1049,7 +1048,7 @@ msgstr "En algunos casos puede ser necesario restringir los análisis de correla
 #. type: Plain text
 #: 300.en.adoc:15
 msgid "Such restrictions should not restrict the provision of the record as a whole. The data that needs to be hidden may be removed and replaced with suitable wording (see below), or generalized–for example, just giving the name of a higher level taxonomic rank where the species is to be restricted."
-msgstr "Dichas restricciones no deben restringir el suministro del registro en su totalidad. Los datos que deben ocultarse pueden eliminarse y sustituirse por un texto adecuado (ver más adelante) o generalizarse, por ejemplo, limitándose a dar el nombre de un rango taxonómico de nivel superior en el que la especie debe restringirse."
+msgstr "Dichas restricciones no deben restringir la publicación del registro en su totalidad. Los datos que deben ocultarse pueden eliminarse y sustituirse por un texto adecuado (ver más adelante) o generalizarse, por ejemplo, limitándose a dar el nombre de un rango taxonómico de nivel superior en el que la especie debe restringirse."
 
 #. type: Plain text
 #: 300.en.adoc:17
@@ -1079,12 +1078,12 @@ msgstr "Este espécimen representa una especie en peligro o amenazada. La locali
 #. type: Plain text
 #: 300.en.adoc:30
 msgid "Where there is a need to restrict a taxonomic name (for example of sensitive taxa as part of a survey or checklist), it may be possible to replace it with a higher taxon name (genus/family, etc.) or to just report that there are ‘x’ sensitive taxa present without providing names."
-msgstr "Cuando sea necesario restringir un nombre taxonómico (por ejemplo, de taxa sensibles como parte de un estudio o listado), puede ser posible sustituirlo por un nombre de taxón superior (género/familia, etc.) o simplemente informar de que hay \"x\" taxa sensibles presentes sin proporcionar nombres."
+msgstr "Cuando sea necesario restringir un nombre taxonómico (por ejemplo, de taxa sensibles como parte de un estudio o listado), puede ser posible sustituirlo por un nombre de la taxonomía superior (género/familia, etc.) o simplemente informar de que hay \"x\" taxa sensibles presentes sin proporcionar nombres."
 
 #. type: Plain text
 #: 300.en.adoc:32
 msgid "Occasionally, data providers may be tempted to restrict information in records related to a sensitive record (in addition to the sensitive record itself), such as the collector’s name and numbers in a sequence of records collected at the same location and time as a sensitive record in order to reduce the possibility of the sensitive record being found through correlational analysis. However, if the collector’s name and number is removed from just the sensitive record and not the others, it is unlikely that these could be deduced unless the seeker of the information already has inside knowledge. For this reason, and others, it is recommended that the data on related records not be restricted."
-msgstr "En ocasiones, los proveedores de datos pueden querer restringir la información de los registros relacionados con un registro sensible (además del propio registro sensible), como el nombre y los números del colector en una secuencia de registros colectados en el mismo lugar y momento que un registro sensible, con el fin de reducir la posibilidad de que se encuentre el registro sensible mediante un análisis de correlación. Sin embargo, si se elimina el nombre y el número del colector únicamente del registro sensible y no de los demás, es poco probable que éstos puedan deducirse, a menos que el buscador de la información ya tenga conocimiento interno. Por este motivo, y otros, se recomienda no restringir los datos de los registros relacionados."
+msgstr "En ocasiones, los proveedores de datos pueden querer restringir la información de registros relacionados con un registro sensible (además del propio registro sensible), como el nombre y los números del colector en una secuencia de registros colectados en el mismo lugar y momento que un registro sensible, con el fin de reducir la posibilidad de que se encuentre el registro sensible mediante un análisis de correlación. Sin embargo, si se elimina el nombre y el número del colector únicamente del registro sensible y no de los demás registros, es poco probable que éstos puedan deducirse, a menos que el buscador de la información ya tenga conocimiento de contexto sobre la colecta. Por este motivo, y otros, se recomienda no restringir los datos de los registros relacionados."
 
 #. type: Title ==
 #: 400.en.adoc:1
@@ -1111,7 +1110,7 @@ msgstr "Algunos de los encuestados afirmaron que se sentían cómodos mostrando 
 #. type: Plain text
 #: 400.en.adoc:10
 msgid "In the fields of data mining and protection of privacy (including of individual privacy in census data), it is generally regarded that bottom-up <<generalization>> is far more practical and scientifically defensible than <<randomization>> (see for example, <<wyc,Wang et al. 2004>>, https://www.ijsr.net/archive/v4i1/SUB15769.pdf[Dalvi and Keole 2015^])."
-msgstr "En los campos de la minería de datos y la protección de la privacidad (incluida la privacidad individual en los datos de censos), se considera generalmente que la <<generalización>> ascendente (\"bottom-up\") es mucho más práctica y científicamente justificable que la <<aleatorización>> (ver, por ejemplo, <<wyc,Wang et al. 2004>>, https://www.ijsr.net/archive/v4i1/SUB15769.pdf[Dalvi and Keole 2015^])."
+msgstr "En el campo de la minería de datos y de la protección a la privacidad (incluida la privacidad individual en los datos de censos), se considera generalmente que la <<generalización>> ascendente (\"bottom-up\") es mucho más práctica y científicamente justificable que la <<aleatorización>> (ver, por ejemplo, <<wyc,Wang et al. 2004>>, https://www.ijsr.net/archive/v4i1/SUB15769.pdf[Dalvi and Keole 2015^])."
 
 #. type: Plain text
 #: 400.en.adoc:12
@@ -1234,7 +1233,7 @@ msgstr "Las buenas prácticas dictan que, independientemente de lo que se haga p
 #. type: Plain text
 #: 400.en.adoc:54
 msgid "I recommend that data providers who are generalizing their data do so using a standard methodology (see below), and to document this accordingly. As most biodiversity data is currently made available using <<decimal-degrees,decimal degrees>> (https://doi.org/10.15468/doc-gg7h-s853[Chapman and Wieczorek 2020]), the recommended method means that protocols such as Darwin Core (https://doi.org/10.1371/journal.pone.0029715[Wieczorek et al. 2012]) do not need modification, other than to allow for suitable metadata documentation."
-msgstr "Recomiendo que los proveedores de datos que generalicen sus datos lo hagan utilizando una metodología estándar (ver más abajo) y que lo documenten debidamente. Dado que la mayoría de los datos de biodiversidad se ponen a disposición de los usuarios utilizando <<grados decimales>> (https://doi.org/10.15468/doc-gg7h-s853[Chapman and Wieczorek 2020]), el método recomendado significa que protocolos como el Darwin Core (https://doi.org/10.1371/journal.pone.0029715[Wieczorek et al. 2012]) no necesitan ser modificados, salvo para permitir una documentación adecuada de los metadatos."
+msgstr "Se recomienda que los proveedores de datos que generalicen sus datos lo hagan utilizando una metodología estándar (ver más abajo) y que lo documenten debidamente. Dado que la mayoría de los datos de biodiversidad se ponen a disposición de los usuarios utilizando <<grados decimales>> (https://doi.org/10.15468/doc-gg7h-s853[Chapman and Wieczorek 2020]), el método recomendado significa que protocolos como el Darwin Core (https://doi.org/10.1371/journal.pone.0029715[Wieczorek et al. 2012]) no necesitan ser modificados, salvo para permitir una documentación adecuada de los metadatos."
 
 #. type: Plain text
 #: 400.en.adoc:56
