@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-11-25 17:45+0000\n"
+"POT-Creation-Date: 2022-08-24 05:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -133,7 +133,7 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:35 introduction.en.adoc:47 100.en.adoc:22 200.en.adoc:53
 #: 200.en.adoc:115 200.en.adoc:159 200.en.adoc:236 200.en.adoc:320
-#: 200.en.adoc:397 300.en.adoc:33 400.en.adoc:91 500.en.adoc:50 600.en.adoc:11
+#: 200.en.adoc:397 300.en.adoc:33 400.en.adoc:92 500.en.adoc:50 600.en.adoc:11
 #: 700.en.adoc:97 afterword.en.adoc:27 afterword.en.adoc:67 glossary.en.adoc:17
 #: acknowledgements.en.adoc:7 bibliography.en.adoc:54
 msgid "<<<"
@@ -1748,19 +1748,19 @@ msgid "The recommended method for <<generalization>> is:"
 msgstr ""
 
 #. type: Named 'caption' AttributeList argument for style 'caption'
-#: 400.en.adoc:59
+#: 400.en.adoc:60
 #, no-wrap
 msgid "Table 7. "
 msgstr ""
 
 #. type: Block title
-#: 400.en.adoc:60
+#: 400.en.adoc:61
 #, no-wrap
 msgid "Method of generalizing geographic coordinates."
 msgstr ""
 
 #. type: Table
-#: 400.en.adoc:68
+#: 400.en.adoc:69
 #, no-wrap
 msgid ""
 "| Category | Sensitivity | Georeference\n"
@@ -1773,7 +1773,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:71
+#: 400.en.adoc:72
 msgid ""
 "The South African National Biodiversity Institute, in largely implementing "
 "the criteria as laid out in the previous document "
@@ -1790,13 +1790,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 400.en.adoc:72
+#: 400.en.adoc:73
 #, no-wrap
 msgid "Documentation"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:75
+#: 400.en.adoc:76
 msgid ""
 "It is important to document the method and level of <<generalization>> so "
 "that users are aware of what has been done to the data, and what reliability "
@@ -1813,7 +1813,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:77
+#: 400.en.adoc:78
 msgid ""
 "As far as the <<generalization>> of georeferencing data is concerned it is "
 "important to record that the data has been generalized using a ‘decimal "
@@ -1821,19 +1821,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:79
+#: 400.en.adoc:80
 msgid "Precision of the data provided (e.g. 0.1 degree; 0.001 degree, etc.)"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:80
+#: 400.en.adoc:81
 msgid ""
 "Precision of the data stored or held (e.g. 0.0001 degree, 0.1 minute, 1 "
 "second, 100m square, etc.)"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:82
+#: 400.en.adoc:83
 msgid ""
 "The recommendations for metadata for inclusion in the "
 "https://dwc.tdwg.org/terms/#location[Darwin Core Location Class] (TDWG 2018) "
@@ -1843,13 +1843,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 400.en.adoc:83
+#: 400.en.adoc:84
 #, no-wrap
 msgid "Duplicates and GUIDS"
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:86
+#: 400.en.adoc:87
 msgid ""
 "With plants, especially, and with other taxa (like insects), collectors "
 "often gather multiple specimens (duplicates or parts of sets)—usually on the "
@@ -1863,7 +1863,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:88
+#: 400.en.adoc:89
 msgid ""
 "In most cases this exchange of information is not a problem, but with "
 "sensitive taxa, it often is. The secondary institution may not know what are "
@@ -1878,7 +1878,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 400.en.adoc:90
+#: 400.en.adoc:91
 msgid ""
 "Identifying duplicates across institutions is not easy, as, especially for "
 "historic and legacy collections, it is often difficult to determine "
