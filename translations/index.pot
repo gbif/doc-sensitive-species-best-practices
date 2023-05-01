@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-05-01 16:44+0000\n"
+"POT-Creation-Date: 2023-05-01 16:46+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -135,7 +135,7 @@ msgstr ""
 #: 200.en.adoc:115 200.en.adoc:159 200.en.adoc:236 200.en.adoc:320
 #: 200.en.adoc:397 300.en.adoc:33 400.en.adoc:92 500.en.adoc:50 600.en.adoc:11
 #: 700.en.adoc:97 afterword.en.adoc:27 afterword.en.adoc:67 glossary.en.adoc:17
-#: acknowledgements.en.adoc:7 bibliography.en.adoc:54
+#: acknowledgements.en.adoc:7 bibliography.en.adoc:55
 msgid "<<<"
 msgstr ""
 
@@ -3538,6 +3538,14 @@ msgid ""
 "[[wylie]] Wylie A (1996) Ethical dilemmas in archaeological practice: "
 "Looting, repatriation, stewardship, and the (trans) formation of "
 "disciplinary identity. Perspectives on Science 4(2): 154–194."
+msgstr ""
+
+#. type: Plain text
+#: bibliography.en.adoc:54
+msgid ""
+"[[zermoglio]] Zermoglio PFF, Chapman AD, Wieczorek JR, Luna MC, Bloom DA "
+"(2020) Georeferencing Quick References Guide Copenhagen: Copenhagen: GBIF "
+"Secretariat. https://doi.org/10.35035/e09p-h128."
 msgstr ""
 
 #. type: Title ==
