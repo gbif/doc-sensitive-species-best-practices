@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
-"POT-Creation-Date: 2022-08-24 05:59+0000\n"
-"PO-Revision-Date: 2022-08-24 06:01\n"
+"POT-Creation-Date: 2023-05-01 16:44+0000\n"
+"PO-Revision-Date: 2023-05-01 16:45\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1227,8 +1227,8 @@ msgstr "Si se dan georreferencias para datos que se generalizan a una región bi
 
 #. type: Plain text
 #: 400.en.adoc:52
-msgid "Good practice dictates that whatever you do to generalize the data that you document it so that users of the data know what reliance they can place in it."
-msgstr "Las buenas prácticas dictan que, independientemente de lo que se haga para generalizar los datos, se documente para que los usuarios de los datos sepan qué confianza pueden depositar en ellos."
+msgid "Good practice dictates that whatever you do to generalize the data that you document it so that users of the data know what reliance they can place in it. Note, that when documenting what has been done, it is essential that both the coordinates and the coordinate uncertainty in meters be recorded. How this is best done can be seen in the Georeferencing Quick Reference Guide (https://doi.org/10.35035/e09p-h128[Zermoglio et al. 2020])."
+msgstr ""
 
 #. type: Plain text
 #: 400.en.adoc:54
