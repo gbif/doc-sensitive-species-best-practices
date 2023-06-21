@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
-"POT-Creation-Date: 2021-11-25 17:45+0000\n"
-"PO-Revision-Date: 2022-02-01 22:53\n"
+"POT-Creation-Date: 2023-05-01 16:46+0000\n"
+"PO-Revision-Date: 2023-05-04 17:28\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -119,9 +119,9 @@ msgstr "Bajo la superficie, Wollemi National Park, Australia. Foto 2015 Vern ví
 #. type: Plain text
 #: colophon.en.adoc:35 introduction.en.adoc:47 100.en.adoc:22 200.en.adoc:53
 #: 200.en.adoc:115 200.en.adoc:159 200.en.adoc:236 200.en.adoc:320
-#: 200.en.adoc:397 300.en.adoc:33 400.en.adoc:91 500.en.adoc:50 600.en.adoc:11
+#: 200.en.adoc:397 300.en.adoc:33 400.en.adoc:92 500.en.adoc:50 600.en.adoc:11
 #: 700.en.adoc:97 afterword.en.adoc:27 afterword.en.adoc:67 glossary.en.adoc:17
-#: acknowledgements.en.adoc:7 bibliography.en.adoc:54
+#: acknowledgements.en.adoc:7 bibliography.en.adoc:55
 msgid "<<<"
 msgstr "<<<"
 
@@ -1227,8 +1227,8 @@ msgstr "Si se dan georreferencias para datos que se generalizan a una región bi
 
 #. type: Plain text
 #: 400.en.adoc:52
-msgid "Good practice dictates that whatever you do to generalize the data that you document it so that users of the data know what reliance they can place in it."
-msgstr "Las buenas prácticas dictan que, independientemente de lo que se haga para generalizar los datos, se documente para que los usuarios de los datos sepan qué confianza pueden depositar en ellos."
+msgid "Good practice dictates that whatever you do to generalize the data that you document it so that users of the data know what reliance they can place in it. Note, that when documenting what has been done, it is essential that both the coordinates and the coordinate uncertainty in meters be recorded. How this is best done can be seen in the Georeferencing Quick Reference Guide (https://doi.org/10.35035/e09p-h128[Zermoglio et al. 2020])."
+msgstr "Las buenas prácticas dictan que todos los ajustes que se hagan para generalizar los datos sean documentados para que los usuarios pueden determinar qué confianza depositar en los datos. En la documentación es esencial que se registren tanto las coordenadas como la incertidumbre de coordenadas en metros. La mejor manera de hacer esto se puede ver en la Guía rápida de georreferenciación (https://docs.gbif.org/georeferencing-quick-reference-guide/1.0/es/[Zermoglio et al. 2020])."
 
 #. type: Plain text
 #: 400.en.adoc:54
@@ -1246,19 +1246,19 @@ msgid "The recommended method for <<generalization>> is:"
 msgstr "El método recomendado para la <<generalización>> es:"
 
 #. type: Named 'caption' AttributeList argument for style 'caption'
-#: 400.en.adoc:59
+#: 400.en.adoc:60
 #, no-wrap
 msgid "Table 7. "
 msgstr "Tabla 7. "
 
 #. type: Block title
-#: 400.en.adoc:60
+#: 400.en.adoc:61
 #, no-wrap
 msgid "Method of generalizing geographic coordinates."
 msgstr "Método de generalización de coordenadas geográficas."
 
 #. type: Table
-#: 400.en.adoc:68
+#: 400.en.adoc:69
 #, no-wrap
 msgid "| Category | Sensitivity | Georeference\n"
 "| *Category 1* | Extreme | Geographic coordinates not released or data may be released by watershed/bioregion/county, rounded to 1 degree, etc. \n"
@@ -1274,59 +1274,59 @@ msgstr "| Categoría | Sensibilidad | Georreferencia\n"
 "| *No sensible* | No sensible | Coordenadas geográficas sin restricción\n"
 
 #. type: Plain text
-#: 400.en.adoc:71
+#: 400.en.adoc:72
 msgid "The South African National Biodiversity Institute, in largely implementing the criteria as laid out in the previous document (https://doi.org/10.15468/doc-b02j-gt10[Chapman and Grafton 2008]), have implemented only two categories (http://biodiversityadvisor.sanbi.org/wp-content/uploads/2012/09/SANBI-Biodiversity-Information-Policy-Series-Digital-Access-to-Sensitive-Taxon.pdf[SANBI 2010], http://biodiversityadvisor.sanbi.org/wp-content/uploads/2017/06/20160819-NSSL-Workshop-Report.pdf[SANBI 2016]): the original, non-generalized data and data generalized to one-quarter of a degree (0.25 degree (QDS)). We believe that this is a more difficult generalization to implement, and, unless fully and clearly documented, it could lead to a misleading level of precision. It also reduces the flexibility provided by the above four-categorization method."
 msgstr "El South African National Biodiversity Institute, al aplicar en gran medida los criterios establecidos en el documento anterior (https://doi.org/10.15468/doc-b02j-gt10[Chapman y Grafton 2008]), ha implementado sólo dos categorías (http://biodiversityadvisor.sanbi.org/wp-content/uploads/2012/09/SANBI-Biodiversity-Information-Policy-Series-Digital-Access-to-Sensitive-Taxon.pdf[SANBI 2010], http://biodiversityadvisor.sanbi.org/wp-content/uploads/2017/06/20160819-NSSL-Workshop-Report.pdf[SANBI 2016]): los datos originales no generalizados y los datos generalizados a un cuarto de grado (0.25 grados (QDS)). Creemos que esta es una generalización más difícil de implementar y, a menos que esté completa y claramente documentada, podría llevar a un nivel de precisión engañoso. Además, reduce la flexibilidad que ofrece el método de cuatro categorías anterior."
 
 #. type: Title ===
-#: 400.en.adoc:72
+#: 400.en.adoc:73
 #, no-wrap
 msgid "Documentation"
 msgstr "Documentación"
 
 #. type: Plain text
-#: 400.en.adoc:75
+#: 400.en.adoc:76
 msgid "It is important to document the method and level of <<generalization>> so that users are aware of what has been done to the data, and what reliability they may be able to place in the data.  Currently, neither https://www.tdwg.org/standards/dwc/[Darwin Core] nor the https://www.tdwg.org/standards/abcd/[ABCD] protocols provide fields for the recommended metadata.  It has been proposed that these protocols be modified to accept such metadata (see <<afterword,Afterword>>), but in the meantime, it is recommended that the information be recorded using existing https://dwc.tdwg.org/terms/[Darwin Core terms] at the record-level (e.g., https://dwc.tdwg.org/terms/#dwc:informationWithheld[dwc:informationWithheld], https://dwc.tdwg.org/terms/#dwc:dataGeneralizations[dwc:dataGeneralizations] or any of the 'Remarks' fields)."
 msgstr "Es importante documentar el método y el nivel de <<generalización>> para que los usuarios sean conscientes de lo que se ha hecho con los datos y de la fiabilidad que pueden depositar en ellos.  Actualmente, ni https://www.tdwg.org/standards/dwc/[Darwin Core] ni los protocolos https://www.tdwg.org/standards/abcd/[ABCD] proporcionan campos para los metadatos recomendados.  Se ha propuesto que estos protocolos se modifiquen para que acepten dichos metadatos (véase <<epílogo, Epílogo>>), pero mientras tanto, se recomienda que la información se registre utilizando los términos existentes de https://dwc.tdwg.org/terms/[Darwin Core] a nivel de registro (p. ej., https://dwc.tdwg.org/terms/#dwc:informationWithheld[dwc:informationWithheld], https://dwc.tdwg.org/terms/#dwc:dataGeneralizations[dwc:dataGeneralizations] o cualquiera de los campos \"Remarks\")."
 
 #. type: Plain text
-#: 400.en.adoc:77
+#: 400.en.adoc:78
 msgid "As far as the <<generalization>> of georeferencing data is concerned it is important to record that the data has been generalized using a ‘decimal geographic grid’ and record both:"
 msgstr "En cuanto a la <<generalización>> de los datos de georreferenciación es importante registrar que los datos se han generalizado utilizando una \"grilla en grados geográficos decimales\" y registrar ambas:"
 
 #. type: Plain text
-#: 400.en.adoc:79
+#: 400.en.adoc:80
 msgid "Precision of the data provided (e.g. 0.1 degree; 0.001 degree, etc.)"
 msgstr "La precisión de los datos proporcionados (p. ej., 0.1 grados, 0.001 grados, etc.)"
 
 #. type: Plain text
-#: 400.en.adoc:80
+#: 400.en.adoc:81
 msgid "Precision of the data stored or held (e.g. 0.0001 degree, 0.1 minute, 1 second, 100m square, etc.)"
 msgstr "La precisión de los datos almacenados o retenidos (p. ej., 0.0001 grados, 0.1 minutos, 1 segundo, 100m cuadrados, etc.)"
 
 #. type: Plain text
-#: 400.en.adoc:82
+#: 400.en.adoc:83
 msgid "The recommendations for metadata for inclusion in the https://dwc.tdwg.org/terms/#location[Darwin Core Location Class] (TDWG 2018) are set out in the <<Afterword>>. Once they (or similar) have been adopted, then it is recommended that the appropriate fields be recorded and distributed with the data."
 msgstr "Las recomendaciones de metadatos para su inclusión en el https://dwc.tdwg.org/terms/#location[Elemento de ubicación Darwin Core] (TDWG 2018) se exponen en el <<Epílogo>>. Una vez que se hayan adoptado (o algo similar), se recomienda registrar los campos adecuados y distribuirlos con los datos."
 
 #. type: Title ===
-#: 400.en.adoc:83
+#: 400.en.adoc:84
 #, no-wrap
 msgid "Duplicates and GUIDS"
 msgstr "Duplicados y GUID"
 
 #. type: Plain text
-#: 400.en.adoc:86
+#: 400.en.adoc:87
 msgid "With plants, especially, and with other taxa (like insects), collectors often gather multiple specimens (duplicates or parts of sets)—usually on the order of four to six, though examples of more than 80 have been cited (Paul Morris 2007, personal communication, April)—with these duplicates or parts of sets often sent to many institutions around the world. One problem that arises is originating institutions may lose control of what happens to the information (including locality information) distributed to collections from those secondary institutions – remembering that the duplicates may have been distributed prior to the taxon being identified as sensitive."
 msgstr "Con las plantas especialmente y con otros taxa (como los insectos), los colectores suelen reunir varios especímenes (duplicados o partes de conjuntos). Normalmente del orden de cuatro a seis, aunque se han citado ejemplos de más de 80 (Paul Morris 2007, comunicación personal, abril). Estos duplicados o partes de conjuntos suelen enviarse a muchas instituciones de todo el mundo. Un problema que surge es que las instituciones de origen pueden perder el control de lo que ocurre con la información (incluida la información sobre la localidad) distribuida a las colecciones de esas instituciones secundarias, recordando que los duplicados pueden haber sido distribuidos antes de que el taxón sea identificado como sensible."
 
 #. type: Plain text
-#: 400.en.adoc:88
+#: 400.en.adoc:89
 msgid "In most cases this exchange of information is not a problem, but with sensitive taxa, it often is. The secondary institution may not know what are regarded as ‘sensitive taxa’ in the jurisdiction of the originating institution or may not have flagged that information. Sensitivity is not always information that can be distributed along with the collections, as it may not be known until much later that the species is endangered and/or sensitive. This issue is a difficult one, as simply labelling a taxon as sensitive may not be the answer: a taxon may be endangered in its native area (and thus sensitive) and may be a weed or pest in other areas, with locality information important for its control in both instances."
 msgstr "En la mayoría de los casos, este intercambio de información no supone un problema, pero en el caso de los taxa sensibles suele serlo. Es posible que la institución secundaria no sepa qué se considera \"taxa sensibles\" en la jurisdicción de la institución de origen o que no haya señalado esa información. La sensibilidad no siempre es una información que pueda distribuirse junto con las colectas, ya que puede que no se sepa hasta mucho más tarde que la especie está en peligro y/o es sensible. Esta cuestión es difícil, ya que etiquetar simplemente un taxón como sensible puede no ser la respuesta: un taxón puede estar en peligro de extinción en su zona nativa (y por tanto ser sensible) y puede ser una hierba mala o una plaga en otras zonas, siendo la información sobre la localidad importante para su control en ambos casos."
 
 #. type: Plain text
-#: 400.en.adoc:90
+#: 400.en.adoc:91
 msgid "Identifying duplicates across institutions is not easy, as, especially for historic and legacy collections, it is often difficult to determine duplicate specimens. Some institutions, such as http://www.cria.org.br/[Centro de Referência em Informação Ambiental] (CRIA) in Brazil in its http://splink.cria.org.br/[speciesLink] project and the http://ala.org.au/[Atlas of Living Australia], use matching across a number of fields such as collector number, date and locality, while GBIF is developing an algorithm for https://www.gbif.org/news/4U1dz8LygQvqIywiRIRpAU/[data-clustering]. Currently, however, there is no universal global system available. The use of unique, persistent and resolvable Globally Unique Identifiers (GUIDs) (https://doi.org/10.1186/1471-2105-10-S14-S5[Page 2009], https://www.tdwg.org/standards/150[Richards 2010], https://doi.org/10.35035/mjgq-d052[Richards et al. 2011]) will aid these processes in the longer-term, but the implementation of specimen-level GUIDs still seems some way off. A recent paper by https://doi.org/10.1002/aps3.1027[Nelson et al. 2018] makes a number of recommendations on minting, managing and sharing GUIDs for herbarium specimens, but until such techniques are more widely adopted, identifying duplicates across institutions will remain an issue."
 msgstr "La identificación de duplicados entre instituciones no es fácil, pues, especialmente en el caso de las colecciones históricas y heredadas, a menudo es difícil determinar los especímenes duplicados. Algunas instituciones, como http://www.cria.org.br/[Centro de Referência em Informação Ambiental] (CRIA) en Brasil en su proyecto http://splink.cria.org.br/[speciesLink] y el http://ala.org.au/[Atlas of Living Australia], utilizan la coincidencia a través de una serie de campos como el número de colector, la fecha y la localidad, mientras que GBIF está desarrollando un algoritmo para el https://www.gbif.org/news/4U1dz8LygQvqIywiRIRpAU/[agrupamiento de datos]. Sin embargo, actualmente no se dispone de un sistema global universal. El uso de identificadores únicos, persistentes y resolubles, Identificadores Globales Únicos (GUID) (https://doi.org/10.1186/1471-2105-10-S14-S5[Page 2009], https://www.tdwg.org/standards/150[Richards 2010], https://doi.org/10.35035/mjgq-d052[Richards et al. 2011]) ayudará a estos procesos a largo plazo, pero la implementación de GUID a nivel de espécimen todavía parece estar lejos. Una publicación reciente de https://doi.org/10.1002/aps3.1027[Nelson et al. 2018] hace una serie de recomendaciones sobre la acuñación, la gestión y el intercambio de GUID para especímenes de herbario, pero hasta que estas técnicas se adopten más ampliamente, la identificación de duplicados entre instituciones seguirá siendo un problema."
 
@@ -2347,6 +2347,11 @@ msgstr "[[wbg]] Wieczorek J, Bloom D, Guralnick R, Blum S, Döring M, Giovanni R
 #: bibliography.en.adoc:53
 msgid "[[wylie]] Wylie A (1996) Ethical dilemmas in archaeological practice: Looting, repatriation, stewardship, and the (trans) formation of disciplinary identity. Perspectives on Science 4(2): 154–194."
 msgstr "[[wylie]] Wylie A (1996) Ethical dilemmas in archaeological practice: Looting, repatriation, stewardship, and the (trans) formation of disciplinary identity. Perspectives on Science 4(2): 154–194."
+
+#. type: Plain text
+#: bibliography.en.adoc:54
+msgid "[[zermoglio]] Zermoglio PFF, Chapman AD, Wieczorek JR, Luna MC, Bloom DA (2020) Georeferencing Quick References Guide Copenhagen: Copenhagen: GBIF Secretariat. https://doi.org/10.35035/e09p-h128."
+msgstr ""
 
 #. type: Title ==
 #: annex-a.en.adoc:2
