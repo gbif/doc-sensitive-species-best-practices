@@ -23,7 +23,7 @@ https://doi.org/10.15468/doc-5jp4-5g10
 
 === Document control
 
-Version 1.0, November 2020
+Version 1.1, May 2023
 
 // NB Previous version uses spelling "Generalising"
 Based on the earlier publication by https://orcid.org/0000-0003-1700-6962[Chapman AD] & Grafton O (2008) Guide to Best Practices for Generalising Sensitive Species-Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-b02j-gt10. 
