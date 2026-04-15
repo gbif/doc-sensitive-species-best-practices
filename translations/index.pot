@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-05-01 16:46+0000\n"
+"POT-Creation-Date: 2023-06-27 17:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3189,7 +3189,7 @@ msgstr ""
 
 #.  Previous edition uses "Generalising" spelling
 #. type: Plain text
-#: bibliography.en.adoc:13
+#: bibliography.en.adoc:12
 msgid ""
 "[[adc07]] Chapman AD (2007) Dealing with Sensitive Primary Species "
 "Occurrence Data. Report. Report to the Global Biodiversity Information "
