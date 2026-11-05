@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
-"POT-Creation-Date: 2023-05-01 16:46+0000\n"
-"PO-Revision-Date: 2023-05-01 17:46\n"
+"POT-Creation-Date: 2023-06-27 17:24+0000\n"
+"PO-Revision-Date: 2026-11-05 11:48\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -30,7 +30,7 @@ msgstr "Arthur D. Chapman"
 #. type: Plain text
 #: index.en.adoc:17
 msgid "languageLinks:combined[]"
-msgstr ""
+msgstr "languageLinks:combined[]"
 
 #. type: Target for macro image
 #: colophon.en.adoc:3
@@ -249,22 +249,22 @@ msgstr "Principes"
 #. type: Plain text
 #: 100.en.adoc:4
 msgid "Biodiversity information should be made freely available to be shared globally to enable their use for not-for-profit decision making, education, research and other public benefit purposes. Making the full detail of biodiversity information available should reduce the risk of damage to the environment and help safeguard a sustainable future. Where release will have the opposite effect, access to the full detail may need to be controlled."
-msgstr ""
+msgstr "L'information sur la biodiversité devraient être librement accessibles et partagés à l'échelle mondiale afin de permettre leur utilisation à des fins non lucratives de prise de décision, d'éducation, de recherche et autres actions d'intérêt public. La diffusion de toutes les données relatives à la biodiversité devrait réduire les risques de dommages à l'environnement et contribuer à la préservation d'un avenir durable. Lorsque leur diffusion risque d'avoir l'effet inverse, il pourrait être nécessaire de contrôler l'accès à ces informations."
 
 #. type: Plain text
 #: 100.en.adoc:6
 msgid "Below are a set of high-level principles related to the sharing of data generally and the sharing of sensitive data in particular."
-msgstr ""
+msgstr "Vous trouverez ci-dessous un ensemble de principes généraux relatifs au partage des données en général et, en particulier, au partage des données sensibles."
 
 #. type: Plain text
 #: 100.en.adoc:8
 msgid "The management of sensitive data is integral to ethical data management."
-msgstr ""
+msgstr "La gestion des données sensibles fait partie intégrante d'une gestion éthique des données."
 
 #. type: Plain text
 #: 100.en.adoc:9
 msgid "Wherever possible, environmental information should be freely available to all. Generally this benefits the environment by increasing awareness, enabling better decision-making and reducing risk of damage."
-msgstr ""
+msgstr "Dans la mesure du possible, l'information environnementale devrait être accessible gratuitement à tous. En général, c'est bénéfique pour l'environnement parce que cela sensibilise le public, permet une meilleure prise de décisions et réduit les risques de dommages."
 
 #. type: Plain text
 #: 100.en.adoc:10
@@ -1938,7 +1938,7 @@ msgstr ""
 
 #.  Previous edition uses "Generalising" spelling
 #. type: Plain text
-#: bibliography.en.adoc:13
+#: bibliography.en.adoc:12
 msgid "[[adc07]] Chapman AD (2007) Dealing with Sensitive Primary Species Occurrence Data. Report. Report to the Global Biodiversity Information Facility. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/rajc-t668"
 msgstr ""
 
