@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2023-06-27 17:24+0000\n"
-"PO-Revision-Date: 2026-11-05 11:48\n"
+"PO-Revision-Date: 2026-11-17 15:33\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -269,58 +269,58 @@ msgstr "Dans la mesure du possible, l'information environnementale devrait être
 #. type: Plain text
 #: 100.en.adoc:10
 msgid "Public release of information can sometimes result in environmental harm. In such cases availability of information may need to be controlled; although the presumption remains in favour of release and any restrictions should be assessed and reviewed rigorously."
-msgstr ""
+msgstr "La diffusion publique d'informations peut parfois causer des dommages environnementaux. Dans de tels cas, il peut s'avérer nécessaire de contrôler l'accès à l'information ; cependant, la présomption de diffusion demeure et toute restriction doit être évaluée et réexaminée avec rigueur."
 
 #. type: Plain text
 #: 100.en.adoc:11 200.en.adoc:316
 msgid "All data regarded as being sensitive should include a date for review of their sensitivity status, along with documented reasons for the sensitivity status. The date for review may be short or long depending on the nature of the sensitivity."
-msgstr ""
+msgstr "Toutes les données considérées comme sensibles doivent comporter une date de réévaluation de leur niveau de sensibilité, ainsi que les raisons documentées justifiant ce niveau. La durée de cette réévaluation peut varier selon la nature de la sensibilité des données."
 
 #. type: Plain text
 #: 100.en.adoc:13
 msgid "Whenever a data provider receives an application for enhanced access to restricted data, they should avoid assuming continued sensitivity and use it as an opportunity to revisit the determination."
-msgstr ""
+msgstr "Chaque fois qu'un fournisseur de données reçoit une demande d'accès amélioré à des données restreintes, il doit éviter de présumer que la sensibilité continue et utiliser cette opportunité pour revoir sa décision."
 
 #. type: Plain text
 #: 100.en.adoc:16
 msgid "If the data is to be restricted for distribution, then this should only be done to a copy of the data at the time of their distribution. Data should never be altered, falsified or deleted from the stored record."
-msgstr ""
+msgstr "Si la diffusion des données doit être restreinte, cette restriction ne doit concerner qu'une copie des données au moment de leur diffusion. Les données stockées ne doivent en aucun cas être altérées, falsifiées ou supprimées de l'enregistrement."
 
 #. type: Plain text
 #: 100.en.adoc:17
 msgid "Documentation is essential for many reasons, and where data have been restricted or generalized, it is important that the reason(s) for the categorization is recorded as metadata that remains with the record."
-msgstr ""
+msgstr "La documentation est essentielle pour de nombreuses raisons, et lorsque les données ont été restreintes ou généralisées, il est important que la ou les raisons de la catégorisation soient enregistrées en tant que métadonnées qui restent associées à l'enregistrement."
 
 #. type: Plain text
 #: 100.en.adoc:18
 msgid "Where data is restricted or generalized for distribution (such as the name of a collector, textual locality information, etc.), this should be documented by replacing with appropriate wording − the field should not be left blank or null."
-msgstr ""
+msgstr "Lorsque les données sont restreintes ou généralisées pour la distribution (comme le nom d'un collecteur, des informations textuelles sur la localité, etc.), cela doit être documenté en remplaçant par une formulation appropriée - le champ ne doit pas être laissé vide ou nul."
 
 #. type: Plain text
 #: 100.en.adoc:19
 msgid "There are extremely strong reasons *not* to restrict data on related collections (e.g. collector’s numbers in sequence, collector’s name, etc.) because of the restrictions this places on data quality and data validation procedures, etc."
-msgstr ""
+msgstr "Il existe des raisons extrêmement fortes pour *ne pas* restreindre les données sur les collections associées (par exemple, les numéros des collectionneurs dans l'ordre, le nom du collectionneur, etc.) en raison des restrictions que cela impose sur la qualité des données et les procédures de validation des données, etc."
 
 #. type: Plain text
 #: 100.en.adoc:20
 msgid "Users of sensitive data should comply with any and all restrictions of access that the data provider has placed on the data. If granted enhanced access to restricted information, users must not compromise or otherwise infringe the confidentiality of such information."
-msgstr ""
+msgstr "Les utilisateurs de données sensibles doivent respecter toutes les restrictions d'accès imposées par le fournisseur de données. S'ils bénéficient d'un accès étendu à des renseignements confidentiels, ils ne doivent en aucun cas compromettre ni enfreindre leur confidentialité."
 
 #. type: Plain text
 #: 100.en.adoc:21
 msgid "Data providers should respect the needs of data users to have access to data and documentation in order to determine the ‘fitness for use’ of the data and to ensure that analyses are robust and not misleading."
-msgstr ""
+msgstr "Les fournisseurs de données doivent respecter le besoin des utilisateurs d'accéder aux données et à la documentation afin de déterminer l'adéquation des données à l'utilisation et de s'assurer que les analyses sont robustes et non trompeuses."
 
 #. type: Title ==
 #: 200.en.adoc:1
 #, no-wrap
 msgid "Determining sensitivity"
-msgstr ""
+msgstr "Détermination de la sensibilité"
 
 #. type: Plain text
 #: 200.en.adoc:4
 msgid "As a first step, information holders need to identify any data which are regarded as ‘<<sensitive-data,sensitive>>’. Sensitive information is any, which if released to the public, would result in an ‘adverse effect’ on the taxon or attribute in question or to a living individual. A number of factors need to be taken into account when determining sensitivity, including the type and level of threat, vulnerability of the taxon or attribute, type of information and whether it is already publicly available. Determining these factors leads us to a criteria-based approach."
-msgstr ""
+msgstr "Dans un premier temps, les détenteurs d'informations doivent identifier les données considérées comme « <<sensitive-data,sensible>> ». Une information est considérée comme délicate si sa divulgation au public aurait un effet néfaste sur le taxon ou l'attribut concerné, ou sur une personne physique. Plusieurs facteurs doivent être pris en compte pour déterminer la sensibilité d'une information, notamment le type et le niveau de la menace, la vulnérabilité du taxon ou de l'attribut, le type d'information et sa disponibilité publique. La détermination de ces facteurs mène à une approche fondée sur des critères."
 
 #. type: Plain text
 #: 200.en.adoc:6
