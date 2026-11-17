@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2023-06-27 17:24+0000\n"
-"PO-Revision-Date: 2026-11-17 15:33\n"
+"PO-Revision-Date: 2026-11-17 20:37\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -325,12 +325,12 @@ msgstr "Dans un premier temps, les détenteurs d'informations doivent identifier
 #. type: Plain text
 #: 200.en.adoc:6
 msgid "Information cannot be considered sensitive if it is readily available through other sources or if it is not unique. This principle has been identified in a number of sensitive data policies (http://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf[AMEC Earth and Environmental 2010^], https://www.environment.gov.au/system/files/resources/246e674a-feb1-4399-a678-be9f4b6a6800/files/sensitive-ecological-data-access-mgt-policy.pdf[Australian Government 2016^])."
-msgstr ""
+msgstr "Une information ne peut être considérée comme sensible si elle est facilement accessible par d'autres sources ou si elle n'est pas unique. Ce principe a été identifié dans plusieurs politiques relatives aux données sensibles (https://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf[Natural Resources Canada, AMEC Earth and Environmental 2010^], https://www.environment.gov.au/system/files/resources/246e674a-feb1-4399-a678-be9f4b6a6800/files/sensitive-ecological-data-access-mgt-policy.pdf[Gouvernement australien 2016^])."
 
 #. type: Plain text
 #: 200.en.adoc:8
 msgid "It would appear that herbaria are more inclined to restrict their data than mammal or insect collections (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]). Perhaps this is because plants don’t move and the exact location of a collection is likely to lead one to an actual plant on the ground, whereas mammals and insects tend to move around. One entomologist commented that professional collectors and amateur groups often know more than the scientists about the location of rare species. However, there are categories of animals where the exact locations were thought to be sensitive and included bat roosting and maternity sites, nesting sites of falcons, and the location of various lizards, tortoise, butterfly species and large mammals. With plants, there is also a strong leaning towards not making information available for plants likely to be collected (pirated) such as cacti in Arizona, orchids and cycads. The protection of sensitive fossil sites was also identified. One unfortunate aspect is the susceptibility of a small number of taxa in a group (such as a few charismatic cacti, or orchids, etc.). This can often mean that all taxa in that group are then regarded as sensitive and the data on them restricted, even though many of those taxa are not themselves sensitive or susceptible to harmful acts."
-msgstr ""
+msgstr "Il semblerait que les herbiers soient plus enclins à restreindre la diffusion de leurs données que les collections de mammifères ou d'insectes (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]). Cela est peut-être dû au fait que les plantes sont immobiles et que la localisation précise d'une collection permet généralement de trouver une plante sur place, contrairement aux mammifères et aux insectes qui se déplacent. Un entomologiste a fait remarquer que les collectionneurs professionnels et les groupes d'amateurs connaissent souvent mieux que les scientifiques la localisation des espèces rares. Cependant, pour certaines catégories d'animaux, la localisation exacte est jugée sensible : il s'agit notamment des gîtes et des sites de mise bas des chauves-souris, des nids de faucons, ainsi que de la localisation de diverses espèces de lézards, de tortues, de papillons et de grands mammifères. Concernant les plantes, on observe également une forte tendance à ne pas divulguer d'informations sur les plantes susceptibles d'être récoltées (piratées), comme les cactus en Arizona, les orchidées (Orchidaceae) et les cycadées (Cycadales). La protection des sites fossilifères sensibles a aussi été évoquée. Un aspect regrettable est la sensibilité d'un petit nombre de taxons au sein d'un groupe (comme quelques cactus ou orchidées emblématiques). Il arrive souvent que tous les taxons de ce groupe soient alors considérés comme sensibles et que les données les concernant soient restreintes, même si plusieurs d'entre eux ne sont en réalité ni sensibles ni vulnérables aux actes nuisibles."
 
 #. type: Plain text
 #: 200.en.adoc:10
