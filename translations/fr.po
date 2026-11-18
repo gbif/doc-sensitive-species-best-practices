@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2023-06-27 17:24+0000\n"
-"PO-Revision-Date: 2026-11-17 20:37\n"
+"PO-Revision-Date: 2026-11-18 15:20\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -335,40 +335,40 @@ msgstr "Il semblerait que les herbiers soient plus enclins à restreindre la dif
 #. type: Plain text
 #: 200.en.adoc:10
 msgid "On the other hand, some institutions have found benefit in working with the general public to gather information and to protect rare taxa, using the public and special interest groups to survey existing locations and to help locate new locations. There are good examples with birds, lizards, frogs, butterflies and various plant species (including orchids) in a number of countries. Several people have raised the issue of the balance between protecting taxa through knowledge of where they occur as opposed to protection through restricting knowledge of their occurrence at a location. This is very taxon (and maybe region) specific and certain taxa may be in greater danger due to inadvertent destruction through lack of knowledge than through deliberate collection and destruction through knowledge of locations. For this reason, a list of sensitive taxa should be quite different to a list of rare or threatened taxa, although there is likely to be considerable overlap between the two. It should be noted, also, that what is sensitive today, may not be sensitive tomorrow and vice versa, and this should lead to review on a periodic basis to determine whether the context has changed over time (http://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf[AMEC Earth and Environmental 2010^])."
-msgstr ""
+msgstr "En revanche, certaines institutions ont profité de la collaboration avec le grand public pour recueillir des informations et protéger les taxons rares, en s'appuyant sur le public et les groupes d'intérêt pour recenser les sites existants et en identifier de nouveaux. On trouve de bons exemples d'oiseaux, de lézards, de grenouilles, de papillons et de diverses espèces végétales (dont les orchidées) dans plusieurs pays. La question de l'équilibre entre la protection des taxons par la connaissance de leur répartition géographique et leur protection par la restriction de la connaissance de leur présence dans un lieu donné a été soulevée par plusieurs personnes. Cette question est très spécifique à chaque taxon (et parfois à chaque région), et certains taxons peuvent être davantage menacés par une destruction accidentelle due à un manque de connaissances que par une collecte et une destruction délibérées fondées sur la connaissance des sites. C'est pourquoi une liste de taxons sensibles devrait être très différente d'une liste de taxons rares ou menacés, même s'il existe probablement un chevauchement important entre les deux. Il convient également de noter que ce qui est sensible aujourd’hui pourrait ne plus l’être demain et vice versa, et cela devrait donner lieu à un examen périodique afin de déterminer si le contexte a changé au fil du temps (https://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf[AMEC Earth and Environmental 2010^])."
 
 #. type: Plain text
 #: 200.en.adoc:12
 msgid "As noted in an article in _Science_ (https://doi.org/10.1126/science.312.5777.1137b[Stuart et al. 2006^]), three newly discovered amphibian and reptile species rapidly appeared in commercial trade shortly after their descriptions in the scientific literature. This is an issue of concern to biologists and especially to taxonomists (https://www.chronicle.com/article/Endangered-by-Research/26117[Guterman 2006^]) – how much information should be released in publication when describing a new taxon. There are a number of examples in coral-reef fish where a new species has appeared in the commercial trade soon after it is scientifically described."
-msgstr ""
+msgstr "Comme le souligne un article de _Science_ (https://doi.org/10.1126/science.312.5777.1137b [Stuart et al. 2006]), trois espèces d'amphibiens et de reptiles nouvellement découvertes sont apparues rapidement dans le commerce peu après leur description dans la littérature scientifique. Ce phénomène préoccupe les biologistes, et notamment les taxonomistes (https://www.chronicle.com/article/Endangered-by-Research/26117 [Guterman 2006]), qui s'interrogent sur la quantité d'informations à divulguer lors de la description d'un nouveau taxon. On trouve plusieurs exemples, chez les poissons récifaux, d'espèces nouvellement découvertes dans le commerce peu après leur description scientifique."
 
 #. type: Positional ($2) AttributeList argument for style 'quote'
 #: 200.en.adoc:13
 #, no-wrap
 msgid "Richard Pyle"
-msgstr ""
+msgstr "Richard Pyle"
 
 #. type: Positional ($3) AttributeList argument for style 'quote'
 #: 200.en.adoc:13
 #, no-wrap
 msgid "personal communication 2006"
-msgstr ""
+msgstr "communication personnelle 2006"
 
 #. type: delimited block _
 #: 200.en.adoc:16
 msgid "A few examples with which I have had direct experience include _Centropyge boylei_, _Centropyge narcosis_ [and] _Belonoperce pylei_ … among a number of others."
-msgstr ""
+msgstr "Quelques exemples avec lesquels j'ai eu une expérience directe incluent _Centropyge boylei_, _Centropyge narcosis_ [et] _Belonoperce pylei_ … parmi un certain nombre d'autres."
 
 #. type: delimited block _
 #: 200.en.adoc:18
 msgid "Often in these and other cases, the existence of the new species is brought to the attention of the scientific community ‘by’ the commercial (aquarium) trade; rather than the other way around. Thus, it is usually not considered so much of a ‘problem’, but rather a sort of ‘symbiotic’ relationship between the commercial trade and the taxonomists. Moreover, in such cases in reef fishes, the species has eluded prior discovery not so much because it is rare or has an extremely restricted distribution, but because it simply lives somewhere that scientists have not yet been able to survey. Hence, there are usually few, if any, conservation implications in this context."
-msgstr ""
+msgstr "Souvent, dans ces cas et d'autres semblables, l'existence de la nouvelle espèce est portée à l'attention de la communauté scientifique par le commerce (aquariophile), et non l'inverse. En conséquence, il est généralement perçu non pas comme un problème, mais plutôt comme une relation symbiotique entre le commerce et les taxonomistes. D'ailleurs, chez les poissons récifaux, si l'espèce est restée jusqu'alors inconnue, ce n'est pas tant parce qu'elle est rare ou qu'elle a une aire de répartition extrêmement restreinte, mais simplement parce qu'elle vit dans une zone encore inexplorée par les scientifiques. En conséquence, les implications en matière de conservation sont généralement faibles, voire inexistantes."
 
 #. type: Title ===
 #: 200.en.adoc:20
 #, no-wrap
 msgid "Criteria for determining sensitivity "
-msgstr ""
+msgstr "Critères de détermination de la sensibilité "
 
 #. type: Plain text
 #: 200.en.adoc:23
@@ -806,7 +806,7 @@ msgstr ""
 #: 300.en.adoc:1
 #, no-wrap
 msgid "Generalizing textual information"
-msgstr ""
+msgstr "Généralisation de l'information textuelle"
 
 #. type: Plain text
 #: 300.en.adoc:3
