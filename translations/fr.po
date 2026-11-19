@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
-"POT-Creation-Date: 2023-05-01 16:46+0000\n"
-"PO-Revision-Date: 2023-05-01 17:46\n"
+"POT-Creation-Date: 2023-06-27 17:24+0000\n"
+"PO-Revision-Date: 2026-11-19 11:38\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -30,7 +30,7 @@ msgstr "Arthur D. Chapman"
 #. type: Plain text
 #: index.en.adoc:17
 msgid "languageLinks:combined[]"
-msgstr ""
+msgstr "languageLinks:combined[]"
 
 #. type: Target for macro image
 #: colophon.en.adoc:3
@@ -53,7 +53,7 @@ msgstr "Suggestion de citation"
 #. type: Plain text
 #: colophon.en.adoc:11
 msgid "Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10."
-msgstr "Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10."
+msgstr "Chapman AD (2020) Les bonnes pratiques actuelles pour la généralisation des données d'occurrences d'espèces sensibles. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10."
 
 #. type: Title ===
 #: colophon.en.adoc:12
@@ -150,7 +150,7 @@ msgstr "Un rapport final sur le traitement des données primaires sur les occurr
 #. type: Plain text
 #: introduction.en.adoc:11
 msgid "The final step in that process was to develop a _Guide to Best Practices for Primary Species Occurrence Data_. That document was proposed as an overriding guideline for institutions, data providers and GBIF Nodes to use to develop their own in-house guidelines. Organizations and institutions were encouraged to produce their own internal documents that incorporated the practices outlined in the _Guide_ and related documents such as the https://doi.org/10.15468/doc-2zpf-zf42[_Guide to Best Practices for Georeferencing_^] (Chapman and Wieczorek 2006) and incorporate them into their own working environment. Unfortunately, not as many institutions have taken up the challenge and produced their own internal documents as we had hoped. Two key agencies that have done so, however, are SANBI in South Africa (http://biodiversityadvisor.sanbi.org/wp-content/uploads/2012/09/SANBI-Biodiversity-Information-Policy-Series-Digital-Access-to-Sensitive-Taxon.pdf[SANBI 2010^]) and the Atlas of Living Australia (https://www.ala.org.au/wp-content/uploads/2010/07/ALA-sensitive-data-report-and-proposed-policy-v1.1.pdf[Tann and Flemons 2009^], https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-[ALA 2018a^]) (see <<Implementations,Implementations>>)."
-msgstr "La dernière étape de ce processus consistait à élaborer un _Guide des bonnes pratiques pour les données primaires sur les occurrences d'espèces_. Ce document a été proposé comme directive importante pour les institutions, les fournisseurs de données et les nœuds GBIF à utiliser pour élaborer leurs propres lignes directrices internes. Les organisations et les institutions ont été encouragées à produire leurs propres documents internes en prenant en compte les pratiques décrites dans le _Guide_ et les documents connexes tels que le https://doi. rg/10.15468/doc-2zpf-zf42[_Guide des bonnes pratiques pour le géoréférencement_^] (Chapman et Wieczorek 2006) et les incorporer dans leur propre environnement de travail. Malheureusement, pas autant d'institutions que nous l'avions espéré n'ont relevé le défi et produit leurs propres documents internes. Toutefois, deux agences clés l'ont fait : SANBI en Afrique du Sud (http://biodiversityadvisor.sanbi.org/wp-content/uploads/2012/09/SANBI-Biodiversity-Information-Policy-Series-Digital-Access-to-Sensitive-Taxon. df[SANBI 2010^]) et Atlas of Living Australia (https://www.ala.org.au/wp-content/uploads/2010/07/ALA-sensitive-data-report-and-proposed-policy-v1.1.pdf[Tann and Flemons 2009^], https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-[ALA 2018a^]) (voir <<Implementations,Implementations>>)."
+msgstr "La dernière étape de ce processus consistait à élaborer un _Guide des bonnes pratiques pour les données primaires sur les occurrences d'espèces_. Ce document a été proposé comme directive importante pour les institutions, les fournisseurs de données et les nœuds GBIF à utiliser pour élaborer leurs propres lignes directrices internes. Les organisations et les institutions ont été encouragées à produire leurs propres documents internes en prenant en compte les pratiques décrites dans le _Guide_ et les documents connexes tels que le https://doi.org/10.15468/doc-2zpf-zf42[_Guide des bonnes pratiques pour le géoréférencement_^] (Chapman et Wieczorek 2006) et les incorporer dans leur propre environnement de travail. Malheureusement, pas autant d'institutions que nous l'avions espéré n'ont relevé le défi et produit leurs propres documents internes. Toutefois, deux agences clés l'ont fait : SANBI en Afrique du Sud (https://opus.sanbi.org/bitstreams/adce370f-bbfe-4ee5-b869-f401efb416d9/download[SANBI 2010^]) et Atlas of Living Australia (https://www.ala.org.au/wp-content/uploads/2010/07/ALA-sensitive-data-report-and-proposed-policy-v1.1.pdf[Tann and Flemons 2009^], https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-[ALA 2018a^]) (voir <<Implementations,Implementations>>)."
 
 #. type: Plain text
 #: introduction.en.adoc:13
@@ -208,7 +208,7 @@ msgstr "Le terme « bonnes pratiques » fait généralement référence à la me
 #. type: Plain text
 #: introduction.en.adoc:33
 msgid "Two issues that this and the previous document have not covered are the issues of the privacy of living individuals and the development of data sharing and data licensing agreements. Both of these issues have legal implications and vary considerably from jurisdiction to jurisdiction. These issues have been covered in detail by others (e.g. https://doi.org/10.17169/fqs-1.3.1024[Corti et al. 2000^], https://doi.org/10.1177/0038038504039366[Parry and Mauthner 2004^], https://www.gbif.org/terms/data-publisher[GBIF 2017^], https://doi.org/10.15468/39omei[GBIF 2019], https://support.ala.org.au/support/solutions/articles/6000195495-what-is-data-licensing-[ALA 2018b^], https://www.environment.nsw.gov.au/topics/animals-and-plants/wildlife-management/wildlife-policies-and-guidelines/sensitive-species-data[OEH 2019b^])."
-msgstr "Deux questions que ce document et le document précédent n'ont pas couvertes sont les questions de la vie privée des personnes vivantes et l'élaboration d'accords de partage de données et de licences de données. Ces deux questions ont des implications juridiques et varient considérablement d'une juridiction à l'autre. Ces problèmes ont été couverts en détail par d'autres (par exemple, https://doi.org/10.17169/fqs-1.3.1024[Corti et al. 2000^], https://doi. rg/10.1177/0038038504039366[Parry and Mauthner 2004^], https://www.gbif.org/terms/data-publisher[GBIF 2017^], https://doi.org/10.15468/39omei[GBIF 2019], https://support.ala.org.au/support/solutions/articles/6000195495-what-is-data-licensing-[ALA 2018b^], https://www.environment.nsw.gov.au/topics/animals-and-plants/wildlife-management/wildlife-policies-and-guidelines/sensitive-species-data[OEH 2019b^])."
+msgstr "Deux questions que ce document et le document précédent n'ont pas couvertes sont les questions de la vie privée des personnes vivantes et l'élaboration d'accords de partage de données et de licences de données. Ces deux questions ont des implications juridiques et varient considérablement d'une juridiction à l'autre. Ces problèmes ont été couverts en détail par d'autres (par exemple, https://doi.org/10.17169/fqs-1.3.1024[Corti et al. 2000^], https://doi.org/10.1177/0038038504039366[Parry and Mauthner 2004^], https://www.gbif.org/terms/data-publisher[GBIF 2017^], https://doi.org/10.15468/39omei[GBIF 2019], https://support.ala.org.au/support/solutions/articles/6000195495-what-is-data-licensing-[ALA 2018b^], https://www.environment.nsw.gov.au/topics/animals-and-plants/wildlife-management/wildlife-policies-and-guidelines/sensitive-species-data[OEH 2019b^])."
 
 #. type: Plain text
 #: introduction.en.adoc:35
@@ -228,7 +228,7 @@ msgstr "la fondation de la Société d'Archéologie Américaine (SAA) était en 
 #. type: Plain text
 #: introduction.en.adoc:42
 msgid "Nineteen years later, the archaeologists continue to grapple as pointed out by http://hdl.handle.net/2027.42/115883[Frank et al. (2015)^] in discussing the results of 62 interviews of archaeologists and zoologists conducted by them. They concluded that “Researchers would generally prefer to restrict access to their data from the general public but maintain open data for colleagues”, while realizing the extreme difficulties in managing such a process."
-msgstr "Dix-neuf ans après, les archéologues continuent à y être confrontés, comme le signale http://hdl.handle.net/2027. 2/115883[Frank et al. (2015)^] dans les discussions des résultats de 62 entrevues d'archéologues et de zoologistes qu'ils ont conduits. Ils ont conclu que « les chercheurs préféreraient généralement restreindre l’accès à leurs données auprès du grand public mais maintenir des données ouvertes pour leurs collègues », tout en réalisant les difficultés extrêmes de gestion d'un tel processus."
+msgstr "Dix-neuf ans après, les archéologues continuent à y être confrontés, comme le signale https://hdl.handle.net/2027.42/115883[Frank et al. (2015)^] dans les discussions des résultats de 62 entrevues d'archéologues et de zoologistes qu'ils ont conduits. Ils ont conclu que « les chercheurs préféreraient généralement restreindre l’accès à leurs données auprès du grand public mais maintenir des données ouvertes pour leurs collègues », tout en réalisant les difficultés extrêmes de gestion d'un tel processus."
 
 #. type: Plain text
 #: introduction.en.adoc:44
@@ -249,153 +249,153 @@ msgstr "Principes"
 #. type: Plain text
 #: 100.en.adoc:4
 msgid "Biodiversity information should be made freely available to be shared globally to enable their use for not-for-profit decision making, education, research and other public benefit purposes. Making the full detail of biodiversity information available should reduce the risk of damage to the environment and help safeguard a sustainable future. Where release will have the opposite effect, access to the full detail may need to be controlled."
-msgstr ""
+msgstr "L'information sur la biodiversité devraient être librement accessibles et partagés à l'échelle mondiale afin de permettre leur utilisation à des fins non lucratives de prise de décision, d'éducation, de recherche et autres actions d'intérêt public. La diffusion de toutes les données relatives à la biodiversité devrait réduire les risques de dommages à l'environnement et contribuer à la préservation d'un avenir durable. Lorsque leur diffusion risque d'avoir l'effet inverse, il pourrait être nécessaire de contrôler l'accès à ces informations."
 
 #. type: Plain text
 #: 100.en.adoc:6
 msgid "Below are a set of high-level principles related to the sharing of data generally and the sharing of sensitive data in particular."
-msgstr ""
+msgstr "Vous trouverez ci-dessous un ensemble de principes généraux relatifs au partage des données en général et, en particulier, au partage des données sensibles."
 
 #. type: Plain text
 #: 100.en.adoc:8
 msgid "The management of sensitive data is integral to ethical data management."
-msgstr ""
+msgstr "La gestion des données sensibles fait partie intégrante d'une gestion éthique des données."
 
 #. type: Plain text
 #: 100.en.adoc:9
 msgid "Wherever possible, environmental information should be freely available to all. Generally this benefits the environment by increasing awareness, enabling better decision-making and reducing risk of damage."
-msgstr ""
+msgstr "Dans la mesure du possible, l'information environnementale devrait être accessible gratuitement à tous. En général, c'est bénéfique pour l'environnement parce que cela sensibilise le public, permet une meilleure prise de décisions et réduit les risques de dommages."
 
 #. type: Plain text
 #: 100.en.adoc:10
 msgid "Public release of information can sometimes result in environmental harm. In such cases availability of information may need to be controlled; although the presumption remains in favour of release and any restrictions should be assessed and reviewed rigorously."
-msgstr ""
+msgstr "La diffusion publique d'informations peut parfois causer des dommages environnementaux. Dans de tels cas, il peut s'avérer nécessaire de contrôler l'accès à l'information ; cependant, la présomption de diffusion demeure et toute restriction doit être évaluée et réexaminée avec rigueur."
 
 #. type: Plain text
 #: 100.en.adoc:11 200.en.adoc:316
 msgid "All data regarded as being sensitive should include a date for review of their sensitivity status, along with documented reasons for the sensitivity status. The date for review may be short or long depending on the nature of the sensitivity."
-msgstr ""
+msgstr "Toutes les données considérées comme sensibles doivent comporter une date de réévaluation de leur niveau de sensibilité, ainsi que les raisons documentées justifiant ce niveau. La durée de cette réévaluation peut varier selon la nature de la sensibilité des données."
 
 #. type: Plain text
 #: 100.en.adoc:13
 msgid "Whenever a data provider receives an application for enhanced access to restricted data, they should avoid assuming continued sensitivity and use it as an opportunity to revisit the determination."
-msgstr ""
+msgstr "Chaque fois qu'un fournisseur de données reçoit une demande d'accès amélioré à des données restreintes, il doit éviter de présumer que la sensibilité continue et utiliser cette opportunité pour revoir sa décision."
 
 #. type: Plain text
 #: 100.en.adoc:16
 msgid "If the data is to be restricted for distribution, then this should only be done to a copy of the data at the time of their distribution. Data should never be altered, falsified or deleted from the stored record."
-msgstr ""
+msgstr "Si la diffusion des données doit être restreinte, cette restriction ne doit concerner qu'une copie des données au moment de leur diffusion. Les données stockées ne doivent en aucun cas être altérées, falsifiées ou supprimées de l'enregistrement."
 
 #. type: Plain text
 #: 100.en.adoc:17
 msgid "Documentation is essential for many reasons, and where data have been restricted or generalized, it is important that the reason(s) for the categorization is recorded as metadata that remains with the record."
-msgstr ""
+msgstr "La documentation est essentielle pour de nombreuses raisons, et lorsque les données ont été restreintes ou généralisées, il est important que la ou les raisons de la catégorisation soient enregistrées en tant que métadonnées qui restent associées à l'enregistrement."
 
 #. type: Plain text
 #: 100.en.adoc:18
 msgid "Where data is restricted or generalized for distribution (such as the name of a collector, textual locality information, etc.), this should be documented by replacing with appropriate wording − the field should not be left blank or null."
-msgstr ""
+msgstr "Lorsque les données sont restreintes ou généralisées pour la distribution (comme le nom d'un collecteur, des informations textuelles sur la localité, etc.), cela doit être documenté en remplaçant par une formulation appropriée - le champ ne doit pas être laissé vide ou nul."
 
 #. type: Plain text
 #: 100.en.adoc:19
 msgid "There are extremely strong reasons *not* to restrict data on related collections (e.g. collector’s numbers in sequence, collector’s name, etc.) because of the restrictions this places on data quality and data validation procedures, etc."
-msgstr ""
+msgstr "Il existe des raisons extrêmement fortes pour *ne pas* restreindre les données sur les collections associées (par exemple, les numéros des collectionneurs dans l'ordre, le nom du collectionneur, etc.) en raison des restrictions que cela impose sur la qualité des données et les procédures de validation des données, etc."
 
 #. type: Plain text
 #: 100.en.adoc:20
 msgid "Users of sensitive data should comply with any and all restrictions of access that the data provider has placed on the data. If granted enhanced access to restricted information, users must not compromise or otherwise infringe the confidentiality of such information."
-msgstr ""
+msgstr "Les utilisateurs de données sensibles doivent respecter toutes les restrictions d'accès imposées par le fournisseur de données. S'ils bénéficient d'un accès étendu à des renseignements confidentiels, ils ne doivent en aucun cas compromettre ni enfreindre leur confidentialité."
 
 #. type: Plain text
 #: 100.en.adoc:21
 msgid "Data providers should respect the needs of data users to have access to data and documentation in order to determine the ‘fitness for use’ of the data and to ensure that analyses are robust and not misleading."
-msgstr ""
+msgstr "Les fournisseurs de données doivent respecter le besoin des utilisateurs d'accéder aux données et à la documentation afin de déterminer l'adéquation des données à l'utilisation et de s'assurer que les analyses sont robustes et non trompeuses."
 
 #. type: Title ==
 #: 200.en.adoc:1
 #, no-wrap
 msgid "Determining sensitivity"
-msgstr ""
+msgstr "Détermination de la sensibilité"
 
 #. type: Plain text
 #: 200.en.adoc:4
 msgid "As a first step, information holders need to identify any data which are regarded as ‘<<sensitive-data,sensitive>>’. Sensitive information is any, which if released to the public, would result in an ‘adverse effect’ on the taxon or attribute in question or to a living individual. A number of factors need to be taken into account when determining sensitivity, including the type and level of threat, vulnerability of the taxon or attribute, type of information and whether it is already publicly available. Determining these factors leads us to a criteria-based approach."
-msgstr ""
+msgstr "Dans un premier temps, les détenteurs d'informations doivent identifier les données considérées comme « <<sensitive-data,sensible>> ». Une information est considérée comme délicate si sa divulgation au public aurait un effet néfaste sur le taxon ou l'attribut concerné, ou sur une personne physique. Plusieurs facteurs doivent être pris en compte pour déterminer la sensibilité d'une information, notamment le type et le niveau de la menace, la vulnérabilité du taxon ou de l'attribut, le type d'information et sa disponibilité publique. La détermination de ces facteurs mène à une approche fondée sur des critères."
 
 #. type: Plain text
 #: 200.en.adoc:6
 msgid "Information cannot be considered sensitive if it is readily available through other sources or if it is not unique. This principle has been identified in a number of sensitive data policies (http://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf[AMEC Earth and Environmental 2010^], https://www.environment.gov.au/system/files/resources/246e674a-feb1-4399-a678-be9f4b6a6800/files/sensitive-ecological-data-access-mgt-policy.pdf[Australian Government 2016^])."
-msgstr ""
+msgstr "Une information ne peut être considérée comme sensible si elle est facilement accessible par d'autres sources ou si elle n'est pas unique. Ce principe a été identifié dans plusieurs politiques relatives aux données sensibles (https://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf[Natural Resources Canada, AMEC Earth and Environmental 2010^], https://www.environment.gov.au/system/files/resources/246e674a-feb1-4399-a678-be9f4b6a6800/files/sensitive-ecological-data-access-mgt-policy.pdf[Gouvernement australien 2016^])."
 
 #. type: Plain text
 #: 200.en.adoc:8
 msgid "It would appear that herbaria are more inclined to restrict their data than mammal or insect collections (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]). Perhaps this is because plants don’t move and the exact location of a collection is likely to lead one to an actual plant on the ground, whereas mammals and insects tend to move around. One entomologist commented that professional collectors and amateur groups often know more than the scientists about the location of rare species. However, there are categories of animals where the exact locations were thought to be sensitive and included bat roosting and maternity sites, nesting sites of falcons, and the location of various lizards, tortoise, butterfly species and large mammals. With plants, there is also a strong leaning towards not making information available for plants likely to be collected (pirated) such as cacti in Arizona, orchids and cycads. The protection of sensitive fossil sites was also identified. One unfortunate aspect is the susceptibility of a small number of taxa in a group (such as a few charismatic cacti, or orchids, etc.). This can often mean that all taxa in that group are then regarded as sensitive and the data on them restricted, even though many of those taxa are not themselves sensitive or susceptible to harmful acts."
-msgstr ""
+msgstr "Il semblerait que les herbiers soient plus enclins à restreindre la diffusion de leurs données que les collections de mammifères ou d'insectes (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]). Cela est peut-être dû au fait que les plantes sont immobiles et que la localisation précise d'une collection permet généralement de trouver une plante sur place, contrairement aux mammifères et aux insectes qui se déplacent. Un entomologiste a fait remarquer que les collectionneurs professionnels et les groupes d'amateurs connaissent souvent mieux que les scientifiques la localisation des espèces rares. Cependant, pour certaines catégories d'animaux, la localisation exacte est jugée sensible : il s'agit notamment des gîtes et des sites de mise bas des chauves-souris, des nids de faucons, ainsi que de la localisation de diverses espèces de lézards, de tortues, de papillons et de grands mammifères. Concernant les plantes, on observe également une forte tendance à ne pas divulguer d'informations sur les plantes susceptibles d'être récoltées (piratées), comme les cactus en Arizona, les orchidées (Orchidaceae) et les cycadées (Cycadales). La protection des sites fossilifères sensibles a aussi été évoquée. Un aspect regrettable est la sensibilité d'un petit nombre de taxons au sein d'un groupe (comme quelques cactus ou orchidées emblématiques). Il arrive souvent que tous les taxons de ce groupe soient alors considérés comme sensibles et que les données les concernant soient restreintes, même si plusieurs d'entre eux ne sont en réalité ni sensibles ni vulnérables aux actes nuisibles."
 
 #. type: Plain text
 #: 200.en.adoc:10
 msgid "On the other hand, some institutions have found benefit in working with the general public to gather information and to protect rare taxa, using the public and special interest groups to survey existing locations and to help locate new locations. There are good examples with birds, lizards, frogs, butterflies and various plant species (including orchids) in a number of countries. Several people have raised the issue of the balance between protecting taxa through knowledge of where they occur as opposed to protection through restricting knowledge of their occurrence at a location. This is very taxon (and maybe region) specific and certain taxa may be in greater danger due to inadvertent destruction through lack of knowledge than through deliberate collection and destruction through knowledge of locations. For this reason, a list of sensitive taxa should be quite different to a list of rare or threatened taxa, although there is likely to be considerable overlap between the two. It should be noted, also, that what is sensitive today, may not be sensitive tomorrow and vice versa, and this should lead to review on a periodic basis to determine whether the context has changed over time (http://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf[AMEC Earth and Environmental 2010^])."
-msgstr ""
+msgstr "En revanche, certaines institutions ont profité de la collaboration avec le grand public pour recueillir des informations et protéger les taxons rares, en s'appuyant sur le public et les groupes d'intérêt pour recenser les sites existants et en identifier de nouveaux. On trouve de bons exemples d'oiseaux, de lézards, de grenouilles, de papillons et de diverses espèces végétales (dont les orchidées) dans plusieurs pays. La question de l'équilibre entre la protection des taxons par la connaissance de leur répartition géographique et leur protection par la restriction de la connaissance de leur présence dans un lieu donné a été soulevée par plusieurs personnes. Cette question est très spécifique à chaque taxon (et parfois à chaque région), et certains taxons peuvent être davantage menacés par une destruction accidentelle due à un manque de connaissances que par une collecte et une destruction délibérées fondées sur la connaissance des sites. C'est pourquoi une liste de taxons sensibles devrait être très différente d'une liste de taxons rares ou menacés, même s'il existe probablement un chevauchement important entre les deux. Il convient également de noter que ce qui est sensible aujourd’hui pourrait ne plus l’être demain et vice versa, et cela devrait donner lieu à un examen périodique afin de déterminer si le contexte a changé au fil du temps (https://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf[AMEC Earth and Environmental 2010^])."
 
 #. type: Plain text
 #: 200.en.adoc:12
 msgid "As noted in an article in _Science_ (https://doi.org/10.1126/science.312.5777.1137b[Stuart et al. 2006^]), three newly discovered amphibian and reptile species rapidly appeared in commercial trade shortly after their descriptions in the scientific literature. This is an issue of concern to biologists and especially to taxonomists (https://www.chronicle.com/article/Endangered-by-Research/26117[Guterman 2006^]) – how much information should be released in publication when describing a new taxon. There are a number of examples in coral-reef fish where a new species has appeared in the commercial trade soon after it is scientifically described."
-msgstr ""
+msgstr "Comme le souligne un article de _Science_ (https://doi.org/10.1126/science.312.5777.1137b [Stuart et al. 2006]), trois espèces d'amphibiens et de reptiles nouvellement découvertes sont apparues rapidement dans le commerce peu après leur description dans la littérature scientifique. Ce phénomène préoccupe les biologistes, et notamment les taxonomistes (https://www.chronicle.com/article/Endangered-by-Research/26117 [Guterman 2006]), qui s'interrogent sur la quantité d'informations à divulguer lors de la description d'un nouveau taxon. On trouve plusieurs exemples, chez les poissons récifaux, d'espèces nouvellement découvertes dans le commerce peu après leur description scientifique."
 
 #. type: Positional ($2) AttributeList argument for style 'quote'
 #: 200.en.adoc:13
 #, no-wrap
 msgid "Richard Pyle"
-msgstr ""
+msgstr "Richard Pyle"
 
 #. type: Positional ($3) AttributeList argument for style 'quote'
 #: 200.en.adoc:13
 #, no-wrap
 msgid "personal communication 2006"
-msgstr ""
+msgstr "communication personnelle 2006"
 
 #. type: delimited block _
 #: 200.en.adoc:16
 msgid "A few examples with which I have had direct experience include _Centropyge boylei_, _Centropyge narcosis_ [and] _Belonoperce pylei_ … among a number of others."
-msgstr ""
+msgstr "Quelques exemples avec lesquels j'ai eu une expérience directe incluent _Centropyge boylei_, _Centropyge narcosis_ [et] _Belonoperce pylei_ … parmi un certain nombre d'autres."
 
 #. type: delimited block _
 #: 200.en.adoc:18
 msgid "Often in these and other cases, the existence of the new species is brought to the attention of the scientific community ‘by’ the commercial (aquarium) trade; rather than the other way around. Thus, it is usually not considered so much of a ‘problem’, but rather a sort of ‘symbiotic’ relationship between the commercial trade and the taxonomists. Moreover, in such cases in reef fishes, the species has eluded prior discovery not so much because it is rare or has an extremely restricted distribution, but because it simply lives somewhere that scientists have not yet been able to survey. Hence, there are usually few, if any, conservation implications in this context."
-msgstr ""
+msgstr "Souvent, dans ces cas et d'autres semblables, l'existence de la nouvelle espèce est portée à l'attention de la communauté scientifique par le commerce (aquariophile), et non l'inverse. En conséquence, il est généralement perçu non pas comme un problème, mais plutôt comme une relation symbiotique entre le commerce et les taxonomistes. D'ailleurs, chez les poissons récifaux, si l'espèce est restée jusqu'alors inconnue, ce n'est pas tant parce qu'elle est rare ou qu'elle a une aire de répartition extrêmement restreinte, mais simplement parce qu'elle vit dans une zone encore inexplorée par les scientifiques. En conséquence, les implications en matière de conservation sont généralement faibles, voire inexistantes."
 
 #. type: Title ===
 #: 200.en.adoc:20
 #, no-wrap
 msgid "Criteria for determining sensitivity "
-msgstr ""
+msgstr "Critères de détermination de la sensibilité "
 
 #. type: Plain text
 #: 200.en.adoc:23
 msgid "The National Biodiversity Network (NBN) in the UK (<<oin,Countryside Agencies OIN 2007>>), and the Department of Environment and Conservation in New South Wales, Australia (<<nsw,Department of Environment and Conservation 2007>>) developed detailed sensitivity criteria, and the previous version of this publication (https://doi.org/10.15468/doc-b02j-gt10[Chapman and Oliver 2008^]) relied heavily on the work of those two agencies. Since the publication of the previous _Guide_, both these agencies (https://www.environment.nsw.gov.au/resources/nature/SensitiveSpeciesPolicyDEC09.pdf[DECCW 2009^], https://nbn.org.uk/the-national-biodiversity-network/archive-information/data-exchange-principles/[NBN 2019a^], https://nbn.org.uk/sensitive-data/[NBN 2019b^], https://www.environment.nsw.gov.au/topics/animals-and-plants/wildlife-management/wildlife-policies-and-guidelines/sensitive-species-data[OEH 2019a^]) along with the South African National Biodiversity Institute (http://biodiversityadvisor.sanbi.org/wp-content/uploads/2012/09/SANBI-Biodiversity-Information-Policy-Series-Digital-Access-to-Sensitive-Taxon.pdf[SANBI 2010^], http://biodiversityadvisor.sanbi.org/wp-content/uploads/2017/06/20160819-NSSL-Workshop-Report.pdf[SANBI 2016^]), the Atlas of Living Australia (https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-[ALA 2018a^]) and others, have given a lot of thought to criteria for determining sensitivity within their jurisdictions. Documentation from all of them have contributed greatly to this document."
-msgstr ""
+msgstr "Le Réseau national de la biodiversité (NBN) au Royaume-Uni (<<oin,Countryside Agencies OIN 2007>>) et le ministère de l'Environnement et de la Conservation de la Nouvelle-Galles du Sud, en Australie (<<nsw,Department of Environment and Conservation 2007>) ont élaboré des critères de sensibilité détaillés, et la version précédente de cette publication (https://doi.org/10.15468/doc-b02j-gt10[Chapman et Oliver 2008^]) s'appuyait fortement sur les travaux de ces deux organismes. Depuis la publication du précédent _Guide_, ces deux organismes (https://www.environment.nsw.gov.au/topics/animals-and-plants/wildlife-management/wildlife-policies-and-guidelines/sensitive-species-data-policy-wildlife-management[DECCW 2009^], https://nbn.org.uk/the-national-biodiversity-network/archive-information/data-exchange-principles/[NBN 2019a^], https://nbn.org.uk/sensitive-data/[NBN 2019b^]) ainsi que l'Institut national sud-africain de la biodiversité (https://opus.sanbi.org/sanbiserver/api/core/bitstreams/56f77737-4ceb-4e95-8c13-1bd9a13bc373/content[SANBI 2010^], http://biodiversityadvisor.sanbi.org/wp-content/uploads/2017/06/20160819-NSSL-Workshop-Report.pdf[SANBI 2016^]), l'Atlas de la vie en Australie (https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-[ALA 2018a^]) et d'autres encore, ont longuement réfléchi aux critères de détermination de la sensibilité dans leurs juridictions respectives. Leurs contributions documentaires ont grandement enrichi le présent document."
 
 #. type: Plain text
 #: 200.en.adoc:25
 msgid "A series of criteria for determining the sensitivity of taxa and data along with recommended metadata statements for documenting the reasons for the determination are set out in <<table-01,Table 1>>. The first two are for use by biodiversity data holders and those creating trigger lists of potentially sensitive taxa and refer largely to the taxa themselves. The last two are for use by biodiversity data holders and deal with an assessment of the data they hold and are considering making available – they are not suitable for the creation of trigger lists."
-msgstr ""
+msgstr "Le (<<table-01, tableau 1>>) présente une série de critères permettant de déterminer la sensibilité des taxons et des données, ainsi que des métadonnées recommandées pour documenter les raisons de cette détermination. Les deux premiers critères s'adressent aux détenteurs de données sur la biodiversité et à ceux qui établissent des listes de taxons potentiellement sensibles ; ils concernent principalement les taxons eux-mêmes. Les deux derniers critères, également destinés aux détenteurs de données sur la biodiversité, portent sur l'évaluation des données qu'ils détiennent et envisagent de rendre publiques ; ils ne sont pas adaptés à l'établissement de listes de taxons sensibles."
 
 #. type: Plain text
 #: 200.en.adoc:27
 msgid "The criteria are used to determine:"
-msgstr ""
+msgstr "Les critères servent à déterminer :"
 
 #. type: Named 'caption' AttributeList argument for style 'caption'
 #: 200.en.adoc:29
 #, no-wrap
 msgid "Table 1. "
-msgstr ""
+msgstr "Tableau 1. "
 
 #. type: Block title
 #: 200.en.adoc:30
 #, no-wrap
 msgid "Criteria for determining the sensitivity of taxa and data along with recommended metadata statements for documenting the reasons for the determination"
-msgstr ""
+msgstr "Critères de détermination de la sensibilité des taxons et des données, ainsi que les métadonnées recommandées pour documenter les raisons de cette détermination"
 
 #. type: Table
 #: 200.en.adoc:41
@@ -404,27 +404,30 @@ msgid "| 1. *Risk of harm* | An assessment of whether the taxon is subject to ha
 "| 2. *Impact of harm* | An assessment of the sensitivity of the taxon to the harmful human activity.\n\n"
 "| 3. *Sensitivity of data* | An assessment on whether the release of data will increase harm.\n\n"
 "| 4. *Decision on release and category of sensitivity* | A balanced decision regarding the release of the data and a determination of the category of sensitivity, and thus the level of generalization, of the data for release.\n\n"
-msgstr ""
+msgstr "1. *Risque de préjudice* | Évaluation de la vulnérabilité du taxon aux activités humaines nuisibles.\n\n"
+"2. *Impact du préjudice* | Évaluation de la sensibilité du taxon aux activités humaines nuisibles.\n\n"
+"3. *Sensibilité des données* | Évaluation de l'impact potentiel de la diffusion des données sur le préjudice.\n\n"
+"4. *Décision de diffusion et catégorie de sensibilité* | Décision équilibrée concernant la diffusion des données et détermination de leur catégorie de sensibilité, et donc de leur niveau de généralisation.\n\n"
 
 #. type: Plain text
 #: 200.en.adoc:44
 msgid "A set of scenarios using Criteria 1 and 2 above to determine triggers for sensitivity of taxa is attached as an <<annex-01,Annex>> to this document."
-msgstr ""
+msgstr "Un ensemble de scénarios utilisant les critères 1 et 2 ci-dessus pour déterminer les déclencheurs de sensibilité des taxons est joint en tant qu'annexe <<annex-01,Annexe>> à ce document."
 
 #. type: Plain text
 #: 200.en.adoc:46
 msgid "The first step in the process of determining sensitivity is to make an assessment on whether or not the taxon is subject to a harmful human activity or not and if the availability of related biodiversity data will increase the likelihood of the harmful activity occurring."
-msgstr ""
+msgstr "La première étape du processus de détermination de la sensibilité consiste à évaluer si le taxon est soumis ou non à une activité humaine nuisible et si la disponibilité de données connexes sur la biodiversité augmentera la probabilité que cette activité nuisible se produise."
 
 #. type: Plain text
 #: 200.en.adoc:48
 msgid "If it is not then there would appear no reason to list it as a potential environmentally sensitive taxon. It is recommended that you use the documented wording supplied but with additional supporting rational documenting the specifics of the threat, for example:"
-msgstr ""
+msgstr "Sinon, il ne semble pas y avoir de raison de l'inscrire sur la liste des taxons potentiellement sensibles à l'environnement. Il est recommandé d'utiliser la formulation documentée fournie, mais en y ajoutant des éléments justificatifs précisant la nature de la menace, par exemple :"
 
 #. type: Plain text
 #: 200.en.adoc:51
 msgid "The taxon is at risk from harmful human activity – it is subject to attack by Phytophthora which is transported by human operated vehicles."
-msgstr ""
+msgstr "Ce taxon est menacé par les activités humaines néfastes – il est sujet aux attaques du Phytophthora, transporté par les véhicules conduits par l'homme."
 
 #. type: Named 'caption' AttributeList argument for style 'caption'
 #: 200.en.adoc:55
@@ -806,7 +809,7 @@ msgstr ""
 #: 300.en.adoc:1
 #, no-wrap
 msgid "Generalizing textual information"
-msgstr ""
+msgstr "Généralisation de l'information textuelle"
 
 #. type: Plain text
 #: 300.en.adoc:3
@@ -851,42 +854,42 @@ msgstr ""
 #. type: Plain text
 #: 300.en.adoc:13
 msgid "Some of these may need to be restricted to stop correlational analyses leading to deductions on the localities of records that are restricted or generalized – for example the collector’s name, date, and collector’s numbers in sequence. In other cases, it may be necessary to hide the name of a taxon in a list of collections in a biodiversity hotspot or sensitive locality."
-msgstr ""
+msgstr "Il pourrait être nécessaire de restreindre certaines de ces données afin d'éviter que des analyses de corrélation n'aboutissent à des conclusions sur la localisation des spécimens qui sont limitées ou généralisées – par exemple, le nom du collecteur, la date et le numéro du collecteur, présentés de manière séquentielle. Dans d'autres cas, il peut s'avérer nécessaire de masquer le nom d'un taxon dans une liste de spécimens collectés dans un point chaud de biodiversité ou une zone sensible."
 
 #. type: Plain text
 #: 300.en.adoc:15
 msgid "Such restrictions should not restrict the provision of the record as a whole. The data that needs to be hidden may be removed and replaced with suitable wording (see below), or generalized–for example, just giving the name of a higher level taxonomic rank where the species is to be restricted."
-msgstr ""
+msgstr "Ces restrictions ne doivent pas entraver la mise à disposition de l'ensemble du document. Les données à masquer peuvent être supprimées et remplacées par une formulation appropriée (voir ci-dessous), ou généralisées – par exemple, en indiquant simplement le rang taxonomique supérieur auquel l'espèce est soumise."
 
 #. type: Plain text
 #: 300.en.adoc:17
 msgid "Whenever data in a textual field is restricted or generalized for distribution (such as the name of a collector, textual locality information, etc.), it should be documented by replacing it with appropriate wording-the field should not be left blank or null."
-msgstr ""
+msgstr "Lorsque des données dans un champ textuel sont restreintes ou généralisées pour la distribution (comme le nom d'un collecteur, des informations textuelles sur la localité, etc.), cela doit être documenté en les remplaçant par une formulation appropriée ; le champ ne doit pas être laissé vide ou nul."
 
 #. type: Plain text
 #: 300.en.adoc:19
 msgid "Examples of replacement wording include:"
-msgstr ""
+msgstr "Exemples de formulations de remplacement :"
 
 #. type: Plain text
 #: 300.en.adoc:22
 msgid "name suppressed for reasons of privacy"
-msgstr ""
+msgstr "nom non divulgué pour des raisons de confidentialité"
 
 #. type: Plain text
 #: 300.en.adoc:25
 msgid "This specimen represents an endangered or threatened species. The specific locality has been removed from the online record to protect this species from over-collection. These data may be supplied to researchers on request."
-msgstr ""
+msgstr "Ce spécimen représente une espèce menacée ou en voie de disparition. La localité précise a été retirée de la fiche en ligne afin de protéger cette espèce contre la surcollecte. Ces données peuvent être communiquées aux chercheurs sur demande."
 
 #. type: Plain text
 #: 300.en.adoc:28
 msgid "This specimen represents an endangered or threatened species. The specific locality has been generalized to presence within a grid of 0.1 degree resolution. Detailed data may be supplied to researchers on request."
-msgstr ""
+msgstr "Ce spécimen représente une espèce menacée ou en voie de disparition. Son emplacement précis a été estimé à une zone de 0,1 degré de résolution. Des données détaillées peuvent être fournies aux chercheurs sur demande."
 
 #. type: Plain text
 #: 300.en.adoc:30
 msgid "Where there is a need to restrict a taxonomic name (for example of sensitive taxa as part of a survey or checklist), it may be possible to replace it with a higher taxon name (genus/family, etc.) or to just report that there are ‘x’ sensitive taxa present without providing names."
-msgstr ""
+msgstr "Lorsqu'il est nécessaire de restreindre un nom taxonomique (par exemple, pour des taxons sensibles dans le cadre d'une étude ou d'une liste de contrôle), il peut être possible de le remplacer par un nom de taxon supérieur (genre/famille, etc.) ou de simplement signaler la présence de « x » taxons sensibles sans fournir de noms."
 
 #. type: Plain text
 #: 300.en.adoc:32
@@ -1883,7 +1886,7 @@ msgstr ""
 #: acknowledgements.en.adoc:1
 #, no-wrap
 msgid "Acknowledgements"
-msgstr ""
+msgstr "Remerciements"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:4
@@ -1899,7 +1902,7 @@ msgstr ""
 #: bibliography.en.adoc:2
 #, no-wrap
 msgid "References"
-msgstr ""
+msgstr "Références"
 
 #. type: Plain text
 #: bibliography.en.adoc:5
@@ -1938,7 +1941,7 @@ msgstr ""
 
 #.  Previous edition uses "Generalising" spelling
 #. type: Plain text
-#: bibliography.en.adoc:13
+#: bibliography.en.adoc:12
 msgid "[[adc07]] Chapman AD (2007) Dealing with Sensitive Primary Species Occurrence Data. Report. Report to the Global Biodiversity Information Facility. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/rajc-t668"
 msgstr ""
 

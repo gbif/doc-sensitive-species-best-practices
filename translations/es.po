@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
-"POT-Creation-Date: 2023-05-01 16:46+0000\n"
-"PO-Revision-Date: 2023-06-27 17:24\n"
+"POT-Creation-Date: 2023-06-27 17:24+0000\n"
+"PO-Revision-Date: 2026-11-05 11:48\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -2144,7 +2144,7 @@ msgstr "[[adc06]] Chapman AD (2006) Questionnaire on Dealing with Sensitive Prim
 
 #.  Previous edition uses "Generalising" spelling
 #. type: Plain text
-#: bibliography.en.adoc:13
+#: bibliography.en.adoc:12
 msgid "[[adc07]] Chapman AD (2007) Dealing with Sensitive Primary Species Occurrence Data. Report. Report to the Global Biodiversity Information Facility. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/rajc-t668"
 msgstr "[[adc07]] Chapman AD (2007) Dealing with Sensitive Primary Species Occurrence Data. Report. Report to the Global Biodiversity Information Facility. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/rajc-t668"
 
