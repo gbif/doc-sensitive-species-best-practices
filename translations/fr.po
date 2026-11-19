@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
-"POT-Creation-Date: 2023-06-27 17:24+0000\n"
-"PO-Revision-Date: 2026-11-19 11:38\n"
+"POT-Creation-Date: 2026-11-19 11:47+0000\n"
+"PO-Revision-Date: 2026-11-19 12:44\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -96,8 +96,8 @@ msgstr "Contrôle du document"
 
 #. type: Plain text
 #: colophon.en.adoc:27
-msgid "Version 1.0, November 2020"
-msgstr "Version 1.0, Novembre 2020"
+msgid "Version 1.1, May 2023"
+msgstr ""
 
 #.  NB Previous version uses spelling "Generalising"
 #. type: Plain text
@@ -404,10 +404,10 @@ msgid "| 1. *Risk of harm* | An assessment of whether the taxon is subject to ha
 "| 2. *Impact of harm* | An assessment of the sensitivity of the taxon to the harmful human activity.\n\n"
 "| 3. *Sensitivity of data* | An assessment on whether the release of data will increase harm.\n\n"
 "| 4. *Decision on release and category of sensitivity* | A balanced decision regarding the release of the data and a determination of the category of sensitivity, and thus the level of generalization, of the data for release.\n\n"
-msgstr "1. *Risque de préjudice* | Évaluation de la vulnérabilité du taxon aux activités humaines nuisibles.\n\n"
-"2. *Impact du préjudice* | Évaluation de la sensibilité du taxon aux activités humaines nuisibles.\n\n"
-"3. *Sensibilité des données* | Évaluation de l'impact potentiel de la diffusion des données sur le préjudice.\n\n"
-"4. *Décision de diffusion et catégorie de sensibilité* | Décision équilibrée concernant la diffusion des données et détermination de leur catégorie de sensibilité, et donc de leur niveau de généralisation.\n\n"
+msgstr "| 1. *Risque de préjudice* | Évaluation de la vulnérabilité du taxon aux activités humaines nuisibles.\n\n"
+"| 2. *Impact du préjudice* | Évaluation de la sensibilité du taxon aux activités humaines nuisibles.\n\n"
+"| 3. *Sensibilité des données* | Évaluation de l'impact potentiel de la diffusion des données sur le préjudice.\n\n"
+"| 4. *Décision de diffusion et catégorie de sensibilité* | Décision équilibrée concernant la diffusion des données et détermination de leur catégorie de sensibilité, et donc de leur niveau de généralisation.\n\n"
 
 #. type: Plain text
 #: 200.en.adoc:44
@@ -433,13 +433,13 @@ msgstr "Ce taxon est menacé par les activités humaines néfastes – il est su
 #: 200.en.adoc:55
 #, no-wrap
 msgid "Table 2. "
-msgstr ""
+msgstr "Tableau 2. "
 
 #. type: Block title
 #: 200.en.adoc:56
 #, no-wrap
 msgid "*Risk of harm*: Assessing if the taxon is subject to a harmful human activity"
-msgstr ""
+msgstr "*Risque de dommage* : Évaluer si le taxon est soumis à une activité humaine nuisible"
 
 #. type: Table
 #: 200.en.adoc:110
@@ -485,24 +485,64 @@ msgid "2+^s|1.1. Is the taxon subject to a harmful human activity?\n\n"
 "_“Availability of biodiversity data will not increase the likelihood of the harmful human activity taking place.”_ +\n"
 "↓ +\n"
 "<<table-03,Go to 2>>\n\n"
-msgstr ""
+msgstr "2+^s|1.1. Le taxon est-il soumis à une activité humaine nuisible ?\n\n"
+"^a|*OUI* +\n"
+"↓ +\n"
+"Document justificatif utilisant l’énoncé 1a : +\n"
+"_« Le taxon est menacé par une activité humaine nuisible. »_+\n"
+"↓ +\n"
+"Passer à 1.2\n\n"
+"^a|*NON* +\n"
+"↓ +\n"
+"_« Document justificatif utilisant l’énoncé 1b : +\n"
+"Il n’existe aucun risque significatif d’activité humaine nuisible. »_ +\n"
+"↓ + \n"
+"*_Le taxon n’est pas sensible_* +\n"
+"↓ +\n"
+"<<table-04,Passer à 3>>\n\n"
+"2+^s|1.2. Existe-t-il des preuves établies d’occurrences actuelles ou récentes de l’activité humaine nuisible ?\n\n"
+"^a|*OUI* +\n"
+"↓ +\n"
+"Document justifiant la réponse en utilisant l'énoncé 1c : +\n"
+"_« Il existe des preuves établies de dommages réels ou récents causés au taxon. »_ +\n"
+"↓ +\n"
+"Passer à la question 1.3\n\n"
+"^a|*NON* +\n"
+"↓ +\n"
+"Document justifiant la réponse en utilisant l'énoncé 1d : +\n"
+"_« Il n’existe actuellement aucune preuve établie de dommages réels causés au taxon. »_ +\n"
+"↓ +\n"
+"Passer à la question 1.3\n\n"
+"2+^s|1.3. La disponibilité de données connexes sur la biodiversité augmentera-t-elle la probabilité que l'activité humaine nuisible se produise ?\n\n"
+"^a|*OUI* +\n"
+"↓ +\n"
+"Document justifiant l'affirmation selon l'énoncé 1e : +\n"
+"_« La disponibilité des données sur la biodiversité augmentera la probabilité que l'activité humaine nuisible se produise. »_ +\n"
+"↓ +\n"
+"<<table-03,Allez à 2>>\n\n"
+"^a|*NON* +\n"
+"↓ +\n"
+"Document justifiant l'affirmation selon l'énoncé 1f : +\n"
+"_« La disponibilité des données sur la biodiversité n'augmentera pas la probabilité que l'activité humaine nuisible se produise. »_ +\n"
+"↓ +\n"
+"<<table-03,Allez à 2>>\n\n"
 
 #. type: Plain text
 #: 200.en.adoc:113
 msgid "The next step is to determine if the taxon is sensitive to that human harm or whether they are suitably robust not to be adversely affected."
-msgstr ""
+msgstr "L'étape suivante consiste à déterminer si le taxon est sensible à ces dommages causés par l'homme ou s'il est suffisamment robuste pour ne pas en être affecté négativement."
 
 #. type: Named 'caption' AttributeList argument for style 'caption'
 #: 200.en.adoc:117
 #, no-wrap
 msgid "Table 3. "
-msgstr ""
+msgstr "Tableau 3. "
 
 #. type: Block title
 #: 200.en.adoc:118
 #, no-wrap
 msgid "*Impact of harm*. Assessing sensitivity of taxa to a harmful human activity."
-msgstr ""
+msgstr "* Impact des dommages*. Évaluation de la sensibilité des taxons à une activité humaine nuisible."
 
 #. type: Table
 #: 200.en.adoc:154
@@ -533,24 +573,49 @@ msgid "2+^s|2.1. Does the taxon have characteristics that make it significantly 
 "_“The taxon is not vulnerable to harmful human activity over its total range *and/or* there are areas where the taxon occurs but is not at significant risk.”_ +\n"
 "↓ +\n"
 "<<table-04,Go to 3>>\n\n"
-msgstr ""
+msgstr "2+^s|2.1. Le taxon a-t-il des caractéristiques qui le rendent particulièrement vulnérable aux activités humaines nuisibles ?\n\n"
+"^a|*OUI* +\n"
+"↓ +\n"
+"Document justifiant la réponse en utilisant l’énoncé 2a : +\n"
+"_« Le taxon présente des caractéristiques qui le rendent particulièrement vulnérable aux activités humaines nuisibles. »_ +\n"
+"↓ +\n"
+"Passer à la question 2.2\n\n"
+"^a|*NON* +\n"
+"↓ +\n"
+"Document justifiant la réponse en utilisant l’énoncé 2b : +\n"
+"_« Le taxon n'est pas particulièrement vulnérable aux activités humaines nuisibles. »_ +\n"
+"↓ +\n"
+"Passer à la question 2.2\n\n"
+"2+^s|2.2. Le taxon est-il vulnérable aux activités humaines nuisibles sur l’ensemble de son aire de répartition, ou existe-t-il des zones (comme des aires protégées ou d’autres régions du monde) où le taxon n’est pas exposé au même niveau de risque ?\n\n"
+"^a|*OUI* +\n"
+"↓ +\n"
+"Document justifiant la réponse en utilisant l'énoncé 2c : +\n"
+"_« Le taxon est vulnérable aux activités humaines nuisibles sur l'ensemble de son aire de répartition. »_ +\n"
+"↓ +\n"
+"<<table-04,Allez à 3>>\n\n"
+"^a|*NON* +\n"
+"↓ +\n"
+"Document justifiant la réponse en utilisant l'énoncé 2d : +\n"
+"_« Le taxon n'est pas vulnérable aux activités humaines nuisibles sur l'ensemble de son aire de répartition *et/ou* il existe des zones où le taxon est présent mais n'est pas exposé à un risque significatif. »_ +\n"
+"↓ +\n"
+"<<table-04,Allez à 3>>\n\n"
 
 #. type: Plain text
 #: 200.en.adoc:157
 msgid "Once it has been decided that the taxon is subject to a significant risk and impact from harm or not, then a decision needs to be taken on whether the release of specific data on that taxon – or other related data – will increase the risk and impact of harm."
-msgstr ""
+msgstr "Une fois qu'il a été déterminé si le taxon est soumis à un risque et à un impact significatifs liés à un préjudice, il convient de décider si la publication de données spécifiques sur ce taxon – ou d'autres données connexes – augmentera le risque et l'impact du préjudice."
 
 #. type: Named 'caption' AttributeList argument for style 'caption'
 #: 200.en.adoc:161
 #, no-wrap
 msgid "Table 4. "
-msgstr ""
+msgstr "Tableau 4. "
 
 #. type: Block title
 #: 200.en.adoc:162
 #, no-wrap
 msgid "*Sensitivity of data*. Assess whether the release of data will increase harm."
-msgstr ""
+msgstr "*Sensibilité des données*. Évaluer si la divulgation des données risque d'aggraver le préjudice."
 
 #. type: Table
 #: 200.en.adoc:231
