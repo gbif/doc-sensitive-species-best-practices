@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2026-11-19 11:47+0000\n"
-"PO-Revision-Date: 2026-11-19 12:44\n"
+"PO-Revision-Date: 2026-11-19 13:53\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -97,7 +97,7 @@ msgstr "Contrôle du document"
 #. type: Plain text
 #: colophon.en.adoc:27
 msgid "Version 1.1, May 2023"
-msgstr ""
+msgstr "Version 1.1, mai 2023"
 
 #.  NB Previous version uses spelling "Generalising"
 #. type: Plain text
@@ -340,7 +340,7 @@ msgstr "En revanche, certaines institutions ont profité de la collaboration ave
 #. type: Plain text
 #: 200.en.adoc:12
 msgid "As noted in an article in _Science_ (https://doi.org/10.1126/science.312.5777.1137b[Stuart et al. 2006^]), three newly discovered amphibian and reptile species rapidly appeared in commercial trade shortly after their descriptions in the scientific literature. This is an issue of concern to biologists and especially to taxonomists (https://www.chronicle.com/article/Endangered-by-Research/26117[Guterman 2006^]) – how much information should be released in publication when describing a new taxon. There are a number of examples in coral-reef fish where a new species has appeared in the commercial trade soon after it is scientifically described."
-msgstr "Comme le souligne un article de _Science_ (https://doi.org/10.1126/science.312.5777.1137b [Stuart et al. 2006]), trois espèces d'amphibiens et de reptiles nouvellement découvertes sont apparues rapidement dans le commerce peu après leur description dans la littérature scientifique. Ce phénomène préoccupe les biologistes, et notamment les taxonomistes (https://www.chronicle.com/article/Endangered-by-Research/26117 [Guterman 2006]), qui s'interrogent sur la quantité d'informations à divulguer lors de la description d'un nouveau taxon. On trouve plusieurs exemples, chez les poissons récifaux, d'espèces nouvellement découvertes dans le commerce peu après leur description scientifique."
+msgstr "Comme le souligne un article de _Science_ (https://doi.org/10.1126/science.312.5777.1137b[Stuart et al. 2006^]), trois espèces d'amphibiens et de reptiles nouvellement découvertes sont apparues rapidement dans le commerce peu après leur description dans la littérature scientifique. Ce phénomène préoccupe les biologistes, et notamment les taxonomistes (https://www.chronicle.com/article/Endangered-by-Research/26117[Guterman 2006^]), qui s'interrogent sur la quantité d'informations à divulguer lors de la description d'un nouveau taxon. On trouve plusieurs exemples, chez les poissons récifaux, d'espèces nouvellement découvertes dans le commerce peu après leur description scientifique."
 
 #. type: Positional ($2) AttributeList argument for style 'quote'
 #: 200.en.adoc:13
@@ -673,24 +673,75 @@ msgid "2+^s|3.1. Is the content and detail of the biodiversity data such that th
 "_“Disclosure *will not* allow the locations of sensitive features to be derived through combination with other publicly available information sources.”_ +\n"
 "↓ +\n"
 "<<table-05,Go to 4>>\n\n"
-msgstr ""
+msgstr "2+^s|3.1. Le contenu et le niveau de détail des données sur la biodiversité sont-ils tels que leur diffusion permettrait à quiconque de mener une activité nuisible sur le taxon ou l'attribut ?\n\n"
+"^a|*OUI* +\n"
+"↓ +\n"
+"Document justifiant la réponse en utilisant l'énoncé 3a : +\n"
+"_« Le contenu et le niveau de détail des données sont tels que leur diffusion permettrait à quiconque de mener une activité nuisible sur le taxon ou l'attribut. »_ +\n"
+"↓ +\n"
+"Passer à 3.2\n\n"
+"^a|*NON* +\n"
+"↓ +\n"
+"*Données non sensibles* +\n"
+"Document justifiant la réponse en utilisant l'énoncé 3b : +\n"
+"_« Le contenu et le niveau de détail des données, s'ils étaient diffusés, ne permettraient *pas* à quiconque de mener une activité nuisible sur le taxon ou l'attribut. »_ +\n"
+"↓ +\n"
+"<<table-05,Passer à 4>>\n\n"
+"2+^s|3.2. Ces renseignements sont-ils déjà dans le domaine public ou déjà connus des personnes ou des groupes susceptibles de mener l'activité nuisible ?\n\n"
+"^a|*OUI* +\n"
+"↓ +\n"
+"Document justifiant la réponse en utilisant l'énoncé 3d : +\n"
+"_« L'information est déjà dans le domaine public ou est déjà connue des personnes ou des groupes susceptibles de se livrer à des activités nuisibles. »_ +\n"
+"↓ +\n"
+"Passer à la question 3.3\n\n"
+"^a|*NON* +\n"
+"↓ + Document justifiant la réponse en utilisant l'énoncé 3c : +\n"
+"_« L'information n'est pas dans le domaine public et n'est *pas* déjà connue des personnes ou des groupes susceptibles de se livrer à des activités nuisibles. »_ +\n"
+"↓ +\n"
+"Passer à la question 3.3\n\n"
+"2+^s|3.3. La divulgation nuirait-elle à un partenariat ou à une relation (surtout lorsque le maintien de cette relation est essentiel à la réalisation d'un objectif de conservation précis) ?\n\n"
+"^a|*OUI* +\n"
+"↓ +\n"
+"Document justifiant la position en utilisant l'énoncé 3e : +\n"
+"_« La divulgation des données est *susceptible* de nuire à un partenariat ou à une relation dont le maintien est essentiel à la réalisation d'un objectif de conservation précis. »_ +\n"
+"↓ +\n"
+"Passer à la question 3.4\n\n"
+"^a|*NON* +\n"
+"↓ +\n"
+"Document justifiant la position en utilisant l'énoncé 3f : +\n"
+"_« La divulgation des données *ne nuira *pas* à un partenariat ou à une relation essentielle à la conservation. »_ +\n"
+"↓ +\n"
+"Passer à la question 3.4\n\n"
+"2+^s|3.4. La divulgation permettrait-elle de déterminer l'emplacement des éléments sensibles en les combinant avec d'autres sources d'information publiques ?\n\n"
+"^a|*OUI* +\n"
+"↓ +\n"
+"Document justifiant la réponse en utilisant l'affirmation 3g : +\n"
+"_« La divulgation *permettrait* de déterminer l'emplacement des fonctionnalités sensibles en la combinant avec d'autres sources d'information publiques. »_ +\n\n"
+"↓ +\n"
+"<<table-05,Allez à 4>>\n\n"
+"^a|*NON* +\n"
+"↓ +\n"
+"Document justifiant la réponse en utilisant l'affirmation 3h : +\n"
+"_« La divulgation *ne permettra pas* de déterminer l'emplacement des fonctionnalités sensibles en la combinant avec d'autres sources d'information publiques. »_ +\n"
+"↓ +\n"
+"<<table-05,Allez à 4>>\n\n"
 
 #. type: Plain text
 #: 200.en.adoc:234
 msgid "The final step is to make an overall assessment based on the three criteria above and to document the overall decision using the combined information documented in making each of the earlier decisions. Once it has been determined that the data should or should not be released, then it is important that a decision is made on the <<table-06,Category of sensitivity>>, and the level of <<generalization>> for the release of the data."
-msgstr ""
+msgstr "La dernière étape consiste à réaliser une évaluation globale basée sur les trois critères susmentionnés et à documenter la décision finale en combinant les informations recueillies lors des décisions précédentes. Une fois déterminé si les données doivent ou non être publiées, il est important de statuer sur le <<table-06, Niveau de sensibilité>> et le degré de <<généralisation>> requis pour leur publication."
 
 #. type: Named 'caption' AttributeList argument for style 'caption'
 #: 200.en.adoc:238
 #, no-wrap
 msgid "Table 5. "
-msgstr ""
+msgstr "Tableau 5. "
 
 #. type: Block title
 #: 200.en.adoc:239
 #, no-wrap
 msgid "*Decision on release and category of sensitivity*. Make a balanced decision regarding the release of data and determining the category and level of generalization."
-msgstr ""
+msgstr "* Décision relative à la diffusion et au niveau de sensibilité*. Prendre une décision équilibrée concernant la diffusion des données et la détermination du niveau et de la catégorie de sensibilité."
 
 #. type: Table
 #: 200.en.adoc:311
@@ -748,29 +799,81 @@ msgid "2+^s|4.1. On balance, considering criteria 1 to 3 above and any important
 "*Not Environmentally Sensitive* +\n"
 "↓ +\n"
 "Data should be publicly released\n\n"
-msgstr ""
+msgstr "2+^s|4.1. Dans l’ensemble, compte tenu des critères 1 à 3 ci-dessus et de tout contexte plus large important, la rétention d’informations augmentera-t-elle le risque de préjudice environnemental ou de préjudice pour une personne vivante ?\n\n"
+"^a|*OUI* +\n"
+"↓ +\n"
+"Documentez en utilisant la déclaration 4a : +\n"
+"_« Dans l’ensemble, la divulgation de l’information augmentera, ou est susceptible d’augmenter le risque de dommages environnementaux ou de dommages à une personne vivante. »_ +\n"
+"↓ +\n"
+"Aller à 4.2\n\n"
+"^a|*NON* +\n"
+"↓ +\n"
+"Documentez en utilisant la déclaration 4b : +\n"
+"_« Dans l’ensemble, la divulgation des données n’augmentera pas le risque de dommages environnementaux ou de dommages à une personne vivante. »_ +\n"
+"↓ +\n"
+"Aller à 4.5\n\n"
+"2+^s|4.2. Le taxon est-il distinctif et d'une grande importance biologique, soumis à une forte menace d'exploitation/maladie ou à toute autre menace identifiable là où même des informations *générales* sur la localité peuvent menacer le taxon ? Ou la diffusion de n’importe quelle partie du disque pourrait-elle causer un *préjudice irréparable* à l’environnement ou à un individu ?\n\n"
+"^a|*OUI* +\n"
+"↓ +\n"
+"Documentez à l'aide de la déclaration 4c, en rassemblant toutes les justifications à l'appui et en documentant la décision de retenir les données : +\n"
+"_ « L'espèce est une espèce distincte de haute importance biologique, est fortement menacée d'exploitation/maladie ou autre menace identifiable et même des renseignements généraux sur la localité peuvent menacer le taxon, ou la divulgation de ces informations pourrait causer des dommages irréparables à l'environnement, à un individu ou à une autre caractéristique. »_ +\n"
+"*<<cat1,Catégorie 1>>*\n\n"
+"^a|*NON* +\n"
+"↓ +\n"
+"Aller à 4.3\n\n"
+"2+^s|4.3. Le taxon est-il tel que la fourniture d'emplacements précis à une profondeur inférieure à 0,1 degré (~ 10 km) le soumettrait à des menaces telles que la perturbation et l'exploitation ? Ou le dossier contient-il des informations très sensibles, dont la divulgation pourrait causer un *préjudice extrême* à un individu ou à l'environnement ?\n\n"
+"^a|*OUI* +\n"
+"↓ +\n"
+"Documentez à l'aide de la déclaration 4d, en rassemblant toutes les justifications à l'appui et en documentant la décision de divulguer les données : +\n"
+"_« L'espèce est classée comme très sensible, et la fourniture de localisations précises soumettrait l'espèce à des menaces telles que la perturbation et l'exploitation, et/ou le registre comprend des informations très sensibles, dont la divulgation pourrait causer des dommages extrêmes à l'environnement ou à un individu. »_ +\n"
+"*<<cat2,Catégorie 2>>*\n\n"
+"^a|*NON* +\n"
+"↓ +\n"
+"Aller à 4.4\n\n"
+"2+^s|4.4. Le taxon est-il tel que la fourniture d'emplacements précis à une précision inférieure à 0,01 degré (~ 1 km) soumettrait l'espèce à des menaces telles que la collecte ou des dommages délibérés ? Ou le dossier contient-il des renseignements sensibles dont la divulgation pourrait causer un *préjudice* à un individu ou à l'environnement ?\n\n"
+"^a|*OUI* +\n"
+"↓ +\n"
+"Documentez à l'aide de la déclaration 4e, en rassemblant toutes les justifications à l'appui et en documentant la décision de divulguer les données : +\n"
+"_« L'espèce est classée comme étant de sensibilité moyenne à élevée, et la fourniture de localisations précises pourrait soumettre l'espèce à des menaces telles que la collecte ou des dommages délibérés, et/ou le registre contient des informations sensibles, dont la divulgation pourrait nuire à l'environnement ou à un individu. »_ +\n"
+"*<<cat3,Catégorie 3>>*\n\n"
+"^a|*NON* +\n"
+"↓ +\n"
+"Aller à 4.5\n\n"
+"2+^s|4.5. Le taxon est-il soumis à une menace faible à moyenne si des emplacements précis (c'est-à-dire des emplacements avec une précision supérieure à 0,001 degré ou 100 m) deviennent accessibles au public et où il existe un risque de collecte ou de dommage délibéré ?\n\n"
+"^a|*OUI* +\n"
+"↓ +\n"
+"Documentez à l'aide de la déclaration 4f, en rassemblant toutes les justifications à l'appui et en documentant la décision de divulguer les données : +\n"
+"_\"L'espèce est classée comme étant de sensibilité faible à moyenne, et la fourniture de localisations précises pourrait soumettre l'espèce à des menaces telles que la perturbation et l'exploitation. Des données détaillées peuvent être mises à la disposition des individus sous licence. \"_ +\n"
+"*<<cat4,Catégorie 4>>*\n\n"
+"^a|*NON* +\n"
+"↓ +\n"
+"Documentez à l'aide de la déclaration 4g, en rassemblant toutes les justifications à l'appui et en documentant la décision de divulguer les données : +\n"
+"L'espèce est classée comme étant de faible sensibilité, et il est peu probable que la répartition des emplacements précis soumette l'espèce à une menace significative, et/ou le dossier comprend des informations de faible sensibilité, dont la diffusion est peu susceptible de causer des dommages à l'environnement ou à un individu. Les données doivent être rendues publiques « telles qu'elles sont détenues ». »_ +\n"
+"*Non sensible à l'environnement* +\n"
+"↓ +\n"
+"Les données doivent être rendues publiques\n\n"
 
 #. type: Plain text
 #: 200.en.adoc:314
 msgid "In the online survey (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]), a number of respondents identified data awaiting publication, data subject to ongoing research, and incomplete or unchecked data as data that they would class as sensitive, and thus subject to restrictions on release. This is data whose sensitivity has a short time frame, and it is important that a time for release or review be clearly documented. They would most likely fall under criterion 3.3 above and would be documented accordingly with the supporting rationale being “awaiting publication”, etc."
-msgstr ""
+msgstr "Dans le sondage en ligne (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]), plusieurs répondants ont identifié les données en attente de publication, les données faisant l'objet de recherches en cours et les données incomplètes ou non vérifiées comme des données qu'ils qualifieraient de sensibles et, par conséquent, soumises à des restrictions de diffusion. Il s'agit de données dont la sensibilité est temporaire, et il est important que le délai de diffusion ou d'examen soit clairement documenté. Elles relèveraient très probablement du critère 3.3 ci-dessus et seraient documentées en conséquence, la justification étant par exemple « en attente de publication »."
 
 #. type: Plain text
 #: 200.en.adoc:318
 msgid "The <<Categories of sensitivity,categories of sensitivity>> are largely based on those from the NSW Office of Environment and Heritage (https://www.environment.nsw.gov.au/resources/nature/SensitiveSpeciesPolicyDEC09.pdf[DECCW 2009])."
-msgstr ""
+msgstr "Les <<Catégories de sensibilité,catégories de sensibilité>> sont largement basées sur celles du NSW Office of Environment and Heritage (https://www.environment.nsw.gov.au/resources/nature/SensitiveSpeciesPolicyDEC09.pdf[DECCW 2009])."
 
 #. type: Block title
 #: 200.en.adoc:321 200.en.adoc:325
 #, no-wrap
 msgid "Categories of sensitivity"
-msgstr ""
+msgstr "Catégories de sensibilité"
 
 #. type: Named 'caption' AttributeList argument for style 'caption'
 #: 200.en.adoc:324
 #, no-wrap
 msgid "Table 6. "
-msgstr ""
+msgstr "Tableau 6. "
 
 #. type: Table
 #: 200.en.adoc:337
@@ -779,7 +882,10 @@ msgid "| Criterion\t| Reasoning\n\n"
 "|[[cat1]]*Category 1* +\n\n"
 "Species or records for which no records will be provided at all, or which are only released as present within a large region such as a county, watershed, etc. \n\n"
 "a|The reason for non-disclosure is that: +\n\n"
-msgstr ""
+msgstr "| Critère\t| Justification\n\n"
+"|[[cat1]]*Catégorie 1* +\n\n"
+"Espèces ou données pour lesquelles aucune donnée ne sera fournie, ou qui ne sont divulguées que comme présentes dans une vaste région comme un comté, un bassin versant, etc. \n\n"
+"a|La raison de la non-divulgation est la suivante : +\n\n"
 
 #. type: Table
 #: 200.en.adoc:339
@@ -1824,7 +1930,7 @@ msgstr ""
 #: glossary.en.adoc:2
 #, no-wrap
 msgid "Glossary"
-msgstr ""
+msgstr "Glossaire"
 
 #. type: Labeled list
 #: glossary.en.adoc:5
