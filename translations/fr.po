@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2026-11-19 11:47+0000\n"
-"PO-Revision-Date: 2026-11-19 13:53\n"
+"PO-Revision-Date: 2026-11-19 20:57\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -891,7 +891,7 @@ msgstr "| Critère\t| Justification\n\n"
 #: 200.en.adoc:339
 #, no-wrap
 msgid "a *distinctive* species of *high biological significance* is under *high threat* from exploitation/disease or other identifiable threat where even general locality information may threaten the taxon. +\n\n"
-msgstr ""
+msgstr "une espèce *distinctive* d'une *grande importance biologique* est *fortement menacée* par l'exploitation, les maladies ou d'autres menaces identifiables, au point que même des informations générales sur sa localisation peuvent menacer le taxon. +\n\n"
 
 #. type: Table
 #: 200.en.adoc:349
@@ -901,26 +901,31 @@ msgid "the information in the record is of such a nature that its release could 
 "|[[cat2]]*Category 2* +\n\n"
 "Species or records for which coordinates will be publicly available ‘denatured’ (to 0.1 degrees) and/or other information in the record is generalized. Finer scale data (<<cat3,Category 3>>, <<cat4,Category 4>> or detailed data) may be supplied to individuals under Licence. +\n\n"
 "a|The reasons for restriction are that: +\n\n"
-msgstr ""
+msgstr "les renseignements contenus dans le dossier sont de nature à causer, par leur divulgation, un préjudice irréparable à l'environnement, à une personne ou à un autre élément. +\n\n"
+"Les données ne peuvent être fournies que sous réserve de conditions de licence strictes ou en cas de présence dans une vaste région comme un bassin versant, un comté ou une région biogéographique.\n\n"
+"|[[cat2]]*Catégorie 2* +\n\n"
+"Les espèces ou les données dont les coordonnées seront accessibles au public sont « dénaturées » (à 0,1 degré près) et/ou les autres informations contenues dans le dossier sont généralisées. Des données à plus petite échelle (<<cat3,Catégorie 3>>, <<cat4,Catégorie 4>> ou des données détaillées) peuvent être fournies aux particuliers sous licence. +\n\n"
+"a|Les raisons de cette restriction sont les suivantes : +\n\n"
 
 #. type: Table
 #: 200.en.adoc:351
 #, no-wrap
 msgid "The species is classed as *highly sensitive*, and the provision of precise locations *would* subject the species to threats such as disturbance and exploitation. +\n\n"
-msgstr ""
+msgstr "L’espèce est classée comme *très sensible*, et la divulgation de localisations précises *l’exposerait* à des menaces telles que la perturbation et l’exploitation. +\n\n"
 
 #. type: Table
 #: 200.en.adoc:355
 #, no-wrap
 msgid "The record includes *highly* sensitive information, the release of which could cause *extreme* harm to an individual or to the environment. +\n\n"
 "Data is supplied to the public +\n\n"
-msgstr ""
+msgstr "Ce dossier contient des renseignements *extrêmement* sensibles, dont la divulgation pourrait causer un préjudice *extrême* à une personne ou à l'environnement. +\n\n"
+"Les données sont mises à la disposition du public. + \n\n"
 
 #. type: Table
 #: 200.en.adoc:357
 #, no-wrap
 msgid "with the georeference denatured to 0.1 degrees (~10 km) and/or +\n\n"
-msgstr ""
+msgstr "avec la géoréférence dénaturée à 0,1 degré (~10 km) et/ou plus +\n\n"
 
 #. type: Table
 #: 200.en.adoc:369
@@ -931,26 +936,32 @@ msgid "with sensitive fields generalized or removed and replaced with suitable r
 "|[[cat3]]*Category 3* +\n\n"
 "Species or records for which coordinates will be publicly available ‘denatured’ (to 0.01 degrees) and/or other information in the record is generalized. Finer scale data (<<cat4,Category 4>> or detailed data) may be supplied to individuals under Licence.\n\n"
 "a|The reasons for restriction are that: +\n\n"
-msgstr ""
+msgstr "les champs sensibles sont généralisés ou supprimés et remplacés par une formulation appropriée. +\n\n"
+"Des données plus précises peuvent être fournies sur demande, conformément aux modalités d'une entente écrite, généralement un contrat de licence de données. Lors de la fourniture de données aux clients, ces derniers sont informés des espèces ou des champs sensibles et leurs coordonnées peuvent être dénaturées selon les critères disponibles sous <<cat3,Catégorie 3>> ou <<cat4,Catégorie 4>>. +\n\n"
+"*NB* : Si la sensibilité est déclenchée par des champs autres que le géoréférencement, il peut être plus approprié de classer l'enregistrement comme <<cat3,Catégorie 3>> ou <<cat4,Catégorie 4>>. +\n\n"
+"|[[cat3]]*Catégorie 3* +\n\n"
+"Les espèces ou les enregistrements dont les coordonnées seront accessibles au public sont dénaturés (à 0,01 degré près) et/ou d'autres informations sont généralisées. Des données plus précises (<<cat4,Catégorie 4>> ou données détaillées) peuvent être fournies aux particuliers sous licence.\n\n"
+"a|Les raisons de cette restriction sont : +\n\n"
 
 #. type: Table
 #: 200.en.adoc:371
 #, no-wrap
 msgid "The species is classed as of *medium to high sensitivity*, and the provision of precise locations *could* subject the species to threats such as disturbance and exploitation. +\n\n"
-msgstr ""
+msgstr "L’espèce est classée comme étant de *sensibilité moyenne à élevée*, et la divulgation de localisations précises *pourrait* l’exposer à des menaces telles que la perturbation et l’exploitation. +\n\n"
 
 #. type: Table
 #: 200.en.adoc:375
 #, no-wrap
 msgid "The record includes *sensitive* information, the release of which could cause harm to an individual or to the environment. +\n\n"
 "Data is supplied to the public +\n\n"
-msgstr ""
+msgstr "Ce document contient des renseignements *sensibles* dont la divulgation pourrait nuire à une personne ou à l'environnement. +\n\n"
+"Ces données sont accessibles au public. +\n\n"
 
 #. type: Table
 #: 200.en.adoc:377
 #, no-wrap
 msgid "with the georeference denatured to 0.01 degrees (~1 km) and/or +\n\n"
-msgstr ""
+msgstr "avec la géoréférence dénaturée à 0,01 degré (~1 km) et/ou plus + \n\n"
 
 #. type: Table
 #: 200.en.adoc:389
