@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2023-06-27 17:24+0000\n"
-"PO-Revision-Date: 2026-11-19 04:54\n"
+"PO-Revision-Date: 2026-11-19 06:24\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -53,7 +53,7 @@ msgstr "Suggestion de citation"
 #. type: Plain text
 #: colophon.en.adoc:11
 msgid "Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10."
-msgstr "Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10."
+msgstr "Chapman AD (2020) Les bonnes pratiques actuelles pour la généralisation des données d'occurrences d'espèces sensibles. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10."
 
 #. type: Title ===
 #: colophon.en.adoc:12
@@ -395,7 +395,7 @@ msgstr "Tableau 1. "
 #: 200.en.adoc:30
 #, no-wrap
 msgid "Criteria for determining the sensitivity of taxa and data along with recommended metadata statements for documenting the reasons for the determination"
-msgstr ""
+msgstr "Critères de détermination de la sensibilité des taxons et des données, ainsi que les métadonnées recommandées pour documenter les raisons de cette détermination"
 
 #. type: Table
 #: 200.en.adoc:41
@@ -404,7 +404,10 @@ msgid "| 1. *Risk of harm* | An assessment of whether the taxon is subject to ha
 "| 2. *Impact of harm* | An assessment of the sensitivity of the taxon to the harmful human activity.\n\n"
 "| 3. *Sensitivity of data* | An assessment on whether the release of data will increase harm.\n\n"
 "| 4. *Decision on release and category of sensitivity* | A balanced decision regarding the release of the data and a determination of the category of sensitivity, and thus the level of generalization, of the data for release.\n\n"
-msgstr ""
+msgstr "1. *Risque de préjudice* | Évaluation de la vulnérabilité du taxon aux activités humaines nuisibles.\n\n"
+"2. *Impact du préjudice* | Évaluation de la sensibilité du taxon aux activités humaines nuisibles.\n\n"
+"3. *Sensibilité des données* | Évaluation de l'impact potentiel de la diffusion des données sur le préjudice.\n\n"
+"4. *Décision de diffusion et catégorie de sensibilité* | Décision équilibrée concernant la diffusion des données et détermination de leur catégorie de sensibilité, et donc de leur niveau de généralisation.\n\n"
 
 #. type: Plain text
 #: 200.en.adoc:44
@@ -1883,7 +1886,7 @@ msgstr ""
 #: acknowledgements.en.adoc:1
 #, no-wrap
 msgid "Acknowledgements"
-msgstr ""
+msgstr "Remerciements"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:4
@@ -1899,7 +1902,7 @@ msgstr ""
 #: bibliography.en.adoc:2
 #, no-wrap
 msgid "References"
-msgstr ""
+msgstr "Références"
 
 #. type: Plain text
 #: bibliography.en.adoc:5
