@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-06-27 17:24+0000\n"
+"POT-Creation-Date: 2026-11-19 11:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -103,7 +103,7 @@ msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:27
-msgid "Version 1.0, November 2020"
+msgid "Version 1.1, May 2023"
 msgstr ""
 
 #.  NB Previous version uses spelling "Generalising"
