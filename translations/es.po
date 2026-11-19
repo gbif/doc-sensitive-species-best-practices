@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
-"POT-Creation-Date: 2023-06-27 17:24+0000\n"
-"PO-Revision-Date: 2026-11-05 11:48\n"
+"POT-Creation-Date: 2026-11-19 11:47+0000\n"
+"PO-Revision-Date: 2026-11-19 12:44\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -96,8 +96,8 @@ msgstr "Control del documento"
 
 #. type: Plain text
 #: colophon.en.adoc:27
-msgid "Version 1.0, November 2020"
-msgstr "Version 1.0, noviembre del 2020"
+msgid "Version 1.1, May 2023"
+msgstr ""
 
 #.  NB Previous version uses spelling "Generalising"
 #. type: Plain text
