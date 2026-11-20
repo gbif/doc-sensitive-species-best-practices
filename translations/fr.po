@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2026-11-19 11:47+0000\n"
-"PO-Revision-Date: 2026-11-20 02:33\n"
+"PO-Revision-Date: 2026-11-20 22:30\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1099,53 +1099,53 @@ msgstr "Généralisation versus randomisation"
 #. type: Plain text
 #: 400.en.adoc:6
 msgid "Few of the respondents to the online survey (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]) recorded that they <<randomization,randomize>> data as opposed to <<generalization,generalizing>> it. Reasons for not <<randomization,randomizing>> included the extra work and computation involved, the increased chance of mistakes being made, and the less reliability that users may be able to place in the data."
-msgstr ""
+msgstr "Peu de répondants au sondage en ligne (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]) ont indiqué avoir <<randomization,randomisé>> les données plutôt que de les <<generalization,généraliser>>. Parmi les raisons invoquées pour ne pas <<randomization,randomiser>> les données figuraient le travail et les calculs supplémentaires que cela impliquait, le risque accru d'erreurs et la moindre fiabilité que les utilisateurs pourraient accorder aux données."
 
 #. type: Plain text
 #: 400.en.adoc:8
 msgid "Some respondents to the survey stated that they were comfortable with displaying presence/absence of sensitive data within large polygons or grids squares, because it still reflected the real data, but were aghast at the idea of deliberately ‘faking’ point coordinates such that locations appear as precise representations, but are randomly offset from the real data – i.e., they represent the deliberate introduction of error. Whereas <<generalization>> creates/retains ‘true’ data, <<randomization>> creates deliberately ‘false’ data."
-msgstr ""
+msgstr "Certains participants à l'enquête ont déclaré accepter que la présence ou l'absence de données sensibles soit affichée dans de grands polygones ou des grilles, car cela reflétait toujours les données réelles. En revanche, ils étaient consternés à l'idée de « falsifier » délibérément les coordonnées de points, de sorte que les emplacements apparaissent comme des représentations précises alors qu'ils sont décalés aléatoirement par rapport aux données réelles – autrement dit, qu'ils représentent l'introduction délibérée d'une erreur. Alors que la <<generalization,généralisation>> crée et conserve des données « vraies », la <<randomization,randomisation>> crée des données délibérément « fausses »."
 
 #. type: Plain text
 #: 400.en.adoc:10
 msgid "In the fields of data mining and protection of privacy (including of individual privacy in census data), it is generally regarded that bottom-up <<generalization>> is far more practical and scientifically defensible than <<randomization>> (see for example, <<wyc,Wang et al. 2004>>, https://www.ijsr.net/archive/v4i1/SUB15769.pdf[Dalvi and Keole 2015^])."
-msgstr ""
+msgstr "Dans les domaines de l'exploration de données et de la protection de la vie privée (y compris la vie privée individuelle dans les données de recensement), il est généralement admis que la <<generalization,généralisation>> ascendante est beaucoup plus pratique et scientifiquement défendable que la <<randomization,randomisation>> (voir par exemple, <<wyc,Wang et al. 2004>>, https://www.ijsr.net/archive/v4i1/SUB15769.pdf[Dalvi et Keole 2015^])."
 
 #. type: Plain text
 #: 400.en.adoc:12
 msgid "Another advantage of <<generalization>> is that it:"
-msgstr ""
+msgstr "Un autre avantage de la <<generalization, généralisation>> est qu'elle :"
 
 #. type: Plain text
 #: 400.en.adoc:14
 msgid "scales up, allowing the use of a consistent methodology at different scales"
-msgstr ""
+msgstr "s'adapte à différentes échelles, permettant ainsi l'utilisation d'une méthodologie cohérente"
 
 #. type: Plain text
 #: 400.en.adoc:15
 msgid "can be set to give different people different resolutions, depending on set roles, etc."
-msgstr ""
+msgstr "peut être configurée pour attribuer différentes résolutions à différentes personnes, selon leurs rôles, etc. "
 
 #. type: Plain text
 #: 400.en.adoc:16
 msgid "can simply provide for different scales of generalization for different categories of sensitivity"
-msgstr ""
+msgstr "peut simplement prévoir différentes échelles de généralisation pour différentes catégories de sensibilité"
 
 #. type: Plain text
 #: 400.en.adoc:17
 msgid "is easier to implement for those with low technological expertise"
-msgstr ""
+msgstr "est plus facile à mettre en œuvre pour les personnes ayant peu de compétences techniques"
 
 #. type: Plain text
 #: 400.en.adoc:19
 msgid "<<randomization,Randomization>> is a methodology that I strongly recommend *not* be used."
-msgstr ""
+msgstr "Je *déconseille* fortement d'utiliser la <<randomization,randomisation>>."
 
 #. type: Title ===
 #: 400.en.adoc:21
 #, no-wrap
 msgid "Generalization"
-msgstr ""
+msgstr "Généralisation"
 
 #. type: Plain text
 #: 400.en.adoc:24
