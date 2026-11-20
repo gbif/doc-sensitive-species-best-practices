@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2026-11-19 11:47+0000\n"
-"PO-Revision-Date: 2026-11-20 01:37\n"
+"PO-Revision-Date: 2026-11-20 02:33\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -489,7 +489,7 @@ msgstr "2+^s|1.1. Le taxon est-il soumis à une activité humaine nuisible ?\n\
 "^a|*OUI* +\n"
 "↓ +\n"
 "Document justificatif utilisant l’énoncé 1a : +\n"
-"_« Le taxon est menacé par une activité humaine nuisible. »_+\n"
+"_« Le taxon est menacé par une activité humaine nuisible. »_ +\n"
 "↓ +\n"
 "Passer à 1.2\n\n"
 "^a|*NON* +\n"
@@ -816,7 +816,7 @@ msgstr "2+^s|4.1. Dans l’ensemble, compte tenu des critères 1 à 3 ci-dessus 
 "^a|*OUI* +\n"
 "↓ +\n"
 "Documentez à l'aide de la déclaration 4c, en rassemblant toutes les justifications à l'appui et en documentant la décision de retenir les données : +\n"
-"_ « L'espèce est une espèce distincte de haute importance biologique, est fortement menacée d'exploitation/maladie ou autre menace identifiable et même des renseignements généraux sur la localité peuvent menacer le taxon, ou la divulgation de ces informations pourrait causer des dommages irréparables à l'environnement, à un individu ou à une autre caractéristique. »_ +\n"
+"_« L'espèce est une espèce distincte de haute importance biologique, est fortement menacée d'exploitation/maladie ou autre menace identifiable et même des renseignements généraux sur la localité peuvent menacer le taxon, ou la divulgation de ces informations pourrait causer des dommages irréparables à l'environnement, à un individu ou à une autre caractéristique. »_ +\n"
 "*<<cat1,Catégorie 1>>*\n\n"
 "^a|*NON* +\n"
 "↓ +\n"
@@ -848,7 +848,7 @@ msgstr "2+^s|4.1. Dans l’ensemble, compte tenu des critères 1 à 3 ci-dessus 
 "^a|*NON* +\n"
 "↓ +\n"
 "Documentez à l'aide de la déclaration 4g, en rassemblant toutes les justifications à l'appui et en documentant la décision de divulguer les données : +\n"
-"L'espèce est classée comme étant de faible sensibilité, et il est peu probable que la répartition des emplacements précis soumette l'espèce à une menace significative, et/ou le dossier comprend des informations de faible sensibilité, dont la diffusion est peu susceptible de causer des dommages à l'environnement ou à un individu. Les données doivent être rendues publiques « telles qu'elles sont détenues ». »_ +\n"
+"L'espèce est classée comme étant de faible sensibilité, et il est peu probable que la répartition des emplacements précis soumette l'espèce à une menace significative, et/ou le dossier comprend des informations de faible sensibilité, dont la diffusion est peu susceptible de causer des dommages à l'environnement ou à un individu. Les données doivent être rendues publiques « telles qu'elles sont détenues »_. +\n"
 "*Non sensible à l'environnement* +\n"
 "↓ +\n"
 "Les données doivent être rendues publiques\n\n"
@@ -972,20 +972,26 @@ msgid "with sensitive fields generalized or removed and replaced with suitable r
 "|[[cat4]]*Category 4* +\n\n"
 "Species or records for which coordinates will be publicly available ‘denatured’ (to 0.001 degrees) and/or other information in the record is generalized. Detailed ‘as-held’ data may be supplied to individuals under Licence. +\n\n"
 "a|The reasons for restriction are that: +\n\n"
-msgstr ""
+msgstr "les champs sensibles sont généralisés ou supprimés et remplacés par une formulation appropriée +\n\n"
+"Les données peuvent être fournies à une échelle plus fine sur demande, conformément aux termes d'un accord écrit relatif aux données, généralement un contrat de licence de données. Lors de la fourniture de données aux clients, ces derniers sont informés des espèces ou des champs sensibles et leurs coordonnées peuvent être dénaturées selon les spécifications de la <<cat4,Catégorie 4>>. +\n\n"
+"*NB* : Si la sensibilité est déclenchée par des champs autres que le géoréférencement, il peut être plus approprié de classer l'enregistrement comme appartenant à la <<cat4,Catégorie 4>>.\n\n"
+"|[[cat4]]*Catégorie 4* +\n\n"
+"Les espèces ou les enregistrements dont les coordonnées seront accessibles au public sont dénaturés (à 0,001 degré près) et/ou d'autres informations de l'enregistrement sont généralisées. Les données détaillées « telles que détenues » peuvent être fournies aux particuliers sous licence. +\n\n"
+"a|Les raisons de cette restriction sont les suivantes : +\n\n"
 
 #. type: Table
 #: 200.en.adoc:391
 #, no-wrap
 msgid "The species is classed as of *low to medium sensitivity*, and the provision of precise locations could lead to risk of collection or deliberate damage. +\n\n"
-msgstr ""
+msgstr "L'espèce est classée comme étant de sensibilité *faible à moyenne*, et la communication de localisations précises pourrait entraîner un risque de collecte ou de dommages délibérés. +\n\n"
 
 #. type: Table
 #: 200.en.adoc:395
 #, no-wrap
 msgid "The record includes *sensitive* information, the release of which could cause harm to an individual or to the environment. +\n\n"
 "Detailed data may be supplied under the conditions of a written data agreement, usually a Data Licence Agreement. When data is provided to clients, they will be advised which species or fields are sensitive.\n\n"
-msgstr ""
+msgstr "Ce document contient des renseignements *sensibles*, dont la divulgation pourrait nuire à une personne ou à l'environnement. +\n\n"
+"Des données détaillées peuvent être fournies dans le cadre d'une entente écrite relative aux données, généralement un contrat de licence de données. Lorsque des données sont fournies aux clients, ces derniers sont informés des espèces ou des domaines sensibles.\n\n"
 
 #. type: Title ==
 #: 300.en.adoc:1
@@ -996,42 +1002,42 @@ msgstr "Généralisation de l'information textuelle"
 #. type: Plain text
 #: 300.en.adoc:3
 msgid "In some cases, the information in text fields might be regarded as sensitive under certain circumstances. This may include such information as:"
-msgstr ""
+msgstr "Dans certains cas, les informations contenues dans les champs de texte peuvent être considérées comme sensibles dans certaines circonstances. Cela peut inclure des renseignements tels que :"
 
 #. type: Plain text
 #: 300.en.adoc:5
 msgid "Names of living persons"
-msgstr ""
+msgstr "Noms des personnes vivantes"
 
 #. type: Plain text
 #: 300.en.adoc:6
 msgid "Locality information"
-msgstr ""
+msgstr "Renseignements sur l'emplacement"
 
 #. type: Plain text
 #: 300.en.adoc:7
 msgid "The date of collection"
-msgstr ""
+msgstr "Date de collecte"
 
 #. type: Plain text
 #: 300.en.adoc:8
 msgid "The collector’s number"
-msgstr ""
+msgstr "Numéro du collecteur"
 
 #. type: Plain text
 #: 300.en.adoc:9
 msgid "Habitat"
-msgstr ""
+msgstr "Habitat"
 
 #. type: Plain text
 #: 300.en.adoc:10
 msgid "Landholder information"
-msgstr ""
+msgstr "Informations sur le propriétaire foncier"
 
 #. type: Plain text
 #: 300.en.adoc:11
 msgid "Taxonomic names"
-msgstr ""
+msgstr "Noms taxonomiques"
 
 #. type: Plain text
 #: 300.en.adoc:13
@@ -1076,19 +1082,19 @@ msgstr "Lorsqu'il est nécessaire de restreindre un nom taxonomique (par exemple
 #. type: Plain text
 #: 300.en.adoc:32
 msgid "Occasionally, data providers may be tempted to restrict information in records related to a sensitive record (in addition to the sensitive record itself), such as the collector’s name and numbers in a sequence of records collected at the same location and time as a sensitive record in order to reduce the possibility of the sensitive record being found through correlational analysis. However, if the collector’s name and number is removed from just the sensitive record and not the others, it is unlikely that these could be deduced unless the seeker of the information already has inside knowledge. For this reason, and others, it is recommended that the data on related records not be restricted."
-msgstr ""
+msgstr "Il arrive que les fournisseurs de données soient tentés de restreindre l'accès aux informations contenues dans les enregistrements liés à un document sensible (en plus du document sensible lui-même), comme le nom et le numéro du collecteur dans une série d'enregistrements recueillis au même endroit et au même moment qu'un document sensible, afin de réduire le risque que ce dernier soit retrouvé par analyse de corrélation. Cependant, si le nom et le numéro du collecteur sont supprimés uniquement du document sensible et non des autres, il est peu probable que ces informations puissent être déduites, à moins que la personne qui les recherche ne dispose déjà d'informations privilégiées. Pour cette raison, et d'autres encore, il est recommandé de ne pas restreindre l'accès aux données des enregistrements connexes."
 
 #. type: Title ==
 #: 400.en.adoc:1
 #, no-wrap
 msgid "Generalizing spatial information"
-msgstr ""
+msgstr "Généralisation de l'information spatiale"
 
 #. type: Title ===
 #: 400.en.adoc:3
 #, no-wrap
 msgid "Generalization versus randomization"
-msgstr ""
+msgstr "Généralisation versus randomisation"
 
 #. type: Plain text
 #: 400.en.adoc:6
@@ -1338,7 +1344,7 @@ msgstr ""
 #: 500.en.adoc:7
 #, no-wrap
 msgid "Documenting sensitivity"
-msgstr ""
+msgstr "Documenter la sensibilité"
 
 #. type: Plain text
 #: 500.en.adoc:11
@@ -2089,248 +2095,248 @@ msgstr "Références"
 #. type: Plain text
 #: bibliography.en.adoc:5
 msgid "[[alaa]] ALA (2018a) What is Sensitive Data? Atlas of Living Australia. https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-"
-msgstr ""
+msgstr "[[alaa]] ALA (2018a) What is Sensitive Data? Atlas of Living Australia. https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-"
 
 #. type: Plain text
 #: bibliography.en.adoc:6
 msgid "[[alab]] ALA (2018b) What is data licensing? Atlas of Living Australia. https://support.ala.org.au/support/solutions/articles/6000195495-what-is-data-licensing-"
-msgstr ""
+msgstr "[[alab]] ALA (2018b) What is data licensing? Atlas of Living Australia. https://support.ala.org.au/support/solutions/articles/6000195495-what-is-data-licensing-"
 
 #. type: Plain text
 #: bibliography.en.adoc:7
 msgid "[[amec]] AMEC Earth & Environmental (2010) Best practices for sharing sensitive environmental geospatial data. Version 1.0 http://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf"
-msgstr ""
+msgstr "[[amec]] AMEC Earth & Environmental (2010) Best practices for sharing sensitive environmental geospatial data. Version 1.0 http://publications.gc.ca/collections/collection_2011/rncan-nrcan/M104-4-2010-eng.pdf"
 
 #. type: Plain text
 #: bibliography.en.adoc:8
 msgid "[[abs]] Australian Bureau of Statistics (2006) Statistical Local Area (SLA) in 2901.0 - Census Dictionary, 2006 (Reissue). https://www.abs.gov.au/AUSSTATS/abs@.nsf/bb8db737e2af84b8ca2571780015701e/23d04985e1786824ca25720b0002bb18!OpenDocument"
-msgstr ""
+msgstr "[[abs]] Australian Bureau of Statistics (2006) Statistical Local Area (SLA) in 2901.0 - Census Dictionary, 2006 (Reissue). https://www.abs.gov.au/AUSSTATS/abs@.nsf/bb8db737e2af84b8ca2571780015701e/23d04985e1786824ca25720b0002bb18!OpenDocument"
 
 #. type: Plain text
 #: bibliography.en.adoc:9
 msgid "[[audoe]] Australian Government. Department of the Environment (2016) Sensitive Ecological Data - Access and Management Policy V1.0. https://www.environment.gov.au/system/files/resources/246e674a-feb1-4399-a678-be9f4b6a6800/files/sensitive-ecological-data-access-mgt-policy.pdf"
-msgstr ""
+msgstr "[[audoe]] Australian Government. Department of the Environment (2016) Sensitive Ecological Data - Access and Management Policy V1.0. https://www.environment.gov.au/system/files/resources/246e674a-feb1-4399-a678-be9f4b6a6800/files/sensitive-ecological-data-access-mgt-policy.pdf"
 
 #. type: Plain text
 #: bibliography.en.adoc:10
 msgid "[[birdata]] Birdata (n.d.) Sensitive Species. Birdlife Australia. https://birdata.birdlife.org.au/sensitive-species"
-msgstr ""
+msgstr "[[birdata]] Birdata (n.d.) Sensitive Species. Birdlife Australia. https://birdata.birdlife.org.au/sensitive-species"
 
 #. type: Plain text
 #: bibliography.en.adoc:11
 msgid "[[adc06]] Chapman AD (2006) Questionnaire on Dealing with Sensitive Primary Species Occurrence Data: Summary of responses. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/vs84-0p13"
-msgstr ""
+msgstr "[[adc06]] Chapman AD (2006) Questionnaire on Dealing with Sensitive Primary Species Occurrence Data: Summary of responses. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/vs84-0p13"
 
 #.  Previous edition uses "Generalising" spelling
 #. type: Plain text
 #: bibliography.en.adoc:12
 msgid "[[adc07]] Chapman AD (2007) Dealing with Sensitive Primary Species Occurrence Data. Report. Report to the Global Biodiversity Information Facility. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/rajc-t668"
-msgstr ""
+msgstr "[[adc07]] Chapman AD (2007) Dealing with Sensitive Primary Species Occurrence Data. Report. Report to the Global Biodiversity Information Facility. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/rajc-t668"
 
 #. type: Plain text
 #: bibliography.en.adoc:14
 msgid "[[cg08]] Chapman AD & Grafton O (2008) Guide to Best Practices for Generalising Sensitive Species Occurrence Data, version 1.0. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-b02j-gt10"
-msgstr ""
+msgstr "[[cg08]] Chapman AD & Grafton O (2008) Guide to Best Practices for Generalising Sensitive Species Occurrence Data, version 1.0. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-b02j-gt10"
 
 #. type: Plain text
 #: bibliography.en.adoc:15
 msgid "[[cw06]] Chapman AD & Wieczorek J, eds. (2006) Guide to Best Practices for Georeferencing. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-2zpf-zf42"
-msgstr ""
+msgstr "[[cw06]] Chapman AD & Wieczorek J, eds. (2006) Guide to Best Practices for Georeferencing. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-2zpf-zf42"
 
 #. type: Plain text
 #: bibliography.en.adoc:16
 msgid "[[cw20]] Chapman AD & Wieczorek J (2020) Georeferencing Best Practices. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-gg7h-s853"
-msgstr ""
+msgstr "[[cw20]] Chapman AD & Wieczorek J (2020) Georeferencing Best Practices. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-gg7h-s853"
 
 #. type: Plain text
 #: bibliography.en.adoc:17
 msgid "[[corti]] Corti L, Day A, & Backhouse G (2000). Confidentiality and informed consent: Issues for consideration in the preservation of and provision of access to qualitative data archives. In Forum Qualitative Sozialforschung/Forum: Qualitative Social Research (Vol. 1). http://www.qualitative-research.net/index.php/fqs/article/viewArticle/1024 [Accessed 15 May 2019]."
-msgstr ""
+msgstr "[[corti]] Corti L, Day A, & Backhouse G (2000). Confidentiality and informed consent: Issues for consideration in the preservation of and provision of access to qualitative data archives. In Forum Qualitative Sozialforschung/Forum: Qualitative Social Research (Vol. 1). http://www.qualitative-research.net/index.php/fqs/article/viewArticle/1024 [Accessed 15 May 2019]."
 
 #. type: Plain text
 #: bibliography.en.adoc:18
 msgid "[[oin]] Countryside Agencies’ OIN (2007) The ‘Environmental Exception’ and access to information on sensitive features. Version 1.3.3, Countryside Agencies’ Open Information Network Environmental Information Regulations Guidance Note No. 1."
-msgstr ""
+msgstr "[[oin]] Countryside Agencies’ OIN (2007) The ‘Environmental Exception’ and access to information on sensitive features. Version 1.3.3, Countryside Agencies’ Open Information Network Environmental Information Regulations Guidance Note No. 1."
 
 #. type: Plain text
 #: bibliography.en.adoc:19
 msgid "[[vbd]] Dalvi VB & Keole RR (2015) Bottom-Up Generalization: A Data Mining Solution to Privacy Protection. International Journal of Science and Research 4(1): 2068–2071. https://www.ijsr.net/archive/v4i1/SUB15769.pdf"
-msgstr ""
+msgstr "[[vbd]] Dalvi VB & Keole RR (2015) Bottom-Up Generalization: A Data Mining Solution to Privacy Protection. International Journal of Science and Research 4(1): 2068–2071. https://www.ijsr.net/archive/v4i1/SUB15769.pdf"
 
 #. type: Plain text
 #: bibliography.en.adoc:20
 msgid "[[nsw]] Department of Environment and Conservation − NSW (2007) Threatened Species Information Disclosure Policy (Version 3 Amended March 2007). _No longer available: replaced by_ <<oeha,OEH 2019>>."
-msgstr ""
+msgstr "[[nsw]] Department of Environment and Conservation − NSW (2007) Threatened Species Information Disclosure Policy (Version 3 Amended March 2007). _No longer available: replaced by_ <<oeha,OEH 2019>>."
 
 #. type: Plain text
 #: bibliography.en.adoc:21
 msgid "[[deccw]] DECCW (2009) Sensitive Species Data Policy. New South Wales Department of Environment, Climate Change and Water. https://www.environment.nsw.gov.au/resources/nature/SensitiveSpeciesPolicyDEC09.pdf"
-msgstr ""
+msgstr "[[deccw]] DECCW (2009) Sensitive Species Data Policy. New South Wales Department of Environment, Climate Change and Water. https://www.environment.nsw.gov.au/resources/nature/SensitiveSpeciesPolicyDEC09.pdf"
 
 #. type: Plain text
 #: bibliography.en.adoc:22
 msgid "[[jjf]] Fong JJ & Qiao G (2010) New localities of endangered Chinese turtles from museum specimens and the practical and ethical challenges using and reporting natural history collection data. Zootaxa 2393: 59–68. https://doi.org/10.11646/zootaxa.2393.1.5"
-msgstr ""
+msgstr "[[jjf]] Fong JJ & Qiao G (2010) New localities of endangered Chinese turtles from museum specimens and the practical and ethical challenges using and reporting natural history collection data. Zootaxa 2393: 59–68. https://doi.org/10.11646/zootaxa.2393.1.5"
 
 #. type: Plain text
 #: bibliography.en.adoc:23
 msgid "[[df]] Frank D, Kriesberg A, Yakel E & Faniel IM (2015) Looting Hoards of Gold and Poaching Spotted Owls: Data Confidentiality Among Archaeologists and Zoologists. https://deepblue.lib.umich.edu/handle/2027.42/115883"
-msgstr ""
+msgstr "[[df]] Frank D, Kriesberg A, Yakel E & Faniel IM (2015) Looting Hoards of Gold and Poaching Spotted Owls: Data Confidentiality Among Archaeologists and Zoologists. https://deepblue.lib.umich.edu/handle/2027.42/115883"
 
 #. type: Plain text
 #: bibliography.en.adoc:24
 msgid "[[dpa]] GBIF Secretariat (2017) Data publisher agreement. https://www.gbif.org/en/terms/data-publisher"
-msgstr ""
+msgstr "[[dpa]] GBIF Secretariat (2017) Data publisher agreement. https://www.gbif.org/en/terms/data-publisher"
 
 #. type: Plain text
 #: bibliography.en.adoc:25
 msgid "[[backbone]] GBIF Secretariat (2019). GBIF Backbone Taxonomy. Checklist dataset https://doi.org/10.15468/39omei"
-msgstr ""
+msgstr "[[backbone]] GBIF Secretariat (2019). GBIF Backbone Taxonomy. Checklist dataset https://doi.org/10.15468/39omei"
 
 #. type: Plain text
 #: bibliography.en.adoc:26
 msgid "[[rg]] Guralnick R, Wieczorek J, Beaman R, Hijmans RJ & the BioGeomancer Working Group (2006) BioGeomancer: Automated Georeferencing to Map the World’s Biodiversity Data. PLoS Biol 4(11): e381. https://doi.org/10.1371/journal.pbio.0040381"
-msgstr ""
+msgstr "[[rg]] Guralnick R, Wieczorek J, Beaman R, Hijmans RJ & the BioGeomancer Working Group (2006) BioGeomancer: Automated Georeferencing to Map the World’s Biodiversity Data. PLoS Biol 4(11): e381. https://doi.org/10.1371/journal.pbio.0040381"
 
 #. type: Plain text
 #: bibliography.en.adoc:27
 msgid "[[lg]] Guterman L (2006) Endangered by Research: Poachers mine the scientific literature for the locations of newly discovered animals. The Chronicle of Higher Education 52(46): A12. https://www.chronicle.com/article/Endangered-by-Research/26117"
-msgstr ""
+msgstr "[[lg]] Guterman L (2006) Endangered by Research: Poachers mine the scientific literature for the locations of newly discovered animals. The Chronicle of Higher Education 52(46): A12. https://www.chronicle.com/article/Endangered-by-Research/26117"
 
 #. type: Plain text
 #: bibliography.en.adoc:28
 msgid "[[jh]] Hartter J, Ryan SJ, MacKenzie CA, Parker JN & Strasser CA (2013) Spatially Explicit Data: Stewardship and Ethical Challenges in Science. PLoS Biol. 11(9), e1001634. http://doi.org/10.1371/journal.pbio.1001634"
-msgstr ""
+msgstr "[[jh]] Hartter J, Ryan SJ, MacKenzie CA, Parker JN & Strasser CA (2013) Spatially Explicit Data: Stewardship and Ethical Challenges in Science. PLoS Biol. 11(9), e1001634. http://doi.org/10.1371/journal.pbio.1001634"
 
 #. type: Plain text
 #: bibliography.en.adoc:29
 msgid "IUCN (2020) Threats Classification Scheme, version 3.2. https://www.iucnredlist.org/resources/threat-classification-scheme"
-msgstr ""
+msgstr "IUCN (2020) Threats Classification Scheme, version 3.2. https://www.iucnredlist.org/resources/threat-classification-scheme"
 
 #. type: Plain text
 #: bibliography.en.adoc:30
 msgid "[[jvl]] Llinás JV (2005) Data and Information on Biodiversity and its Protection in the Digital Realm Ver. 1. Bogotá, Colombia: Biological Resources Research Institute Alexandre von Humboldt."
-msgstr ""
+msgstr "[[jvl]] Llinás JV (2005) Data and Information on Biodiversity and its Protection in the Digital Realm Ver. 1. Bogotá, Colombia: Biological Resources Research Institute Alexandre von Humboldt."
 
 #. type: Plain text
 #: bibliography.en.adoc:31
 msgid "[[nbna]] NBN (2019a) The NBN Data Exchange Principles and their rational. National Biodiversity Network. https://nbn.org.uk/the-national-biodiversity-network/archive-information/data-exchange-principles/"
-msgstr ""
+msgstr "[[nbna]] NBN (2019a) The NBN Data Exchange Principles and their rational. National Biodiversity Network. https://nbn.org.uk/the-national-biodiversity-network/archive-information/data-exchange-principles/"
 
 #. type: Plain text
 #: bibliography.en.adoc:32
 msgid "[[nbnb]] NBN (2019b) Sensitive Data. National Biodiversity Network. https://nbn.org.uk/sensitive-data/"
-msgstr ""
+msgstr "[[nbnb]] NBN (2019b) Sensitive Data. National Biodiversity Network. https://nbn.org.uk/sensitive-data/"
 
 #. type: Plain text
 #: bibliography.en.adoc:33
 msgid "[[gn]] Nelson G, Sweeney P & Gilbert S (2018) Use of globally unique identifiers (GUIDs) to link herbarium specimen records to physical specimens. Applications in Plant Sciences 6(2): e1027. https://doi.org/10.1002/aps3.1027"
-msgstr ""
+msgstr "[[gn]] Nelson G, Sweeney P & Gilbert S (2018) Use of globally unique identifiers (GUIDs) to link herbarium specimen records to physical specimens. Applications in Plant Sciences 6(2): e1027. https://doi.org/10.1002/aps3.1027"
 
 #. type: Plain text
 #: bibliography.en.adoc:34
 msgid "[[pn]] Noble P, van Riper D, Ruggles S, Schroeder J & Hindman M (2011) Harmonizing Disparate Data across Time and Place: The Integrated Spatio-Temporal Aggregate Data Series. Historical Methods 44(2): 79-85. https://doi.org/10.1080/01615440.2011.563228"
-msgstr ""
+msgstr "[[pn]] Noble P, van Riper D, Ruggles S, Schroeder J & Hindman M (2011) Harmonizing Disparate Data across Time and Place: The Integrated Spatio-Temporal Aggregate Data Series. Historical Methods 44(2): 79-85. https://doi.org/10.1080/01615440.2011.563228"
 
 #. type: Plain text
 #: bibliography.en.adoc:35
 msgid "[[oeha]] OEH (2011) Appendix 2. Denaturing Specifications for Sensitive Species records. Sydney, Australia: NSW Government. Office of Environment and Heritage. https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Animals-and-plants/Wildlife-management/appendix-2-denaturing-specifications-sensitive-species-records.pdf"
-msgstr ""
+msgstr "[[oeha]] OEH (2011) Appendix 2. Denaturing Specifications for Sensitive Species records. Sydney, Australia: NSW Government. Office of Environment and Heritage. https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Animals-and-plants/Wildlife-management/appendix-2-denaturing-specifications-sensitive-species-records.pdf"
 
 #. type: Plain text
 #: bibliography.en.adoc:36
 msgid "[[oehb]] OEH (2019a) Sensitive species data policy. Sydney, Australia: NSW Government. Office of Environment and Heritage. https://www.environment.nsw.gov.au/topics/animals-and-plants/wildlife-management/wildlife-policies-and-guidelines/sensitive-species-data [Accessed 26 May 2019]."
-msgstr ""
+msgstr "[[oehb]] OEH (2019a) Sensitive species data policy. Sydney, Australia: NSW Government. Office of Environment and Heritage. https://www.environment.nsw.gov.au/topics/animals-and-plants/wildlife-management/wildlife-policies-and-guidelines/sensitive-species-data [Accessed 26 May 2019]."
 
 #. type: Plain text
 #: bibliography.en.adoc:37
 msgid "[[oehc]] OEH (2019b). Scientific Licenses. Sydney, Australia: NSW Government. Office of Environment and Heritage. https://www.environment.nsw.gov.au/licences-and-permits/scientific-licences"
-msgstr ""
+msgstr "[[oehc]] OEH (2019b). Scientific Licenses. Sydney, Australia: NSW Government. Office of Environment and Heritage. https://www.environment.nsw.gov.au/licences-and-permits/scientific-licences"
 
 #. type: Plain text
 #: bibliography.en.adoc:38
 msgid "[[rdmp]] Page RDM (2009) bioGUID: Resolving, discovering, and minting identifiers for biodiversity informatics. BMC Bioinformatics 10(Suppl 14): S5. https://doi.org/10.1186/1471-2105-10-S14-S5"
-msgstr ""
+msgstr "[[rdmp]] Page RDM (2009) bioGUID: Resolving, discovering, and minting identifiers for biodiversity informatics. BMC Bioinformatics 10(Suppl 14): S5. https://doi.org/10.1186/1471-2105-10-S14-S5"
 
 #. type: Plain text
 #: bibliography.en.adoc:39
 msgid "[[op]] Parry O & Mauthner NS (2004) Whose Data are They Anyway?: Practical, Legal and Ethical Issues in Archiving Qualitative Research Data. Sociology 38(1): 139–152. https://doi.org/10.1177/0038038504039366"
-msgstr ""
+msgstr "[[op]] Parry O & Mauthner NS (2004) Whose Data are They Anyway?: Practical, Legal and Ethical Issues in Archiving Qualitative Research Data. Sociology 38(1): 139–152. https://doi.org/10.1177/0038038504039366"
 
 #. type: Plain text
 #: bibliography.en.adoc:40
 msgid "[[kr]] Richards K (2010) TDWG GUID applicability statement, version 2010‐09. Biodiversity Information Standards (TDWG). http://www.tdwg.org/standards/150"
-msgstr ""
+msgstr "[[kr]] Richards K (2010) TDWG GUID applicability statement, version 2010‐09. Biodiversity Information Standards (TDWG). http://www.tdwg.org/standards/150"
 
 #. type: Plain text
 #: bibliography.en.adoc:41
 msgid "[[rwnp]] Richards K, White R, Nicolson N & Pyle R (2011) Beginners’ guide to persistent identifiers, version 1.0. Copenhagen: Global Biodiversity Information Facility. https://www.gbif.org/document/80575"
-msgstr ""
+msgstr "[[rwnp]] Richards K, White R, Nicolson N & Pyle R (2011) Beginners’ guide to persistent identifiers, version 1.0. Copenhagen: Global Biodiversity Information Facility. https://www.gbif.org/document/80575"
 
 #. type: Plain text
 #: bibliography.en.adoc:42
 msgid "[[sanbia]] SANBI (2010) Biodiversity Information Policy Framework. Policy Series. Digital Access to Sensitive Taxa Data. Silverton, South Africa: South African National Biodiversity Institute. http://biodiversityadvisor.sanbi.org/wp-content/uploads/2012/09/SANBI-Biodiversity-Information-Policy-Series-Digital-Access-to-Sensitive-Taxon.pdf"
-msgstr ""
+msgstr "[[sanbia]] SANBI (2010) Biodiversity Information Policy Framework. Policy Series. Digital Access to Sensitive Taxa Data. Silverton, South Africa: South African National Biodiversity Institute. http://biodiversityadvisor.sanbi.org/wp-content/uploads/2012/09/SANBI-Biodiversity-Information-Policy-Series-Digital-Access-to-Sensitive-Taxon.pdf"
 
 #. type: Plain text
 #: bibliography.en.adoc:43
 msgid "[[sanbib]] SANBI (2016) Report of the National Sensitive Species List Workshop 18 and 19 August 2016. Silverton, South Africa: South African National Biodiversity Institute. http://biodiversityadvisor.sanbi.org/wp-content/uploads/2017/06/20160819-NSSL-Workshop-Report.pdf"
-msgstr ""
+msgstr "[[sanbib]] SANBI (2016) Report of the National Sensitive Species List Workshop 18 and 19 August 2016. Silverton, South Africa: South African National Biodiversity Institute. http://biodiversityadvisor.sanbi.org/wp-content/uploads/2017/06/20160819-NSSL-Workshop-Report.pdf"
 
 #. type: Plain text
 #: bibliography.en.adoc:44
 msgid "[[bls]] Stuart BL, Rhodin GJ, Grismer LL & Hansel T (2006) Scientific Description Can Imperil Species. Science 312(5777): 1137. https://doi.org/10.1126/science.312.5777.1137b"
-msgstr ""
+msgstr "[[bls]] Stuart BL, Rhodin GJ, Grismer LL & Hansel T (2006) Scientific Description Can Imperil Species. Science 312(5777): 1137. https://doi.org/10.1126/science.312.5777.1137b"
 
 #. type: Plain text
 #: bibliography.en.adoc:45
 msgid "[[jtpf]] Tann J & Flemons P (2009) Our secrets are not our secrets. Atlas of Living Australia Sensitive Data Report. Version 1.1. https://www.ala.org.au/wp-content/uploads/2010/07/ALA-sensitive-data-report-and-proposed-policy-v1.1.pdf [Accessed 25 May 2019]"
-msgstr ""
+msgstr "[[jtpf]] Tann J & Flemons P (2009) Our secrets are not our secrets. Atlas of Living Australia Sensitive Data Report. Version 1.1. https://www.ala.org.au/wp-content/uploads/2010/07/ALA-sensitive-data-report-and-proposed-policy-v1.1.pdf [Accessed 25 May 2019]"
 
 #. type: Plain text
 #: bibliography.en.adoc:46
 msgid "[[tdwg]] TDWG (2018) Darwin Core quick reference guide. Biodiversity Information Standards (TDWG). https://dwc.tdwg.org/terms/"
-msgstr ""
+msgstr "[[tdwg]] TDWG (2018) Darwin Core quick reference guide. Biodiversity Information Standards (TDWG). https://dwc.tdwg.org/terms/"
 
 #. type: Plain text
 #: bibliography.en.adoc:47
 msgid "[[usfsa]] US Forest Service (2005) Forest Service Sensitive Species Summary, Designated Sensitive Species (that are not listed or proposed species under the ESA), as of 31 October, 2005. https://www.fs.fed.us/biology/resources/pubs/tes/ss_sum_by_region_31Oct2005_fs.pdf"
-msgstr ""
+msgstr "[[usfsa]] US Forest Service (2005) Forest Service Sensitive Species Summary, Designated Sensitive Species (that are not listed or proposed species under the ESA), as of 31 October, 2005. https://www.fs.fed.us/biology/resources/pubs/tes/ss_sum_by_region_31Oct2005_fs.pdf"
 
 #. type: Plain text
 #: bibliography.en.adoc:48
 msgid "[[usfsb]] US Forest Service (2016) Forest Service Sensitive Species – Wildlife. https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd530660.pdf"
-msgstr ""
+msgstr "[[usfsb]] US Forest Service (2016) Forest Service Sensitive Species – Wildlife. https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd530660.pdf"
 
 #. type: Plain text
 #: bibliography.en.adoc:49
 msgid "[[wyc]] Wang K, Yu PS & Chakraborty S (2004) Bottom-Up Generalization: A Data Mining Solution to Privacy Protection, in Proceedings of Fourth International IEEE Conference on Data Mining (ICDM’04): 249-256."
-msgstr ""
+msgstr "[[wyc]] Wang K, Yu PS & Chakraborty S (2004) Bottom-Up Generalization: A Data Mining Solution to Privacy Protection, in Proceedings of Fourth International IEEE Conference on Data Mining (ICDM’04): 249-256."
 
 #. type: Plain text
 #: bibliography.en.adoc:50
 msgid "[[zw]] Wang Z, Dong H, Kelly M, Macklin JA, Morris PJ, Morris R 2009. Filtered-Push: A Map-Reduce Platform for Collaborative Taxonomic Data Management. World Congress on Computer Science and Information Engineering, March 31 – April 2, 2009, Los Angeles, California, USA. https://doi.org/10.1109/CSIE.2009.948"
-msgstr ""
+msgstr "[[zw]] Wang Z, Dong H, Kelly M, Macklin JA, Morris PJ, Morris R 2009. Filtered-Push: A Map-Reduce Platform for Collaborative Taxonomic Data Management. World Congress on Computer Science and Information Engineering, March 31 – April 2, 2009, Los Angeles, California, USA. https://doi.org/10.1109/CSIE.2009.948"
 
 #. type: Plain text
 #: bibliography.en.adoc:51
 msgid "[[wgh]] Wieczorek J, Guo Q & Hijmans R (2004) The point-radius method for georeferencing locality descriptions and calculating associated uncertainty. International Journal of Geographical Information Science 18: 745-767."
-msgstr ""
+msgstr "[[wgh]] Wieczorek J, Guo Q & Hijmans R (2004) The point-radius method for georeferencing locality descriptions and calculating associated uncertainty. International Journal of Geographical Information Science 18: 745-767."
 
 #. type: Plain text
 #: bibliography.en.adoc:52
 msgid "[[wbg]] Wieczorek J, Bloom D, Guralnick R, Blum S, Döring M, Giovanni R, Robertson T & Vieglais D (2012) Darwin Core: An Evolving Community-Developed Biodiversity Data Standard. PLoS ONE 7(1): e29715. https://doi.org/10.1371/journal.pone.0029715"
-msgstr ""
+msgstr "[[wbg]] Wieczorek J, Bloom D, Guralnick R, Blum S, Döring M, Giovanni R, Robertson T & Vieglais D (2012) Darwin Core: An Evolving Community-Developed Biodiversity Data Standard. PLoS ONE 7(1): e29715. https://doi.org/10.1371/journal.pone.0029715"
 
 #. type: Plain text
 #: bibliography.en.adoc:53
 msgid "[[wylie]] Wylie A (1996) Ethical dilemmas in archaeological practice: Looting, repatriation, stewardship, and the (trans) formation of disciplinary identity. Perspectives on Science 4(2): 154–194."
-msgstr ""
+msgstr "[[wylie]] Wylie A (1996) Ethical dilemmas in archaeological practice: Looting, repatriation, stewardship, and the (trans) formation of disciplinary identity. Perspectives on Science 4(2): 154–194."
 
 #. type: Plain text
 #: bibliography.en.adoc:54
 msgid "[[zermoglio]] Zermoglio PFF, Chapman AD, Wieczorek JR, Luna MC, Bloom DA (2020) Georeferencing Quick References Guide Copenhagen: Copenhagen: GBIF Secretariat. https://doi.org/10.35035/e09p-h128."
-msgstr ""
+msgstr "[[zermoglio]] Zermoglio PFF, Chapman AD, Wieczorek JR, Luna MC, Bloom DA (2020) Georeferencing Quick References Guide Copenhagen: Copenhagen: GBIF Secretariat. https://doi.org/10.35035/e09p-h128."
 
 #. type: Title ==
 #: annex-a.en.adoc:2
