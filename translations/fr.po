@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sensitive-species-guide\n"
 "POT-Creation-Date: 2026-11-19 11:47+0000\n"
-"PO-Revision-Date: 2026-11-19 20:57\n"
+"PO-Revision-Date: 2026-11-20 01:37\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1264,7 +1264,7 @@ msgstr ""
 #. type: Plain text
 #: 400.en.adoc:72
 msgid "The South African National Biodiversity Institute, in largely implementing the criteria as laid out in the previous document (https://doi.org/10.15468/doc-b02j-gt10[Chapman and Grafton 2008]), have implemented only two categories (http://biodiversityadvisor.sanbi.org/wp-content/uploads/2012/09/SANBI-Biodiversity-Information-Policy-Series-Digital-Access-to-Sensitive-Taxon.pdf[SANBI 2010], http://biodiversityadvisor.sanbi.org/wp-content/uploads/2017/06/20160819-NSSL-Workshop-Report.pdf[SANBI 2016]): the original, non-generalized data and data generalized to one-quarter of a degree (0.25 degree (QDS)). We believe that this is a more difficult generalization to implement, and, unless fully and clearly documented, it could lead to a misleading level of precision. It also reduces the flexibility provided by the above four-categorization method."
-msgstr ""
+msgstr "L’Institut national sud-africain de la biodiversité, en appliquant en grande partie les critères énoncés dans le document précédent (https://doi.org/10.15468/doc-b02j-gt10[Chapman et Grafton 2008]), n’a mis en œuvre que deux catégories (http://biodiversityadvisor.sanbi.org/wp-content/uploads/2012/09/SANBI-Biodiversity-Information-Policy-Series-Digital-Access-to-Sensitive-Taxon.pdf[SANBI 2010], http://biodiversityadvisor.sanbi.org/wp-content/uploads/2017/06/20160819-NSSL-Workshop-Report.pdf[SANBI 2016]) : les données originales non généralisées et les données généralisées au quart de degré (0,25 degré (QDS)). Nous estimons que cette généralisation est plus difficile à mettre en œuvre et que, sans une documentation complète et claire, elle pourrait induire une précision trompeuse. Elle réduit également la flexibilité offerte par la méthode de catégorisation en quatre parties décrite précédemment."
 
 #. type: Title ===
 #: 400.en.adoc:73
